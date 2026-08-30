@@ -1,0 +1,72 @@
+name: Scrape MSHSAA Boys Soccer Games (2026)
+
+on:
+  # Manual trigger from the Actions tab
+  workflow_dispatch:
+
+  # Auto-run nightly during the 2026 boys soccer season (Aug-Nov).
+  # UNLIKE FOOTBALL: football's schedule only runs Thu/Fri/Sat, so its
+  # workflow only scrapes those 3 days. Boys soccer's actual game-day
+  # pattern wasn't confirmed against a real 2026 schedule, so -- same
+  # call made for fall softball's and girls volleyball's workflows --
+  # this runs every day during the season rather than guessing which
+  # days to skip. A day with no games just means the scraper finds 0
+  # games and nothing gets committed. Tighten this to specific days once
+  # you've confirmed the actual game-day pattern, the same way
+  # football's was.
+  # Times are UTC. Odd/off-peak minute (37) to avoid GitHub's top-of-hour
+  # scheduler congestion, and offset from football's (:17), fall
+  # softball's (:23), and girls volleyball's (:29) so none of the four
+  # jobs are hitting MSHSAA's site in the same minute if their schedules
+  # ever overlap.
+  schedule:
+    - cron: '37 5 * 8,9,10,11 *'
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15   # this script typically finishes in a few minutes; 15 gives headroom without risking a runaway job
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pandas
+
+      - name: Debug - list repo contents
+        run: |
+          pwd
+          ls -la
+
+      - name: Run scraper
+        run: python scrape_boys_soccer_games_2026.py
+
+      # Rebuilds boys_soccer_schedule_2026.json (the per-team keyed
+      # format the Sport Detail snippet's SCHEDULE_URLS reads) from
+      # whatever scrape_boys_soccer_games_2026.py just wrote to
+      # boys_soccer_games_2026_all.json. Runs every time this job runs
+      # -- cheap, and keeps the two files from ever drifting out of
+      # sync. See build_boys_soccer_schedule_2026.py's own docstring for
+      # what it does and doesn't populate (no predicted scores/deltas
+      # until a boys soccer ratings file exists).
+      - name: Rebuild per-team schedule file
+        run: python build_boys_soccer_schedule_2026.py boys_soccer_games_2026_all.json boys_soccer_schedule_2026.json
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add boys_soccer_games_2026.json boys_soccer_games_2026.csv boys_soccer_games_2026_all.json boys_soccer_games_2026_all.csv boys_soccer_schedule_2026.json
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Update 2026 boys soccer games [automated]"
+          git push
