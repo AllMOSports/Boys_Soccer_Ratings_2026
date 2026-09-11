@@ -1,9 +1,13 @@
 name: Scrape MSHSAA Boys Soccer Games (2026)
-
+ 
 on:
   # Manual trigger from the Actions tab
   workflow_dispatch:
-
+ 
+  # PAUSED as of 2026-09: MSHSAA is blocking these GitHub Actions
+  # requests, causing the scraper to come back with blank/empty
+  # schedules that then get committed over good data. Auto-run disabled
+  # until that's resolved -- uncomment the block below to re-enable.
   # Auto-run nightly during the 2026 boys soccer season (Aug-Nov).
   # UNLIKE FOOTBALL: football's schedule only runs Thu/Fri/Sat, so its
   # workflow only scrapes those 3 days. Boys soccer's actual game-day
@@ -19,39 +23,39 @@ on:
   # softball's (:23), and girls volleyball's (:29) so none of the four
   # jobs are hitting MSHSAA's site in the same minute if their schedules
   # ever overlap.
-  schedule:
-    - cron: '37 5 * 8,9,10,11 *'
-
+  # schedule:
+  #   - cron: '37 5 * 8,9,10,11 *'
+ 
 permissions:
   contents: write
-
+ 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 15   # this script typically finishes in a few minutes; 15 gives headroom without risking a runaway job
-
+ 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
+ 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
+ 
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pandas
-
+ 
       - name: Debug - list repo contents
         run: |
           pwd
           ls -la
-
+ 
       - name: Run scraper
         run: python scrape_boys_soccer_games_2026.py
-
+ 
       # Rebuilds boys_soccer_schedule_2026.json (the per-team keyed
       # format the Sport Detail snippet's SCHEDULE_URLS reads) from
       # whatever scrape_boys_soccer_games_2026.py just wrote to
@@ -62,7 +66,7 @@ jobs:
       # until a boys soccer ratings file exists).
       - name: Rebuild per-team schedule file
         run: python build_boys_soccer_schedule_2026.py boys_soccer_games_2026_all.json boys_soccer_schedule_2026.json
-
+ 
       - name: Commit and push results
         run: |
           git config user.name "github-actions[bot]"
