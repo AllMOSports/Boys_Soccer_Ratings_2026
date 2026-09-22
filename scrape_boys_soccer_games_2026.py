@@ -78,6 +78,19 @@ import re
 import pandas as pd
 from datetime import date, timedelta
 import time
+import socket
+import urllib3.util.connection as urllib3_cn
+
+# Added after the football scraper (same machine) hit "Network is
+# unreachable" (errno 101) -- traced to mshsaa.org resolving to both
+# IPv4 and IPv6 addresses, with this network's IPv6 route not actually
+# working. Forces urllib3 (which requests uses under the hood) to only
+# resolve IPv4 addresses, sidestepping the problem. Harmless if this
+# particular script was never hitting it.
+def _force_ipv4_only():
+    return socket.AF_INET
+
+urllib3_cn.allowed_gai_family = _force_ipv4_only
  
 # ---------------------------------------------------------------------------
 # CONFIGURATION
@@ -101,7 +114,7 @@ HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
+        "Chrome/152.0.0.0 Safari/537.36"
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.5",
