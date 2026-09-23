@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated": "2026-09-23T15:05:21.699216+00:00",
+  "generated": "2026-09-23T16:19:50.874388+00:00",
   "teams": {
     "Osage": [
       {
@@ -441,21 +441,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Republic",
-        "home_away": null,
-        "team_score": 2,
-        "opp_score": 1,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-22",
         "opponent": "Capital City",
         "home_away": null,
@@ -804,7 +789,7 @@
       },
       {
         "date": "2026-09-24",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -1182,21 +1167,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "St. Michael the Archangel",
-        "home_away": null,
-        "team_score": 0,
-        "opp_score": 1,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-24",
         "opponent": "Rolla",
         "home_away": null,
@@ -1228,7 +1198,7 @@
       },
       {
         "date": "2026-09-29",
-        "opponent": "Trinity AcademyA",
+        "opponent": "Trinity Academy",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -1500,21 +1470,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "Camdenton",
-        "home_away": null,
-        "team_score": 5,
-        "opp_score": 0,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "Camdenton",
         "home_away": null,
         "team_score": 5,
@@ -6742,21 +6697,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Ladue Horton Watkins",
-        "home_away": null,
-        "team_score": 2,
-        "opp_score": 5,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-23",
         "opponent": "Parkway Central",
         "home_away": null,
@@ -7651,9 +7591,9 @@
         "date": "2026-09-22",
         "opponent": "Francis Howell",
         "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
+        "team_score": 1,
+        "opp_score": 2,
+        "result": "L",
         "predicted_team_score": null,
         "predicted_opp_score": null,
         "off_delta": null,
@@ -8886,21 +8826,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Bishop DuBourg",
-        "home_away": null,
-        "team_score": 9,
-        "opp_score": 1,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-22",
         "opponent": "Jefferson City",
         "home_away": null,
@@ -9763,7 +9688,7 @@
       },
       {
         "date": "2026-09-09",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": 4,
         "opp_score": 1,
@@ -10926,21 +10851,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "gardner - edgerton(gardner, KS)",
-        "home_away": null,
-        "team_score": 2,
-        "opp_score": 3,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "gardner - edgerton(gardner, KS)",
         "home_away": null,
         "team_score": 2,
@@ -12710,9 +12620,9 @@
         "date": "2026-09-22",
         "opponent": "Green Ridge with Cole Camp",
         "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
+        "team_score": 4,
+        "opp_score": 0,
+        "result": "W",
         "predicted_team_score": null,
         "predicted_opp_score": null,
         "off_delta": null,
@@ -13267,21 +13177,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "Battle with Columbia Independent",
-        "home_away": null,
-        "team_score": 1,
-        "opp_score": 2,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "Battle with Columbia Independent",
         "home_away": null,
         "team_score": 1,
@@ -14958,21 +14853,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Rolla",
-        "home_away": null,
-        "team_score": 1,
-        "opp_score": 0,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-21",
         "opponent": "Fatima",
         "home_away": null,
@@ -15713,22 +15593,7 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "Trinity AcademyA",
-        "home_away": null,
-        "team_score": 2,
-        "opp_score": 3,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
-        "opponent": "Trinity AcademyA",
+        "opponent": "Trinity Academy",
         "home_away": null,
         "team_score": 2,
         "opp_score": 3,
@@ -15848,7 +15713,7 @@
       },
       {
         "date": "2026-10-20",
-        "opponent": "Trinity AcademyA",
+        "opponent": "Trinity Academy",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -15970,7 +15835,7 @@
       },
       {
         "date": "2026-09-11",
-        "opponent": "Trinity AcademyA",
+        "opponent": "Trinity Academy",
         "home_away": null,
         "team_score": 0,
         "opp_score": 1,
@@ -17450,7 +17315,7 @@
       },
       {
         "date": "2026-09-15",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": 8,
         "opp_score": 0,
@@ -17494,27 +17359,12 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Vianney",
-        "home_away": null,
-        "team_score": 2,
-        "opp_score": 7,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-22",
         "opponent": "Affton",
         "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
+        "team_score": 7,
+        "opp_score": 2,
+        "result": "W",
         "predicted_team_score": null,
         "predicted_opp_score": null,
         "off_delta": null,
@@ -19112,7 +18962,7 @@
       },
       {
         "date": "2026-08-31",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": 2,
         "opp_score": 4,
@@ -20335,7 +20185,7 @@
       },
       {
         "date": "2026-08-29",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": 4,
         "opp_score": 1,
@@ -20969,7 +20819,7 @@
       },
       {
         "date": "2026-09-10",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": 1,
         "opp_score": 2,
@@ -21301,7 +21151,7 @@
       },
       {
         "date": "2026-09-28",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -22404,7 +22254,7 @@
       },
       {
         "date": "2026-09-16",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": 1,
         "opp_score": 3,
@@ -23127,21 +22977,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Belleville East(Belleville, IL)",
-        "home_away": null,
-        "team_score": 0,
-        "opp_score": 3,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-22",
         "opponent": "McCluer",
         "home_away": null,
@@ -23402,9 +23237,9 @@
         "date": "2026-09-22",
         "opponent": "St. Mary's South Side",
         "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
+        "team_score": 2,
+        "opp_score": 7,
+        "result": "L",
         "predicted_team_score": null,
         "predicted_opp_score": null,
         "off_delta": null,
@@ -24049,7 +23884,7 @@
       },
       {
         "date": "2026-09-12",
-        "opponent": "Trinity AcademyA",
+        "opponent": "Trinity Academy",
         "home_away": null,
         "team_score": 0,
         "opp_score": 8,
@@ -25031,27 +24866,12 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Helias Catholic",
-        "home_away": null,
-        "team_score": 1,
-        "opp_score": 9,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-22",
         "opponent": "Principia",
         "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
+        "team_score": 0,
+        "opp_score": 2,
+        "result": "L",
         "predicted_team_score": null,
         "predicted_opp_score": null,
         "off_delta": null,
@@ -25242,7 +25062,7 @@
       },
       {
         "date": "2026-10-29",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -25454,7 +25274,7 @@
       },
       {
         "date": "2026-09-24",
-        "opponent": "Trinity AcademyA",
+        "opponent": "Trinity Academy",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -25771,7 +25591,7 @@
       },
       {
         "date": "2026-09-18",
-        "opponent": "Trinity AcademyA",
+        "opponent": "Trinity Academy",
         "home_away": null,
         "team_score": 5,
         "opp_score": 1,
@@ -25786,21 +25606,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "Willard",
-        "home_away": null,
-        "team_score": 6,
-        "opp_score": 0,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "Willard",
         "home_away": null,
         "team_score": 6,
@@ -29353,21 +29158,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Blue Valley West(Kansas City, MO)",
-        "home_away": null,
-        "team_score": 2,
-        "opp_score": 3,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-22",
         "opponent": "Rockwood Summit",
         "home_away": null,
@@ -31393,21 +31183,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "Pembroke Hill",
-        "home_away": null,
-        "team_score": 4,
-        "opp_score": 3,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "Pembroke Hill",
         "home_away": null,
         "team_score": 4,
@@ -33735,21 +33510,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Oak Park",
-        "home_away": null,
-        "team_score": 0,
-        "opp_score": 1,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-22",
         "opponent": "Webb City",
         "home_away": null,
@@ -34400,21 +34160,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "St. Mary's South Side",
-        "home_away": null,
-        "team_score": 7,
-        "opp_score": 2,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "St. Mary's South Side",
         "home_away": null,
         "team_score": 7,
@@ -36259,7 +36004,7 @@
       },
       {
         "date": "2026-09-18",
-        "opponent": "Trinity AcademyA",
+        "opponent": "Trinity Academy",
         "home_away": null,
         "team_score": 3,
         "opp_score": 0,
@@ -36274,21 +36019,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "Lebanon",
-        "home_away": null,
-        "team_score": 1,
-        "opp_score": 0,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "Lebanon",
         "home_away": null,
         "team_score": 1,
@@ -37785,21 +37515,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "John Burroughs",
-        "home_away": null,
-        "team_score": 3,
-        "opp_score": 4,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-25",
         "opponent": "Raytown",
         "home_away": null,
@@ -38392,9 +38107,9 @@
         "date": "2026-09-22",
         "opponent": "Bishop DuBourg",
         "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
+        "team_score": 2,
+        "opp_score": 0,
+        "result": "W",
         "predicted_team_score": null,
         "predicted_opp_score": null,
         "off_delta": null,
@@ -38480,7 +38195,7 @@
       },
       {
         "date": "2026-10-10",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -39085,21 +38800,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Webster Groves",
-        "home_away": null,
-        "team_score": 5,
-        "opp_score": 2,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-22",
         "opponent": "Lindbergh",
         "home_away": null,
@@ -39465,7 +39165,7 @@
       },
       {
         "date": "2026-09-15",
-        "opponent": "Trinity AcademyA",
+        "opponent": "Trinity Academy",
         "home_away": null,
         "team_score": 3,
         "opp_score": 0,
@@ -39495,21 +39195,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "Chaminade College Prep",
-        "home_away": null,
-        "team_score": 0,
-        "opp_score": 5,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "Chaminade College Prep",
         "home_away": null,
         "team_score": 0,
@@ -39857,21 +39542,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "Lee's Summit West",
-        "home_away": null,
-        "team_score": 3,
-        "opp_score": 2,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "Lee's Summit West",
         "home_away": null,
         "team_score": 3,
@@ -40248,21 +39918,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Logan-Rogersville",
-        "home_away": null,
-        "team_score": 3,
-        "opp_score": 2,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-22",
         "opponent": "Hillcrest",
         "home_away": null,
@@ -40354,7 +40009,7 @@
       },
       {
         "date": "2026-10-08",
-        "opponent": "Trinity AcademyA",
+        "opponent": "Trinity Academy",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -41169,21 +40824,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Carthage",
-        "home_away": null,
-        "team_score": 0,
-        "opp_score": 5,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-22",
         "opponent": "Smith-Cotton",
         "home_away": null,
@@ -41833,21 +41473,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Bolivar",
-        "home_away": null,
-        "team_score": 2,
-        "opp_score": 3,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-22",
         "opponent": "Carl Junction",
         "home_away": null,
@@ -42211,21 +41836,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "Sikeston",
-        "home_away": null,
-        "team_score": 0,
-        "opp_score": 6,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "Sikeston",
         "home_away": null,
         "team_score": 0,
@@ -42908,21 +42518,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Kickapoo",
-        "home_away": null,
-        "team_score": 5,
-        "opp_score": 0,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-22",
         "opponent": "Parkway West",
         "home_away": null,
@@ -43258,21 +42853,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "Capital City",
-        "home_away": null,
-        "team_score": 0,
-        "opp_score": 1,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "Capital City",
         "home_away": null,
         "team_score": 0,
@@ -44345,21 +43925,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Rock Bridge",
-        "home_away": null,
-        "team_score": 2,
-        "opp_score": 3,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-22",
         "opponent": "Park Hill South",
         "home_away": null,
@@ -45025,7 +44590,7 @@
       },
       {
         "date": "2026-10-05",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -45536,7 +45101,7 @@
         "overtime": false
       }
     ],
-    "St. Louis UnitedA": [
+    "St. Louis United": [
       {
         "date": "2026-08-29",
         "opponent": "Troy Buchanan",
@@ -46006,7 +45571,7 @@
       },
       {
         "date": "2026-10-15",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -46128,7 +45693,7 @@
       },
       {
         "date": "2026-09-03",
-        "opponent": "Trinity AcademyA",
+        "opponent": "Trinity Academy",
         "home_away": null,
         "team_score": 1,
         "opp_score": 3,
@@ -46263,21 +45828,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "Lutheran (Kansas City)",
-        "home_away": null,
-        "team_score": 2,
-        "opp_score": 0,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "Lutheran (Kansas City)",
         "home_away": null,
         "team_score": 2,
@@ -46655,7 +46205,7 @@
       },
       {
         "date": "2026-10-10",
-        "opponent": "Trinity AcademyA",
+        "opponent": "Trinity Academy",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -46792,7 +46342,7 @@
       },
       {
         "date": "2026-09-21",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": 0,
         "opp_score": 2,
@@ -49999,21 +49549,6 @@
         "overtime": false
       },
       {
-        "date": "2026-09-20",
-        "opponent": "Springfield Catholic",
-        "home_away": null,
-        "team_score": 1,
-        "opp_score": 0,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-09-21",
         "opponent": "Sumner(Kansas City, KS)",
         "home_away": null,
@@ -50589,21 +50124,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "New Covenant Academy",
-        "home_away": null,
-        "team_score": 0,
-        "opp_score": 2,
-        "result": "L",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "New Covenant Academy",
         "home_away": null,
         "team_score": 0,
@@ -51441,9 +50961,9 @@
         "date": "2026-09-22",
         "opponent": "Sacred Heart",
         "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
+        "team_score": 0,
+        "opp_score": 4,
+        "result": "L",
         "predicted_team_score": null,
         "predicted_opp_score": null,
         "off_delta": null,
@@ -52949,7 +52469,7 @@
       },
       {
         "date": "2026-10-27",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -53782,7 +53302,7 @@
       },
       {
         "date": "2026-10-13",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -54495,9 +54015,9 @@
         "date": "2026-09-22",
         "opponent": "Ft. Zumwalt East",
         "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
+        "team_score": 2,
+        "opp_score": 1,
+        "result": "W",
         "predicted_team_score": null,
         "predicted_opp_score": null,
         "off_delta": null,
@@ -62916,7 +62436,7 @@
       },
       {
         "date": "2026-10-19",
-        "opponent": "St. Louis UnitedA",
+        "opponent": "St. Louis United",
         "home_away": null,
         "team_score": null,
         "opp_score": null,
@@ -66039,7 +65559,7 @@
         "overtime": false
       }
     ],
-    "Trinity AcademyA": [
+    "Trinity Academy": [
       {
         "date": "2026-09-03",
         "opponent": "New Covenant Academy",
@@ -66132,21 +65652,6 @@
       },
       {
         "date": "2026-09-19",
-        "opponent": "New Heights Christian with McAuley Catholic",
-        "home_away": null,
-        "team_score": 3,
-        "opp_score": 2,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "New Heights Christian with McAuley Catholic",
         "home_away": null,
         "team_score": 3,
@@ -67835,7 +67340,7 @@
       },
       {
         "date": "2026-09-22",
-        "opponent": "Trinity AcademyA",
+        "opponent": "Trinity Academy",
         "home_away": null,
         "team_score": 0,
         "opp_score": 7,
@@ -70279,21 +69784,6 @@
         "ovr_delta": null,
         "forfeit": false,
         "overtime": false
-      },
-      {
-        "date": "2026-09-20",
-        "opponent": "Fox",
-        "home_away": null,
-        "team_score": 3,
-        "opp_score": 0,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
       }
     ],
     "Blue Valley West(Kansas City, MO)": [
@@ -70311,41 +69801,11 @@
         "ovr_delta": null,
         "forfeit": false,
         "overtime": false
-      },
-      {
-        "date": "2026-09-20",
-        "opponent": "Marquette",
-        "home_away": null,
-        "team_score": 3,
-        "opp_score": 2,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
       }
     ],
     "gardner - edgerton(gardner, KS)": [
       {
         "date": "2026-09-19",
-        "opponent": "Liberty North",
-        "home_away": null,
-        "team_score": 3,
-        "opp_score": 2,
-        "result": "W",
-        "predicted_team_score": null,
-        "predicted_opp_score": null,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-09-20",
         "opponent": "Liberty North",
         "home_away": null,
         "team_score": 3,

@@ -5,7 +5,7 @@ Affton,2026-09-08,Clayton,,1,5,L,,,,,,False,False
 Affton,2026-09-10,Ritenour,,3,1,W,,,,,,False,False
 Affton,2026-09-14,Bayless,,3,2,W,,,,,,False,False
 Affton,2026-09-16,Mehlville,,1,3,L,,,,,,False,False
-Affton,2026-09-22,St. Mary's South Side,,,,,,,,,,False,False
+Affton,2026-09-22,St. Mary's South Side,,2,7,L,,,,,,False,False
 Affton,2026-09-24,Metro,,,,,,,,,,False,False
 Affton,2026-09-26,Lutheran South,,,,,,,,,,False,False
 Affton,2026-09-28,Northwest (Cedar Hill),,,,,,,,,,False,False
@@ -32,7 +32,7 @@ Aurora,2026-09-01,Lebanon,,0,3,L,,,,,,False,False
 Aurora,2026-09-03,Logan-Rogersville,,0,8,L,,,,,,False,False
 Aurora,2026-09-08,West Plains,,0,7,L,,,,,,False,False
 Aurora,2026-09-11,Fair Grove,,1,4,L,,,,,,False,False
-Aurora,2026-09-12,Trinity AcademyA,,0,8,L,,,,,,False,False
+Aurora,2026-09-12,Trinity Academy,,0,8,L,,,,,,False,False
 Aurora,2026-09-12,Parkview,,0,5,L,,,,,,False,False
 Aurora,2026-09-14,Thomas Jefferson Independent Day,,0,1,L,,,,,,False,False
 Aurora,2026-09-15,Cassville,,0,1,L,,,,,,False,False
@@ -81,7 +81,6 @@ Battle with Columbia Independent,2026-09-14,Boonville,,2,0,W,,,,,,False,False
 Battle with Columbia Independent,2026-09-15,Helias Catholic,,0,5,L,,,,,,False,False
 Battle with Columbia Independent,2026-09-18,Branson,,2,1,W,,,,,,False,False
 Battle with Columbia Independent,2026-09-19,Republic,,2,1,W,,,,,,False,False
-Battle with Columbia Independent,2026-09-20,Republic,,2,1,W,,,,,,False,False
 Battle with Columbia Independent,2026-09-22,Capital City,,1,2,L,,,,,,False,False
 Battle with Columbia Independent,2026-09-25,Lutheran St. Charles,,,,,,,,,,False,False
 Battle with Columbia Independent,2026-09-26,"Quincy(Quincy, IL)",,,,,,,,,,False,False
@@ -119,7 +118,6 @@ Bayless,2026-10-29,Whitfield,,,,,,,,,,False,False
 "Beardstown(Beardstown, IL)",2026-08-29,Canton,,5,0,W,,,,,,False,False
 "Belleville Althoff(Belleville, IL)",2026-09-21,De Smet Jesuit,,1,3,L,,,,,,False,False
 "Belleville East(Belleville, IL)",2026-09-19,Fox,,3,0,W,,,,,,False,False
-"Belleville East(Belleville, IL)",2026-09-20,Fox,,3,0,W,,,,,,False,False
 "Belleville West(Belleville, IL)",2026-08-27,Orchard Farm,,0,1,L,,,,,,False,False
 "Belleville West(Belleville, IL)",2026-08-29,Parkway North,,3,1,W,,,,,,False,False
 "Belleville West(Belleville, IL)",2026-10-15,Metro,,,,,,,,,,False,False
@@ -164,8 +162,7 @@ Bishop DuBourg,2026-09-11,Sikeston,,2,6,L,,,,,,False,False
 Bishop DuBourg,2026-09-14,Collegiate School of Med-Bio Science with McKinley Classical Leadership,,1,4,L,,,,,,False,False
 Bishop DuBourg,2026-09-18,Springfield Catholic,,0,8,L,,,,,,False,False
 Bishop DuBourg,2026-09-19,Helias Catholic,,1,9,L,,,,,,False,False
-Bishop DuBourg,2026-09-20,Helias Catholic,,1,9,L,,,,,,False,False
-Bishop DuBourg,2026-09-22,Principia,,,,,,,,,,False,False
+Bishop DuBourg,2026-09-22,Principia,,0,2,L,,,,,,False,False
 Bishop DuBourg,2026-09-28,Hillsboro,,,,,,,,,,False,False
 Bishop DuBourg,2026-09-30,Bayless,,,,,,,,,,False,False
 Bishop DuBourg,2026-10-02,St. Mary's South Side,,,,,,,,,,False,False
@@ -178,7 +175,7 @@ Bishop DuBourg,2026-10-19,Gateway Science Charter,,,,,,,,,,False,False
 Bishop DuBourg,2026-10-20,Valley Park,,,,,,,,,,False,False
 Bishop DuBourg,2026-10-22,Westminster Christian Academy,,,,,,,,,,False,False
 Bishop DuBourg,2026-10-26,St. Francis Borgia,,,,,,,,,,False,False
-Bishop DuBourg,2026-10-29,St. Louis UnitedA,,,,,,,,,,False,False
+Bishop DuBourg,2026-10-29,St. Louis United,,,,,,,,,,False,False
 Bishop LeBlond,2026-09-03,Northeast (Kansas City),,0,8,L,,,,,,False,False
 Bishop LeBlond,2026-09-17,Benton,,0,10,L,,,,,,False,False
 Bishop LeBlond,2026-09-21,Central (St. Joseph),,0,8,L,,,,,,False,False
@@ -249,7 +246,6 @@ Blue Springs South,2026-10-26,Rockhurst,,,,,,,,,,False,False
 "Blue Valley Southwest(Overland Park, KS)",2026-09-26,Rock Bridge,,,,,,,,,,False,False
 "Blue Valley Southwest(Overland Park, KS)",2026-10-09,Park Hill South,,,,,,,,,,False,False
 "Blue Valley West(Kansas City, MO)",2026-09-19,Marquette,,3,2,W,,,,,,False,False
-"Blue Valley West(Kansas City, MO)",2026-09-20,Marquette,,3,2,W,,,,,,False,False
 Bolivar,2026-08-28,Smith-Cotton,,1,3,L,,,,,,False,False
 Bolivar,2026-08-29,Odessa,,10,2,W,,,,,,False,False
 Bolivar,2026-09-01,Monett,,4,3,W,,,,,,False,False
@@ -260,14 +256,13 @@ Bolivar,2026-09-15,Marshfield,,4,0,W,,,,,,False,False
 Bolivar,2026-09-18,Lebanon,,4,2,W,,,,,,False,False
 Bolivar,2026-09-18,Willard,,0,1,L,,,,,,False,False
 Bolivar,2026-09-19,Logan-Rogersville,,3,2,W,,,,,,False,False
-Bolivar,2026-09-20,Logan-Rogersville,,3,2,W,,,,,,False,False
 Bolivar,2026-09-22,Hillcrest,,2,1,W,,,,,,False,False
 Bolivar,2026-09-24,Fair Grove,,,,,,,,,,False,False
 Bolivar,2026-09-28,New Heights Christian with McAuley Catholic,,,,,,,,,,False,False
 Bolivar,2026-09-30,West Plains,,,,,,,,,,False,False
 Bolivar,2026-10-01,Clinton,,,,,,,,,,False,False
 Bolivar,2026-10-06,Carl Junction,,,,,,,,,,False,False
-Bolivar,2026-10-08,Trinity AcademyA,,,,,,,,,,False,False
+Bolivar,2026-10-08,Trinity Academy,,,,,,,,,,False,False
 Bolivar,2026-10-13,New Covenant Academy,,,,,,,,,,False,False
 Bolivar,2026-10-15,Branson,,,,,,,,,,False,False
 Bolivar,2026-10-20,Logan-Rogersville,,,,,,,,,,False,False
@@ -302,7 +297,7 @@ Branson,2026-09-15,Carl Junction,,3,2,W,,,,,,False,False
 Branson,2026-09-17,Capital City,,2,3,L,,,,,,False,False
 Branson,2026-09-18,Battle with Columbia Independent,,1,2,L,,,,,,False,False
 Branson,2026-09-22,Marshfield,,3,0,W,,,,,,False,False
-Branson,2026-09-24,Trinity AcademyA,,,,,,,,,,False,False
+Branson,2026-09-24,Trinity Academy,,,,,,,,,,False,False
 Branson,2026-09-26,Kickapoo,,,,,,,,,,False,False
 Branson,2026-09-29,Logan-Rogersville,,,,,,,,,,False,False
 Branson,2026-10-01,Neosho,,,,,,,,,,False,False
@@ -334,7 +329,7 @@ Brentwood,2026-10-15,Hancock,,,,,,,,,,False,False
 Brentwood,2026-10-19,Collegiate School of Med-Bio Science with McKinley Classical Leadership,,,,,,,,,,False,False
 Brentwood,2026-10-20,Sullivan,,,,,,,,,,False,False
 Brentwood,2026-10-23,Metro,,,,,,,,,,False,False
-Brentwood,2026-10-27,St. Louis UnitedA,,,,,,,,,,False,False
+Brentwood,2026-10-27,St. Louis United,,,,,,,,,,False,False
 Brentwood,2026-10-29,Roosevelt,,,,,,,,,,False,False
 Calvary Lutheran,2026-09-01,Green Ridge with Cole Camp,,0,8,L,,,,,,False,False
 Calvary Lutheran,2026-09-08,Christian Fellowship Sr. with Hallsville,,1,9,L,,,,,,False,False
@@ -361,7 +356,6 @@ Camdenton,2026-09-15,Hickman,,1,4,L,,,,,,False,False
 Camdenton,2026-09-17,Osage,,7,0,W,,,,,,False,False
 Camdenton,2026-09-18,Joplin,,1,2,L,,,,,,False,False
 Camdenton,2026-09-19,Carthage,,0,5,L,,,,,,False,False
-Camdenton,2026-09-20,Carthage,,0,5,L,,,,,,False,False
 Camdenton,2026-09-22,Smith-Cotton,,1,2,L,,,,,,False,False
 Camdenton,2026-09-25,Southern Boone,,,,,,,,,,False,False
 Camdenton,2026-09-26,Republic,,,,,,,,,,False,False
@@ -416,7 +410,6 @@ Capital City,2026-09-15,Smith-Cotton,,3,4,L,,,,,,False,False
 Capital City,2026-09-17,Branson,,3,2,W,,,,,,False,False
 Capital City,2026-09-18,Republic,,0,1,L,,,,,,False,False
 Capital City,2026-09-19,Rolla,,1,0,W,,,,,,False,False
-Capital City,2026-09-20,Rolla,,1,0,W,,,,,,False,False
 Capital City,2026-09-21,Fatima,,1,2,L,,,,,,False,False
 Capital City,2026-09-22,Battle with Columbia Independent,,2,1,W,,,,,,False,False
 Capital City,2026-09-24,Marshall,,,,,,,,,,False,False
@@ -478,7 +471,6 @@ Carthage,2026-09-11,Branson,,1,2,L,,,,,,False,False
 Carthage,2026-09-12,Grain Valley,,3,0,W,,,,,,False,False
 Carthage,2026-09-17,Carl Junction,,5,0,W,,,,,,False,False
 Carthage,2026-09-19,Camdenton,,5,0,W,,,,,,False,False
-Carthage,2026-09-20,Camdenton,,5,0,W,,,,,,False,False
 Carthage,2026-09-22,Nixa,,0,3,L,,,,,,False,False
 Carthage,2026-09-24,Ozark,,,,,,,,,,False,False
 Carthage,2026-09-29,Kickapoo,,,,,,,,,,False,False
@@ -620,7 +612,6 @@ Chaminade College Prep,2026-09-15,Christian Brothers College,,2,2,T,,,,,,False,F
 Chaminade College Prep,2026-09-17,Ozark,,4,1,W,,,,,,False,False
 Chaminade College Prep,2026-09-18,Nixa,,1,0,W,,,,,,False,False
 Chaminade College Prep,2026-09-19,Kickapoo,,5,0,W,,,,,,False,False
-Chaminade College Prep,2026-09-20,Kickapoo,,5,0,W,,,,,,False,False
 Chaminade College Prep,2026-09-22,Parkway West,,2,0,W,,,,,,False,False
 Chaminade College Prep,2026-09-24,Vianney,,,,,,,,,,False,False
 Chaminade College Prep,2026-09-29,"Collinsville(Collinsville, IL)",,,,,,,,,,False,False
@@ -893,7 +884,7 @@ Dixon,2026-10-26,New Covenant Academy,,,,,,,,,,False,False
 Duchesne,2026-08-27,Holt,,1,2,L,,,,,,False,False
 Duchesne,2026-08-31,Hazelwood Central,,5,0,W,,,,,,False,False
 Duchesne,2026-09-08,Wright City,,4,0,W,,,,,,False,False
-Duchesne,2026-09-09,St. Louis UnitedA,,4,1,W,,,,,,False,False
+Duchesne,2026-09-09,St. Louis United,,4,1,W,,,,,,False,False
 Duchesne,2026-09-15,Maplewood-Richmond Hts.,,0,6,L,,,,,,False,False
 Duchesne,2026-09-22,Whitfield,,3,7,L,,,,,,False,False
 Duchesne,2026-09-24,Warrenton,,,,,,,,,,False,False
@@ -1171,7 +1162,6 @@ Fox,2026-09-10,Pattonville,,1,5,L,,,,,,False,False
 Fox,2026-09-15,Windsor (Imperial),,1,0,W,,,,,,False,False
 Fox,2026-09-18,Priory,,0,7,L,,,,,,False,False
 Fox,2026-09-19,"Belleville East(Belleville, IL)",,0,3,L,,,,,,False,False
-Fox,2026-09-20,"Belleville East(Belleville, IL)",,0,3,L,,,,,,False,False
 Fox,2026-09-22,McCluer,,,,,,,,,,False,False
 Fox,2026-09-28,Seckman,,,,,,,,,,False,False
 Fox,2026-10-01,Ritenour,,,,,,,,,,False,False
@@ -1190,7 +1180,7 @@ Francis Howell,2026-09-10,Troy Buchanan,,1,0,W,,,,,,False,False
 Francis Howell,2026-09-14,Francis Howell North,,2,1,W,,,,,,False,False
 Francis Howell,2026-09-17,Timberland,,2,1,W,,,,,,False,False
 Francis Howell,2026-09-21,Francis Howell Central,,1,4,L,,,,,,False,False
-Francis Howell,2026-09-22,Ft. Zumwalt East,,,,,,,,,,False,False
+Francis Howell,2026-09-22,Ft. Zumwalt East,,2,1,W,,,,,,False,False
 Francis Howell,2026-09-24,Marquette,,,,,,,,,,False,False
 Francis Howell,2026-09-26,De Smet Jesuit,,,,,,,,,,False,False
 Francis Howell,2026-10-01,Rock Bridge,,,,,,,,,,False,False
@@ -1294,7 +1284,7 @@ Ft. Zumwalt East,2026-09-08,Parkway Central,,0,1,L,,,,,,False,False
 Ft. Zumwalt East,2026-09-11,Rockwood Summit,,0,3,L,,,,,,False,False
 Ft. Zumwalt East,2026-09-15,Timberland,,0,2,L,,,,,,False,False
 Ft. Zumwalt East,2026-09-17,Orchard Farm,,,,,,,,,,False,False
-Ft. Zumwalt East,2026-09-22,Francis Howell,,,,,,,,,,False,False
+Ft. Zumwalt East,2026-09-22,Francis Howell,,1,2,L,,,,,,False,False
 Ft. Zumwalt East,2026-09-24,Washington,,,,,,,,,,False,False
 Ft. Zumwalt East,2026-09-26,Ft. Zumwalt West,,,,,,,,,,False,False
 Ft. Zumwalt East,2026-09-29,Parkway West,,,,,,,,,,False,False
@@ -1394,7 +1384,7 @@ Gateway Science Charter,2026-09-10,Cardinal Ritter,,7,1,W,,,,,,False,False
 Gateway Science Charter,2026-09-15,"FBA OFallon IL(O'Fallon, IL)",,,,,,,,,,False,False
 Gateway Science Charter,2026-09-18,Gateway Legacy Sr. H.,,,,,,,,,,False,False
 Gateway Science Charter,2026-09-21,Roosevelt,,4,0,W,,,,,,False,False
-Gateway Science Charter,2026-09-28,St. Louis UnitedA,,,,,,,,,,False,False
+Gateway Science Charter,2026-09-28,St. Louis United,,,,,,,,,,False,False
 Gateway Science Charter,2026-09-30,"Valmeyer(Valmeyer , IL)",,,,,,,,,,False,False
 Gateway Science Charter,2026-10-06,McCluer,,,,,,,,,,False,False
 Gateway Science Charter,2026-10-13,Collegiate School of Med-Bio Science with McKinley Classical Leadership,,,,,,,,,,False,False
@@ -1405,7 +1395,7 @@ Gateway Science Charter,2026-10-27,Gateway with Soldan International Studies,,,,
 Gateway with Soldan International Studies,2026-08-31,Bayless,,0,7,L,,,,,,False,False
 Gateway with Soldan International Studies,2026-09-11,Brentwood,,0,2,L,,,,,,False,False
 Gateway with Soldan International Studies,2026-09-16,St. Mary's South Side,,1,7,L,,,,,,False,False
-Gateway with Soldan International Studies,2026-09-21,St. Louis UnitedA,,0,2,L,,,,,,False,False
+Gateway with Soldan International Studies,2026-09-21,St. Louis United,,0,2,L,,,,,,False,False
 Gateway with Soldan International Studies,2026-09-28,Metro,,,,,,,,,,False,False
 Gateway with Soldan International Studies,2026-10-01,Roosevelt,,,,,,,,,,False,False
 Gateway with Soldan International Studies,2026-10-02,MICDS,,,,,,,,,,False,False
@@ -1485,7 +1475,7 @@ Green Ridge with Cole Camp,2026-09-07,Clinton,,2,8,L,,,,,,False,False
 Green Ridge with Cole Camp,2026-09-10,St. Paul Lutheran (Concordia),,0,6,L,,,,,,False,False
 Green Ridge with Cole Camp,2026-09-15,Odessa,,1,3,L,,,,,,False,False
 Green Ridge with Cole Camp,2026-09-17,Smithton,,0,5,L,,,,,,False,False
-Green Ridge with Cole Camp,2026-09-22,Sacred Heart,,,,,,,,,,False,False
+Green Ridge with Cole Camp,2026-09-22,Sacred Heart,,0,4,L,,,,,,False,False
 Green Ridge with Cole Camp,2026-09-24,Stover,,,,,,,,,,False,False
 Green Ridge with Cole Camp,2026-09-25,Fair Grove,,,,,,,,,,False,False
 Green Ridge with Cole Camp,2026-09-28,La Monte,,,,,,,,,,False,False
@@ -1638,7 +1628,6 @@ Helias Catholic,2026-09-10,Father Tolton,,3,2,W,,,,,,False,False
 Helias Catholic,2026-09-15,Battle with Columbia Independent,,5,0,W,,,,,,False,False
 Helias Catholic,2026-09-18,St. Michael the Archangel,,3,0,W,,,,,,False,False
 Helias Catholic,2026-09-19,Bishop DuBourg,,9,1,W,,,,,,False,False
-Helias Catholic,2026-09-20,Bishop DuBourg,,9,1,W,,,,,,False,False
 Helias Catholic,2026-09-22,Jefferson City,,4,1,W,,,,,,False,False
 Helias Catholic,2026-09-24,Southern Boone,,,,,,,,,,False,False
 Helias Catholic,2026-09-25,Lutheran St. Charles,,,,,,,,,,False,False
@@ -1832,7 +1821,6 @@ John Burroughs,2026-09-08,Lutheran South,,5,1,W,,,,,,False,False
 John Burroughs,2026-09-10,Ladue Horton Watkins,,2,1,W,,,,,,False,False
 John Burroughs,2026-09-16,Francis Howell North,,3,1,W,,,,,,False,False
 John Burroughs,2026-09-19,Pembroke Hill,,4,3,W,,,,,,False,False
-John Burroughs,2026-09-20,Pembroke Hill,,4,3,W,,,,,,False,False
 John Burroughs,2026-09-23,Bayless,,,,,,,,,,False,False
 John Burroughs,2026-09-26,MICDS,,,,,,,,,,False,False
 John Burroughs,2026-09-29,Whitfield,,,,,,,,,,False,False
@@ -1924,10 +1912,9 @@ Kickapoo,2026-09-03,Neosho,,2,1,W,,,,,,False,False
 Kickapoo,2026-09-05,Pembroke Hill,,2,3,L,,,,,,False,False
 Kickapoo,2026-09-11,Springfield Catholic,,0,3,L,,,,,,False,False
 Kickapoo,2026-09-12,Camdenton,,1,0,W,,,,,,False,False
-Kickapoo,2026-09-15,Trinity AcademyA,,3,0,W,,,,,,False,False
+Kickapoo,2026-09-15,Trinity Academy,,3,0,W,,,,,,False,False
 Kickapoo,2026-09-17,Webb City,,2,1,W,,,,,,False,False
 Kickapoo,2026-09-19,Chaminade College Prep,,0,5,L,,,,,,False,False
-Kickapoo,2026-09-20,Chaminade College Prep,,0,5,L,,,,,,False,False
 Kickapoo,2026-09-22,Republic,,1,2,L,,,,,,False,False
 Kickapoo,2026-09-24,Joplin,,,,,,,,,,False,False
 Kickapoo,2026-09-26,Branson,,,,,,,,,,False,False
@@ -2030,7 +2017,6 @@ Ladue Horton Watkins,2026-09-10,John Burroughs,,1,2,L,,,,,,False,False
 Ladue Horton Watkins,2026-09-15,Lafayette (Wildwood),,4,1,W,,,,,,False,False
 Ladue Horton Watkins,2026-09-17,Kirkwood,,0,5,L,,,,,,False,False
 Ladue Horton Watkins,2026-09-19,Webster Groves,,5,2,W,,,,,,False,False
-Ladue Horton Watkins,2026-09-20,Webster Groves,,5,2,W,,,,,,False,False
 Ladue Horton Watkins,2026-09-22,Lindbergh,,2,0,W,,,,,,False,False
 Ladue Horton Watkins,2026-09-24,Ft. Zumwalt South,,,,,,,,,,False,False
 Ladue Horton Watkins,2026-09-26,Vianney,,,,,,,,,,False,False
@@ -2094,7 +2080,6 @@ Lebanon,2026-09-12,Cassville,,1,0,W,,,,,,False,False
 Lebanon,2026-09-18,Bolivar,,2,4,L,,,,,,False,False
 Lebanon,2026-09-18,New Heights Christian with McAuley Catholic,,1,0,W,,,,,,False,False
 Lebanon,2026-09-19,Oak Park,,0,1,L,,,,,,False,False
-Lebanon,2026-09-20,Oak Park,,0,1,L,,,,,,False,False
 Lebanon,2026-09-22,Webb City,,3,2,W,,,,,,False,False
 Lebanon,2026-09-24,Neosho,,,,,,,,,,False,False
 Lebanon,2026-09-28,Greenwood,,,,,,,,,,False,False
@@ -2151,7 +2136,6 @@ Lee's Summit West,2026-09-10,North Kansas City,,7,0,W,,,,,,False,False
 Lee's Summit West,2026-09-14,Pembroke Hill,,1,0,W,,,,,,False,False
 Lee's Summit West,2026-09-16,Grain Valley,,5,1,W,,,,,,False,False
 Lee's Summit West,2026-09-19,Rock Bridge,,2,3,L,,,,,,False,False
-Lee's Summit West,2026-09-20,Rock Bridge,,2,3,L,,,,,,False,False
 Lee's Summit West,2026-09-22,Park Hill South,,2,1,W,,,,,,False,False
 Lee's Summit West,2026-09-24,Lee's Summit,,,,,,,,,,False,False
 Lee's Summit West,2026-10-01,Kickapoo,,,,,,,,,,False,False
@@ -2206,7 +2190,6 @@ Liberty North,2026-09-11,Glendale,,2,0,W,,,,,,False,False
 Liberty North,2026-09-15,North Kansas City,,,,,,,,,,False,False
 Liberty North,2026-09-17,Park Hill,,5,1,W,,,,,,False,False
 Liberty North,2026-09-19,"gardner - edgerton(gardner, KS)",,2,3,L,,,,,,False,False
-Liberty North,2026-09-20,"gardner - edgerton(gardner, KS)",,2,3,L,,,,,,False,False
 Liberty North,2026-09-22,Liberty,,1,0,W,,,,,,False,False
 Liberty North,2026-09-29,Rockhurst,,,,,,,,,,False,False
 Liberty North,2026-10-01,Park Hill South,,,,,,,,,,False,False
@@ -2267,7 +2250,6 @@ Logan-Rogersville,2026-09-16,West Plains,,8,1,W,,,,,,False,False
 Logan-Rogersville,2026-09-18,Oak Park,,5,0,W,,,,,,False,False
 Logan-Rogersville,2026-09-18,Sikeston,,1,2,L,,,,,,False,False
 Logan-Rogersville,2026-09-19,Bolivar,,2,3,L,,,,,,False,False
-Logan-Rogersville,2026-09-20,Bolivar,,2,3,L,,,,,,False,False
 Logan-Rogersville,2026-09-22,Carl Junction,,8,0,W,,,,,,False,False
 Logan-Rogersville,2026-09-29,Branson,,,,,,,,,,False,False
 Logan-Rogersville,2026-10-01,Glendale,,,,,,,,,,False,False
@@ -2312,7 +2294,6 @@ Lutheran (Kansas City),2026-09-10,"Bishop Ward(Kansas City, KS)",,0,7,L,,,,,,Fal
 Lutheran (Kansas City),2026-09-14,Heartland (Belton) Sr.,,2,0,W,,,,,,False,False
 Lutheran (Kansas City),2026-09-18,"Bishop Seabury(Lawrence, KS)",,3,5,L,,,,,,False,False
 Lutheran (Kansas City),2026-09-19,New Covenant Academy,,0,2,L,,,,,,False,False
-Lutheran (Kansas City),2026-09-20,New Covenant Academy,,0,2,L,,,,,,False,False
 Lutheran (Kansas City),2026-09-22,Faith Christian Academy,,0,1,L,,,,,,False,False
 Lutheran (Kansas City),2026-09-24,"Maranatha Christian(Lenexa, KS)",,,,,,,,,,False,False
 Lutheran (Kansas City),2026-09-29,"Kansas City Christian(Prairie Village, KS)",,,,,,,,,,False,False
@@ -2449,7 +2430,6 @@ Marquette,2026-09-10,Lindbergh,,3,1,W,,,,,,False,False
 Marquette,2026-09-12,St. Dominic,,0,1,L,,,,,,False,False
 Marquette,2026-09-15,Oakville,,2,3,L,,,,,,False,False
 Marquette,2026-09-19,"Blue Valley West(Kansas City, MO)",,2,3,L,,,,,,False,False
-Marquette,2026-09-20,"Blue Valley West(Kansas City, MO)",,2,3,L,,,,,,False,False
 Marquette,2026-09-22,Rockwood Summit,,4,2,W,,,,,,False,False
 Marquette,2026-09-24,Francis Howell,,,,,,,,,,False,False
 Marquette,2026-09-26,Nixa,,,,,,,,,,False,False
@@ -2711,7 +2691,7 @@ Neosho,2026-10-22,Republic,,,,,,,,,,False,False
 Neosho,2026-10-27,Joplin,,,,,,,,,,False,False
 Neosho,2026-10-28,Springfield Catholic,,,,,,,,,,False,False
 New Covenant Academy,2026-08-29,West Plains,,1,2,L,,,,,,False,False
-New Covenant Academy,2026-09-03,Trinity AcademyA,,1,3,L,,,,,,False,False
+New Covenant Academy,2026-09-03,Trinity Academy,,1,3,L,,,,,,False,False
 New Covenant Academy,2026-09-04,Willard,,1,2,L,,,,,,False,False
 New Covenant Academy,2026-09-08,Lebanon,,0,4,L,,,,,,False,False
 New Covenant Academy,2026-09-11,Central (Springfield),,0,3,L,,,,,,False,False
@@ -2721,7 +2701,6 @@ New Covenant Academy,2026-09-15,Laquey with Richland,,2,0,W,,,,,,False,False
 New Covenant Academy,2026-09-17,Thomas Jefferson Independent Day,,3,2,W,,,,,,False,False
 New Covenant Academy,2026-09-18,Barstow,,0,3,L,,,,,,False,False
 New Covenant Academy,2026-09-19,Lutheran (Kansas City),,2,0,W,,,,,,False,False
-New Covenant Academy,2026-09-20,Lutheran (Kansas City),,2,0,W,,,,,,False,False
 New Covenant Academy,2026-09-24,Monett,,,,,,,,,,False,False
 New Covenant Academy,2026-10-05,Crocker,,,,,,,,,,False,False
 New Covenant Academy,2026-10-08,Parkview,,,,,,,,,,False,False
@@ -2738,8 +2717,7 @@ New Heights Christian with McAuley Catholic,2026-09-08,Greenwood,,0,3,L,,,,,,Fal
 New Heights Christian with McAuley Catholic,2026-09-10,Logan-Rogersville,,,,,,,,,,False,False
 New Heights Christian with McAuley Catholic,2026-09-18,Lebanon,,0,1,L,,,,,,False,False
 New Heights Christian with McAuley Catholic,2026-09-18,Willard,,1,2,L,,,,,,False,False
-New Heights Christian with McAuley Catholic,2026-09-19,Trinity AcademyA,,2,3,L,,,,,,False,False
-New Heights Christian with McAuley Catholic,2026-09-20,Trinity AcademyA,,2,3,L,,,,,,False,False
+New Heights Christian with McAuley Catholic,2026-09-19,Trinity Academy,,2,3,L,,,,,,False,False
 New Heights Christian with McAuley Catholic,2026-09-24,Carl Junction,,,,,,,,,,False,False
 New Heights Christian with McAuley Catholic,2026-09-28,Bolivar,,,,,,,,,,False,False
 New Heights Christian with McAuley Catholic,2026-10-01,Cassville,,,,,,,,,,False,False
@@ -2747,7 +2725,7 @@ New Heights Christian with McAuley Catholic,2026-10-03,Sacred Heart,,,,,,,,,,Fal
 New Heights Christian with McAuley Catholic,2026-10-06,"Pittsburg(Pittsburg, KS)",,,,,,,,,,False,False
 New Heights Christian with McAuley Catholic,2026-10-13,Thomas Jefferson Independent Day,,,,,,,,,,False,False
 New Heights Christian with McAuley Catholic,2026-10-15,McDonald County,,,,,,,,,,False,False
-New Heights Christian with McAuley Catholic,2026-10-20,Trinity AcademyA,,,,,,,,,,False,False
+New Heights Christian with McAuley Catholic,2026-10-20,Trinity Academy,,,,,,,,,,False,False
 New Heights Christian with McAuley Catholic,2026-10-26,Fair Grove,,,,,,,,,,False,False
 New Heights Christian with McAuley Catholic,2026-10-27,Aurora,,,,,,,,,,False,False
 Nixa,2026-08-28,Hickman,,2,3,L,,,,,,False,False
@@ -2949,9 +2927,8 @@ Oak Park,2026-09-10,Winnetonka,,3,1,W,,,,,,False,False
 Oak Park,2026-09-15,Ruskin,,5,1,W,,,,,,False,False
 Oak Park,2026-09-17,Staley,,0,2,L,,,,,,False,False
 Oak Park,2026-09-18,Logan-Rogersville,,0,5,L,,,,,,False,False
-Oak Park,2026-09-18,Trinity AcademyA,,3,0,W,,,,,,False,False
+Oak Park,2026-09-18,Trinity Academy,,3,0,W,,,,,,False,False
 Oak Park,2026-09-19,Lebanon,,1,0,W,,,,,,False,False
-Oak Park,2026-09-20,Lebanon,,1,0,W,,,,,,False,False
 Oak Park,2026-09-22,William Chrisman,,,,,,,,,,False,False
 Oak Park,2026-09-24,Kearney,,,,,,,,,,False,False
 Oak Park,2026-09-28,Park Hill,,,,,,,,,,False,False
@@ -3019,7 +2996,7 @@ Orchard Farm,2026-09-10,St. Charles,,3,1,W,,,,,,False,False
 Orchard Farm,2026-09-15,Holt,,3,0,W,,,,,,False,False
 Orchard Farm,2026-09-17,Ft. Zumwalt East,,,,,,,,,,False,False
 Orchard Farm,2026-09-22,Westminster Christian Academy,,0,1,L,,,,,,False,False
-Orchard Farm,2026-09-24,St. Louis UnitedA,,,,,,,,,,False,False
+Orchard Farm,2026-09-24,St. Louis United,,,,,,,,,,False,False
 Orchard Farm,2026-09-29,Duchesne,,,,,,,,,,False,False
 Orchard Farm,2026-10-02,St. Pius X (Festus),,,,,,,,,,False,False
 Orchard Farm,2026-10-06,Clayton,,,,,,,,,,False,False
@@ -3088,7 +3065,7 @@ Pacific,2026-10-01,Union,,,,,,,,,,False,False
 Pacific,2026-10-05,North County,,,,,,,,,,False,False
 Pacific,2026-10-06,Sullivan,,,,,,,,,,False,False
 Pacific,2026-10-08,St. Francis Borgia,,,,,,,,,,False,False
-Pacific,2026-10-13,St. Louis UnitedA,,,,,,,,,,False,False
+Pacific,2026-10-13,St. Louis United,,,,,,,,,,False,False
 Pacific,2026-10-19,Winfield,,,,,,,,,,False,False
 Pacific,2026-10-22,Union,,,,,,,,,,False,False
 Pacific,2026-10-26,Gateway with Soldan International Studies,,,,,,,,,,False,False
@@ -3137,7 +3114,7 @@ Parkview,2026-09-03,Hillcrest,,4,0,W,,,,,,False,False
 Parkview,2026-09-05,Hickman,,1,3,L,,,,,,False,False
 Parkview,2026-09-08,Republic,,1,3,L,,,,,,False,False
 Parkview,2026-09-11,Camdenton,,2,1,W,,,,,,False,False
-Parkview,2026-09-11,Trinity AcademyA,,0,1,L,,,,,,False,False
+Parkview,2026-09-11,Trinity Academy,,0,1,L,,,,,,False,False
 Parkview,2026-09-12,Aurora,,5,0,W,,,,,,False,False
 Parkview,2026-09-14,Cassville,,3,0,W,,,,,,False,False
 Parkview,2026-09-15,Willard,,2,1,W,,,,,,False,False
@@ -3282,7 +3259,6 @@ Pembroke Hill,2026-09-10,"St. Thomas Aquinas(Overland Park, KS)",,2,1,W,,,,,,Fal
 Pembroke Hill,2026-09-14,Lee's Summit West,,0,1,L,,,,,,False,False
 Pembroke Hill,2026-09-18,MICDS,,5,0,W,,,,,,False,False
 Pembroke Hill,2026-09-19,John Burroughs,,3,4,L,,,,,,False,False
-Pembroke Hill,2026-09-20,John Burroughs,,3,4,L,,,,,,False,False
 Pembroke Hill,2026-09-25,Raytown,,,,,,,,,,False,False
 Pembroke Hill,2026-09-29,Blue Springs,,,,,,,,,,False,False
 Pembroke Hill,2026-10-06,Rockhurst,,,,,,,,,,False,False
@@ -3376,13 +3352,13 @@ Principia,2026-08-29,Veritas Christian Academy,,1,2,L,,,,,,False,False
 Principia,2026-09-01,Westminster Christian Academy,,2,1,W,,,,,,False,False
 Principia,2026-09-03,Parkway Central,,1,0,W,,,,,,False,False
 Principia,2026-09-11,Bayless,,1,0,W,,,,,,False,False
-Principia,2026-09-22,Bishop DuBourg,,,,,,,,,,False,False
+Principia,2026-09-22,Bishop DuBourg,,2,0,W,,,,,,False,False
 Principia,2026-09-24,MICDS,,,,,,,,,,False,False
 Principia,2026-09-29,Westminster Christian Academy,,,,,,,,,,False,False
 Principia,2026-10-02,John Burroughs,,,,,,,,,,False,False
 Principia,2026-10-05,Lutheran North,,,,,,,,,,False,False
 Principia,2026-10-07,Whitfield,,,,,,,,,,False,False
-Principia,2026-10-10,St. Louis UnitedA,,,,,,,,,,False,False
+Principia,2026-10-10,St. Louis United,,,,,,,,,,False,False
 Principia,2026-10-13,Lutheran South,,,,,,,,,,False,False
 Principia,2026-10-16,Gateway Science Charter,,,,,,,,,,False,False
 Principia,2026-10-17,Springfield Catholic,,,,,,,,,,False,False
@@ -3491,7 +3467,6 @@ Republic,2026-09-12,Summit Christian Academy,,1,0,W,,,,,,False,False
 Republic,2026-09-14,Central (Springfield),,0,1,L,,,,,,False,False
 Republic,2026-09-18,Capital City,,1,0,W,,,,,,False,False
 Republic,2026-09-19,Battle with Columbia Independent,,1,2,L,,,,,,False,False
-Republic,2026-09-20,Battle with Columbia Independent,,1,2,L,,,,,,False,False
 Republic,2026-09-22,Kickapoo,,2,1,W,,,,,,False,False
 Republic,2026-09-24,Waynesville,,,,,,,,,,False,False
 Republic,2026-09-26,Camdenton,,,,,,,,,,False,False
@@ -3529,7 +3504,6 @@ Rock Bridge,2026-09-08,Stover,,0,2,L,,,,,,False,False
 Rock Bridge,2026-09-12,Ft. Zumwalt South,,1,2,L,,,,,,False,False
 Rock Bridge,2026-09-15,Jefferson City,,8,0,W,,,,,,False,False
 Rock Bridge,2026-09-19,Lee's Summit West,,3,2,W,,,,,,False,False
-Rock Bridge,2026-09-20,Lee's Summit West,,3,2,W,,,,,,False,False
 Rock Bridge,2026-09-22,Hickman,,4,2,W,,,,,,False,False
 Rock Bridge,2026-09-24,Liberty (Wentzville),,,,,,,,,,False,False
 Rock Bridge,2026-09-26,"Blue Valley Southwest(Overland Park, KS)",,,,,,,,,,False,False
@@ -3593,7 +3567,6 @@ Rolla,2026-09-12,North Point,,0,4,L,,,,,,False,False
 Rolla,2026-09-14,Pacific,,1,2,L,,,,,,False,False
 Rolla,2026-09-17,Jefferson City,,3,1,W,,,,,,False,False
 Rolla,2026-09-19,Capital City,,0,1,L,,,,,,False,False
-Rolla,2026-09-20,Capital City,,0,1,L,,,,,,False,False
 Rolla,2026-09-22,Waynesville,,,,,,,,,,False,False
 Rolla,2026-09-24,Springfield Catholic,,,,,,,,,,False,False
 Rolla,2026-09-30,Helias Catholic,,,,,,,,,,False,False
@@ -3691,7 +3664,7 @@ Sacred Heart,2026-09-10,Christian Fellowship Sr. with Hallsville,,0,3,L,,,,,,Fal
 Sacred Heart,2026-09-14,Osage,,0,8,L,,,,,,False,False
 Sacred Heart,2026-09-15,Stover,,0,6,L,,,,,,False,False
 Sacred Heart,2026-09-17,La Monte,,1,0,W,,,,,,False,False
-Sacred Heart,2026-09-22,Green Ridge with Cole Camp,,,,,,,,,,False,False
+Sacred Heart,2026-09-22,Green Ridge with Cole Camp,,4,0,W,,,,,,False,False
 Sacred Heart,2026-09-29,Smithton,,,,,,,,,,False,False
 Sacred Heart,2026-10-02,Greenwood,,,,,,,,,,False,False
 Sacred Heart,2026-10-03,New Heights Christian with McAuley Catholic,,,,,,,,,,False,False
@@ -3767,9 +3740,8 @@ Sikeston,2026-09-10,"Carbondale(Carbondale , IL)",,4,2,W,,,,,,False,False
 Sikeston,2026-09-11,Bishop DuBourg,,6,2,W,,,,,,False,False
 Sikeston,2026-09-15,Central (Cape Girardeau),,8,0,W,,,,,,False,False
 Sikeston,2026-09-18,Logan-Rogersville,,2,1,W,,,,,,False,False
-Sikeston,2026-09-18,Trinity AcademyA,,5,1,W,,,,,,False,False
+Sikeston,2026-09-18,Trinity Academy,,5,1,W,,,,,,False,False
 Sikeston,2026-09-19,Willard,,6,0,W,,,,,,False,False
-Sikeston,2026-09-20,Willard,,6,0,W,,,,,,False,False
 Sikeston,2026-09-21,Saxony Lutheran with St. Vincent,,3,2,W,,,,,,False,False
 Sikeston,2026-09-24,Poplar Bluff,,,,,,,,,,False,False
 Sikeston,2026-09-28,Jackson,,,,,,,,,,False,False
@@ -3887,10 +3859,9 @@ Springfield Catholic,2026-09-14,Monett,,3,1,W,,,,,,False,False
 Springfield Catholic,2026-09-15,Glendale,,2,1,W,,,,,,False,False
 Springfield Catholic,2026-09-18,Bishop DuBourg,,8,0,W,,,,,,False,False
 Springfield Catholic,2026-09-19,St. Michael the Archangel,,0,1,L,,,,,,False,False
-Springfield Catholic,2026-09-20,St. Michael the Archangel,,0,1,L,,,,,,False,False
 Springfield Catholic,2026-09-24,Rolla,,,,,,,,,,False,False
 Springfield Catholic,2026-09-28,Ozark,,,,,,,,,,False,False
-Springfield Catholic,2026-09-29,Trinity AcademyA,,,,,,,,,,False,False
+Springfield Catholic,2026-09-29,Trinity Academy,,,,,,,,,,False,False
 Springfield Catholic,2026-10-06,Logan-Rogersville,,,,,,,,,,False,False
 Springfield Catholic,2026-10-09,Camdenton,,,,,,,,,,False,False
 Springfield Catholic,2026-10-13,Branson,,,,,,,,,,False,False
@@ -3961,7 +3932,7 @@ St. Dominic,2026-10-22,Ft. Zumwalt South,,,,,,,,,,False,False
 St. Dominic,2026-10-24,Timberland,,,,,,,,,,False,False
 St. Dominic,2026-10-26,Chaminade College Prep,,,,,,,,,,False,False
 St. Francis Borgia,2026-08-27,Lafayette (Wildwood),,0,4,L,,,,,,False,False
-St. Francis Borgia,2026-08-31,St. Louis UnitedA,,2,4,L,,,,,,False,False
+St. Francis Borgia,2026-08-31,St. Louis United,,2,4,L,,,,,,False,False
 St. Francis Borgia,2026-09-10,Hillsboro,,3,1,W,,,,,,False,False
 St. Francis Borgia,2026-09-15,Union,,2,3,L,,,,,,False,False
 St. Francis Borgia,2026-09-17,St. Dominic,,0,7,L,,,,,,False,False
@@ -3979,22 +3950,22 @@ St. Francis Borgia,2026-10-26,Bishop DuBourg,,,,,,,,,,False,False
 St. Francis Borgia,2026-10-28,Lutheran St. Charles,,,,,,,,,,False,False
 "St. James(Kansas City, KS)",2026-10-09,Chaminade College Prep,,,,,,,,,,False,False
 "St. James(Lenexa, KS)",2026-10-10,Mehlville,,,,,,,,,,False,False
-St. Louis UnitedA,2026-08-29,Troy Buchanan,,1,4,L,,,,,,False,False
-St. Louis UnitedA,2026-08-31,St. Francis Borgia,,4,2,W,,,,,,False,False
-St. Louis UnitedA,2026-09-09,Duchesne,,1,4,L,,,,,,False,False
-St. Louis UnitedA,2026-09-10,Union,,2,1,W,,,,,,False,False
-St. Louis UnitedA,2026-09-15,St. Mary's South Side,,0,8,L,,,,,,False,False
-St. Louis UnitedA,2026-09-16,Wright City,,3,1,W,,,,,,False,False
-St. Louis UnitedA,2026-09-21,Gateway with Soldan International Studies,,2,0,W,,,,,,False,False
-St. Louis UnitedA,2026-09-24,Orchard Farm,,,,,,,,,,False,False
-St. Louis UnitedA,2026-09-28,Gateway Science Charter,,,,,,,,,,False,False
-St. Louis UnitedA,2026-10-05,Sullivan,,,,,,,,,,False,False
-St. Louis UnitedA,2026-10-10,Principia,,,,,,,,,,False,False
-St. Louis UnitedA,2026-10-13,Pacific,,,,,,,,,,False,False
-St. Louis UnitedA,2026-10-15,Veritas Christian Academy,,,,,,,,,,False,False
-St. Louis UnitedA,2026-10-19,Warrenton,,,,,,,,,,False,False
-St. Louis UnitedA,2026-10-27,Brentwood,,,,,,,,,,False,False
-St. Louis UnitedA,2026-10-29,Bishop DuBourg,,,,,,,,,,False,False
+St. Louis United,2026-08-29,Troy Buchanan,,1,4,L,,,,,,False,False
+St. Louis United,2026-08-31,St. Francis Borgia,,4,2,W,,,,,,False,False
+St. Louis United,2026-09-09,Duchesne,,1,4,L,,,,,,False,False
+St. Louis United,2026-09-10,Union,,2,1,W,,,,,,False,False
+St. Louis United,2026-09-15,St. Mary's South Side,,0,8,L,,,,,,False,False
+St. Louis United,2026-09-16,Wright City,,3,1,W,,,,,,False,False
+St. Louis United,2026-09-21,Gateway with Soldan International Studies,,2,0,W,,,,,,False,False
+St. Louis United,2026-09-24,Orchard Farm,,,,,,,,,,False,False
+St. Louis United,2026-09-28,Gateway Science Charter,,,,,,,,,,False,False
+St. Louis United,2026-10-05,Sullivan,,,,,,,,,,False,False
+St. Louis United,2026-10-10,Principia,,,,,,,,,,False,False
+St. Louis United,2026-10-13,Pacific,,,,,,,,,,False,False
+St. Louis United,2026-10-15,Veritas Christian Academy,,,,,,,,,,False,False
+St. Louis United,2026-10-19,Warrenton,,,,,,,,,,False,False
+St. Louis United,2026-10-27,Brentwood,,,,,,,,,,False,False
+St. Louis United,2026-10-29,Bishop DuBourg,,,,,,,,,,False,False
 St. Mary's South Side,2026-08-27,Saxony Lutheran with St. Vincent,,2,4,L,,,,,,False,False
 St. Mary's South Side,2026-08-29,Helias Catholic,,2,3,L,,,,,,False,False
 St. Mary's South Side,2026-09-01,SLUH,,0,7,L,,,,,,False,False
@@ -4002,11 +3973,10 @@ St. Mary's South Side,2026-09-03,Clayton,,1,7,L,,,,,,False,False
 St. Mary's South Side,2026-09-05,De Smet Jesuit,,1,4,L,,,,,,False,False
 St. Mary's South Side,2026-09-08,St. Pius X (Festus),,1,0,W,,,,,,False,False
 St. Mary's South Side,2026-09-10,MICDS,,0,1,L,,,,,,False,False
-St. Mary's South Side,2026-09-15,St. Louis UnitedA,,8,0,W,,,,,,False,False
+St. Mary's South Side,2026-09-15,St. Louis United,,8,0,W,,,,,,False,False
 St. Mary's South Side,2026-09-16,Gateway with Soldan International Studies,,7,1,W,,,,,,False,False
 St. Mary's South Side,2026-09-19,Vianney,,2,7,L,,,,,,False,False
-St. Mary's South Side,2026-09-20,Vianney,,2,7,L,,,,,,False,False
-St. Mary's South Side,2026-09-22,Affton,,,,,,,,,,False,False
+St. Mary's South Side,2026-09-22,Affton,,7,2,W,,,,,,False,False
 St. Mary's South Side,2026-09-24,Lutheran South,,,,,,,,,,False,False
 St. Mary's South Side,2026-09-26,Metro,,,,,,,,,,False,False
 St. Mary's South Side,2026-09-29,Veritas Christian Academy,,,,,,,,,,False,False
@@ -4024,7 +3994,6 @@ St. Michael the Archangel,2026-09-10,Warrensburg,,7,0,W,,,,,,False,False
 St. Michael the Archangel,2026-09-16,"KC East Christian(Overland Park, KS)",,3,1,W,,,,,,False,False
 St. Michael the Archangel,2026-09-18,Helias Catholic,,0,3,L,,,,,,False,False
 St. Michael the Archangel,2026-09-19,Springfield Catholic,,1,0,W,,,,,,False,False
-St. Michael the Archangel,2026-09-20,Springfield Catholic,,1,0,W,,,,,,False,False
 St. Michael the Archangel,2026-09-21,"Sumner(Kansas City, KS)",,2,3,L,,,,,,False,False
 St. Michael the Archangel,2026-09-24,Lincoln College Prep,,,,,,,,,,False,False
 St. Michael the Archangel,2026-09-29,Lee's Summit,,,,,,,,,,False,False
@@ -4143,7 +4112,7 @@ Sullivan,2026-09-24,Holt,,,,,,,,,,False,False
 Sullivan,2026-09-28,Crocker,,,,,,,,,,False,False
 Sullivan,2026-09-29,Pacific,,,,,,,,,,False,False
 Sullivan,2026-10-01,STEAM Academy,,,,,,,,,,False,False
-Sullivan,2026-10-05,St. Louis UnitedA,,,,,,,,,,False,False
+Sullivan,2026-10-05,St. Louis United,,,,,,,,,,False,False
 Sullivan,2026-10-06,Pacific,,,,,,,,,,False,False
 Sullivan,2026-10-08,Dixon,,,,,,,,,,False,False
 Sullivan,2026-10-12,Union,,,,,,,,,,False,False
@@ -4192,7 +4161,7 @@ Sunnydale Adventist Acad HS,2026-10-08,Father Tolton,,,,,,,,,,False,False
 Thomas Jefferson Independent Day,2026-09-08,Monett,,2,1,W,,,,,,False,False
 Thomas Jefferson Independent Day,2026-09-14,Aurora,,1,0,W,,,,,,False,False
 Thomas Jefferson Independent Day,2026-09-17,New Covenant Academy,,2,3,L,,,,,,False,False
-Thomas Jefferson Independent Day,2026-09-22,Trinity AcademyA,,0,7,L,,,,,,False,False
+Thomas Jefferson Independent Day,2026-09-22,Trinity Academy,,0,7,L,,,,,,False,False
 Thomas Jefferson Independent Day,2026-09-28,Joplin,,,,,,,,,,False,False
 Thomas Jefferson Independent Day,2026-10-01,Carthage,,,,,,,,,,False,False
 Thomas Jefferson Independent Day,2026-10-03,Aurora,,,,,,,,,,False,False
@@ -4227,22 +4196,21 @@ Timberland,2026-10-26,Kirkwood,,,,,,,,,,False,False
 "Triad(Triad, IL)",2026-09-21,St. Dominic,,1,0,W,,,,,,False,False
 "Triad(Troy, IL)",2026-09-14,De Smet Jesuit,,0,0,T,,,,,,False,False
 "Triad(Troy, IL)",2026-10-10,Ft. Zumwalt South,,,,,,,,,,False,False
-Trinity AcademyA,2026-09-03,New Covenant Academy,,3,1,W,,,,,,False,False
-Trinity AcademyA,2026-09-11,Parkview,,1,0,W,,,,,,False,False
-Trinity AcademyA,2026-09-12,Aurora,,8,0,W,,,,,,False,False
-Trinity AcademyA,2026-09-15,Kickapoo,,0,3,L,,,,,,False,False
-Trinity AcademyA,2026-09-18,Oak Park,,0,3,L,,,,,,False,False
-Trinity AcademyA,2026-09-18,Sikeston,,1,5,L,,,,,,False,False
-Trinity AcademyA,2026-09-19,New Heights Christian with McAuley Catholic,,3,2,W,,,,,,False,False
-Trinity AcademyA,2026-09-20,New Heights Christian with McAuley Catholic,,3,2,W,,,,,,False,False
-Trinity AcademyA,2026-09-22,Thomas Jefferson Independent Day,,7,0,W,,,,,,False,False
-Trinity AcademyA,2026-09-24,Branson,,,,,,,,,,False,False
-Trinity AcademyA,2026-09-29,Springfield Catholic,,,,,,,,,,False,False
-Trinity AcademyA,2026-10-08,Bolivar,,,,,,,,,,False,False
-Trinity AcademyA,2026-10-10,West Plains,,,,,,,,,,False,False
-Trinity AcademyA,2026-10-20,New Heights Christian with McAuley Catholic,,,,,,,,,,False,False
+Trinity Academy,2026-09-03,New Covenant Academy,,3,1,W,,,,,,False,False
+Trinity Academy,2026-09-11,Parkview,,1,0,W,,,,,,False,False
+Trinity Academy,2026-09-12,Aurora,,8,0,W,,,,,,False,False
+Trinity Academy,2026-09-15,Kickapoo,,0,3,L,,,,,,False,False
+Trinity Academy,2026-09-18,Oak Park,,0,3,L,,,,,,False,False
+Trinity Academy,2026-09-18,Sikeston,,1,5,L,,,,,,False,False
+Trinity Academy,2026-09-19,New Heights Christian with McAuley Catholic,,3,2,W,,,,,,False,False
+Trinity Academy,2026-09-22,Thomas Jefferson Independent Day,,7,0,W,,,,,,False,False
+Trinity Academy,2026-09-24,Branson,,,,,,,,,,False,False
+Trinity Academy,2026-09-29,Springfield Catholic,,,,,,,,,,False,False
+Trinity Academy,2026-10-08,Bolivar,,,,,,,,,,False,False
+Trinity Academy,2026-10-10,West Plains,,,,,,,,,,False,False
+Trinity Academy,2026-10-20,New Heights Christian with McAuley Catholic,,,,,,,,,,False,False
 Troy Buchanan,2026-08-27,Lutheran St. Charles,,2,1,W,,,,,,False,False
-Troy Buchanan,2026-08-29,St. Louis UnitedA,,4,1,W,,,,,,False,False
+Troy Buchanan,2026-08-29,St. Louis United,,4,1,W,,,,,,False,False
 Troy Buchanan,2026-09-01,Pattonville,,2,1,W,,,,,,False,False
 Troy Buchanan,2026-09-03,Ft. Zumwalt West,,0,1,L,,,,,,False,False
 Troy Buchanan,2026-09-08,Francis Howell North,,1,2,L,,,,,,False,False
@@ -4286,7 +4254,7 @@ Union,2026-08-27,DeSoto,,2,1,W,,,,,,False,False
 Union,2026-09-01,Windsor (Imperial),,3,2,W,,,,,,False,False
 Union,2026-09-02,Lutheran St. Charles,,0,4,L,,,,,,False,False
 Union,2026-09-08,Veritas Christian Academy,,0,1,L,,,,,,False,False
-Union,2026-09-10,St. Louis UnitedA,,1,2,L,,,,,,False,False
+Union,2026-09-10,St. Louis United,,1,2,L,,,,,,False,False
 Union,2026-09-15,St. Francis Borgia,,3,2,W,,,,,,False,False
 Union,2026-09-17,Sullivan,,2,0,W,,,,,,False,False
 Union,2026-09-21,Hillsboro,,2,1,W,,,,,,False,False
@@ -4382,7 +4350,7 @@ Veritas Christian Academy,2026-10-05,Winfield,,,,,,,,,,False,False
 Veritas Christian Academy,2026-10-07,Wright City,,,,,,,,,,False,False
 Veritas Christian Academy,2026-10-08,St. Charles West,,,,,,,,,,False,False
 Veritas Christian Academy,2026-10-13,Lutheran St. Charles,,,,,,,,,,False,False
-Veritas Christian Academy,2026-10-15,St. Louis UnitedA,,,,,,,,,,False,False
+Veritas Christian Academy,2026-10-15,St. Louis United,,,,,,,,,,False,False
 Veritas Christian Academy,2026-10-16,Bishop DuBourg,,,,,,,,,,False,False
 Veritas Christian Academy,2026-10-19,Elsberry,,,,,,,,,,False,False
 Veritas Christian Academy,2026-10-20,Warrenton,,,,,,,,,,False,False
@@ -4398,7 +4366,6 @@ Vianney,2026-09-10,Oakville,,1,0,W,,,,,,False,False
 Vianney,2026-09-15,Lindbergh,,0,2,L,,,,,,False,False
 Vianney,2026-09-17,SLUH,,0,3,L,,,,,,False,False
 Vianney,2026-09-19,St. Mary's South Side,,7,2,W,,,,,,False,False
-Vianney,2026-09-20,St. Mary's South Side,,7,2,W,,,,,,False,False
 Vianney,2026-09-22,Clayton,,2,1,W,,,,,,False,False
 Vianney,2026-09-24,Chaminade College Prep,,,,,,,,,,False,False
 Vianney,2026-09-26,Ladue Horton Watkins,,,,,,,,,,False,False
@@ -4444,7 +4411,7 @@ Warrenton,2026-10-06,Missouri Military Academy,,,,,,,,,,False,False
 Warrenton,2026-10-12,Wright City,,,,,,,,,,False,False
 Warrenton,2026-10-14,North Point,,,,,,,,,,False,False
 Warrenton,2026-10-16,Winfield,,,,,,,,,,False,False
-Warrenton,2026-10-19,St. Louis UnitedA,,,,,,,,,,False,False
+Warrenton,2026-10-19,St. Louis United,,,,,,,,,,False,False
 Warrenton,2026-10-20,Veritas Christian Academy,,,,,,,,,,False,False
 Warrenton,2026-10-22,Hannibal,,,,,,,,,,False,False
 Warrenton,2026-10-26,Union,,,,,,,,,,False,False
@@ -4518,7 +4485,6 @@ Webster Groves,2026-09-10,Parkway South,,2,1,W,,,,,,False,False
 Webster Groves,2026-09-14,Chaminade College Prep,,1,3,L,,,,,,False,False
 Webster Groves,2026-09-16,Parkway West,,,,,,,,,,False,False
 Webster Groves,2026-09-19,Ladue Horton Watkins,,2,5,L,,,,,,False,False
-Webster Groves,2026-09-20,Ladue Horton Watkins,,2,5,L,,,,,,False,False
 Webster Groves,2026-09-23,Parkway Central,,,,,,,,,,False,False
 Webster Groves,2026-09-25,Rockwood Summit,,,,,,,,,,False,False
 Webster Groves,2026-09-30,Eureka,,,,,,,,,,False,False
@@ -4547,7 +4513,7 @@ West Plains,2026-09-28,Central (Springfield),,,,,,,,,,False,False
 West Plains,2026-09-30,Bolivar,,,,,,,,,,False,False
 West Plains,2026-10-05,Rolla,,,,,,,,,,False,False
 West Plains,2026-10-06,Branson,,,,,,,,,,False,False
-West Plains,2026-10-10,Trinity AcademyA,,,,,,,,,,False,False
+West Plains,2026-10-10,Trinity Academy,,,,,,,,,,False,False
 West Plains,2026-10-13,Marshfield,,,,,,,,,,False,False
 West Plains,2026-10-15,Waynesville,,,,,,,,,,False,False
 West Plains,2026-10-20,Hillcrest,,,,,,,,,,False,False
@@ -4608,7 +4574,6 @@ Willard,2026-09-15,Parkview,,1,2,L,,,,,,False,False
 Willard,2026-09-18,Bolivar,,1,0,W,,,,,,False,False
 Willard,2026-09-18,New Heights Christian with McAuley Catholic,,2,1,W,,,,,,False,False
 Willard,2026-09-19,Sikeston,,0,6,L,,,,,,False,False
-Willard,2026-09-20,Sikeston,,0,6,L,,,,,,False,False
 Willard,2026-09-22,Ozark,,0,8,L,,,,,,False,False
 Willard,2026-09-24,Nixa,,,,,,,,,,False,False
 Willard,2026-09-29,Glendale,,,,,,,,,,False,False
@@ -4704,7 +4669,7 @@ Wright City,2026-09-03,Christian Fellowship Sr. with Hallsville,,1,2,L,,,,,,Fals
 Wright City,2026-09-08,Duchesne,,0,4,L,,,,,,False,False
 Wright City,2026-09-09,Pacific,,3,1,W,,,,,,False,False
 Wright City,2026-09-14,Liberty Christian Sr.,,8,0,W,,,,,,False,False
-Wright City,2026-09-16,St. Louis UnitedA,,1,3,L,,,,,,False,False
+Wright City,2026-09-16,St. Louis United,,1,3,L,,,,,,False,False
 Wright City,2026-09-17,Fulton,,,,,,,,,,False,False
 Wright City,2026-09-22,Holt,,1,2,L,,,,,,False,False
 Wright City,2026-09-23,Winfield,,,,,,,,,,False,False
@@ -4722,4 +4687,3 @@ Wright City,2026-10-22,St. Charles,,,,,,,,,,False,False
 Wright City,2026-10-27,Valley Park,,,,,,,,,,False,False
 Wright City,2026-10-28,Festus,,,,,,,,,,False,False
 "gardner - edgerton(gardner, KS)",2026-09-19,Liberty North,,3,2,W,,,,,,False,False
-"gardner - edgerton(gardner, KS)",2026-09-20,Liberty North,,3,2,W,,,,,,False,False

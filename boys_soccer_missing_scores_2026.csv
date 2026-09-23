@@ -1,0 +1,33 @@
+date,problem,team1,score1,team2,score2,both_classified
+2026-08-28,one team's score only,MICDS,2,Parkway Central,,True
+2026-09-01,no score,Parkway South,,Seckman,,True
+2026-09-03,no score,Maranatha Baptist,,Crocker,,False
+2026-09-03,no score,St. Pius X (Festus),,Fox,,True
+2026-09-03,no score,Webster Groves,,Vianney,,True
+2026-09-04,no score,Ritenour,,Gateway Legacy Sr. H.,,False
+2026-09-08,no score,STEAM Academy,,Jennings,,True
+2026-09-08,no score,Collegiate School of Med-Bio Science with McKinley Classical Leadership,,Lutheran North,,True
+2026-09-09,no score,William Chrisman,,Truman,,True
+2026-09-10,no score,Fatima,,Jefferson City,,True
+2026-09-10,no score,Logan-Rogersville,,New Heights Christian with McAuley Catholic,,True
+2026-09-15,no score,Greenwood,,Central (Springfield),,True
+2026-09-15,no score,Gateway Science Charter,,"FBA OFallon IL(O'Fallon, IL)",,False
+2026-09-15,no score,Faith Christian Academy,,"Heritage Christian(Olathe, KS)",,False
+2026-09-15,no score,North Kansas City,,Liberty North,,True
+2026-09-15,no score,Chillicothe,,Maryville,,True
+2026-09-16,no score,Canton,,"QND(Quincy, IL)",,False
+2026-09-16,no score,Parkway West,,Webster Groves,,True
+2026-09-16,no score,Raytown,,Winnetonka,,True
+2026-09-17,no score,Lone Jack,,Central (Kansas City),,True
+2026-09-17,no score,Hickman,,Ft. Zumwalt West,,True
+2026-09-17,no score,STEAM Academy,,Hazelwood East,,False
+2026-09-17,no score,Cardinal Ritter,,KIPP St. Louis Sr.,,False
+2026-09-17,no score,Ft. Zumwalt East,,Orchard Farm,,True
+2026-09-17,no score,Seckman,,"WATERLOO HIGH SCHOOL(WATERLOO, IL)",,False
+2026-09-17,no score,Fulton,,Wright City,,True
+2026-09-18,no score,Crossroads College Preparatory,,Chesterton Acad StL,,False
+2026-09-18,no score,Brentwood,,Crossroads College Preparatory,,True
+2026-09-18,no score,Gateway Science Charter,,Gateway Legacy Sr. H.,,False
+2026-09-21,no score,"QHS(Quincy, IL)",,Canton,,False
+2026-09-21,no score,Jefferson City,,Osage,,True
+2026-09-21,no score,Liberty Christian Sr.,,Warrenton,,False
