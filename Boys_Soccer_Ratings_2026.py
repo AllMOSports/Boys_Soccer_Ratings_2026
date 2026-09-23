@@ -1025,11 +1025,19 @@ def save_csv(all_games):
 # Built straight from the scraped games (same list saved as the _all
 # files), so no games file has to be read back in.
 #
-# Ratings-dependent fields (predicted_team_score, predicted_opp_score,
-# off_delta, def_delta, ovr_delta) are still written as null, same as the
-# standalone script.
-# home_away is null because the source file has no home/away indicator;
-# the front-end falls back to "at".
+# Ratings-dependent fields are filled from this run's ratings (see
+# add_predictions) whenever both teams are rated:
+#   predicted_team_score = league_average + team OFF - opponent DEF
+#   predicted_opp_score  = league_average + opponent OFF - team DEF
+#   off_delta = team_score - predicted_team_score
+#   def_delta = predicted_opp_score - opp_score
+#   ovr_delta = off_delta + def_delta
+# Deltas only exist for completed, non-forfeit games. Predictions are
+# stored raw (unclamped, 2 decimals) -- the Sport Detail page handles
+# display. Caveat: past games are "predicted" with ratings that already
+# include those games, so the deltas mean "which games stood out", not a
+# true forecast miss. Unrated teams (out-of-state, EXCLUDED_TEAMS) -> null.
+# home_away is null because the source file has no home/away indicator.
 # "forfeit" and "overtime" are both carried through from the source file.
  
 def compute_result(team_score, opp_score):
@@ -1062,7 +1070,28 @@ def make_schedule_entry(game_date, opponent, team_score, opp_score, forfeit,
     }
  
  
-def build_schedule(games, season=SEASON_YEAR):
+def add_predictions(entry, team, opp, ratings, forfeit):
+    """Fill the five ratings-dependent fields on one schedule entry, in
+    place. ratings is (off_rating, def_rating, league_avg) or None."""
+    if not ratings:
+        return
+    off, dfn, league_avg = ratings
+    if team not in off or opp not in off:
+        return
+    pred_team = league_avg + off[team] - dfn[opp]
+    pred_opp  = league_avg + off[opp] - dfn[team]
+    entry["predicted_team_score"] = round(pred_team, 2)
+    entry["predicted_opp_score"]  = round(pred_opp, 2)
+    if entry["team_score"] is None or entry["opp_score"] is None or forfeit:
+        return
+    off_delta = entry["team_score"] - pred_team
+    def_delta = pred_opp - entry["opp_score"]
+    entry["off_delta"] = round(off_delta, 2)
+    entry["def_delta"] = round(def_delta, 2)
+    entry["ovr_delta"] = round(off_delta + def_delta, 2)
+ 
+ 
+def build_schedule(games, season=SEASON_YEAR, ratings=None):
     teams = {}
     for g in games:
         game_date = g.get("date")
@@ -1075,10 +1104,12 @@ def build_schedule(games, season=SEASON_YEAR):
             print(f"  Skipping malformed game (missing team name): {g}")
             continue
  
-        teams.setdefault(team1, []).append(
-            make_schedule_entry(game_date, team2, score1, score2, forfeit, overtime))
-        teams.setdefault(team2, []).append(
-            make_schedule_entry(game_date, team1, score2, score1, forfeit, overtime))
+        e1 = make_schedule_entry(game_date, team2, score1, score2, forfeit, overtime)
+        e2 = make_schedule_entry(game_date, team1, score2, score1, forfeit, overtime)
+        add_predictions(e1, team1, team2, ratings, forfeit)
+        add_predictions(e2, team2, team1, ratings, forfeit)
+        teams.setdefault(team1, []).append(e1)
+        teams.setdefault(team2, []).append(e2)
  
     # Chronological per team (ISO strings sort correctly; None dates last)
     for schedule in teams.values():
@@ -1419,17 +1450,15 @@ if __name__ == "__main__":
     save_games_json(schedule_games, OUTPUT_JSON_ALL)
     save_games_csv_all(schedule_games, OUTPUT_CSV_ALL)
  
-    print("\nBuilding schedule files...")
-    save_schedule(build_schedule(schedule_games))
- 
     print("\nChecking for missing scores...")
     save_missing_scores_report(schedule_games)
  
     print("\nSelecting completed games for ratings...")
     all_games = rated_games_from_all(schedule_games)
     if not all_games and not MANUAL_GAMES:
-        print("No completed games yet -- games/schedule files saved, "
-              "skipping ratings.")
+        print("No completed games yet -- saving schedule without "
+              "predictions, skipping ratings.")
+        save_schedule(build_schedule(schedule_games))
         exit(0)
  
     if MANUAL_GAMES:
@@ -1456,6 +1485,12 @@ if __name__ == "__main__":
  
     print(f"\nRunning ratings engine ({ITERATIONS} iterations)...")
     off_rating, def_rating, ovr_rating, league_avg = calculate_ratings(all_games)
+ 
+    # Schedule is built after the ratings so every game can carry its
+    # predicted scores and performance deltas (see add_predictions).
+    print("\nBuilding schedule files (with predictions)...")
+    save_schedule(build_schedule(schedule_games,
+                                 ratings=(off_rating, def_rating, league_avg)))
  
     print("\nSaving overall ratings JSON...")
     save_overall_json(off_rating, def_rating, ovr_rating, league_avg,
