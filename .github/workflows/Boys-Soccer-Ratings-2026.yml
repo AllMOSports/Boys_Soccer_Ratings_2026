@@ -59,6 +59,11 @@ jobs:
           git add boys_soccer_ratings_2026*.json \
                   boys_soccer_rankings_2026_*.csv \
                   boys_soccer_scoreboard_2026.csv
+          # Schedule outputs (formerly build_boys_soccer_schedule_2026.py).
+          # Skipped if the games file was missing -- that step is non-fatal.
+          for f in boys_soccer_schedule_2026.json boys_soccer_schedule_2026.csv; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
