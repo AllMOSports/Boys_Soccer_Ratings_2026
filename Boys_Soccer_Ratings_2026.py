@@ -64,6 +64,13 @@ REQUEST_DELAY         = 0.5   # seconds between scoreboard requests
 # --- Schedule files (formerly build_boys_soccer_schedule_2026.py) ---
 SCHEDULE_JSON_PATH    = f"boys_soccer_schedule_{SEASON_YEAR}.json"
 SCHEDULE_CSV_PATH     = f"boys_soccer_schedule_{SEASON_YEAR}.csv"
+ 
+# --- Missing-scores checklist ---
+# Past games (at least MISSING_SCORE_GRACE_DAYS old) with no score or only
+# one team's score. Fill them in via "score_corrections" in
+# MANUAL_OVERRIDES_PATH -- see save_missing_scores_report().
+MISSING_SCORES_CSV_PATH  = f"boys_soccer_missing_scores_{SEASON_YEAR}.csv"
+MISSING_SCORE_GRACE_DAYS = 2
 SCHOOLS_CSV           = "mshsaa_schools.csv"
 ITERATIONS            = 1000
 LEARNING_RATE         = 0.1
@@ -299,6 +306,15 @@ def resolve_name_or_raw(row, school_cell, id_to_classname, known_teams):
     # earlier, and don't reintroduce it here.
     if raw is not None and re.fullmatch(r"\(\s*,\s*\)", raw):
         raw = ""
+    # Some out-of-state names come through with the empty "(, )" template
+    # stuck on the end (e.g. "Rogers Heritage, AR(, )") -- trim it off so
+    # schedules show a clean name.
+    if raw:
+        raw = re.sub(r"\s*\(\s*,\s*\)\s*$", "", raw).strip()
+        # Stray capital "A" glued onto some names (e.g. "St. Louis UnitedA",
+        # "Trinity AcademyA") -- only when it follows a lowercase letter, so
+        # real all-caps endings like "HSA" are left alone.
+        raw = re.sub(r"(?<=[a-z])A$", "", raw)
     if raw and raw in known_teams:
         return raw, True
     if raw:
@@ -612,7 +628,7 @@ def load_schedule_score_corrections(path=MANUAL_OVERRIDES_PATH):
     opponent's real name will never come from classifications.json on its
     own), a score_corrections entry is intentionally NOT permanent: see
     apply_score_corrections() below -- it only fires while the scraped
-    score is still null. Once MSHSAA posts their own score for that game,
+    score is still incomplete. Once MSHSAA posts both scores for that game,
     the live scraped value takes over automatically and the entry just
     sits there harmlessly (no need to remove it after the fact).
     """
@@ -632,7 +648,8 @@ def load_schedule_score_corrections(path=MANUAL_OVERRIDES_PATH):
  
 def apply_schedule_score_corrections(all_games, score_corrections):
     """
-    For every game whose score1 AND score2 are both still None, checks it
+    For every game still missing EITHER score (unscored, or only one side
+    posted), checks it
     against the manual score_corrections list on (date, the unordered
     pair of team names) -- matched by NAME rather than team1/team2
     position, so this stays correct even if team1/team2 end up swapped
@@ -651,8 +668,8 @@ def apply_schedule_score_corrections(all_games, score_corrections):
  
     applied = 0
     for g in all_games:
-        if g["score1"] is not None or g["score2"] is not None:
-            continue  # site already has a score for this game -- it wins
+        if g["score1"] is not None and g["score2"] is not None:
+            continue  # site already has a full score for this game -- it wins
         key = (g["date"], frozenset([g["team1"], g["team2"]]))
         sc = index.get(key)
         if sc is None:
@@ -661,11 +678,83 @@ def apply_schedule_score_corrections(all_games, score_corrections):
             g["score1"], g["score2"] = sc["score1"], sc["score2"]
         else:
             g["score1"], g["score2"] = sc["score2"], sc["score1"]
+        # A score you filled in is a final result, so the game is rated.
+        g["_final"] = True
         applied += 1
  
     print(f"  [overrides] Filled in {applied} manually-provided score(s) "
           f"for game(s) MSHSAA hasn't posted a result for yet.")
     return all_games
+ 
+ 
+def drop_next_day_repeats(all_games):
+    """
+    Drop a SCORED game when the same two teams, with the same score, are
+    already listed on the previous day. MSHSAA's scoreboard lists a
+    two-day tournament's results under both dates -- on Sun 9/20/2026 every
+    game was a copy of Sat 9/19 in all three fall sports -- and the
+    same-day dedup can't catch that because the dates differ. The earlier
+    date is kept. Unscored games are never dropped here (a postponed game
+    can legitimately appear on back-to-back days).
+    """
+    def key(g):
+        return (frozenset([g["team1"], g["team2"]]),
+                frozenset([(g["team1"], g["score1"]), (g["team2"], g["score2"])]))
+ 
+    by_date = {}
+    for g in all_games:
+        by_date.setdefault(g["date"], set()).add(key(g))
+ 
+    kept, dropped = [], Counter()
+    for g in all_games:
+        if g["score1"] is not None and g["score2"] is not None:
+            prev = (date.fromisoformat(g["date"]) - timedelta(days=1)).isoformat()
+            if key(g) in by_date.get(prev, ()):
+                dropped[g["date"]] += 1
+                continue
+        kept.append(g)
+ 
+    if dropped:
+        print(f"  Dropped {sum(dropped.values())} scored game(s) repeated from "
+              f"the previous day: " +
+              ", ".join(f"{d} ({n})" for d, n in sorted(dropped.items())))
+    else:
+        print("  No next-day repeats found.")
+    return kept
+ 
+ 
+def save_missing_scores_report(all_games):
+    """
+    Write a checklist of past games still missing a score (none posted, or
+    only one team's posted), at least MISSING_SCORE_GRACE_DAYS old so
+    last night's games have time to be reported. To fill one in, add it
+    to "score_corrections" in MANUAL_OVERRIDES_PATH:
+        {"date": "2026-09-09", "team1": "Benton", "score1": 3,
+         "team2": "Kearney", "score2": 1}
+    Team order doesn't matter. Once MSHSAA posts both scores, theirs wins.
+    """
+    cutoff = (date.today() - timedelta(days=MISSING_SCORE_GRACE_DAYS)).isoformat()
+    rows = []
+    for g in all_games:
+        if g["date"] > cutoff:
+            continue
+        s1, s2 = g["score1"], g["score2"]
+        if s1 is not None and s2 is not None:
+            continue
+        rows.append({
+            "date": g["date"],
+            "problem": "no score" if s1 is None and s2 is None else "one team's score only",
+            "team1": g["team1"], "score1": s1,
+            "team2": g["team2"], "score2": s2,
+            "both_classified": g["team1_classified"] and g["team2_classified"],
+        })
+    rows.sort(key=lambda r: (r["problem"] != "one team's score only", r["date"]))
+    _write_dict_csv(MISSING_SCORES_CSV_PATH, rows,
+                    ["date", "problem", "team1", "score1", "team2", "score2",
+                     "both_classified"])
+    one_sided = sum(r["problem"] != "no score" for r in rows)
+    print(f"  {len(rows)} game(s) on or before {cutoff} still missing a score "
+          f"({one_sided} with only one team's score) -> {MISSING_SCORES_CSV_PATH}")
  
  
 def strict_games_from_all(all_games):
@@ -1319,6 +1408,7 @@ if __name__ == "__main__":
  
     print("\nDeduplicating games...")
     schedule_games = deduplicate_schedule_games(raw_games)
+    schedule_games = drop_next_day_repeats(schedule_games)
     strict_games = strict_games_from_all(schedule_games)
     print(f"Of those, {len(strict_games)} have both teams classified "
           f"({len(schedule_games) - len(strict_games)} have exactly one classified side).")
@@ -1331,6 +1421,9 @@ if __name__ == "__main__":
  
     print("\nBuilding schedule files...")
     save_schedule(build_schedule(schedule_games))
+ 
+    print("\nChecking for missing scores...")
+    save_missing_scores_report(schedule_games)
  
     print("\nSelecting completed games for ratings...")
     all_games = rated_games_from_all(schedule_games)
@@ -1379,4 +1472,3 @@ if __name__ == "__main__":
     report_teams_not_rated(ovr_rating, team_to_class)
  
     print("\n=== Done ===")
- 
