@@ -60,7 +60,8 @@ jobs:
           # and schedule builder).
           git add boys_soccer_games_2026.json boys_soccer_games_2026.csv \
                   boys_soccer_games_2026_all.json boys_soccer_games_2026_all.csv \
-                  boys_soccer_schedule_2026.json boys_soccer_schedule_2026.csv
+                  boys_soccer_schedule_2026.json boys_soccer_schedule_2026.csv \
+                  boys_soccer_missing_scores_2026.csv
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
