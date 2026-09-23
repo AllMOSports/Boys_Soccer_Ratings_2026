@@ -1,7 +1,16 @@
 name: Boys Soccer 2026 (games, schedule, ratings)
  
 on:
-  workflow_dispatch:            # manual only -- Actions tab > "Run workflow"
+  # Nightly at 2:00 AM Central, Aug-Nov. GitHub cron only runs on UTC,
+  # so there are two entries -- one for Daylight time (CDT, UTC-5) and one
+  # for Standard time (CST, UTC-6) -- and the "gate" job below lets only
+  # the one matching Chicago's current offset go ahead. That keeps it at
+  # 2:00 AM local all season, across the Nov 1 time change.
+  # GitHub can start scheduled runs late when it's busy (usually minutes).
+  schedule:
+    - cron: "0 7 * 8-11 *"     # 2:00 AM CDT
+    - cron: "0 8 * 8-11 *"     # 2:00 AM CST
+  workflow_dispatch:            # manual runs still work any time
  
 permissions:
   contents: write
@@ -11,7 +20,30 @@ concurrency:
   cancel-in-progress: false
  
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - id: check
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          ZONE=$(TZ=America/Chicago date +%Z)
+          RUN=false
+          if [ -z "$SCHEDULE" ]; then
+            RUN=true                                   # manual run
+          elif [ "$SCHEDULE" = "0 7 * 8-11 *" ] && [ "$ZONE" = "CDT" ]; then
+            RUN=true
+          elif [ "$SCHEDULE" = "0 8 * 8-11 *" ] && [ "$ZONE" = "CST" ]; then
+            RUN=true
+          fi
+          echo "Chicago is on $ZONE; trigger '${SCHEDULE:-manual}' -> run=$RUN"
+          echo "run=$RUN" >> "$GITHUB_OUTPUT"
+ 
   ratings:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 30
  
@@ -69,4 +101,3 @@ jobs:
           git commit -m "Update Boys Soccer 2026 games, schedule, ratings ($(date -u +'%Y-%m-%d'))"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
- 
