@@ -1,4 +1,4 @@
-name: Boys Soccer Ratings 2026
+name: Boys Soccer 2026 (games, schedule, ratings)
  
 on:
   workflow_dispatch:            # manual only -- Actions tab > "Run workflow"
@@ -38,7 +38,7 @@ jobs:
             fi
           done
  
-      - name: Run ratings
+      - name: Scrape, build schedule, run ratings
         run: python Boys_Soccer_Ratings_2026.py | tee ratings_log.txt
  
       - name: Flag teams not in ratings
@@ -48,9 +48,6 @@ jobs:
             echo "::warning::Some classification teams are not in the ratings -- see run log"
             sed -n '/TEAMS NOT INCLUDED IN RATINGS/,/^=====/p' ratings_log.txt >> "$GITHUB_STEP_SUMMARY"
           fi
-          if grep -q "could not be matched" ratings_log.txt; then
-            echo "::warning::Unmatched scoreboard names -- games were skipped. See run log."
-          fi
  
       - name: Commit and push outputs
         run: |
@@ -59,15 +56,16 @@ jobs:
           git add boys_soccer_ratings_2026*.json \
                   boys_soccer_rankings_2026_*.csv \
                   boys_soccer_scoreboard_2026.csv
-          # Schedule outputs (formerly build_boys_soccer_schedule_2026.py).
-          # Skipped if the games file was missing -- that step is non-fatal.
-          for f in boys_soccer_schedule_2026.json boys_soccer_schedule_2026.csv; do
-            if [ -f "$f" ]; then git add "$f"; fi
-          done
+          # Games + schedule files (formerly the separate games scraper
+          # and schedule builder).
+          git add boys_soccer_games_2026.json boys_soccer_games_2026.csv \
+                  boys_soccer_games_2026_all.json boys_soccer_games_2026_all.csv \
+                  boys_soccer_schedule_2026.json boys_soccer_schedule_2026.csv
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "Update Boys Soccer 2026 ratings ($(date -u +'%Y-%m-%d'))"
+          git commit -m "Update Boys Soccer 2026 games, schedule, ratings ($(date -u +'%Y-%m-%d'))"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
+ 
