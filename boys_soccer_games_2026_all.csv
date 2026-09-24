@@ -672,6 +672,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-09-15,Calvary Lutheran,True,0,Fulton,True,8,False,False
 2026-09-15,Lutheran North,True,1,Hancock,True,4,False,False
 2026-09-15,Warrensburg,True,1,Harrisonville,True,7,False,False
+2026-09-15,Faith Christian Academy,True,0,"Heritage Christian(Olathe, KS)",False,2,False,False
 2026-09-15,Camdenton,True,1,Hickman,True,4,False,False
 2026-09-15,DeSoto,True,6,Hillsboro,True,5,False,False
 2026-09-15,Orchard Farm,True,3,Holt,True,0,False,False
@@ -722,7 +723,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-09-15,St. Charles West,True,0,Winfield,True,1,False,False
 2026-09-15,Greenwood,True,,Central (Springfield),True,,False,False
 2026-09-15,Gateway Science Charter,True,,"FBA OFallon IL(O'Fallon, IL)",False,,False,False
-2026-09-15,Faith Christian Academy,True,,"Heritage Christian(Olathe, KS)",False,,False,False
 2026-09-15,North Kansas City,True,,Liberty North,True,,False,False
 2026-09-15,Chillicothe,True,,Maryville,True,,False,False
 2026-09-16,Mehlville,True,3,Affton,True,1,False,False
@@ -917,6 +917,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-09-21,Jefferson City,True,,Osage,True,,False,False
 2026-09-21,Liberty Christian Sr.,False,,Warrenton,True,,False,False
 2026-09-22,St. Mary's South Side,True,7,Affton,True,2,False,False
+2026-09-22,"KC East(Overland Park, KS)",False,6,Barstow,True,2,False,False
 2026-09-22,Capital City,True,2,Battle with Columbia Independent,True,1,False,False
 2026-09-22,Hancock,True,0,Bayless,True,2,False,False
 2026-09-22,Chillicothe,True,2,Benton,True,1,False,False
@@ -946,6 +947,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-09-22,Father Tolton,True,4,Kirksville,True,0,False,False
 2026-09-22,St. Paul Lutheran (Concordia),True,6,Knob Noster,True,1,False,False
 2026-09-22,Lindbergh,True,0,Ladue Horton Watkins,True,2,False,False
+2026-09-22,Francis Howell North,True,3,Lafayette (Wildwood),True,7,False,False
 2026-09-22,Webb City,True,2,Lebanon,True,3,False,False
 2026-09-22,Raymore-Peculiar,True,0,Lee's Summit,True,4,False,False
 2026-09-22,Liberty,True,0,Liberty North,True,1,False,False
@@ -970,48 +972,46 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-09-22,Marquette,True,4,Rockwood Summit,True,2,False,False
 2026-09-22,Lone Jack,True,0,Ruskin,True,1,False,False
 2026-09-22,Green Ridge with Cole Camp,True,0,Sacred Heart,True,4,False,False
+2026-09-22,Farmington,True,3,Seckman,True,0,False,False
 2026-09-22,Veritas Christian Academy,True,5,St. Charles West,True,0,False,False
 2026-09-22,La Monte,True,0,Stover,True,4,False,False
 2026-09-22,Central (St. Joseph),True,1,Summit Christian Academy,True,2,False,False
 2026-09-22,Trinity Academy,False,7,Thomas Jefferson Independent Day,True,0,False,False
 2026-09-22,Ft. Zumwalt West,True,3,Timberland,True,0,False,False
+2026-09-22,Crossroads College Preparatory,True,2,Valley Park,True,4,False,False
 2026-09-22,Smithville,True,0,Van Horn,True,7,False,False
 2026-09-22,Oak Grove,True,3,Warrensburg,True,2,False,False
 2026-09-22,Pacific,True,1,Warrenton,True,3,False,False
 2026-09-22,Duchesne,True,3,Whitfield,True,7,False,False
+2026-09-22,Fredericktown,True,0,Windsor (Imperial),True,4,False,False
 2026-09-22,Holt,True,2,Wright City,True,1,False,False
 2026-09-22,McDonald County,True,,Aurora,True,,False,False
-2026-09-22,"KC East(Overland Park, KS)",False,,Barstow,True,,False,False
 2026-09-22,Savannah,True,,Bishop LeBlond,True,,False,False
 2026-09-22,Guadalupe Centers Charter,True,,Cristo Rey,True,,False,False
 2026-09-22,McCluer,False,,Fox,True,,False,False
-2026-09-22,Francis Howell North,True,,Lafayette (Wildwood),True,,False,False
-2026-09-22,Farmington,True,,Seckman,True,,False,False
-2026-09-22,Crossroads College Preparatory,True,,Valley Park,True,,False,False
 2026-09-22,Rolla,True,,Waynesville,True,,False,False
 2026-09-22,Oak Park,True,,William Chrisman,True,,False,False
-2026-09-22,Fredericktown,True,,Windsor (Imperial),True,,False,False
-2026-09-23,Grandview,True,,Belton,True,,False,False
-2026-09-23,Kearney,True,,Benton,True,,False,False
-2026-09-23,Frontier STEM,True,,Central (Kansas City),True,,False,False
-2026-09-23,Mexico,True,,Elsberry,True,,False,False
+2026-09-23,Grandview,True,0,Belton,True,1,False,False
+2026-09-23,Kearney,True,6,Benton,True,4,False,False
+2026-09-23,Frontier STEM,True,1,Central (Kansas City),True,8,False,False
+2026-09-23,Mexico,True,1,Elsberry,True,2,False,False
+2026-09-23,Laquey with Richland,True,0,Hillcrest,True,2,False,False
+2026-09-23,McCluer North,True,3,Jennings,True,0,False,False
+2026-09-23,Bayless,True,0,John Burroughs,True,4,False,False
+2026-09-23,Parkway South,True,2,Lafayette (Wildwood),True,4,False,False
+2026-09-23,Ritenour,True,1,Northwest (Cedar Hill),True,5,False,False
+2026-09-23,Smithton,True,2,Odessa,True,3,False,False
+2026-09-23,Blue Springs South,True,2,Raymore-Peculiar,True,0,False,False
+2026-09-23,Pleasant Hill,True,3,St. Paul Lutheran (Concordia),True,2,False,False
+2026-09-23,STEAM Academy,True,1,University City,True,4,False,False
+2026-09-23,Wright City,True,0,Winfield,True,1,False,False
 2026-09-23,Barstow,True,,"Eudora(Eudora, KS)",False,,False,False
-2026-09-23,Laquey with Richland,True,,Hillcrest,True,,False,False
-2026-09-23,McCluer North,True,,Jennings,True,,False,False
-2026-09-23,Bayless,True,,John Burroughs,True,,False,False
-2026-09-23,Parkway South,True,,Lafayette (Wildwood),True,,False,False
 2026-09-23,Savannah,True,,Maryville,True,,False,False
-2026-09-23,Ritenour,True,,Northwest (Cedar Hill),True,,False,False
-2026-09-23,Smithton,True,,Odessa,True,,False,False
 2026-09-23,Smithville,True,,Park Hill,True,,False,False
 2026-09-23,Webster Groves,True,,Parkway Central,True,,False,False
 2026-09-23,Mehlville,True,,Parkway West,True,,False,False
-2026-09-23,Blue Springs South,True,,Raymore-Peculiar,True,,False,False
 2026-09-23,Truman,True,,Raytown South,True,,False,False
-2026-09-23,Pleasant Hill,True,,St. Paul Lutheran (Concordia),True,,False,False
-2026-09-23,STEAM Academy,True,,University City,True,,False,False
 2026-09-23,Staley,True,,Van Horn,True,,False,False
-2026-09-23,Wright City,True,,Winfield,True,,False,False
 2026-09-24,Guadalupe Centers Charter,True,,"F. L. Schlagle(Kansas City, KS)",False,,False,False
 2026-09-24,Metro,True,,Affton,True,,False,False
 2026-09-24,Parkview,True,,Aurora,True,,False,False
@@ -1675,7 +1675,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-09,Rock Bridge,True,,Ozark,True,,False,False
 2026-10-09,Parkway Central,True,,Westminster Christian Academy,True,,False,False
 2026-10-09,Lutheran North,True,,Whitfield,True,,False,False
-2026-10-09,DeSoto,True,,Windsor (Imperial),True,,False,False
 2026-10-10,Father Tolton,True,,Capital City,True,,False,False
 2026-10-10,"Blue Valley Northwest(Overland Park, KS)",False,,Chaminade College Prep,True,,False,False
 2026-10-10,"Sacred Heart Griffin(Springfield, IL)",False,,Christian Brothers College,True,,False,False
@@ -2183,6 +2182,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-24,Rock Bridge,True,,Kirkwood,True,,False,False
 2026-10-24,Parkway West,True,,Ladue Horton Watkins,True,,False,False
 2026-10-24,Truman,True,,Lee's Summit,True,,False,False
+2026-10-24,Paseo Academy,True,,Marshall,True,,False,False
 2026-10-24,Father Tolton,True,,Moberly,True,,False,False
 2026-10-24,Chaminade College Prep,True,,Priory,True,,False,False
 2026-10-24,St. Dominic,True,,Timberland,True,,False,False
