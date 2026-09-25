@@ -17,11 +17,9 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-16,no score,Canton,,"QND(Quincy, IL)",,False
 2026-09-16,no score,Parkway West,,Webster Groves,,True
 2026-09-16,no score,Raytown,,Winnetonka,,True
-2026-09-17,no score,Lone Jack,,Central (Kansas City),,True
 2026-09-17,no score,Hickman,,Ft. Zumwalt West,,True
 2026-09-17,no score,STEAM Academy,,Hazelwood East,,False
 2026-09-17,no score,Cardinal Ritter,,KIPP St. Louis Sr.,,False
-2026-09-17,no score,Ft. Zumwalt East,,Orchard Farm,,True
 2026-09-17,no score,Seckman,,"WATERLOO HIGH SCHOOL(WATERLOO, IL)",,False
 2026-09-17,no score,Fulton,,Wright City,,True
 2026-09-18,no score,Crossroads College Preparatory,,Chesterton Acad StL,,False
@@ -31,8 +29,8 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-21,no score,Jefferson City,,Osage,,True
 2026-09-21,no score,Liberty Christian Sr.,,Warrenton,,False
 2026-09-22,no score,McDonald County,,Aurora,,True
-2026-09-22,no score,Savannah,,Bishop LeBlond,,True
 2026-09-22,no score,Guadalupe Centers Charter,,Cristo Rey,,True
 2026-09-22,no score,McCluer,,Fox,,False
-2026-09-22,no score,Rolla,,Waynesville,,True
-2026-09-22,no score,Oak Park,,William Chrisman,,True
+2026-09-23,no score,Barstow,,"Eudora(Eudora, KS)",,False
+2026-09-23,no score,Webster Groves,,Parkway Central,,True
+2026-09-23,no score,Mehlville,,Parkway West,,True
