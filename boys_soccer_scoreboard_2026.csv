@@ -459,10 +459,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-11,Branson,2,Carthage,1
 2026-09-11,Willard,1,Cassville,1
 2026-09-11,New Covenant Academy,0,Central (Springfield),3
+2026-09-11,Hancock,5,Crossroads College Preparatory,0
 2026-09-11,Stover,3,Dixon,2
 2026-09-11,Rockwood Summit,3,Ft. Zumwalt East,0
 2026-09-11,Liberty North,2,Glendale,0
-2026-09-11,Crossroads College Preparatory,0,Hancock,5
 2026-09-11,Rolla,3,Hannibal,3
 2026-09-11,Waynesville,4,Joplin,2
 2026-09-11,Springfield Catholic,3,Kickapoo,0
@@ -617,6 +617,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-16,Knob Noster,0,Smithton,4
 2026-09-16,Gateway with Soldan International Studies,1,St. Mary's South Side,7
 2026-09-16,Excelsior Springs,6,Truman,1
+2026-09-16,Parkway West,3,Webster Groves,2
 2026-09-16,Collegiate School of Med-Bio Science with McKinley Classical Leadership,1,Whitfield,3
 2026-09-16,Marshall,1,William Chrisman,0
 2026-09-17,Valley Park,0,Bayless,1
@@ -761,6 +762,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-22,Parkway West,0,Chaminade College Prep,2
 2026-09-22,Priory,0,Christian Brothers College,1
 2026-09-22,Vianney,2,Clayton,1
+2026-09-22,Guadalupe Centers Charter,6,Cristo Rey,1
 2026-09-22,Eugene,1,Dixon,5
 2026-09-22,Center,7,Ewing Marion Kauffman with University Academy Charter,1
 2026-09-22,Ft. Zumwalt East,1,Francis Howell,2
@@ -825,35 +827,49 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-23,Ritenour,1,Northwest (Cedar Hill),5
 2026-09-23,Smithton,2,Odessa,3
 2026-09-23,Smithville,0,Park Hill,6
+2026-09-23,Mehlville,0,Parkway West,4
 2026-09-23,Blue Springs South,2,Raymore-Peculiar,0
 2026-09-23,Truman,7,Raytown South,0
 2026-09-23,Pleasant Hill,3,St. Paul Lutheran (Concordia),2
 2026-09-23,STEAM Academy,1,University City,4
 2026-09-23,Staley,2,Van Horn,2
 2026-09-23,Wright City,0,Winfield,1
+2026-09-24,Metro,4,Affton,4
+2026-09-24,Parkview,4,Aurora,1
+2026-09-24,St. Pius X (Kansas City),3,Bishop LeBlond,0
 2026-09-24,Lee's Summit North,2,Blue Springs,3
 2026-09-24,Fair Grove,1,Bolivar,2
 2026-09-24,Fatima,0,Boonville,8
 2026-09-24,Valley Park,1,Brentwood,2
 2026-09-24,Maryville,4,Cameron,3
 2026-09-24,New Heights Christian with McAuley Catholic,0,Carl Junction,2
+2026-09-24,Clinton,1,Center,2
 2026-09-24,Festus,0,Central (Cape Girardeau),2
+2026-09-24,Fort Osage,2,Central (St. Joseph),0
+2026-09-24,Excelsior Springs,4,Chillicothe,0
 2026-09-24,Francis Howell Central,1,Christian Brothers College,2
 2026-09-24,SLUH,2,De Smet Jesuit,0
 2026-09-24,Warrenton,0,Duchesne,2
 2026-09-24,Frontier STEM,0,East (Kansas City),8
 2026-09-24,Wright City,1,Elsberry,0
+2026-09-24,Clayton,2,Eureka,1
 2026-09-24,Timberland,1,Francis Howell North,2
+2026-09-24,Kennett,2,Fredericktown,10
 2026-09-24,Washington,0,Ft. Zumwalt East,2
 2026-09-24,Ladue Horton Watkins,4,Ft. Zumwalt South,3
 2026-09-24,Hickman,1,Ft. Zumwalt West,3
 2026-09-24,Ft. Zumwalt North,2,Hannibal,1
+2026-09-24,Knob Noster,0,Harrisonville,8
+2026-09-24,Perryville,0,Jackson,7
 2026-09-24,Kickapoo,2,Joplin,4
+2026-09-24,Oak Park,1,Kearney,0
 2026-09-24,Oakville,1,Kirkwood,0
 2026-09-24,Lee's Summit,0,Lee's Summit West,1
 2026-09-24,Park Hill South,3,Liberty,1
+2026-09-24,St. Michael the Archangel,3,Lincoln College Prep,7
 2026-09-24,Mehlville,0,Lindbergh,2
 2026-09-24,Raytown South,0,Lone Jack,5
+2026-09-24,St. Mary's South Side,2,Lutheran South,3
 2026-09-24,Capital City,0,Marshall,1
 2026-09-24,Winfield,4,Mexico,0
 2026-09-24,Lebanon,0,Neosho,7
@@ -862,7 +878,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-24,Odessa,0,Oak Grove,3
 2026-09-24,Van Horn,2,Park Hill,0
 2026-09-24,St. Charles,5,Pattonville,1
+2026-09-24,MICDS,3,Principia,2
 2026-09-24,Waynesville,2,Republic,0
+2026-09-24,Liberty (Wentzville),3,Rock Bridge,2
 2026-09-24,Springfield Catholic,3,Rolla,0
 2026-09-24,Poplar Bluff,2,Sikeston,6
 2026-09-24,Osage,0,Smith-Cotton,4
@@ -871,9 +889,20 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-24,Helias Catholic,2,Southern Boone,1
 2026-09-24,Troy Buchanan,6,St. Charles West,0
 2026-09-24,Father Tolton,5,St. Francis Borgia,0
+2026-09-24,Union,1,St. Pius X (Festus),2
 2026-09-24,Green Ridge with Cole Camp,0,Stover,2
 2026-09-24,Holt,3,Sullivan,4
 2026-09-24,Chaminade College Prep,3,Vianney,0
 2026-09-24,Glendale,3,Webb City,1
 2026-09-24,Priory,2,Whitfield,1
 2026-09-24,Nixa,8,Willard,0
+2026-09-25,Cristo Rey,0,Barstow,8
+2026-09-25,Central (Springfield),2,Belton,4
+2026-09-25,Aurora,0,Greenwood,3
+2026-09-25,Lutheran St. Charles,0,Helias Catholic,5
+2026-09-25,Kirksville,3,Hillsboro,0
+2026-09-25,Smith-Cotton,2,North Kansas City,0
+2026-09-25,Christian Fellowship Sr. with Hallsville,1,Paseo Academy,2
+2026-09-25,Raytown,3,Pembroke Hill,5
+2026-09-25,Camdenton,3,Southern Boone,2
+2026-09-25,Parkway North,1,Whitfield,0
