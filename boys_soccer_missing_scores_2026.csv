@@ -21,21 +21,23 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-17,no score,Cardinal Ritter,,KIPP St. Louis Sr.,,False
 2026-09-17,no score,Seckman,,"WATERLOO HIGH SCHOOL(WATERLOO, IL)",,False
 2026-09-17,no score,Fulton,,Wright City,,True
-2026-09-18,no score,Brentwood,,Crossroads College Preparatory,,True
 2026-09-18,no score,Gateway Science Charter,,Gateway Legacy Sr. H.,,False
 2026-09-21,no score,"QHS(Quincy, IL)",,Canton,,False
 2026-09-21,no score,Jefferson City,,Osage,,True
 2026-09-21,no score,Liberty Christian Sr.,,Warrenton,,False
 2026-09-22,no score,McDonald County,,Aurora,,True
-2026-09-23,no score,Webster Groves,,Parkway Central,,True
 2026-09-24,no score,Northland Christian,,"Bishop Seabury(Lawrence, KS)",,False
 2026-09-24,no score,Windsor (Imperial),,Brentwood,,True
 2026-09-24,no score,Ozark,,Carthage,,True
-2026-09-24,no score,Fulton,,Crocker,,True
 2026-09-24,no score,Iberia,,Dixon,,True
 2026-09-24,no score,"Bishop Ward(Kansas City, KS)",,Faith Christian Academy,,False
-2026-09-24,no score,Marquette,,Francis Howell,,True
-2026-09-24,no score,Dexter,,Notre Dame (Cape Girardeau),,True
 2026-09-24,no score,Benton,,Platte County,,True
 2026-09-24,no score,Warrensburg,,Pleasant Hill,,True
 2026-09-24,no score,Parkway West,,Seckman,,True
+2026-09-25,no score,Bishop DuBourg,,Affton,,True
+2026-09-25,no score,St. Charles West,,"Pattonville(St. Charles, MO)",,False
+2026-09-25,no score,Jefferson City,,"Quincy(Quincy, IL)",,False
+2026-09-26,no score,Lutheran St. Charles,,Jefferson City,,True
+2026-09-26,no score,Missouri Military Academy,,Kirksville,,True
+2026-09-26,no score,Jefferson City,,"Lutheran St. Charles(St. Charles, MO)",,False
+2026-09-26,no score,St. Mary's South Side,,Metro,,True

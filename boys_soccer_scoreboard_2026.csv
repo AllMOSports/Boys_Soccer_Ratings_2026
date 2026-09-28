@@ -632,7 +632,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-17,Southern Boone,6,Christian Fellowship Sr. with Hallsville,1
 2026-09-17,Lafayette (Wildwood),2,Clayton,0
 2026-09-17,Harrisonville,1,Clinton,0
-2026-09-17,Festus,7,DeSoto,6
+2026-09-17,Festus,1,DeSoto,0
 2026-09-17,Calvary Lutheran,3,Dixon,6
 2026-09-17,Northeast (Kansas City),9,East (Kansas City),3
 2026-09-17,Hancock,2,Elsberry,1
@@ -827,6 +827,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-23,Ritenour,1,Northwest (Cedar Hill),5
 2026-09-23,Smithton,2,Odessa,3
 2026-09-23,Smithville,0,Park Hill,6
+2026-09-23,Webster Groves,2,Parkway Central,0
 2026-09-23,Mehlville,0,Parkway West,4
 2026-09-23,Blue Springs South,2,Raymore-Peculiar,0
 2026-09-23,Truman,7,Raytown South,0
@@ -848,11 +849,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-24,Fort Osage,2,Central (St. Joseph),0
 2026-09-24,Excelsior Springs,4,Chillicothe,0
 2026-09-24,Francis Howell Central,1,Christian Brothers College,2
+2026-09-24,Fulton,2,Crocker,1
 2026-09-24,SLUH,2,De Smet Jesuit,0
 2026-09-24,Warrenton,0,Duchesne,2
 2026-09-24,Frontier STEM,0,East (Kansas City),8
 2026-09-24,Wright City,1,Elsberry,0
 2026-09-24,Clayton,2,Eureka,1
+2026-09-24,Marquette,4,Francis Howell,3
 2026-09-24,Timberland,1,Francis Howell North,2
 2026-09-24,Kennett,2,Fredericktown,10
 2026-09-24,Washington,0,Ft. Zumwalt East,2
@@ -875,6 +878,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-24,Lebanon,0,Neosho,7
 2026-09-24,Monett,2,New Covenant Academy,0
 2026-09-24,DeSoto,4,North County,3
+2026-09-24,Dexter,0,Notre Dame (Cape Girardeau),9
 2026-09-24,Odessa,0,Oak Grove,3
 2026-09-24,Van Horn,2,Park Hill,0
 2026-09-24,St. Charles,5,Pattonville,1
@@ -898,11 +902,45 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-24,Nixa,8,Willard,0
 2026-09-25,Cristo Rey,0,Barstow,8
 2026-09-25,Central (Springfield),2,Belton,4
+2026-09-25,Fair Grove,6,Green Ridge with Cole Camp,2
 2026-09-25,Aurora,0,Greenwood,3
 2026-09-25,Lutheran St. Charles,0,Helias Catholic,5
+2026-09-25,Summit Christian Academy,0,Hickman,6
 2026-09-25,Kirksville,3,Hillsboro,0
+2026-09-25,Westminster Christian Academy,8,Lutheran North,0
+2026-09-25,Battle with Columbia Independent,2,Lutheran St. Charles,2
+2026-09-25,Hancock,0,Maplewood-Richmond Hts.,7
+2026-09-25,Missouri Military Academy,0,Moberly,2
 2026-09-25,Smith-Cotton,2,North Kansas City,0
+2026-09-25,Nixa,2,Parkway South,1
 2026-09-25,Christian Fellowship Sr. with Hallsville,1,Paseo Academy,2
 2026-09-25,Raytown,3,Pembroke Hill,5
 2026-09-25,Camdenton,3,Southern Boone,2
+2026-09-25,Troy Buchanan,1,St. Charles,2
+2026-09-25,North Point,2,Veritas Christian Academy,1
+2026-09-25,Rockwood Summit,2,Webster Groves,1
 2026-09-25,Parkway North,1,Whitfield,0
+2026-09-26,Lutheran South,5,Affton,4
+2026-09-26,Republic,1,Camdenton,2
+2026-09-26,Winfield,4,Elsberry,0
+2026-09-26,De Smet Jesuit,1,Francis Howell,2
+2026-09-26,St. Dominic,0,Francis Howell Central,0
+2026-09-26,Ft. Zumwalt West,2,Ft. Zumwalt East,0
+2026-09-26,Warrenton,6,Fulton,0
+2026-09-26,North Kansas City,3,Hickman,4
+2026-09-26,Moberly,4,Hillsboro,3
+2026-09-26,Christian Fellowship Sr. with Hallsville,1,Hillsboro,4
+2026-09-26,MICDS,1,John Burroughs,3
+2026-09-26,Branson,4,Kickapoo,2
+2026-09-26,Christian Fellowship Sr. with Hallsville,1,Kirksville,8
+2026-09-26,Central (Springfield),2,Lone Jack,0
+2026-09-26,Nixa,1,Marquette,0
+2026-09-26,Wright City,1,Mexico,0
+2026-09-26,Paseo Academy,2,Moberly,4
+2026-09-26,SLUH,1,Oakville,0
+2026-09-26,Missouri Military Academy,7,Paseo Academy,1
+2026-09-26,Farmington,1,Priory,4
+2026-09-26,Summit Christian Academy,2,Smith-Cotton,1
+2026-09-26,Father Tolton,3,St. Paul Lutheran (Concordia),0
+2026-09-26,Ladue Horton Watkins,1,Vianney,0
+2026-09-26,Capital City,3,West Plains,2
