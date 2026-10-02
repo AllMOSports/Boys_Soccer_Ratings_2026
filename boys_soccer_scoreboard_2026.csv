@@ -411,6 +411,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-10,St. Paul Lutheran (Concordia),6,Green Ridge with Cole Camp,0
 2026-09-10,Willard,3,Hillcrest,2
 2026-09-10,St. Francis Borgia,3,Hillsboro,1
+2026-09-10,Fatima,0,Jefferson City,8
 2026-09-10,Ladue Horton Watkins,1,John Burroughs,2
 2026-09-10,Fair Grove,0,Joplin,3
 2026-09-10,Mehlville,1,Lafayette (Wildwood),5
@@ -845,6 +846,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-24,Valley Park,1,Brentwood,2
 2026-09-24,Maryville,4,Cameron,3
 2026-09-24,New Heights Christian with McAuley Catholic,0,Carl Junction,2
+2026-09-24,Ozark,1,Carthage,0
 2026-09-24,Clinton,1,Center,2
 2026-09-24,Festus,0,Central (Cape Girardeau),2
 2026-09-24,Fort Osage,2,Central (St. Joseph),0
@@ -975,6 +977,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-28,Winnetonka,1,Kearney,4
 2026-09-28,Saxony Lutheran with St. Vincent,8,Kennett,0
 2026-09-28,Aurora,1,Laquey with Richland,6
+2026-09-28,Fatima,0,Mexico,3
 2026-09-28,Troy Buchanan,3,Missouri Military Academy,1
 2026-09-28,Lincoln College Prep,1,Northeast (Kansas City),4
 2026-09-28,Affton,0,Northwest (Cedar Hill),7
@@ -997,6 +1000,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-29,Logan-Rogersville,3,Branson,0
 2026-09-29,Battle with Columbia Independent,0,Camdenton,2
 2026-09-29,Helias Catholic,3,Capital City,0
+2026-09-29,Barstow,1,Center,0
 2026-09-29,Perryville,1,Clayton,7
 2026-09-29,Summit Christian Academy,1,Clinton,0
 2026-09-29,St. Dominic,3,De Smet Jesuit,0
@@ -1041,6 +1045,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-29,Collegiate School of Med-Bio Science with McKinley Classical Leadership,3,Roosevelt,1
 2026-09-29,Smithton,0,Sacred Heart,1
 2026-09-29,Cameron,0,Savannah,8
+2026-09-29,Mehlville,1,SLUH,5
 2026-09-29,Rock Bridge,2,Smith-Cotton,0
 2026-09-29,Mexico,1,Southern Boone,7
 2026-09-29,Father Tolton,2,St. Charles,3
@@ -1056,6 +1061,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-29,John Burroughs,8,Whitfield,1
 2026-09-30,West Plains,3,Bolivar,2
 2026-09-30,Cardinal Ritter,0,Festus,8
+2026-09-30,Frontier School of Excellence Charter,0,Guadalupe Centers Charter,1
 2026-09-30,Hickman,5,Hannibal,0
 2026-09-30,Rolla,1,Helias Catholic,4
 2026-09-30,Knob Noster,0,La Monte,2
@@ -1064,4 +1070,44 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-30,Raytown South,0,Raytown,9
 2026-09-30,Belton,2,Smithville,3
 2026-09-30,Wright City,1,Southern Boone,9
+2026-09-30,Cameron,0,St. Pius X (Kansas City),8
 2026-09-30,Elsberry,0,Warrenton,8
+2026-10-01,Van Horn,8,Barstow,0
+2026-10-01,Blue Springs,2,Blue Springs South,1
+2026-10-01,Northwest (Cedar Hill),4,Camdenton,0
+2026-10-01,Francis Howell North,1,Carthage,0
+2026-10-01,Clayton,1,Christian Brothers College,0
+2026-10-01,Lutheran South,4,DeSoto,1
+2026-10-01,Lincoln College Prep,5,East (Kansas City),3
+2026-10-01,Iberia,0,Eugene,8
+2026-10-01,Northeast (Kansas City),9,Ewing Marion Kauffman with University Academy Charter,0
+2026-10-01,Ft. Zumwalt West,1,Farmington,0
+2026-10-01,Ritenour,1,Fox,3
+2026-10-01,Francis Howell Central,4,Ft. Zumwalt East,0
+2026-10-01,Duchesne,0,Ft. Zumwalt North,2
+2026-10-01,SLUH,3,Ft. Zumwalt South,0
+2026-10-01,Logan-Rogersville,0,Glendale,1
+2026-10-01,Brentwood,2,Hancock,0
+2026-10-01,Nixa,3,Jackson,1
+2026-10-01,Lee's Summit West,4,Kickapoo,1
+2026-10-01,Kirkwood,1,Lindbergh,2
+2026-10-01,Branson,2,Neosho,1
+2026-10-01,Cassville,0,New Heights Christian with McAuley Catholic,1
+2026-10-01,Lee's Summit North,6,Oak Park,0
+2026-10-01,North Kansas City,0,Park Hill,1
+2026-10-01,Grandview,0,Raymore-Peculiar,3
+2026-10-01,Lebanon,0,Republic,1
+2026-10-01,Oakville,6,Rockwood Summit,1
+2026-10-01,Gateway with Soldan International Studies,1,Roosevelt,0
+2026-10-01,Dexter,0,Saxony Lutheran with St. Vincent,8
+2026-10-01,Westminster Christian Academy,2,St. Dominic,3
+2026-10-01,Sullivan,3,STEAM Academy,0
+2026-10-01,Truman,1,Summit Christian Academy,2
+2026-10-01,Chaminade College Prep,3,Timberland,0
+2026-10-01,Capital City,0,Troy Buchanan,1
+2026-10-01,Pacific,0,Union,2
+2026-10-01,Jennings,0,University City,8
+2026-10-01,Webster Groves,1,Vianney,4
+2026-10-01,Father Tolton,4,Warrenton,1
+2026-10-01,Waynesville,1,Willard,2
+2026-10-01,North Point,8,Wright City,0
