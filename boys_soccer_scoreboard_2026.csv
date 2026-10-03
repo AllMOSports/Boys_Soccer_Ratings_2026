@@ -1029,6 +1029,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-29,Warrensburg,0,Marshall,7
 2026-09-29,Greenwood,3,Marshfield,0
 2026-09-29,Chillicothe,2,Maryville,1
+2026-09-29,SLUH,5,Mehlville,1
 2026-09-29,Kirksville,2,Missouri Military Academy,0
 2026-09-29,Aurora,0,Monett,3
 2026-09-29,Republic,0,Nixa,7
@@ -1045,7 +1046,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-29,Collegiate School of Med-Bio Science with McKinley Classical Leadership,3,Roosevelt,1
 2026-09-29,Smithton,0,Sacred Heart,1
 2026-09-29,Cameron,0,Savannah,8
-2026-09-29,Mehlville,1,SLUH,5
 2026-09-29,Rock Bridge,2,Smith-Cotton,0
 2026-09-29,Mexico,1,Southern Boone,7
 2026-09-29,Father Tolton,2,St. Charles,3
@@ -1078,6 +1078,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-01,Francis Howell North,1,Carthage,0
 2026-10-01,Clayton,1,Christian Brothers College,0
 2026-10-01,Lutheran South,4,DeSoto,1
+2026-10-01,Fatima,0,Dixon,1
 2026-10-01,Lincoln College Prep,5,East (Kansas City),3
 2026-10-01,Iberia,0,Eugene,8
 2026-10-01,Northeast (Kansas City),9,Ewing Marion Kauffman with University Academy Charter,0
@@ -1091,15 +1092,19 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-01,Nixa,3,Jackson,1
 2026-10-01,Lee's Summit West,4,Kickapoo,1
 2026-10-01,Kirkwood,1,Lindbergh,2
+2026-10-01,Ladue Horton Watkins,0,Marquette,1
 2026-10-01,Branson,2,Neosho,1
 2026-10-01,Cassville,0,New Heights Christian with McAuley Catholic,1
 2026-10-01,Lee's Summit North,6,Oak Park,0
 2026-10-01,North Kansas City,0,Park Hill,1
+2026-10-01,Holt,1,Parkway North,2
+2026-10-01,Lafayette (Wildwood),2,Parkway West,3
 2026-10-01,Grandview,0,Raymore-Peculiar,3
 2026-10-01,Lebanon,0,Republic,1
 2026-10-01,Oakville,6,Rockwood Summit,1
 2026-10-01,Gateway with Soldan International Studies,1,Roosevelt,0
 2026-10-01,Dexter,0,Saxony Lutheran with St. Vincent,8
+2026-10-01,Pattonville,5,St. Charles West,0
 2026-10-01,Westminster Christian Academy,2,St. Dominic,3
 2026-10-01,Sullivan,3,STEAM Academy,0
 2026-10-01,Truman,1,Summit Christian Academy,2
@@ -1110,4 +1115,24 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-01,Webster Groves,1,Vianney,4
 2026-10-01,Father Tolton,4,Warrenton,1
 2026-10-01,Waynesville,1,Willard,2
+2026-10-01,Hillsboro,3,Windsor (Imperial),2
 2026-10-01,North Point,8,Wright City,0
+2026-10-02,Lone Jack,0,Barstow,2
+2026-10-02,St. Mary's South Side,5,Bishop DuBourg,1
+2026-10-02,Gateway Science Charter,1,Brentwood,4
+2026-10-02,Lee's Summit West,1,Carthage,0
+2026-10-02,Osage,0,Central (Springfield),5
+2026-10-02,Branson,2,Francis Howell North,3
+2026-10-02,Jackson,2,Glendale,3
+2026-10-02,Sacred Heart,0,Greenwood,4
+2026-10-02,Neosho,1,Logan-Rogersville,3
+2026-10-02,Jennings,0,Lutheran North,9
+2026-10-02,Crossroads College Preparatory,0,Maplewood-Richmond Hts.,8
+2026-10-02,Washington,6,Nixa,0
+2026-10-02,Hannibal,0,Northwest (Cedar Hill),7
+2026-10-02,Capital City,1,Parkway North,6
+2026-10-02,Rolla,1,Poplar Bluff,2
+2026-10-02,John Burroughs,2,Principia,1
+2026-10-02,Veritas Christian Academy,1,St. Charles,5
+2026-10-02,Bayless,0,Valley Park,1
+2026-10-02,Collegiate School of Med-Bio Science with McKinley Classical Leadership,4,Winfield,3

@@ -22,7 +22,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-22,no score,McDonald County,,Aurora,,True
 2026-09-24,no score,Northland Christian,,"Bishop Seabury(Lawrence, KS)",,False
 2026-09-24,no score,Parkway West,,Seckman,,True
-2026-09-28,no score,Gateway Science Charter,,St. Louis United,,False
 2026-09-29,no score,Pleasant Hill,,Lone Jack,,True
 2026-09-29,no score,Priory,,Lutheran North,,True
 2026-09-29,no score,Faith Christian Academy,,"Maranatha Christian(Shawnee, KS)",,False
@@ -30,6 +29,26 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-29,no score,Winnetonka,,Platte County,,True
 2026-09-30,no score,Bishop DuBourg,,Bayless,,True
 2026-09-30,no score,Winnetonka,,Platte County,,True
-2026-09-30,no score,Gateway Science Charter,,"Valmeyer(Valmeyer , IL)",,False
 2026-09-30,no score,Eureka,,Webster Groves,,True
 2026-09-30,no score,Ruskin,,William Chrisman,,True
+2026-10-01,no score,Maryville,,Bishop LeBlond,,True
+2026-10-01,no score,Knob Noster,,Boonville,,True
+2026-10-01,no score,Smithville,,Central (St. Joseph),,True
+2026-10-01,no score,Frontier STEM,,Cristo Rey,,True
+2026-10-01,no score,Guadalupe Centers Charter,,"JC Harmon(Kansas City, KS)",,False
+2026-10-01,no score,Fredericktown,,Kennett,,True
+2026-10-01,no score,Marshall,,Kirksville,,True
+2026-10-01,no score,Sunnydale Adventist Acad HS,,La Monte,,False
+2026-10-01,no score,Platte County,,Liberty,,True
+2026-10-01,no score,Northland Christian,,Lutheran (Kansas City),,True
+2026-10-01,no score,Crossroads College Preparatory,,Lutheran North,,True
+2026-10-01,no score,Laquey with Richland,,Marshfield,,True
+2026-10-01,no score,"Sumner(Kansas City, KS)",,Moberly,,False
+2026-10-01,no score,Harrisonville,,Oak Grove,,True
+2026-10-01,no score,Pleasant Hill,,Odessa,,True
+2026-10-01,no score,Parkway South,,"O'Fallon Township(O'Fallon, IL)",,False
+2026-10-01,no score,"Father McGivney(Glen Carbon, IL)",,Priory,,False
+2026-10-01,no score,Belton,,Raytown,,True
+2026-10-01,no score,Stover,,Smithton,,True
+2026-10-01,no score,Chillicothe,,St. Paul Lutheran (Concordia),,True
+2026-10-01,no score,Carthage,,Thomas Jefferson Independent Day,,True
