@@ -2234,6 +2234,17 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Parkway South",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Seckman",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "St. Mary's South Side",
     "team1_classified": true,
     "score1": 0,
@@ -2438,17 +2449,6 @@
     "team2": "Winnetonka",
     "team2_classified": true,
     "score2": 1,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Parkway South",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Seckman",
-    "team2_classified": true,
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },
@@ -10033,6 +10033,17 @@
   },
   {
     "date": "2026-09-22",
+    "team1": "McDonald County",
+    "team1_classified": true,
+    "score1": 5,
+    "team2": "Aurora",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-09-22",
     "team1": "KC East(Overland Park, KS)",
     "team1_classified": false,
     "score1": 6,
@@ -10820,17 +10831,6 @@
     "team2": "Wright City",
     "team2_classified": true,
     "score2": 1,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-09-22",
-    "team1": "McDonald County",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Aurora",
-    "team2_classified": true,
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },
@@ -14576,6 +14576,17 @@
   },
   {
     "date": "2026-10-01",
+    "team1": "Parkway South",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "O'Fallon Township(O'Fallon, IL)",
+    "team2_classified": false,
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-01",
     "team1": "North Kansas City",
     "team1_classified": true,
     "score1": 0,
@@ -14873,17 +14884,6 @@
   },
   {
     "date": "2026-10-01",
-    "team1": "Knob Noster",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Boonville",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-01",
     "team1": "Frontier STEM",
     "team1_classified": true,
     "score1": null,
@@ -14972,17 +14972,6 @@
   },
   {
     "date": "2026-10-01",
-    "team1": "Sumner(Kansas City, KS)",
-    "team1_classified": false,
-    "score1": null,
-    "team2": "Moberly",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-01",
     "team1": "Harrisonville",
     "team1_classified": true,
     "score1": null,
@@ -14999,17 +14988,6 @@
     "score1": null,
     "team2": "Odessa",
     "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-01",
-    "team1": "Parkway South",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "O'Fallon Township(O'Fallon, IL)",
-    "team2_classified": false,
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -15159,6 +15137,17 @@
   },
   {
     "date": "2026-10-02",
+    "team1": "Rolla",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Jefferson City",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-02",
     "team1": "Lutheran (Kansas City)",
     "team1_classified": true,
     "score1": 0,
@@ -15198,6 +15187,17 @@
     "team2": "Lutheran North",
     "team2_classified": true,
     "score2": 9,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-02",
+    "team1": "Westminster Christian Academy",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Lutheran St. Charles",
+    "team2_classified": true,
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
@@ -15291,6 +15291,17 @@
   },
   {
     "date": "2026-10-02",
+    "team1": "Orchard Farm",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "St. Pius X (Festus)",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-02",
     "team1": "Bayless",
     "team1_classified": true,
     "score1": 0,
@@ -15328,39 +15339,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Ewing Marion Kauffman with University Academy Charter",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-02",
-    "team1": "Kickapoo",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Francis Howell North",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-02",
-    "team1": "Westminster Christian Academy",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Lutheran St. Charles",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-02",
-    "team1": "Orchard Farm",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "St. Pius X (Festus)",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -15456,6 +15434,17 @@
   },
   {
     "date": "2026-10-03",
+    "team1": "Francis Howell",
+    "team1_classified": true,
+    "score1": 5,
+    "team2": "Ft. Zumwalt East",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-03",
     "team1": "De Smet Jesuit",
     "team1_classified": true,
     "score1": 0,
@@ -15484,6 +15473,28 @@
     "team2": "Iberia",
     "team2_classified": true,
     "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-03",
+    "team1": "Kickapoo",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Jackson",
+    "team2_classified": true,
+    "score2": 4,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-03",
+    "team1": "Poplar Bluff",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Jefferson City",
+    "team2_classified": true,
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
@@ -15577,6 +15588,17 @@
   },
   {
     "date": "2026-10-03",
+    "team1": "Clayton",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Parkway Central",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-03",
     "team1": "Neosho",
     "team1_classified": true,
     "score1": 1,
@@ -15605,6 +15627,17 @@
     "team2": "SLUH",
     "team2_classified": true,
     "score2": 7,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-03",
+    "team1": "Rockhurst",
+    "team1_classified": true,
+    "score1": 8,
+    "team2": "St Thomas Aquinas(Overland Park, KS)",
+    "team2_classified": false,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
@@ -15665,66 +15698,11 @@
   },
   {
     "date": "2026-10-03",
-    "team1": "Francis Howell",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Ft. Zumwalt East",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-03",
-    "team1": "Kickapoo",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Jackson",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-03",
-    "team1": "Poplar Bluff",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Jefferson City",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-03",
     "team1": "Logan-Rogersville",
     "team1_classified": true,
     "score1": null,
     "team2": "Joplin",
     "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-03",
-    "team1": "Clayton",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Parkway Central",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-03",
-    "team1": "Rockhurst",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "St Thomas Aquinas(Overland Park, KS)",
-    "team2_classified": false,
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -17139,6 +17117,17 @@
   },
   {
     "date": "2026-10-07",
+    "team1": "Sumner(Kansas City, KS)",
+    "team1_classified": false,
+    "score1": null,
+    "team2": "Moberly",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-07",
     "team1": "Raytown",
     "team1_classified": true,
     "score1": null,
@@ -17726,17 +17715,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Missouri Military Academy",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-08",
-    "team1": "Kickapoo",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Neosho",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -23299,6 +23277,17 @@
   },
   {
     "date": "2026-10-22",
+    "team1": "Paseo Academy",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Knob Noster",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-22",
     "team1": "Pleasant Hill",
     "team1_classified": true,
     "score1": null,
@@ -23996,6 +23985,17 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Ladue Horton Watkins",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Central (Springfield)",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Laquey with Richland",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
