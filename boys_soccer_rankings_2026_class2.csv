@@ -1,57 +1,57 @@
 School,OFF Rating,DEF Rating,OVR Rating,OFF Rank,DEF Rank,OVR Rank
 Notre Dame (Cape Girardeau),2.36,2.7,5.06,2,1,1
-John Burroughs,2.39,2.33,4.72,1,3,2
-Helias Catholic,1.41,2.55,3.96,3,2,3
-Priory,1.3,2.23,3.53,4,4,4
-Principia,0.25,1.56,1.81,12,5,5
-MICDS,0.57,1.21,1.78,7,6,6
-Orchard Farm,0.15,1.17,1.33,15,7,7
-Veritas Christian Academy,0.04,1.05,1.08,16,8,8
-Lutheran St. Charles,0.23,0.77,1.0,13,9,9
-Monett,0.48,0.49,0.96,8,10,10
-St. Mary's South Side,0.98,-0.08,0.91,5,18,11
-Lutheran South,0.47,0.24,0.71,9,13,12
-Bayless,0.19,0.36,0.56,14,12,13
-St. Pius X (Kansas City),0.84,-0.54,0.3,6,24,14
-Excelsior Springs,0.31,-0.02,0.28,11,17,15
-Perryville,0.31,-0.25,0.06,10,19,16
-Kirksville,-0.47,0.45,-0.02,21,11,17
-Southern Boone,-0.04,-0.02,-0.06,17,16,18
-Bolivar,-0.48,0.04,-0.44,22,15,19
-Savannah,-0.37,-0.57,-0.94,20,25,20
-Center,-0.14,-0.84,-0.97,18,29,21
-Clinton,-0.68,-0.42,-1.1,23,20,22
-Oak Grove,-0.88,-0.46,-1.34,25,22,23
-Cassville,-1.47,0.08,-1.39,35,14,24
-Moberly,-0.9,-0.62,-1.52,26,26,25
-Boonville,-0.76,-0.88,-1.64,24,30,26
-Sullivan,-0.93,-0.81,-1.74,27,27,27
-Duchesne,-1.03,-1.07,-2.1,28,33,28
-Central (Kansas City),-0.21,-1.89,-2.11,19,38,29
-Guadalupe Centers Charter,-1.3,-0.84,-2.14,32,28,30
-Missouri Military Academy,-1.11,-1.06,-2.17,29,32,31
-St. Charles West,-1.75,-0.47,-2.23,39,23,32
-Chillicothe,-1.93,-0.44,-2.37,41,21,33
-Collegiate School of Med-Bio Science with McKinley Classical Leadership,-1.37,-1.05,-2.43,33,31,34
-Gateway Science Charter,-1.16,-1.71,-2.87,31,35,35
-Osage,-1.14,-1.74,-2.88,30,36,36
-Winfield,-1.49,-1.66,-3.15,36,34,37
-Maryville,-1.39,-1.97,-3.36,34,41,38
-Bishop DuBourg,-1.58,-2.03,-3.61,37,43,39
-Fredericktown,-1.89,-1.95,-3.84,40,39,40
-Aurora,-2.36,-1.8,-4.16,43,37,41
-Christian Fellowship Sr. with Hallsville,-2.16,-2.12,-4.28,42,45,42
-Ewing Marion Kauffman with University Academy Charter,-1.73,-2.8,-4.54,38,47,43
-Fulton,-2.64,-2.11,-4.76,45,44,44
-Wright City,-2.83,-1.96,-4.79,47,40,45
-Roosevelt,-3.22,-1.98,-5.2,52,42,46
-Odessa,-2.64,-2.56,-5.2,44,46,47
-STEAM Academy,-2.71,-2.85,-5.56,46,48,48
-Paseo Academy,-2.84,-2.98,-5.82,48,49,49
-North County,-3.21,-3.31,-6.52,50,50,50
-Mexico,-3.2,-3.59,-6.79,49,51,51
-Dexter,-3.99,-4.67,-8.66,54,52,52
-Kennett,-3.22,-5.61,-8.83,51,54,53
-Cardinal Ritter,-3.4,-6.41,-9.8,53,55,54
-Knob Noster,-4.52,-5.49,-10.01,55,53,55
-Jennings,-7.79,-8.12,-15.92,56,56,56
+John Burroughs,2.39,2.35,4.74,1,3,2
+Helias Catholic,1.41,2.56,3.97,3,2,3
+Priory,1.3,2.24,3.55,4,4,4
+Principia,0.28,1.54,1.82,12,5,5
+MICDS,0.58,1.23,1.81,7,6,6
+Orchard Farm,0.15,1.13,1.28,15,7,7
+Veritas Christian Academy,0.04,1.04,1.08,16,8,8
+Monett,0.5,0.55,1.05,8,10,9
+Lutheran St. Charles,0.22,0.77,0.99,13,9,10
+St. Mary's South Side,1.0,-0.07,0.92,5,18,11
+Lutheran South,0.48,0.25,0.72,9,13,12
+Bayless,0.19,0.39,0.58,14,12,13
+Excelsior Springs,0.34,0.1,0.45,10,15,14
+St. Pius X (Kansas City),0.85,-0.48,0.37,6,24,15
+Perryville,0.3,-0.26,0.04,11,20,16
+Kirksville,-0.48,0.46,-0.02,22,11,17
+Southern Boone,-0.06,-0.05,-0.11,17,17,18
+Bolivar,-0.44,0.05,-0.39,21,16,19
+Savannah,-0.33,-0.45,-0.78,20,23,20
+Center,-0.13,-0.83,-0.96,18,29,21
+Oak Grove,-0.83,-0.24,-1.07,24,19,22
+Clinton,-0.73,-0.43,-1.16,23,22,23
+Cassville,-1.48,0.2,-1.28,35,14,24
+Moberly,-0.9,-0.63,-1.53,25,26,25
+Sullivan,-0.99,-0.82,-1.81,26,28,26
+Duchesne,-1.0,-0.93,-1.93,27,30,27
+Boonville,-1.03,-1.01,-2.04,28,31,28
+Central (Kansas City),-0.15,-1.89,-2.04,19,38,29
+Guadalupe Centers Charter,-1.29,-0.78,-2.07,33,27,30
+Missouri Military Academy,-1.09,-1.07,-2.15,29,33,31
+Chillicothe,-1.87,-0.39,-2.26,40,21,32
+St. Charles West,-1.77,-0.5,-2.27,39,25,33
+Collegiate School of Med-Bio Science with McKinley Classical Leadership,-1.29,-1.05,-2.34,32,32,34
+Gateway Science Charter,-1.16,-1.71,-2.87,30,35,35
+Osage,-1.17,-1.95,-3.13,31,40,36
+Winfield,-1.52,-1.68,-3.21,36,34,37
+Maryville,-1.34,-1.87,-3.21,34,37,38
+Bishop DuBourg,-1.57,-1.98,-3.55,37,41,39
+Fredericktown,-1.94,-1.94,-3.88,41,39,40
+Aurora,-2.31,-1.83,-4.14,43,36,41
+Christian Fellowship Sr. with Hallsville,-2.17,-2.18,-4.35,42,45,42
+Ewing Marion Kauffman with University Academy Charter,-1.71,-2.72,-4.43,38,47,43
+Wright City,-2.85,-1.99,-4.84,47,43,44
+Fulton,-2.9,-2.16,-5.06,48,44,45
+Odessa,-2.64,-2.49,-5.14,44,46,46
+Roosevelt,-3.23,-1.99,-5.22,50,42,47
+STEAM Academy,-2.68,-2.97,-5.65,45,49,48
+Paseo Academy,-2.77,-2.94,-5.71,46,48,49
+North County,-3.2,-3.47,-6.67,49,50,50
+Mexico,-3.25,-3.67,-6.91,52,51,51
+Dexter,-4.01,-4.69,-8.7,54,52,52
+Kennett,-3.23,-5.64,-8.87,51,54,53
+Cardinal Ritter,-3.38,-6.36,-9.74,53,55,54
+Knob Noster,-4.61,-5.39,-9.99,55,53,55
+Jennings,-7.46,-8.18,-15.64,56,56,56
