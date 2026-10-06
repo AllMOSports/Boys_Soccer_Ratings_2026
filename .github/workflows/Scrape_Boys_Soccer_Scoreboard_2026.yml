@@ -1,76 +1,113 @@
-name: Scrape MSHSAA Boys Soccer Games (2026)
+name: Boys Soccer 2026 (games, schedule, ratings)
  
 on:
-  # Manual trigger from the Actions tab
-  workflow_dispatch:
- 
-  # PAUSED as of 2026-09: MSHSAA is blocking these GitHub Actions
-  # requests, causing the scraper to come back with blank/empty
-  # schedules that then get committed over good data. Auto-run disabled
-  # until that's resolved -- uncomment the block below to re-enable.
-  # Auto-run nightly during the 2026 boys soccer season (Aug-Nov).
-  # UNLIKE FOOTBALL: football's schedule only runs Thu/Fri/Sat, so its
-  # workflow only scrapes those 3 days. Boys soccer's actual game-day
-  # pattern wasn't confirmed against a real 2026 schedule, so -- same
-  # call made for fall softball's and girls volleyball's workflows --
-  # this runs every day during the season rather than guessing which
-  # days to skip. A day with no games just means the scraper finds 0
-  # games and nothing gets committed. Tighten this to specific days once
-  # you've confirmed the actual game-day pattern, the same way
-  # football's was.
-  # Times are UTC. Odd/off-peak minute (37) to avoid GitHub's top-of-hour
-  # scheduler congestion, and offset from football's (:17), fall
-  # softball's (:23), and girls volleyball's (:29) so none of the four
-  # jobs are hitting MSHSAA's site in the same minute if their schedules
-  # ever overlap.
-  # schedule:
-  #   - cron: '37 5 * 8,9,10,11 *'
+  # Nightly at 2:00 AM Central, Aug-Nov. GitHub cron only runs on UTC,
+  # so there are two entries -- one for Daylight time (CDT, UTC-5) and one
+  # for Standard time (CST, UTC-6) -- and the "gate" job below lets only
+  # the one matching Chicago's current offset go ahead. That keeps it at
+  # 2:00 AM local all season, across the Nov 1 time change.
+  # GitHub can start scheduled runs late when it's busy (usually minutes).
+  schedule:
+    - cron: "0 7 * 8-11 *"     # 2:00 AM CDT
+    - cron: "0 8 * 8-11 *"     # 2:00 AM CST
+  workflow_dispatch:            # manual runs still work any time
  
 permissions:
   contents: write
  
+concurrency:
+  group: boys-soccer-ratings-2026
+  cancel-in-progress: false
+ 
 jobs:
-  scrape:
+  gate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15   # this script typically finishes in a few minutes; 15 gives headroom without risking a runaway job
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - id: check
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          ZONE=$(TZ=America/Chicago date +%Z)
+          RUN=false
+          if [ -z "$SCHEDULE" ]; then
+            RUN=true                                   # manual run
+          elif [ "$SCHEDULE" = "0 7 * 8-11 *" ] && [ "$ZONE" = "CDT" ]; then
+            RUN=true
+          elif [ "$SCHEDULE" = "0 8 * 8-11 *" ] && [ "$ZONE" = "CST" ]; then
+            RUN=true
+          fi
+          echo "Chicago is on $ZONE; trigger '${SCHEDULE:-manual}' -> run=$RUN"
+          echo "run=$RUN" >> "$GITHUB_OUTPUT"
+ 
+  ratings:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
  
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
  
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.11'
+          python-version: "3.11"
  
-      - name: Install Python dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 pandas
+          pip install requests beautifulsoup4 pandas pillow fonttools brotli
  
-      - name: Debug - list repo contents
+      - name: Check required input files
         run: |
-          pwd
-          ls -la
+          for f in classifications.json mshsaa_schools.csv; do
+            if [ ! -f "$f" ]; then
+              echo "::error::Missing $f in repo root"
+              exit 1
+            fi
+          done
  
-      - name: Run scraper
-        run: python scrape_boys_soccer_games_2026.py
+      - name: Scrape, build schedule, run ratings
+        run: python Boys_Soccer_Ratings_2026.py | tee ratings_log.txt
  
-      # Rebuilds boys_soccer_schedule_2026.json (the per-team keyed
-      # format the Sport Detail snippet's SCHEDULE_URLS reads) from
-      # whatever scrape_boys_soccer_games_2026.py just wrote to
-      # boys_soccer_games_2026_all.json. Runs every time this job runs
-      # -- cheap, and keeps the two files from ever drifting out of
-      # sync. See build_boys_soccer_schedule_2026.py's own docstring for
-      # what it does and doesn't populate (no predicted scores/deltas
-      # until a boys soccer ratings file exists).
-      - name: Rebuild per-team schedule file
-        run: python build_boys_soccer_schedule_2026.py boys_soccer_games_2026_all.json boys_soccer_schedule_2026.json
- 
-      - name: Commit and push results
+      - name: Flag teams not in ratings
+        if: always()
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add boys_soccer_games_2026.json boys_soccer_games_2026.csv boys_soccer_games_2026_all.json boys_soccer_games_2026_all.csv boys_soccer_schedule_2026.json
-          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Update 2026 boys soccer games [automated]"
-          git push
+          if grep -q "TEAMS NOT INCLUDED IN RATINGS" ratings_log.txt; then
+            echo "::warning::Some classification teams are not in the ratings -- see run log"
+            sed -n '/TEAMS NOT INCLUDED IN RATINGS/,/^=====/p' ratings_log.txt >> "$GITHUB_STEP_SUMMARY"
+          fi
+ 
+      # Rankings graphics (statewide + each class) from the fresh ratings.
+      # Runs only if the ratings step succeeded. continue-on-error means a
+      # graphics problem never blocks the ratings/games data from pushing.
+      - name: Build rankings graphics
+        continue-on-error: true
+        run: python Boys_Soccer_Graphics_2026.py
+ 
+      - name: Commit and push outputs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add boys_soccer_ratings_2026*.json \
+                  boys_soccer_rankings_2026_*.csv \
+                  boys_soccer_scoreboard_2026.csv
+          # Games + schedule files (formerly the separate games scraper
+          # and schedule builder).
+          git add boys_soccer_games_2026.json boys_soccer_games_2026.csv \
+                  boys_soccer_games_2026_all.json boys_soccer_games_2026_all.csv \
+                  boys_soccer_schedule_2026.json boys_soccer_schedule_2026.csv \
+                  boys_soccer_missing_scores_2026.csv
+          # Rankings graphics (+ fonts, in case they were downloaded this run)
+          git add graphics/*.png 2>/dev/null || true
+          git add fonts/*.ttf 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Update Boys Soccer 2026 games, schedule, ratings, graphics ($(date -u +'%Y-%m-%d'))"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
