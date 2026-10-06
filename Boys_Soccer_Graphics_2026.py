@@ -50,6 +50,7 @@ NOTE_TEXT     = "ONLY MATCHES AGAINST MSHSAA OPPONENTS ARE INCLUDED IN THESE RAT
 HANDLE        = "@All_MO_Sports"
 SITE          = "allmosports.com"
 EVENT_WORD    = "MATCHES"
+SHOW_OFF_DEF  = True      # False = OVR only, team name centered in the row
 
 # Team logos: local folder first, then this URL ({slug} is filled in).
 LOCAL_LOGO_DIR = "logos"
@@ -404,21 +405,23 @@ def render(title, through, teams, out_path, brand_logo):
         f_name = f_name0
         while text_w(d, t["name"], f_name) > NAME_MAX_W and f_name.size > 30:
             f_name = head(f_name.size - 2)
-        d.text((NAME_X, y + 54), t["name"], font=f_name, fill=NAVY, anchor="ls")
+        name_base = y + 54 if SHOW_OFF_DEF else y + 74
+        d.text((NAME_X, name_base), t["name"], font=f_name, fill=NAVY, anchor="ls")
 
         # OFF / DEF line
-        x = NAME_X
-        base = y + 96
-        for lbl, val, rk in (("OFF", t["off"], off_rank[id(t)]),
-                             ("DEF", t["def"], def_rank[id(t)])):
-            d.text((x, base), lbl, font=f_lbl, fill=GRAY, anchor="ls")
-            x += text_w(d, lbl, f_lbl) + 8
-            vs = f"{val:.2f}"
-            d.text((x, base), vs, font=f_val, fill=NAVY, anchor="ls")
-            x += text_w(d, vs, f_val) + 4
-            os_ = ordinal(rk)
-            d.text((x, base - 20), os_, font=f_sup, fill=NAVY, anchor="ls")
-            x += text_w(d, os_, f_sup) + 32
+        if SHOW_OFF_DEF:
+            x = NAME_X
+            base = y + 96
+            for lbl, val, rk in (("OFF", t["off"], off_rank[id(t)]),
+                                 ("DEF", t["def"], def_rank[id(t)])):
+                d.text((x, base), lbl, font=f_lbl, fill=GRAY, anchor="ls")
+                x += text_w(d, lbl, f_lbl) + 8
+                vs = f"{val:.2f}"
+                d.text((x, base), vs, font=f_val, fill=NAVY, anchor="ls")
+                x += text_w(d, vs, f_val) + 4
+                os_ = ordinal(rk)
+                d.text((x, base - 20), os_, font=f_sup, fill=NAVY, anchor="ls")
+                x += text_w(d, os_, f_sup) + 32
 
         # OVR rating + ordinal
         osup = ordinal(i + 1)
