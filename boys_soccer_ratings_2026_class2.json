@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 07, 2026 at 02:18 PM",
+  "last_updated": "October 07, 2026 at 02:24 PM",
   "league_average": 2.26,
   "classification": 2,
   "teams": [
@@ -214,17 +214,6 @@
     },
     {
       "ovr_rank": 20,
-      "school": "Center",
-      "classification": 2,
-      "district": 7,
-      "ovr_rating": -0.83,
-      "off_rating": -0.04,
-      "off_rank": 19,
-      "def_rating": -0.79,
-      "def_rank": 27
-    },
-    {
-      "ovr_rank": 21,
       "school": "Savannah",
       "classification": 2,
       "district": 8,
@@ -233,6 +222,17 @@
       "off_rank": 20,
       "def_rating": -0.45,
       "def_rank": 22
+    },
+    {
+      "ovr_rank": 21,
+      "school": "Center",
+      "classification": 2,
+      "district": 7,
+      "ovr_rating": -0.83,
+      "off_rating": -0.04,
+      "off_rank": 19,
+      "def_rating": -0.79,
+      "def_rank": 27
     },
     {
       "ovr_rank": 22,

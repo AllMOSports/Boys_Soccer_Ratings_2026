@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 07, 2026 at 02:18 PM",
+  "last_updated": "October 07, 2026 at 02:24 PM",
   "league_average": 2.26,
   "classification": 1,
   "teams": [
@@ -49,17 +49,6 @@
     },
     {
       "ovr_rank": 5,
-      "school": "Metro",
-      "classification": 1,
-      "district": 2,
-      "ovr_rating": 0.85,
-      "off_rating": 0.62,
-      "off_rank": 5,
-      "def_rating": 0.23,
-      "def_rank": 7
-    },
-    {
-      "ovr_rank": 6,
       "school": "Fair Grove",
       "classification": 1,
       "district": 6,
@@ -68,6 +57,17 @@
       "off_rank": 2,
       "def_rating": -0.65,
       "def_rank": 15
+    },
+    {
+      "ovr_rank": 6,
+      "school": "Metro",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": 0.85,
+      "off_rating": 0.62,
+      "off_rank": 5,
+      "def_rating": 0.23,
+      "def_rank": 7
     },
     {
       "ovr_rank": 7,
