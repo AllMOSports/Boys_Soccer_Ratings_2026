@@ -7,22 +7,18 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-09,no score,William Chrisman,,Truman,,True
 2026-09-10,no score,Logan-Rogersville,,New Heights Christian with McAuley Catholic,,True
 2026-09-15,no score,Greenwood,,Central (Springfield),,True
-2026-09-15,no score,Gateway Science Charter,,"FBA OFallon IL(O'Fallon, IL)",,False
 2026-09-15,no score,North Kansas City,,Liberty North,,True
 2026-09-15,no score,Chillicothe,,Maryville,,True
 2026-09-16,no score,Raytown,,Winnetonka,,True
 2026-09-17,no score,Hickman,,Ft. Zumwalt West,,True
 2026-09-17,no score,Cardinal Ritter,,KIPP St. Louis Sr.,,False
 2026-09-17,no score,Fulton,,Wright City,,True
-2026-09-18,no score,Gateway Science Charter,,Gateway Legacy Sr. H.,,False
 2026-09-21,no score,Liberty Christian Sr.,,Warrenton,,False
-2026-09-24,no score,Northland Christian,,"Bishop Seabury(Lawrence, KS)",,False
 2026-09-29,no score,Priory,,Lutheran North,,True
 2026-10-01,no score,Maryville,,Bishop LeBlond,,True
 2026-10-01,no score,Marshall,,Kirksville,,True
 2026-10-01,no score,Sunnydale Adventist Acad HS,,La Monte,,False
 2026-10-01,no score,Platte County,,Liberty,,True
-2026-10-01,no score,Northland Christian,,Lutheran (Kansas City),,True
 2026-10-01,no score,Laquey with Richland,,Marshfield,,True
 2026-10-01,no score,Belton,,Raytown,,True
 2026-10-01,no score,Stover,,Smithton,,True
@@ -33,3 +29,11 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-05,no score,Calvary Lutheran,,Capital City,,True
 2026-10-05,no score,"Vienna, IL(Vienna, IL)",,Kennett,,False
 2026-10-05,no score,Paseo Academy,,Knob Noster,,True
+2026-10-06,no score,Cassville,,Aurora,,True
+2026-10-06,no score,Valley Park,,Hancock,,True
+2026-10-06,no score,Eureka,,Marquette,,True
+2026-10-06,no score,Bishop LeBlond,,"Maur Hill(Atchison, KS)",,False
+2026-10-06,no score,Poplar Bluff,,Notre Dame (Cape Girardeau),,True
+2026-10-06,no score,New Heights Christian with McAuley Catholic,,"Pittsburg(Pittsburg, KS)",,False
+2026-10-06,no score,Neosho,,Waynesville,,True
+2026-10-06,no score,Kirkwood,,Webster Groves,,True
