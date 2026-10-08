@@ -1492,6 +1492,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-06,Excelsior Springs,True,3,Lone Jack,True,1,False,False
 2026-10-06,Windsor (Imperial),True,1,Lutheran South,True,8,False,False
 2026-10-06,St. Mary's South Side,True,3,Lutheran St. Charles,True,1,False,False
+2026-10-06,Eureka,True,2,Marquette,True,3,False,False
 2026-10-06,St. Paul Lutheran (Concordia),True,1,Marshall,True,0,False,False
 2026-10-06,Hillcrest,True,4,Marshfield,True,3,False,False
 2026-10-06,Gateway Science Charter,True,7,McCluer,False,1,False,False
@@ -1531,7 +1532,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-06,Branson,True,1,West Plains,True,0,False,False
 2026-10-06,Cassville,True,,Aurora,True,,False,False
 2026-10-06,Valley Park,True,,Hancock,True,,False,False
-2026-10-06,Eureka,True,,Marquette,True,,False,False
 2026-10-06,Bishop LeBlond,True,,"Maur Hill(Atchison, KS)",False,,False,False
 2026-10-06,Poplar Bluff,True,,Notre Dame (Cape Girardeau),True,,False,False
 2026-10-06,New Heights Christian with McAuley Catholic,True,,"Pittsburg(Pittsburg, KS)",False,,False,False

@@ -11467,6 +11467,15 @@
   },
   {
     "date": "2026-10-06",
+    "team1": "Eureka",
+    "score1": 2,
+    "team2": "Marquette",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-06",
     "team1": "St. Paul Lutheran (Concordia)",
     "score1": 1,
     "team2": "Marshall",
@@ -11803,15 +11812,6 @@
     "team1": "Valley Park",
     "score1": null,
     "team2": "Hancock",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-06",
-    "team1": "Eureka",
-    "score1": null,
-    "team2": "Marquette",
     "score2": null,
     "forfeit": false,
     "overtime": false

@@ -1,15 +1,15 @@
 team,date,opponent,home_away,team_score,opp_score,result,predicted_team_score,predicted_opp_score,off_delta,def_delta,ovr_delta,forfeit,overtime
 Affton,2026-08-28,Fox,,4,2,W,3.96,2.49,0.04,0.49,0.53,False,False
 Affton,2026-09-01,St. Pius X (Festus),,2,3,L,2.87,2.63,-0.87,-0.37,-1.23,False,False
-Affton,2026-09-08,Clayton,,1,5,L,0.76,5.08,0.24,0.08,0.32,False,False
-Affton,2026-09-10,Ritenour,,3,1,W,3.69,1.2,-0.69,0.2,-0.5,False,False
-Affton,2026-09-14,Bayless,,3,2,W,2.55,3.38,0.45,1.38,1.83,False,False
+Affton,2026-09-08,Clayton,,1,5,L,0.76,5.07,0.24,0.07,0.32,False,False
+Affton,2026-09-10,Ritenour,,3,1,W,3.7,1.2,-0.7,0.2,-0.5,False,False
+Affton,2026-09-14,Bayless,,3,2,W,2.56,3.38,0.44,1.38,1.83,False,False
 Affton,2026-09-16,Mehlville,,1,3,L,1.55,3.68,-0.55,0.68,0.13,False,False
 Affton,2026-09-22,St. Mary's South Side,,2,7,L,3.16,4.31,-1.16,-2.69,-3.84,False,False
 Affton,2026-09-24,Metro,,4,4,T,2.95,3.84,1.05,-0.16,0.9,False,False
 Affton,2026-09-25,Bishop DuBourg,,7,1,W,5.16,1.62,1.84,0.62,2.47,False,False
-Affton,2026-09-26,Lutheran South,,4,5,L,2.95,3.88,1.05,-1.12,-0.07,False,False
-Affton,2026-09-28,Northwest (Cedar Hill),,0,7,L,1.53,5.3,-1.53,-1.7,-3.24,False,False
+Affton,2026-09-26,Lutheran South,,4,5,L,2.95,3.89,1.05,-1.11,-0.07,False,False
+Affton,2026-09-28,Northwest (Cedar Hill),,0,7,L,1.53,5.29,-1.53,-1.71,-3.24,False,False
 Affton,2026-10-06,Fox,,4,0,W,3.96,2.49,0.04,2.49,2.53,False,False
 Affton,2026-10-08,Brentwood,,,,,4.06,2.02,,,,False,False
 Affton,2026-10-13,John Burroughs,,,,,0.85,5.44,,,,False,False
@@ -17,7 +17,7 @@ Affton,2026-10-15,Parkway North,,,,,4.38,1.61,,,,False,False
 Affton,2026-10-20,Gateway with Soldan International Studies,,,,,4.57,1.7,,,,False,False
 Affton,2026-10-21,Pattonville,,,,,2.04,4.48,,,,False,False
 Affton,2026-10-27,Collegiate School of Med-Bio Science with McKinley Classical Leadership,,,,,4.49,1.57,,,,False,False
-Affton,2026-10-29,Seckman,,,,,1.53,3.46,,,,False,False
+Affton,2026-10-29,Seckman,,,,,1.52,3.46,,,,False,False
 "Althoff Catholic(belleville, IL)",2026-09-04,Orchard Farm,,3,0,W,,,,,,False,False
 Alton,2026-09-14,University City,,7,1,W,,,,,,False,False
 "Alton Marquette(Alton, IL)",2026-08-29,Orchard Farm,,3,1,W,,,,,,False,False
@@ -85,7 +85,7 @@ Battle with Columbia Independent,2026-09-19,Republic,,2,1,W,1.25,0.72,0.75,-0.28
 Battle with Columbia Independent,2026-09-22,Capital City,,1,2,L,1.92,1.8,-0.92,-0.2,-1.12,False,False
 Battle with Columbia Independent,2026-09-25,Lutheran St. Charles,,2,2,T,1.65,1.43,0.35,-0.57,-0.22,False,False
 Battle with Columbia Independent,2026-09-26,"Quincy(Quincy, IL)",,1,2,L,,,,,,False,False
-Battle with Columbia Independent,2026-09-29,Camdenton,,0,2,L,1.89,1.89,-1.89,-0.11,-2.0,False,False
+Battle with Columbia Independent,2026-09-29,Camdenton,,0,2,L,1.89,1.89,-1.89,-0.11,-1.99,False,False
 Battle with Columbia Independent,2026-10-06,Hickman,,0,3,L,1.1,3.36,-1.1,0.36,-0.74,False,False
 Battle with Columbia Independent,2026-10-10,Marshall,,,,,0.97,1.74,,,,False,False
 Battle with Columbia Independent,2026-10-13,Jefferson City,,,,,2.9,0.25,,,,False,False
@@ -99,7 +99,7 @@ Bayless,2026-09-04,Collegiate School of Med-Bio Science with McKinley Classical 
 Bayless,2026-09-08,Crossroads College Preparatory,,6,0,W,6.7,-1.28,-0.7,-1.28,-1.98,False,False
 Bayless,2026-09-10,Brentwood,,4,3,W,3.31,0.44,0.69,-2.56,-1.87,False,False
 Bayless,2026-09-11,Principia,,0,1,L,0.89,1.94,-0.89,0.94,0.05,False,False
-Bayless,2026-09-14,Affton,,2,3,L,3.38,2.55,-1.38,-0.45,-1.83,False,False
+Bayless,2026-09-14,Affton,,2,3,L,3.38,2.56,-1.38,-0.44,-1.83,False,False
 Bayless,2026-09-17,Valley Park,,1,0,W,2.35,-0.19,-1.35,-0.19,-1.54,False,False
 Bayless,2026-09-18,Maplewood-Richmond Hts.,,1,2,L,1.9,1.85,-0.9,-0.15,-1.06,False,False
 Bayless,2026-09-22,Hancock,,2,0,W,3.76,-0.75,-1.76,-0.75,-2.51,False,False
@@ -113,7 +113,7 @@ Bayless,2026-10-09,Hancock,,,,,3.76,-0.75,,,,False,False
 Bayless,2026-10-13,Crossroads College Preparatory,,,,,6.7,-1.28,,,,False,False
 Bayless,2026-10-19,MICDS,,,,,1.18,2.27,,,,False,False
 Bayless,2026-10-20,St. Pius X (Festus),,,,,2.12,1.06,,,,False,False
-Bayless,2026-10-22,Saxony Lutheran with St. Vincent,,,,,1.88,2.93,,,,False,False
+Bayless,2026-10-22,Saxony Lutheran with St. Vincent,,,,,1.88,2.92,,,,False,False
 Bayless,2026-10-26,Fox,,,,,3.21,0.91,,,,False,False
 Bayless,2026-10-29,Whitfield,,,,,3.07,1.4,,,,False,False
 "Beardstown(Beardstown, IL)",2026-08-29,Canton,,5,0,W,,,,,,False,False
@@ -215,7 +215,7 @@ Blue Springs,2026-10-06,Raymore-Peculiar,,3,0,W,2.47,0.1,0.53,0.1,0.63,False,Fal
 Blue Springs,2026-10-08,St. Michael the Archangel,,,,,3.6,1.14,,,,False,False
 Blue Springs,2026-10-13,Liberty North,,,,,1.37,2.86,,,,False,False
 Blue Springs,2026-10-15,Lee's Summit,,,,,0.91,2.85,,,,False,False
-Blue Springs,2026-10-19,Grain Valley,,,,,4.05,0.63,,,,False,False
+Blue Springs,2026-10-19,Grain Valley,,,,,4.05,0.62,,,,False,False
 Blue Springs,2026-10-20,Park Hill,,,,,2.41,0.67,,,,False,False
 Blue Springs,2026-10-22,Lee's Summit West,,,,,1.41,1.77,,,,False,False
 Blue Springs South,2026-08-31,Platte County,,9,1,W,5.12,-1.0,3.88,-2.0,1.88,False,False
@@ -293,7 +293,7 @@ Branson,2026-09-01,Nixa,,0,3,L,-0.31,3.86,0.31,0.86,1.17,False,False
 Branson,2026-09-03,Joplin,,1,0,W,1.31,1.49,-0.31,1.49,1.18,False,False
 Branson,2026-09-05,Farmington,,1,2,L,0.96,2.66,0.04,0.66,0.7,False,False
 Branson,2026-09-08,Ozark,,5,4,W,1.79,2.7,3.21,-1.3,1.91,False,False
-Branson,2026-09-10,Glendale,,0,2,L,0.14,3.19,-0.14,1.19,1.05,False,False
+Branson,2026-09-10,Glendale,,0,2,L,0.15,3.19,-0.15,1.19,1.05,False,False
 Branson,2026-09-11,Carthage,,2,1,W,1.04,2.23,0.96,1.23,2.19,False,False
 Branson,2026-09-15,Carl Junction,,3,2,W,3.06,0.58,-0.06,-1.42,-1.48,False,False
 Branson,2026-09-17,Capital City,,2,3,L,2.18,1.7,-0.18,-1.3,-1.48,False,False
@@ -361,7 +361,7 @@ Camdenton,2026-09-19,Carthage,,0,5,L,1.12,2.66,-1.12,-2.34,-3.46,False,False
 Camdenton,2026-09-22,Smith-Cotton,,1,2,L,2.42,2.56,-1.42,0.56,-0.86,False,False
 Camdenton,2026-09-25,Southern Boone,,3,2,W,2.69,1.79,0.31,-0.21,0.09,False,False
 Camdenton,2026-09-26,Republic,,2,1,W,1.59,1.06,0.41,0.06,0.47,False,False
-Camdenton,2026-09-29,Battle with Columbia Independent,,2,0,W,1.89,1.89,0.11,1.89,2.0,False,False
+Camdenton,2026-09-29,Battle with Columbia Independent,,2,0,W,1.89,1.89,0.11,1.89,1.99,False,False
 Camdenton,2026-10-01,Northwest (Cedar Hill),,0,4,L,1.05,3.87,-1.05,-0.13,-1.18,False,False
 Camdenton,2026-10-03,Hannibal,,8,0,W,3.8,1.03,4.2,1.03,5.23,False,False
 Camdenton,2026-10-03,Rolla,,2,1,W,2.58,0.84,-0.58,-0.16,-0.74,False,False
@@ -416,7 +416,7 @@ Capital City,2026-09-19,Rolla,,1,0,W,2.48,0.87,-1.48,0.87,-0.61,False,False
 Capital City,2026-09-21,Fatima,,1,2,L,6.91,-2.42,-5.91,-4.42,-10.34,False,False
 Capital City,2026-09-22,Battle with Columbia Independent,,2,1,W,1.8,1.92,0.2,0.92,1.12,False,False
 Capital City,2026-09-24,Marshall,,0,1,L,1.22,2.1,-1.22,1.1,-0.11,False,False
-Capital City,2026-09-26,West Plains,,3,2,W,3.14,1.89,-0.14,-0.11,-0.26,False,False
+Capital City,2026-09-26,West Plains,,3,2,W,3.14,1.88,-0.14,-0.12,-0.26,False,False
 Capital City,2026-09-29,Helias Catholic,,0,3,L,0.16,3.08,-0.16,0.08,-0.08,False,False
 Capital City,2026-10-01,Troy Buchanan,,0,1,L,0.49,2.42,-0.49,1.42,0.92,False,False
 Capital City,2026-10-02,Parkway North,,6,1,W,3.8,0.22,2.2,-0.78,1.42,False,False
@@ -473,12 +473,12 @@ Carthage,2026-09-11,Branson,,1,2,L,2.23,1.04,-1.23,-0.96,-2.19,False,False
 Carthage,2026-09-12,Grain Valley,,3,0,W,2.77,1.39,0.23,1.39,1.63,False,False
 Carthage,2026-09-17,Carl Junction,,5,0,W,3.56,-0.1,1.44,-0.1,1.33,False,False
 Carthage,2026-09-19,Camdenton,,5,0,W,2.66,1.12,2.34,1.12,3.46,False,False
-Carthage,2026-09-22,Nixa,,0,3,L,0.2,3.18,-0.2,0.18,-0.02,False,False
+Carthage,2026-09-22,Nixa,,0,3,L,0.19,3.17,-0.19,0.17,-0.02,False,False
 Carthage,2026-09-24,Ozark,,0,1,L,2.29,2.02,-2.29,1.02,-1.28,False,False
 Carthage,2026-09-29,Kickapoo,,3,1,W,3.11,0.55,-0.11,-0.45,-0.56,False,False
 Carthage,2026-10-01,Francis Howell North,,0,1,L,1.38,2.08,-1.38,1.08,-0.3,False,False
 Carthage,2026-10-01,Thomas Jefferson Independent Day,,1,2,L,2.97,-0.01,-1.97,-2.01,-3.98,False,False
-Carthage,2026-10-02,Lee's Summit West,,0,1,L,0.12,2.54,-0.12,1.54,1.42,False,False
+Carthage,2026-10-02,Lee's Summit West,,0,1,L,0.13,2.54,-0.13,1.54,1.42,False,False
 Carthage,2026-10-03,Hickman,,3,4,L,1.86,2.58,1.14,-1.42,-0.28,False,False
 Carthage,2026-10-06,Lebanon,,8,0,W,4.04,-0.08,3.96,-0.08,3.88,False,False
 Carthage,2026-10-08,Waynesville,,,,,3.3,-0.46,,,,False,False
@@ -531,8 +531,8 @@ Central (Cape Girardeau),2026-08-28,"Harrisburg(Harrisburg, IL)",,3,0,W,,,,,,Fal
 Central (Cape Girardeau),2026-08-29,"Carbondale(Carbondale, IL)",,1,4,L,,,,,,False,False
 Central (Cape Girardeau),2026-09-01,"Marion(Marion, IL)",,2,0,W,,,,,,False,False
 Central (Cape Girardeau),2026-09-04,"Carbondale(Carbondale, IL)",,0,4,L,,,,,,False,False
-Central (Cape Girardeau),2026-09-08,Notre Dame (Cape Girardeau),,0,8,L,-2.64,5.0,2.64,-3.0,-0.35,False,False
-Central (Cape Girardeau),2026-09-10,Farmington,,0,4,L,-1.71,3.99,1.71,-0.01,1.7,False,False
+Central (Cape Girardeau),2026-09-08,Notre Dame (Cape Girardeau),,0,8,L,-2.64,5.0,2.64,-3.0,-0.36,False,False
+Central (Cape Girardeau),2026-09-10,Farmington,,0,4,L,-1.71,4.0,1.71,-0.0,1.7,False,False
 Central (Cape Girardeau),2026-09-15,Sikeston,,0,8,L,-1.81,4.63,1.81,-3.37,-1.56,False,False
 Central (Cape Girardeau),2026-09-17,"Carbondale(Carbondale, IL)",,1,5,L,,,,,,False,False
 Central (Cape Girardeau),2026-09-22,Hillsboro,,1,0,W,1.8,1.14,-0.8,1.14,0.33,False,False
@@ -572,7 +572,7 @@ Central (Springfield),2026-09-25,Belton,,2,4,L,1.79,2.27,0.21,-1.73,-1.53,False,
 Central (Springfield),2026-09-26,Lone Jack,,2,0,W,3.14,0.2,-1.14,0.2,-0.94,False,False
 Central (Springfield),2026-09-28,West Plains,,2,3,L,2.45,2.05,-0.45,-0.95,-1.4,False,False
 Central (Springfield),2026-09-29,St. Paul Lutheran (Concordia),,0,2,L,1.98,1.64,-1.98,-0.36,-2.34,False,False
-Central (Springfield),2026-10-02,Osage,,5,0,W,3.93,0.63,1.07,0.63,1.71,False,False
+Central (Springfield),2026-10-02,Osage,,5,0,W,3.93,0.63,1.07,0.63,1.7,False,False
 Central (Springfield),2026-10-05,Cassville,,1,0,W,1.79,0.33,-0.79,0.33,-0.46,False,False
 Central (Springfield),2026-10-08,Carl Junction,,,,,2.34,1.2,,,,False,False
 Central (Springfield),2026-10-12,McDonald County,,,,,2.32,2.23,,,,False,False
@@ -593,7 +593,7 @@ Central (St. Joseph),2026-09-17,Blue Springs South,,0,2,L,-0.08,4.52,0.08,2.52,2
 Central (St. Joseph),2026-09-21,Bishop LeBlond,,8,0,W,8.03,-0.99,-0.03,-0.99,-1.02,False,False
 Central (St. Joseph),2026-09-22,Summit Christian Academy,,1,2,L,1.58,1.71,-0.58,-0.29,-0.87,False,False
 Central (St. Joseph),2026-09-24,Fort Osage,,0,2,L,1.4,2.15,-1.4,0.15,-1.25,False,False
-Central (St. Joseph),2026-09-29,Lee's Summit North,,0,3,L,0.3,3.08,-0.3,0.08,-0.23,False,False
+Central (St. Joseph),2026-09-29,Lee's Summit North,,0,3,L,0.3,3.07,-0.3,0.07,-0.23,False,False
 Central (St. Joseph),2026-10-01,Smithville,,3,2,W,2.27,0.99,0.73,-1.01,-0.28,False,False
 Central (St. Joseph),2026-10-06,Liberty North,,2,6,L,-0.65,4.5,2.65,-1.5,1.15,False,False
 Central (St. Joseph),2026-10-08,Park Hill South,,,,,-0.39,3.43,,,,False,False
@@ -606,15 +606,15 @@ Chaminade College Prep,2026-09-03,Kirkwood,,1,0,W,1.68,0.57,-0.68,0.57,-0.11,Fal
 Chaminade College Prep,2026-09-09,Rockwood Summit,,4,1,W,3.15,0.74,0.85,-0.26,0.59,False,False
 Chaminade College Prep,2026-09-11,"McCracken(McCracken, KY)",,3,0,W,,,,,,False,False
 Chaminade College Prep,2026-09-12,"Peoria Notre Dame(Peoria, IL)",,1,0,W,,,,,,False,False
-Chaminade College Prep,2026-09-14,Webster Groves,,3,1,W,3.22,0.28,-0.22,-0.72,-0.93,False,False
-Chaminade College Prep,2026-09-15,Christian Brothers College,,2,2,T,2.19,1.25,-0.19,-0.75,-0.94,False,False
+Chaminade College Prep,2026-09-14,Webster Groves,,3,1,W,3.21,0.28,-0.21,-0.72,-0.93,False,False
+Chaminade College Prep,2026-09-15,Christian Brothers College,,2,2,T,2.2,1.25,-0.2,-0.75,-0.94,False,False
 Chaminade College Prep,2026-09-17,Ozark,,4,1,W,4.23,0.11,-0.23,-0.89,-1.12,False,False
 Chaminade College Prep,2026-09-18,Nixa,,1,0,W,2.13,1.27,-1.13,1.27,0.13,False,False
 Chaminade College Prep,2026-09-19,Kickapoo,,5,0,W,5.04,-1.36,-0.04,-1.36,-1.4,False,False
-Chaminade College Prep,2026-09-22,Parkway West,,2,0,W,1.97,0.51,0.03,0.51,0.54,False,False
+Chaminade College Prep,2026-09-22,Parkway West,,2,0,W,1.97,0.5,0.03,0.5,0.54,False,False
 Chaminade College Prep,2026-09-24,Vianney,,3,0,W,2.09,0.51,0.91,0.51,1.43,False,False
 Chaminade College Prep,2026-09-29,"Collinsville(Collinsville, IL)",,4,0,W,,,,,,False,False
-Chaminade College Prep,2026-10-01,Timberland,,3,0,W,2.9,-0.42,0.1,-0.42,-0.31,False,False
+Chaminade College Prep,2026-10-01,Timberland,,3,0,W,2.89,-0.42,0.11,-0.42,-0.31,False,False
 Chaminade College Prep,2026-10-03,Mehlville,,4,0,W,3.43,-0.77,0.57,-0.77,-0.2,False,False
 Chaminade College Prep,2026-10-08,De Smet Jesuit,,,,,2.56,0.35,,,,False,False
 Chaminade College Prep,2026-10-09,"St. James(Kansas City, KS)",,,,,,,,,,False,False
@@ -625,7 +625,7 @@ Chaminade College Prep,2026-10-24,Priory,,,,,2.61,0.05,,,,False,False
 Chaminade College Prep,2026-10-26,St. Dominic,,,,,1.62,1.42,,,,False,False
 Chillicothe,2026-08-27,Lone Jack,,2,0,W,1.59,1.31,0.41,1.31,1.71,False,False
 Chillicothe,2026-09-01,Cameron,,4,1,W,3.66,0.99,0.34,-0.01,0.32,False,False
-Chillicothe,2026-09-03,Marshall,,0,5,L,-1.03,3.38,1.03,-1.62,-0.6,False,False
+Chillicothe,2026-09-03,Marshall,,0,5,L,-1.03,3.37,1.03,-1.63,-0.6,False,False
 Chillicothe,2026-09-12,Mexico,,4,1,W,3.94,-0.12,0.06,-1.12,-1.05,False,False
 Chillicothe,2026-09-15,Maryville,,,,,2.22,1.49,,,,False,False
 Chillicothe,2026-09-17,Kirksville,,0,3,L,-0.07,2.61,0.07,-0.39,-0.32,False,False
@@ -646,23 +646,23 @@ Chillicothe,2026-10-28,Savannah,,,,,0.91,2.54,,,,False,False
 "Christ Preparatory(Lenexa , KS)",2026-09-03,Pleasant Hill,,7,0,W,,,,,,False,False
 "Christ Prepatory(Olathe, KS)",2026-09-04,Faith Christian Academy,,1,0,W,,,,,,False,False
 Christian Brothers College,2026-09-01,Rockwood Summit,,2,1,W,2.83,1.36,-0.83,0.36,-0.47,False,False
-Christian Brothers College,2026-09-03,Lindbergh,,3,1,W,2.33,1.22,0.67,0.22,0.89,False,False
+Christian Brothers College,2026-09-03,Lindbergh,,3,1,W,2.33,1.21,0.67,0.21,0.89,False,False
 Christian Brothers College,2026-09-08,Ladue Horton Watkins,,4,3,W,2.27,1.77,1.73,-1.23,0.49,False,False
 Christian Brothers College,2026-09-11,"Peoria Notre Dame(Peoria, IL)",,1,1,T,,,,,,False,False
 Christian Brothers College,2026-09-12,"McCracken County HS(McCracken County , KY)",,5,1,W,,,,,,False,False
 Christian Brothers College,2026-09-14,Parkway Central,,2,0,W,3.12,-0.61,-1.12,-0.61,-1.74,False,False
-Christian Brothers College,2026-09-15,Chaminade College Prep,,2,2,T,1.25,2.19,0.75,0.19,0.94,False,False
+Christian Brothers College,2026-09-15,Chaminade College Prep,,2,2,T,1.25,2.2,0.75,0.2,0.94,False,False
 Christian Brothers College,2026-09-17,De Smet Jesuit,,2,1,W,2.24,0.97,-0.24,-0.03,-0.27,False,False
 Christian Brothers College,2026-09-22,Priory,,1,0,W,2.29,0.67,-1.29,0.67,-0.62,False,False
-Christian Brothers College,2026-09-24,Francis Howell Central,,2,1,W,1.67,2.03,0.33,1.03,1.36,False,False
+Christian Brothers College,2026-09-24,Francis Howell Central,,2,1,W,1.68,2.04,0.32,1.04,1.36,False,False
 Christian Brothers College,2026-09-26,"Edwardsville(Edwardsville , IL)",,2,0,W,,,,,,False,False
 Christian Brothers College,2026-09-29,Kirkwood,,1,0,W,1.36,1.19,-0.36,1.19,0.83,False,False
-Christian Brothers College,2026-10-01,Clayton,,0,1,L,2.32,1.26,-2.32,0.26,-2.07,False,False
-Christian Brothers College,2026-10-03,Oakville,,2,3,L,1.16,1.72,0.84,-1.28,-0.43,False,False
+Christian Brothers College,2026-10-01,Clayton,,0,1,L,2.32,1.25,-2.32,0.25,-2.07,False,False
+Christian Brothers College,2026-10-03,Oakville,,2,3,L,1.15,1.72,0.85,-1.28,-0.43,False,False
 Christian Brothers College,2026-10-06,St. Dominic,,2,3,L,1.3,2.04,0.7,-0.96,-0.26,False,False
 Christian Brothers College,2026-10-08,SLUH,,,,,1.15,2.35,,,,False,False
 Christian Brothers College,2026-10-10,"Sacred Heart Griffin(Springfield, IL)",,,,,,,,,,False,False
-Christian Brothers College,2026-10-15,Vianney,,,,,1.77,1.13,,,,False,False
+Christian Brothers College,2026-10-15,Vianney,,,,,1.77,1.14,,,,False,False
 Christian Brothers College,2026-10-20,Francis Howell North,,,,,3.0,0.79,,,,False,False
 Christian Brothers College,2026-10-27,Ft. Zumwalt South,,,,,2.72,1.26,,,,False,False
 Christian Fellowship Sr. with Hallsville,2026-08-28,St. Paul Lutheran (Concordia),,1,2,L,0.23,4.09,0.77,2.09,2.86,False,False
@@ -691,20 +691,20 @@ Christian Fellowship Sr. with Hallsville,2026-10-26,Father Tolton,,,,,-1.1,5.72,
 "Civic Memorial(Bethalto, IL)",2026-08-29,Parkway North,,2,0,W,,,,,,False,False
 Clayton,2026-09-01,Mehlville,,3,1,W,2.49,0.3,0.51,-0.7,-0.19,False,False
 Clayton,2026-09-03,St. Mary's South Side,,7,1,W,4.1,0.94,2.9,-0.06,2.84,False,False
-Clayton,2026-09-08,Affton,,5,1,W,5.08,0.76,-0.08,-0.24,-0.32,False,False
-Clayton,2026-09-15,Parkway South,,4,3,W,2.25,1.02,1.75,-1.98,-0.22,False,False
-Clayton,2026-09-17,Lafayette (Wildwood),,0,2,L,2.41,2.82,-2.41,0.82,-1.6,False,False
+Clayton,2026-09-08,Affton,,5,1,W,5.07,0.76,-0.07,-0.24,-0.32,False,False
+Clayton,2026-09-15,Parkway South,,4,3,W,2.24,1.02,1.76,-1.98,-0.22,False,False
+Clayton,2026-09-17,Lafayette (Wildwood),,0,2,L,2.41,2.81,-2.41,0.81,-1.6,False,False
 Clayton,2026-09-22,Vianney,,1,2,L,1.15,1.58,-0.15,-0.42,-0.57,False,False
-Clayton,2026-09-24,Eureka,,2,1,W,1.95,2.35,0.05,1.35,1.39,False,False
-Clayton,2026-09-29,Perryville,,7,1,W,4.42,-0.01,2.58,-1.01,1.57,False,False
-Clayton,2026-10-01,Christian Brothers College,,1,0,W,1.26,2.32,-0.26,2.32,2.07,False,False
-Clayton,2026-10-03,Parkway Central,,1,2,L,2.51,-0.16,-1.51,-2.16,-3.67,False,False
+Clayton,2026-09-24,Eureka,,2,1,W,1.97,2.37,0.03,1.37,1.4,False,False
+Clayton,2026-09-29,Perryville,,7,1,W,4.42,-0.02,2.58,-1.02,1.57,False,False
+Clayton,2026-10-01,Christian Brothers College,,1,0,W,1.25,2.32,-0.25,2.32,2.07,False,False
+Clayton,2026-10-03,Parkway Central,,1,2,L,2.5,-0.17,-1.5,-2.17,-3.67,False,False
 Clayton,2026-10-06,Orchard Farm,,2,0,W,2.85,0.01,-0.85,0.01,-0.84,False,False
-Clayton,2026-10-08,Webster Groves,,,,,2.28,1.36,,,,False,False
-Clayton,2026-10-13,St. Charles,,,,,2.72,2.06,,,,False,False
-Clayton,2026-10-15,Kirkwood,,,,,0.74,1.64,,,,False,False
-Clayton,2026-10-20,Ladue Horton Watkins,,,,,1.66,2.22,,,,False,False
-Clayton,2026-10-22,Parkway West,,,,,1.03,1.58,,,,False,False
+Clayton,2026-10-08,Webster Groves,,,,,2.27,1.35,,,,False,False
+Clayton,2026-10-13,St. Charles,,,,,2.71,2.05,,,,False,False
+Clayton,2026-10-15,Kirkwood,,,,,0.74,1.63,,,,False,False
+Clayton,2026-10-20,Ladue Horton Watkins,,,,,1.65,2.21,,,,False,False
+Clayton,2026-10-22,Parkway West,,,,,1.02,1.57,,,,False,False
 Clayton,2026-10-28,John Burroughs,,,,,1.79,2.07,,,,False,False
 Clinton,2026-08-27,Smith-Cotton,,1,4,L,1.4,3.38,-0.4,-0.62,-1.02,False,False
 Clinton,2026-08-28,Moberly,,0,1,L,2.13,2.06,-2.13,1.06,-1.07,False,False
@@ -811,11 +811,11 @@ Daniel Academy Sr. High,2026-10-09,Guadalupe Centers Charter,,,,,,,,,,False,Fals
 Daniel Academy Sr. High,2026-10-15,Frontier School of Excellence Charter,,,,,,,,,,False,False
 "Daniel(Kansas City , MO)",2026-10-06,Frontier STEM,,3,6,L,,,,,,False,False
 "Daniel(Kansas City, MO)",2026-09-08,Frontier STEM,,1,5,L,,,,,,False,False
-De Smet Jesuit,2026-09-01,Hickman,,1,2,L,2.57,1.65,-1.57,-0.35,-1.92,False,False
+De Smet Jesuit,2026-09-01,Hickman,,1,2,L,2.58,1.66,-1.58,-0.34,-1.92,False,False
 De Smet Jesuit,2026-09-03,Ladue Horton Watkins,,3,1,W,1.37,2.13,1.63,1.13,2.76,False,False
 De Smet Jesuit,2026-09-05,St. Mary's South Side,,4,1,W,3.81,0.86,0.19,-0.14,0.04,False,False
 De Smet Jesuit,2026-09-10,"O'fallon Township(O'Fallon, IL)",,1,0,W,,,,,,False,False
-De Smet Jesuit,2026-09-12,Jackson,,4,3,W,2.0,1.79,2.0,-1.21,0.79,False,False
+De Smet Jesuit,2026-09-12,Jackson,,4,3,W,2.0,1.8,2.0,-1.2,0.79,False,False
 De Smet Jesuit,2026-09-14,"Triad(Troy, IL)",,0,0,T,,,,,,False,False
 De Smet Jesuit,2026-09-17,Christian Brothers College,,1,2,L,0.97,2.24,0.03,0.24,0.27,False,False
 De Smet Jesuit,2026-09-21,"Belleville Althoff(Belleville, IL)",,3,1,W,,,,,,False,False
@@ -825,14 +825,14 @@ De Smet Jesuit,2026-09-29,St. Dominic,,0,3,L,0.4,2.41,-0.4,-0.59,-0.99,False,Fal
 De Smet Jesuit,2026-10-03,Ft. Zumwalt West,,0,1,L,1.22,1.14,-1.22,0.14,-1.08,False,False
 De Smet Jesuit,2026-10-06,Vianney,,1,1,T,0.86,1.5,0.14,0.5,0.64,False,False
 De Smet Jesuit,2026-10-08,Chaminade College Prep,,,,,0.35,2.56,,,,False,False
-De Smet Jesuit,2026-10-09,Ft. Zumwalt East,,,,,2.42,-0.05,,,,False,False
+De Smet Jesuit,2026-10-09,Ft. Zumwalt East,,,,,2.43,-0.05,,,,False,False
 De Smet Jesuit,2026-10-19,Francis Howell North,,,,,2.1,1.16,,,,False,False
 De Smet Jesuit,2026-10-28,Lindbergh,,,,,1.42,1.58,,,,False,False
 DeSoto,2026-08-27,Union,,1,2,L,2.46,2.73,-1.46,0.73,-0.74,False,False
 DeSoto,2026-09-01,Brentwood,,5,1,W,2.73,3.02,2.27,2.02,4.3,False,False
 DeSoto,2026-09-03,Perryville,,3,4,L,2.14,4.37,0.86,0.37,1.23,False,False
 DeSoto,2026-09-08,Sikeston,,0,8,L,0.08,6.15,-0.08,-1.85,-1.93,False,False
-DeSoto,2026-09-12,Farmington,,0,7,L,0.18,5.51,-0.18,-1.49,-1.67,False,False
+DeSoto,2026-09-12,Farmington,,0,7,L,0.18,5.52,-0.18,-1.48,-1.67,False,False
 DeSoto,2026-09-15,Hillsboro,,6,5,W,3.69,2.66,2.31,-2.34,-0.04,False,False
 DeSoto,2026-09-17,Festus,,0,1,L,3.48,1.33,-3.48,0.33,-3.15,False,False
 DeSoto,2026-09-21,Poplar Bluff,,2,8,L,2.71,5.03,-0.71,-2.97,-3.68,False,False
@@ -951,25 +951,25 @@ Eugene,2026-10-20,Laquey with Richland,,,,,-0.41,4.52,,,,False,False
 Eugene,2026-10-22,Calvary Lutheran,,,,,5.29,2.32,,,,False,False
 Eugene,2026-10-27,Boonville,,,,,-0.78,5.17,,,,False,False
 Eugene,2026-10-29,Osage,,,,,0.51,4.91,,,,False,False
-Eureka,2026-08-27,Timberland,,0,1,L,2.6,0.9,-2.6,-0.1,-2.7,False,False
-Eureka,2026-08-29,Francis Howell North,,2,0,W,3.02,1.49,-1.02,1.49,0.46,False,False
-Eureka,2026-09-01,Lindbergh,,3,2,W,2.35,1.91,0.65,-0.09,0.56,False,False
-Eureka,2026-09-03,Northwest (Cedar Hill),,6,5,W,3.12,2.17,2.88,-2.83,0.05,False,False
-Eureka,2026-09-08,Seckman,,3,0,W,3.11,0.34,-0.11,0.34,0.23,False,False
-Eureka,2026-09-10,Parkway West,,1,2,L,1.67,1.82,-0.67,-0.18,-0.85,False,False
-Eureka,2026-09-12,Mehlville,,1,0,W,3.13,0.55,-2.13,0.55,-1.58,False,False
-Eureka,2026-09-14,MICDS,,7,0,W,3.52,0.73,3.48,0.73,4.21,False,False
-Eureka,2026-09-15,Kirkwood,,1,1,T,1.38,1.88,-0.38,0.88,0.5,False,False
-Eureka,2026-09-17,Parkway Central,,6,0,W,3.15,0.08,2.85,0.08,2.94,False,False
-Eureka,2026-09-22,Oakville,,1,3,L,1.18,2.42,-0.18,-0.58,-0.76,False,False
-Eureka,2026-09-24,Clayton,,1,2,L,2.35,1.95,-1.35,-0.05,-1.39,False,False
-Eureka,2026-09-30,Webster Groves,,3,1,W,2.92,1.6,0.08,0.6,0.68,False,False
-Eureka,2026-10-06,Marquette,,,,,1.67,2.75,,,,False,False
-Eureka,2026-10-08,Lafayette (Wildwood),,,,,3.05,3.06,,,,False,False
-Eureka,2026-10-19,St. Francis Borgia,,,,,6.04,-0.98,,,,False,False
-Eureka,2026-10-21,Parkway South,,,,,2.89,1.27,,,,False,False
-Eureka,2026-10-26,Rockwood Summit,,,,,2.86,2.06,,,,False,False
-Eureka,2026-10-28,Farmington,,,,,3.11,1.38,,,,False,False
+Eureka,2026-08-27,Timberland,,0,1,L,2.62,0.92,-2.62,-0.08,-2.71,False,False
+Eureka,2026-08-29,Francis Howell North,,2,0,W,3.05,1.51,-1.05,1.51,0.46,False,False
+Eureka,2026-09-01,Lindbergh,,3,2,W,2.38,1.93,0.62,-0.07,0.55,False,False
+Eureka,2026-09-03,Northwest (Cedar Hill),,6,5,W,3.14,2.19,2.86,-2.81,0.05,False,False
+Eureka,2026-09-08,Seckman,,3,0,W,3.13,0.35,-0.13,0.35,0.22,False,False
+Eureka,2026-09-10,Parkway West,,1,2,L,1.69,1.84,-0.69,-0.16,-0.85,False,False
+Eureka,2026-09-12,Mehlville,,1,0,W,3.16,0.57,-2.16,0.57,-1.59,False,False
+Eureka,2026-09-14,MICDS,,7,0,W,3.54,0.75,3.46,0.75,4.2,False,False
+Eureka,2026-09-15,Kirkwood,,1,1,T,1.41,1.9,-0.41,0.9,0.5,False,False
+Eureka,2026-09-17,Parkway Central,,6,0,W,3.17,0.1,2.83,0.1,2.93,False,False
+Eureka,2026-09-22,Oakville,,1,3,L,1.2,2.44,-0.2,-0.56,-0.77,False,False
+Eureka,2026-09-24,Clayton,,1,2,L,2.37,1.97,-1.37,-0.03,-1.4,False,False
+Eureka,2026-09-30,Webster Groves,,3,1,W,2.94,1.62,0.06,0.62,0.68,False,False
+Eureka,2026-10-06,Marquette,,2,3,L,1.72,2.79,0.28,-0.21,0.07,False,False
+Eureka,2026-10-08,Lafayette (Wildwood),,,,,3.08,3.08,,,,False,False
+Eureka,2026-10-19,St. Francis Borgia,,,,,6.07,-0.95,,,,False,False
+Eureka,2026-10-21,Parkway South,,,,,2.91,1.29,,,,False,False
+Eureka,2026-10-26,Rockwood Summit,,,,,2.88,2.07,,,,False,False
+Eureka,2026-10-28,Farmington,,,,,3.13,1.4,,,,False,False
 "Evansville Reitz Memorial(Evansville, IN)",2026-09-26,Notre Dame (Cape Girardeau),,0,1,L,,,,,,False,False
 Ewing Marion Kauffman with University Academy Charter,2026-08-31,Faith Christian Academy,,0,3,L,0.52,3.66,-0.52,0.66,0.14,False,False
 Ewing Marion Kauffman with University Academy Charter,2026-09-10,Raytown South,,3,0,W,3.99,1.35,-0.99,1.35,0.36,False,False
@@ -1051,21 +1051,21 @@ Farmington,2026-08-28,Northwest (Cedar Hill),,1,0,W,1.91,2.68,-0.91,2.68,1.77,Fa
 Farmington,2026-09-01,Saxony Lutheran with St. Vincent,,3,2,W,3.01,1.89,-0.01,-0.11,-0.12,False,False
 Farmington,2026-09-03,Republic,,3,1,W,2.45,-0.13,0.55,-1.13,-0.58,False,False
 Farmington,2026-09-05,Branson,,2,1,W,2.66,0.96,-0.66,-0.04,-0.7,False,False
-Farmington,2026-09-10,Central (Cape Girardeau),,4,0,W,3.99,-1.71,0.01,-1.71,-1.7,False,False
-Farmington,2026-09-12,DeSoto,,7,0,W,5.51,0.18,1.49,0.18,1.67,False,False
+Farmington,2026-09-10,Central (Cape Girardeau),,4,0,W,4.0,-1.71,0.0,-1.71,-1.7,False,False
+Farmington,2026-09-12,DeSoto,,7,0,W,5.52,0.18,1.48,0.18,1.67,False,False
 Farmington,2026-09-14,Rockwood Summit,,2,3,L,1.65,2.57,0.35,-0.43,-0.08,False,False
-Farmington,2026-09-17,Notre Dame (Cape Girardeau),,1,3,L,0.96,2.9,0.04,-0.1,-0.06,False,False
+Farmington,2026-09-17,Notre Dame (Cape Girardeau),,1,3,L,0.96,2.91,0.04,-0.09,-0.06,False,False
 Farmington,2026-09-22,Seckman,,3,0,W,1.9,0.85,1.1,0.85,1.95,False,False
 Farmington,2026-09-26,Priory,,1,4,L,1.1,1.88,-0.1,-2.12,-2.22,False,False
 Farmington,2026-10-01,Ft. Zumwalt West,,0,1,L,0.94,1.99,-0.94,0.99,0.05,False,False
 Farmington,2026-10-03,North County,,7,0,W,6.94,-2.76,0.06,-2.76,-2.7,False,False
 Farmington,2026-10-06,Hillsboro,,7,1,W,5.41,-0.96,1.59,-1.96,-0.37,False,False
 Farmington,2026-10-09,Poplar Bluff,,,,,4.43,1.41,,,,False,False
-Farmington,2026-10-12,Sikeston,,,,,1.79,2.53,,,,False,False
+Farmington,2026-10-12,Sikeston,,,,,1.8,2.53,,,,False,False
 Farmington,2026-10-15,Perryville,,,,,3.85,0.75,,,,False,False
 Farmington,2026-10-19,Mehlville,,,,,1.93,1.06,,,,False,False
 Farmington,2026-10-22,Jackson,,,,,1.72,2.64,,,,False,False
-Farmington,2026-10-28,Eureka,,,,,1.38,3.11,,,,False,False
+Farmington,2026-10-28,Eureka,,,,,1.4,3.13,,,,False,False
 "Father McGivney(Glen Carbon, IL)",2026-10-01,Priory,,0,2,L,,,,,,False,False
 Father Tolton,2026-08-28,Oak Park,,3,2,W,3.12,1.29,-0.12,-0.71,-0.83,False,False
 Father Tolton,2026-08-29,Marshall,,3,1,W,2.16,1.28,0.84,0.28,1.12,False,False
@@ -1161,26 +1161,26 @@ Fox,2026-10-07,Parkway North,,6,1,W,2.73,1.44,3.27,0.44,3.71,False,False
 Fox,2026-10-08,Northwest (Cedar Hill),,,,,-0.11,5.12,,,,False,False
 Fox,2026-10-12,Northwest (Cedar Hill),,,,,-0.11,5.12,,,,False,False
 Fox,2026-10-19,Lindbergh,,,,,-0.88,4.86,,,,False,False
-Fox,2026-10-20,Oakville,,,,,-2.05,5.37,,,,False,False
+Fox,2026-10-20,Oakville,,,,,-2.06,5.37,,,,False,False
 Fox,2026-10-26,Bayless,,,,,0.91,3.21,,,,False,False
 Fox,2026-10-27,Mehlville,,,,,-0.1,3.5,,,,False,False
-Francis Howell,2026-09-01,Ft. Zumwalt West,,1,2,L,1.58,1.5,-0.58,-0.5,-1.07,False,False
+Francis Howell,2026-09-01,Ft. Zumwalt West,,1,2,L,1.57,1.5,-0.57,-0.5,-1.07,False,False
 Francis Howell,2026-09-03,Liberty (Wentzville),,3,0,W,3.17,1.54,-0.17,1.54,1.36,False,False
 Francis Howell,2026-09-08,Oakville,,0,2,L,0.61,2.45,-0.61,0.45,-0.16,False,False
-Francis Howell,2026-09-10,Troy Buchanan,,1,0,W,2.09,0.71,-1.09,0.71,-0.38,False,False
-Francis Howell,2026-09-14,Francis Howell North,,2,1,W,2.46,1.52,-0.46,0.52,0.06,False,False
+Francis Howell,2026-09-10,Troy Buchanan,,1,0,W,2.09,0.71,-1.09,0.71,-0.37,False,False
+Francis Howell,2026-09-14,Francis Howell North,,2,1,W,2.45,1.52,-0.45,0.52,0.06,False,False
 Francis Howell,2026-09-17,Timberland,,2,1,W,2.03,0.93,-0.03,-0.07,-0.1,False,False
 Francis Howell,2026-09-21,Francis Howell Central,,1,4,L,1.13,2.76,-0.13,-1.24,-1.37,False,False
 Francis Howell,2026-09-22,Ft. Zumwalt East,,2,1,W,2.78,0.31,-0.78,-0.69,-1.48,False,False
-Francis Howell,2026-09-24,Marquette,,3,4,L,1.1,2.78,1.9,-1.22,0.68,False,False
+Francis Howell,2026-09-24,Marquette,,3,4,L,1.13,2.8,1.87,-1.2,0.67,False,False
 Francis Howell,2026-09-26,De Smet Jesuit,,2,1,W,1.69,1.69,0.31,0.69,1.0,False,False
 Francis Howell,2026-10-03,Ft. Zumwalt East,,5,1,W,2.78,0.31,2.22,-0.69,1.52,False,False
 Francis Howell,2026-10-08,Ft. Zumwalt South,,,,,2.17,1.99,,,,False,False
-Francis Howell,2026-10-10,Ft. Zumwalt West,,,,,1.58,1.5,,,,False,False
-Francis Howell,2026-10-13,St. Dominic,,,,,0.76,2.77,,,,False,False
+Francis Howell,2026-10-10,Ft. Zumwalt West,,,,,1.57,1.5,,,,False,False
+Francis Howell,2026-10-13,St. Dominic,,,,,0.75,2.77,,,,False,False
 Francis Howell,2026-10-15,Rock Bridge,,,,,2.21,2.43,,,,False,False
 Francis Howell,2026-10-26,Lafayette (Wildwood),,,,,2.48,3.09,,,,False,False
-Francis Howell Central,2026-08-27,Webster Groves,,2,1,W,3.06,0.71,-1.06,-0.29,-1.35,False,False
+Francis Howell Central,2026-08-27,Webster Groves,,2,1,W,3.05,0.71,-1.05,-0.29,-1.35,False,False
 Francis Howell Central,2026-08-31,Parkway West,,2,0,W,1.81,0.93,0.19,0.93,1.12,False,False
 Francis Howell Central,2026-09-03,Ft. Zumwalt South,,3,2,W,2.88,1.06,0.12,-0.94,-0.82,False,False
 Francis Howell Central,2026-09-10,Liberty (Wentzville),,3,1,W,3.88,0.61,-0.88,-0.39,-1.27,False,False
@@ -1188,36 +1188,36 @@ Francis Howell Central,2026-09-12,Lafayette (Wildwood),,3,2,W,3.19,2.17,-0.19,0.
 Francis Howell Central,2026-09-15,Ft. Zumwalt West,,5,3,W,2.28,0.58,2.72,-2.42,0.29,False,False
 Francis Howell Central,2026-09-18,Troy Buchanan,,4,0,W,2.8,-0.21,1.2,-0.21,0.99,False,False
 Francis Howell Central,2026-09-21,Francis Howell,,4,1,W,2.76,1.13,1.24,0.13,1.37,False,False
-Francis Howell Central,2026-09-24,Christian Brothers College,,1,2,L,2.03,1.67,-1.03,-0.33,-1.36,False,False
+Francis Howell Central,2026-09-24,Christian Brothers College,,1,2,L,2.04,1.68,-1.04,-0.32,-1.36,False,False
 Francis Howell Central,2026-09-26,St. Dominic,,0,0,T,1.46,1.84,-1.46,1.84,0.38,False,False
 Francis Howell Central,2026-10-01,Ft. Zumwalt East,,4,0,W,3.49,-0.62,0.51,-0.62,-0.11,False,False
-Francis Howell Central,2026-10-03,Vianney,,1,0,W,1.93,0.93,-0.93,0.93,0.01,False,False
+Francis Howell Central,2026-10-03,Vianney,,1,0,W,1.93,0.94,-0.93,0.94,0.01,False,False
 Francis Howell Central,2026-10-06,Francis Howell North,,4,1,W,3.16,0.59,0.84,-0.41,0.43,False,False
 Francis Howell Central,2026-10-10,Ladue Horton Watkins,,,,,2.43,1.57,,,,False,False
 Francis Howell Central,2026-10-12,Ft. Zumwalt North,,,,,4.28,-1.4,,,,False,False
 Francis Howell Central,2026-10-16,Ft. Zumwalt South,,,,,2.88,1.06,,,,False,False
-Francis Howell Central,2026-10-20,Marquette,,,,,1.81,1.85,,,,False,False
+Francis Howell Central,2026-10-20,Marquette,,,,,1.84,1.88,,,,False,False
 Francis Howell Central,2026-10-27,Capital City,,,,,4.46,-0.47,,,,False,False
 Francis Howell North,2026-08-27,Ft. Zumwalt East,,3,0,W,2.25,0.71,0.75,0.71,1.46,False,False
-Francis Howell North,2026-08-29,Eureka,,0,2,L,1.49,3.02,-1.49,1.02,-0.46,False,False
+Francis Howell North,2026-08-29,Eureka,,0,2,L,1.51,3.05,-1.51,1.05,-0.46,False,False
 Francis Howell North,2026-09-01,Liberty (Wentzville),,4,3,W,2.64,1.94,1.36,-1.06,0.3,False,False
 Francis Howell North,2026-09-08,Troy Buchanan,,2,1,W,1.55,1.12,0.45,0.12,0.56,False,False
-Francis Howell North,2026-09-10,Ft. Zumwalt West,,1,2,L,1.04,1.91,-0.04,-0.09,-0.13,False,False
-Francis Howell North,2026-09-14,Francis Howell,,1,2,L,1.52,2.46,-0.52,0.46,-0.06,False,False
+Francis Howell North,2026-09-10,Ft. Zumwalt West,,1,2,L,1.04,1.9,-0.04,-0.1,-0.14,False,False
+Francis Howell North,2026-09-14,Francis Howell,,1,2,L,1.52,2.45,-0.52,0.45,-0.06,False,False
 Francis Howell North,2026-09-16,John Burroughs,,1,3,L,1.33,2.75,-0.33,-0.25,-0.58,False,False
-Francis Howell North,2026-09-21,Kirkwood,,1,4,L,0.28,2.32,0.72,-1.68,-0.96,False,False
+Francis Howell North,2026-09-21,Kirkwood,,1,4,L,0.27,2.31,0.73,-1.69,-0.96,False,False
 Francis Howell North,2026-09-22,Lafayette (Wildwood),,3,7,L,1.95,3.5,1.05,-3.5,-2.45,False,False
 Francis Howell North,2026-09-24,Timberland,,2,1,W,1.49,1.33,0.51,0.33,0.84,False,False
-Francis Howell North,2026-09-28,Parkway West,,0,1,L,0.57,2.26,-0.57,1.26,0.69,False,False
+Francis Howell North,2026-09-28,Parkway West,,0,1,L,0.56,2.25,-0.56,1.25,0.69,False,False
 Francis Howell North,2026-09-29,Ft. Zumwalt North,,1,0,W,3.03,-0.07,-2.03,-0.07,-2.11,False,False
 Francis Howell North,2026-10-01,Carthage,,1,0,W,2.08,1.38,-1.08,1.38,0.3,False,False
 Francis Howell North,2026-10-02,Branson,,3,2,W,2.76,0.88,0.24,-1.12,-0.88,False,False
 Francis Howell North,2026-10-03,Glendale,,1,0,W,1.18,2.35,-0.18,2.35,2.17,False,False
 Francis Howell North,2026-10-06,Francis Howell Central,,1,4,L,0.59,3.16,0.41,-0.84,-0.43,False,False
-Francis Howell North,2026-10-13,Parkway West,,,,,0.57,2.26,,,,False,False
+Francis Howell North,2026-10-13,Parkway West,,,,,0.56,2.25,,,,False,False
 Francis Howell North,2026-10-19,De Smet Jesuit,,,,,1.16,2.1,,,,False,False
 Francis Howell North,2026-10-20,Christian Brothers College,,,,,0.79,3.0,,,,False,False
-Francis Howell North,2026-10-22,Parkway Central,,,,,2.04,0.52,,,,False,False
+Francis Howell North,2026-10-22,Parkway Central,,,,,2.04,0.51,,,,False,False
 Francis Howell North,2026-10-27,North Point,,,,,2.74,2.33,,,,False,False
 Fredericktown,2026-09-01,Pacific,,1,4,L,1.44,2.48,-0.44,-1.52,-1.96,False,False
 Fredericktown,2026-09-02,Festus,,1,0,W,2.41,1.64,-1.41,1.64,0.23,False,False
@@ -1276,18 +1276,18 @@ Ft. Zumwalt East,2026-09-15,Timberland,,0,2,L,0.28,1.66,-0.28,-0.34,-0.62,False,
 Ft. Zumwalt East,2026-09-22,Francis Howell,,1,2,L,0.31,2.78,0.69,0.78,1.48,False,False
 Ft. Zumwalt East,2026-09-24,Washington,,2,0,W,2.68,0.52,-0.68,0.52,-0.16,False,False
 Ft. Zumwalt East,2026-09-26,Ft. Zumwalt West,,0,2,L,-0.17,2.23,0.17,0.23,0.4,False,False
-Ft. Zumwalt East,2026-09-29,Parkway West,,0,4,L,-0.64,2.58,0.64,-1.42,-0.77,False,False
+Ft. Zumwalt East,2026-09-29,Parkway West,,0,4,L,-0.65,2.58,0.65,-1.42,-0.77,False,False
 Ft. Zumwalt East,2026-10-01,Francis Howell Central,,0,4,L,-0.62,3.49,0.62,-0.51,0.11,False,False
 Ft. Zumwalt East,2026-10-03,Francis Howell,,1,5,L,0.31,2.78,0.69,-2.22,-1.52,False,False
 Ft. Zumwalt East,2026-10-06,Ft. Zumwalt South,,1,3,L,0.42,2.72,0.58,-0.28,0.29,False,False
-Ft. Zumwalt East,2026-10-08,Ft. Zumwalt North,,,,,1.82,0.25,,,,False,False
-Ft. Zumwalt East,2026-10-09,De Smet Jesuit,,,,,-0.05,2.42,,,,False,False
+Ft. Zumwalt East,2026-10-08,Ft. Zumwalt North,,,,,1.82,0.26,,,,False,False
+Ft. Zumwalt East,2026-10-09,De Smet Jesuit,,,,,-0.05,2.43,,,,False,False
 Ft. Zumwalt East,2026-10-13,Ft. Zumwalt West,,,,,-0.17,2.23,,,,False,False
 Ft. Zumwalt East,2026-10-15,Westminster Christian Academy,,,,,1.46,1.58,,,,False,False
 Ft. Zumwalt East,2026-10-19,Lutheran St. Charles,,,,,1.74,0.82,,,,False,False
 Ft. Zumwalt East,2026-10-21,Duchesne,,,,,3.53,-0.31,,,,False,False
 Ft. Zumwalt East,2026-10-26,Liberty (Wentzville),,,,,1.43,2.27,,,,False,False
-Ft. Zumwalt East,2026-10-28,Lafayette (Wildwood),,,,,0.74,3.82,,,,False,False
+Ft. Zumwalt East,2026-10-28,Lafayette (Wildwood),,,,,0.74,3.83,,,,False,False
 Ft. Zumwalt North,2026-09-01,Timberland,,0,4,L,-0.5,2.44,0.5,-1.56,-1.05,False,False
 Ft. Zumwalt North,2026-09-04,Lutheran St. Charles,,2,1,W,0.96,1.61,1.04,0.61,1.65,False,False
 Ft. Zumwalt North,2026-09-08,North Point,,0,4,L,0.74,3.44,-0.74,-0.56,-1.3,False,False
@@ -1299,7 +1299,7 @@ Ft. Zumwalt North,2026-09-24,Hannibal,,2,1,W,2.77,0.87,-0.77,-0.13,-0.9,False,Fa
 Ft. Zumwalt North,2026-09-29,Francis Howell North,,0,1,L,-0.07,3.03,0.07,2.03,2.11,False,False
 Ft. Zumwalt North,2026-10-01,Duchesne,,2,0,W,2.75,0.47,-0.75,0.47,-0.27,False,False
 Ft. Zumwalt North,2026-10-06,Troy Buchanan,,1,3,L,-0.44,2.23,1.44,-0.77,0.67,False,False
-Ft. Zumwalt North,2026-10-08,Ft. Zumwalt East,,,,,0.25,1.82,,,,False,False
+Ft. Zumwalt North,2026-10-08,Ft. Zumwalt East,,,,,0.26,1.82,,,,False,False
 Ft. Zumwalt North,2026-10-12,Francis Howell Central,,,,,-1.4,4.28,,,,False,False
 Ft. Zumwalt North,2026-10-15,Pattonville,,,,,0.53,2.9,,,,False,False
 Ft. Zumwalt North,2026-10-20,Missouri Military Academy,,,,,2.62,0.74,,,,False,False
@@ -1313,11 +1313,11 @@ Ft. Zumwalt South,2026-09-08,Hannibal,,8,0,W,5.24,-0.53,2.76,-0.53,2.24,False,Fa
 Ft. Zumwalt South,2026-09-10,Timberland,,3,0,W,1.96,1.04,1.04,1.04,2.08,False,False
 Ft. Zumwalt South,2026-09-12,Rock Bridge,,2,1,W,2.14,2.54,-0.14,1.54,1.4,False,False
 Ft. Zumwalt South,2026-09-15,North Point,,4,3,W,3.21,2.04,0.79,-0.96,-0.16,False,False
-Ft. Zumwalt South,2026-09-17,Washington,,6,0,W,4.36,-0.1,1.64,-0.1,1.55,False,False
+Ft. Zumwalt South,2026-09-17,Washington,,6,0,W,4.36,-0.09,1.64,-0.09,1.55,False,False
 Ft. Zumwalt South,2026-09-22,Ft. Zumwalt North,,5,1,W,3.5,-0.36,1.5,-1.36,0.14,False,False
 Ft. Zumwalt South,2026-09-24,Ladue Horton Watkins,,3,4,L,1.66,2.61,1.34,-1.39,-0.05,False,False
 Ft. Zumwalt South,2026-09-29,Parkway South,,0,1,L,2.25,1.42,-2.25,0.42,-1.83,False,False
-Ft. Zumwalt South,2026-10-01,SLUH,,0,3,L,0.54,3.19,-0.54,0.19,-0.34,False,False
+Ft. Zumwalt South,2026-10-01,SLUH,,0,3,L,0.53,3.19,-0.53,0.19,-0.34,False,False
 Ft. Zumwalt South,2026-10-03,"O'Fallon(O'Fallon, IL)",,1,1,T,,,,,,False,False
 Ft. Zumwalt South,2026-10-06,Ft. Zumwalt East,,3,1,W,2.72,0.42,0.28,-0.58,-0.29,False,False
 Ft. Zumwalt South,2026-10-08,Francis Howell,,,,,1.99,2.17,,,,False,False
@@ -1325,28 +1325,28 @@ Ft. Zumwalt South,2026-10-10,"Triad(Troy, IL)",,,,,,,,,,False,False
 Ft. Zumwalt South,2026-10-12,Rockwood Summit,,,,,2.22,2.2,,,,False,False
 Ft. Zumwalt South,2026-10-16,Francis Howell Central,,,,,1.06,2.88,,,,False,False
 Ft. Zumwalt South,2026-10-20,Ft. Zumwalt West,,,,,1.51,1.62,,,,False,False
-Ft. Zumwalt South,2026-10-22,St. Dominic,,,,,0.69,2.89,,,,False,False
+Ft. Zumwalt South,2026-10-22,St. Dominic,,,,,0.69,2.88,,,,False,False
 Ft. Zumwalt South,2026-10-27,Christian Brothers College,,,,,1.26,2.72,,,,False,False
-Ft. Zumwalt West,2026-08-28,Marquette,,0,3,L,0.55,2.3,-0.55,-0.7,-1.25,False,False
-Ft. Zumwalt West,2026-09-01,Francis Howell,,2,1,W,1.5,1.58,0.5,0.58,1.07,False,False
+Ft. Zumwalt West,2026-08-28,Marquette,,0,3,L,0.58,2.32,-0.58,-0.68,-1.25,False,False
+Ft. Zumwalt West,2026-09-01,Francis Howell,,2,1,W,1.5,1.57,0.5,0.57,1.07,False,False
 Ft. Zumwalt West,2026-09-03,Troy Buchanan,,1,0,W,1.54,0.24,-0.54,0.24,-0.3,False,False
 Ft. Zumwalt West,2026-09-08,Liberty (Wentzville),,1,2,L,2.62,1.06,-1.62,-0.94,-2.56,False,False
-Ft. Zumwalt West,2026-09-10,Francis Howell North,,2,1,W,1.91,1.04,0.09,0.04,0.13,False,False
+Ft. Zumwalt West,2026-09-10,Francis Howell North,,2,1,W,1.9,1.04,0.1,0.04,0.14,False,False
 Ft. Zumwalt West,2026-09-15,Francis Howell Central,,3,5,L,0.58,2.28,2.42,-2.72,-0.29,False,False
 Ft. Zumwalt West,2026-09-17,Hickman,,,,,2.38,1.54,,,,False,False
 Ft. Zumwalt West,2026-09-22,Timberland,,3,0,W,1.48,0.45,1.52,0.45,1.97,False,False
-Ft. Zumwalt West,2026-09-24,Hickman,,3,1,W,2.38,1.54,0.62,0.54,1.15,False,False
+Ft. Zumwalt West,2026-09-24,Hickman,,3,1,W,2.38,1.54,0.62,0.54,1.16,False,False
 Ft. Zumwalt West,2026-09-26,Ft. Zumwalt East,,2,0,W,2.23,-0.17,-0.23,-0.17,-0.4,False,False
-Ft. Zumwalt West,2026-09-29,Ladue Horton Watkins,,0,2,L,1.18,2.02,-1.18,0.02,-1.16,False,False
+Ft. Zumwalt West,2026-09-29,Ladue Horton Watkins,,0,2,L,1.17,2.01,-1.17,0.01,-1.16,False,False
 Ft. Zumwalt West,2026-10-01,Farmington,,1,0,W,1.99,0.94,-0.99,0.94,-0.05,False,False
 Ft. Zumwalt West,2026-10-03,De Smet Jesuit,,1,0,W,1.14,1.22,-0.14,1.22,1.08,False,False
 Ft. Zumwalt West,2026-10-06,Lafayette (Wildwood),,2,3,L,1.93,2.62,0.07,-0.38,-0.32,False,False
 Ft. Zumwalt West,2026-10-08,North Point,,,,,2.72,1.45,,,,False,False
-Ft. Zumwalt West,2026-10-10,Francis Howell,,,,,1.5,1.58,,,,False,False
+Ft. Zumwalt West,2026-10-10,Francis Howell,,,,,1.5,1.57,,,,False,False
 Ft. Zumwalt West,2026-10-13,Ft. Zumwalt East,,,,,2.23,-0.17,,,,False,False
 Ft. Zumwalt West,2026-10-20,Ft. Zumwalt South,,,,,1.62,1.51,,,,False,False
 Ft. Zumwalt West,2026-10-22,Ft. Zumwalt North,,,,,3.02,-0.95,,,,False,False
-Ft. Zumwalt West,2026-10-28,Rockwood Summit,,,,,1.74,1.61,,,,False,False
+Ft. Zumwalt West,2026-10-28,Rockwood Summit,,,,,1.73,1.61,,,,False,False
 Fulton,2026-09-01,Fatima,,5,1,W,3.51,0.18,1.49,-0.82,0.67,False,False
 Fulton,2026-09-03,Mexico,,2,1,W,2.77,1.21,-0.77,0.21,-0.56,False,False
 Fulton,2026-09-08,Boonville,,0,7,L,-0.08,3.34,0.08,-3.66,-3.59,False,False
@@ -1400,11 +1400,11 @@ Gateway with Soldan International Studies,2026-10-26,Pacific,,,,,1.42,1.6,,,,Fal
 Gateway with Soldan International Studies,2026-10-27,Gateway Science Charter,,,,,2.4,2.54,,,,False,False
 "Gibault Catholic(Waterloo , IL)",2026-10-06,St. Pius X (Festus),,0,1,L,,,,,,False,False
 Glendale,2026-09-01,Carthage,,6,1,W,2.51,0.65,3.49,-0.35,3.14,False,False
-Glendale,2026-09-04,SLUH,,0,3,L,0.5,2.75,-0.5,-0.25,-0.75,False,False
+Glendale,2026-09-04,SLUH,,0,3,L,0.5,2.74,-0.5,-0.26,-0.76,False,False
 Glendale,2026-09-05,Vianney,,2,2,T,1.12,1.53,0.88,-0.47,0.41,False,False
-Glendale,2026-09-10,Branson,,2,0,W,3.19,0.14,-1.19,0.14,-1.05,False,False
+Glendale,2026-09-10,Branson,,2,0,W,3.19,0.15,-1.19,0.15,-1.05,False,False
 Glendale,2026-09-11,Liberty North,,0,2,L,1.06,2.73,-1.06,0.73,-0.33,False,False
-Glendale,2026-09-12,Northwest (Cedar Hill),,4,1,W,2.45,1.87,1.55,0.87,2.42,False,False
+Glendale,2026-09-12,Northwest (Cedar Hill),,4,1,W,2.44,1.86,1.56,0.86,2.42,False,False
 Glendale,2026-09-15,Springfield Catholic,,1,2,L,2.29,1.06,-1.29,-0.94,-2.23,False,False
 Glendale,2026-09-22,Neosho,,7,0,W,3.81,-0.45,3.19,-0.45,2.75,False,False
 Glendale,2026-09-24,Webb City,,3,1,W,4.63,-1.84,-1.63,-2.84,-4.47,False,False
@@ -1436,7 +1436,7 @@ Grain Valley,2026-10-05,Belton,,2,3,L,2.86,2.19,-0.86,-0.81,-1.68,False,False
 Grain Valley,2026-10-07,Blue Springs South,,3,4,L,0.51,4.86,2.49,0.86,3.36,False,False
 Grain Valley,2026-10-12,Truman,,,,,4.52,1.69,,,,False,False
 Grain Valley,2026-10-14,Kearney,,,,,4.3,2.34,,,,False,False
-Grain Valley,2026-10-19,Blue Springs,,,,,0.63,4.05,,,,False,False
+Grain Valley,2026-10-19,Blue Springs,,,,,0.62,4.05,,,,False,False
 Grain Valley,2026-10-21,North Kansas City,,,,,2.47,2.38,,,,False,False
 Grain Valley,2026-10-26,William Chrisman,,,,,4.04,0.5,,,,False,False
 Grandview,2026-08-27,Pleasant Hill,,1,4,L,1.34,2.53,-0.34,-1.47,-1.81,False,False
@@ -1616,7 +1616,7 @@ Heartland (Belton) Sr.,2026-09-14,Lutheran (Kansas City),,0,2,L,,,,,,False,False
 Helias Catholic,2026-08-27,Ft. Zumwalt South,,2,1,W,1.49,1.68,0.51,0.68,1.19,False,False
 Helias Catholic,2026-08-29,St. Mary's South Side,,3,2,W,3.49,0.91,-0.49,-1.09,-1.58,False,False
 Helias Catholic,2026-09-03,Ozark,,1,0,W,2.69,1.15,-1.69,1.15,-0.53,False,False
-Helias Catholic,2026-09-08,Hickman,,1,0,W,2.25,1.71,-1.25,1.71,0.46,False,False
+Helias Catholic,2026-09-08,Hickman,,1,0,W,2.26,1.71,-1.26,1.71,0.46,False,False
 Helias Catholic,2026-09-10,Father Tolton,,3,2,W,2.25,1.1,0.75,-0.9,-0.15,False,False
 Helias Catholic,2026-09-15,Battle with Columbia Independent,,5,0,W,2.72,-0.09,2.28,-0.09,2.2,False,False
 Helias Catholic,2026-09-18,St. Michael the Archangel,,3,0,W,2.71,1.04,0.29,1.04,1.32,False,False
@@ -1630,24 +1630,24 @@ Helias Catholic,2026-10-03,St. Francis Borgia,,1,0,W,4.79,-1.25,-3.79,-1.25,-5.0
 Helias Catholic,2026-10-06,Smith-Cotton,,3,1,W,3.24,0.58,-0.24,-0.42,-0.65,False,False
 Helias Catholic,2026-10-08,Marshall,,,,,2.13,0.1,,,,False,False
 Helias Catholic,2026-10-13,Camdenton,,,,,3.05,0.25,,,,False,False
-Helias Catholic,2026-10-15,Liberty (Wentzville),,,,,2.49,1.23,,,,False,False
+Helias Catholic,2026-10-15,Liberty (Wentzville),,,,,2.5,1.24,,,,False,False
 Helias Catholic,2026-10-19,Osage,,,,,5.54,-1.54,,,,False,False
 Helias Catholic,2026-10-20,Rock Bridge,,,,,1.53,2.12,,,,False,False
 Helias Catholic,2026-10-27,Moberly,,,,,3.97,-0.74,,,,False,False
 "Heritage Christian(Olathe, KS)",2026-09-15,Faith Christian Academy,,2,0,W,,,,,,False,False
 "Heritage Christian(Olathe, KS)",2026-09-29,Northland Christian,,9,1,W,,,,,,False,False
 "Heritage Christian(Olathe, KS)",2026-10-05,Lutheran (Kansas City),,4,0,W,,,,,,False,False
-Hickman,2026-08-28,Nixa,,3,2,W,1.23,3.49,1.77,1.49,3.27,False,False
+Hickman,2026-08-28,Nixa,,3,2,W,1.23,3.49,1.77,1.49,3.26,False,False
 Hickman,2026-08-29,Kickapoo,,5,1,W,4.14,0.87,0.86,-0.13,0.73,False,False
-Hickman,2026-09-01,De Smet Jesuit,,2,1,W,1.65,2.57,0.35,1.57,1.92,False,False
+Hickman,2026-09-01,De Smet Jesuit,,2,1,W,1.66,2.58,0.34,1.58,1.92,False,False
 Hickman,2026-09-04,Central (Springfield),,3,2,W,3.88,0.64,-0.88,-1.36,-2.24,False,False
 Hickman,2026-09-05,Parkview,,3,1,W,4.25,0.9,-1.25,-0.1,-1.35,False,False
-Hickman,2026-09-08,Helias Catholic,,0,1,L,1.71,2.25,-1.71,1.25,-0.46,False,False
+Hickman,2026-09-08,Helias Catholic,,0,1,L,1.71,2.26,-1.71,1.26,-0.46,False,False
 Hickman,2026-09-14,Father Tolton,,1,4,L,2.9,2.28,-1.9,-1.72,-3.61,False,False
 Hickman,2026-09-15,Camdenton,,4,1,W,3.69,1.43,0.31,0.43,0.74,False,False
 Hickman,2026-09-17,Ft. Zumwalt West,,,,,1.54,2.38,,,,False,False
 Hickman,2026-09-22,Rock Bridge,,2,4,L,2.17,3.31,-0.17,-0.69,-0.86,False,False
-Hickman,2026-09-24,Ft. Zumwalt West,,1,3,L,1.54,2.38,-0.54,-0.62,-1.15,False,False
+Hickman,2026-09-24,Ft. Zumwalt West,,1,3,L,1.54,2.38,-0.54,-0.62,-1.16,False,False
 Hickman,2026-09-25,Summit Christian Academy,,6,0,W,3.35,1.15,2.65,1.15,3.8,False,False
 Hickman,2026-09-26,North Kansas City,,4,3,W,3.65,1.48,0.35,-1.52,-1.17,False,False
 Hickman,2026-09-29,Jefferson City,,6,0,W,4.7,-0.22,1.3,-0.22,1.08,False,False
@@ -1661,7 +1661,7 @@ Hickman,2026-10-13,Smith-Cotton,,,,,3.88,1.77,,,,False,False
 Hickman,2026-10-14,Marshall,,,,,2.77,1.28,,,,False,False
 Hickman,2026-10-17,Moberly,,,,,4.61,0.44,,,,False,False
 Hickman,2026-10-20,Capital City,,,,,3.72,1.34,,,,False,False
-Hickman,2026-10-23,Kirkwood,,,,,0.77,2.8,,,,False,False
+Hickman,2026-10-23,Kirkwood,,,,,0.77,2.79,,,,False,False
 Hickman,2026-10-24,Park Hill South,,,,,1.38,2.87,,,,False,False
 Highland,2026-10-10,Webster Groves,,,,,,,,,,False,False
 Hillcrest,2026-08-27,Cassville,,2,5,L,0.87,2.3,1.13,-2.7,-1.57,False,False
@@ -1711,7 +1711,7 @@ Holt,2026-09-03,Warrenton,,1,6,L,1.39,3.43,-0.39,-2.57,-2.96,False,False
 Holt,2026-09-08,Winfield,,4,2,W,2.42,2.1,1.58,0.1,1.68,False,False
 Holt,2026-09-10,St. Charles West,,1,2,L,1.44,1.7,-0.44,-0.3,-0.74,False,False
 Holt,2026-09-15,Orchard Farm,,0,3,L,-0.45,3.62,0.45,0.62,1.07,False,False
-Holt,2026-09-17,Veritas Christian Academy,,0,2,L,-0.09,3.44,0.09,1.44,1.53,False,False
+Holt,2026-09-17,Veritas Christian Academy,,0,2,L,-0.1,3.44,0.1,1.44,1.53,False,False
 Holt,2026-09-22,Wright City,,2,1,W,2.89,0.67,-0.89,-0.33,-1.21,False,False
 Holt,2026-09-24,Sullivan,,3,4,L,1.86,2.31,1.14,-1.69,-0.55,False,False
 Holt,2026-09-29,Union,,2,0,W,1.44,1.96,0.56,1.96,2.52,False,False
@@ -1750,21 +1750,21 @@ Iberia,2026-10-29,Crocker,,,,,-0.11,7.89,,,,False,False
 "J.C. Harmon(Kansas City, KS)",2026-09-14,Raytown South,,8,0,W,,,,,,False,False
 "JC Harmon(Kansas City, KS)",2026-10-08,Guadalupe Centers Charter,,,,,,,,,,False,False
 Jackson,2026-08-27,Rockwood Summit,,3,2,W,2.39,2.39,0.61,0.39,1.0,False,False
-Jackson,2026-09-01,Oakville,,0,1,L,0.71,2.76,-0.71,1.76,1.04,False,False
+Jackson,2026-09-01,Oakville,,0,1,L,0.71,2.75,-0.71,1.75,1.04,False,False
 Jackson,2026-09-04,"Murphysboro HS(Murphysboro, IL)",,5,0,W,,,,,,False,False
 Jackson,2026-09-08,Fox,,7,0,W,5.08,-0.3,1.92,-0.3,1.62,False,False
-Jackson,2026-09-12,De Smet Jesuit,,3,4,L,1.79,2.0,1.21,-2.0,-0.79,False,False
+Jackson,2026-09-12,De Smet Jesuit,,3,4,L,1.8,2.0,1.2,-2.0,-0.79,False,False
 Jackson,2026-09-15,Northwest (Cedar Hill),,1,2,L,2.65,2.51,-1.65,0.51,-1.14,False,False
 Jackson,2026-09-21,Seckman,,2,1,W,2.64,0.67,-0.64,-0.33,-0.97,False,False
 Jackson,2026-09-24,Perryville,,7,0,W,4.6,0.57,2.4,0.57,2.98,False,False
-Jackson,2026-09-28,Sikeston,,2,1,W,2.54,2.35,-0.54,1.35,0.82,False,False
+Jackson,2026-09-28,Sikeston,,2,1,W,2.54,2.36,-0.54,1.36,0.82,False,False
 Jackson,2026-10-01,Nixa,,1,3,L,1.37,2.92,-0.37,-0.08,-0.45,False,False
 Jackson,2026-10-02,Glendale,,2,3,L,1.82,2.26,0.18,-0.74,-0.56,False,False
-Jackson,2026-10-03,Kickapoo,,4,1,W,4.28,0.29,-0.28,-0.71,-0.98,False,False
+Jackson,2026-10-03,Kickapoo,,4,1,W,4.28,0.3,-0.28,-0.7,-0.98,False,False
 Jackson,2026-10-06,Central (Cape Girardeau),,6,0,W,4.74,-1.88,1.26,-1.88,-0.62,False,False
-Jackson,2026-10-13,Lindbergh,,,,,1.89,2.25,,,,False,False
+Jackson,2026-10-13,Lindbergh,,,,,1.88,2.25,,,,False,False
 Jackson,2026-10-15,Saxony Lutheran with St. Vincent,,,,,3.75,1.72,,,,False,False
-Jackson,2026-10-19,Poplar Bluff,,,,,5.17,1.23,,,,False,False
+Jackson,2026-10-19,Poplar Bluff,,,,,5.17,1.24,,,,False,False
 Jackson,2026-10-22,Farmington,,,,,2.64,1.72,,,,False,False
 Jackson,2026-10-27,Notre Dame (Cape Girardeau),,,,,1.7,2.73,,,,False,False
 Jefferson City,2026-08-27,Boonville,,1,2,L,1.77,1.72,-0.77,-0.28,-1.05,False,False
@@ -1788,7 +1788,7 @@ Jefferson City,2026-10-08,Southern Boone,,,,,1.04,2.8,,,,False,False
 Jefferson City,2026-10-13,Battle with Columbia Independent,,,,,0.25,2.9,,,,False,False
 Jefferson City,2026-10-20,Camdenton,,,,,0.58,3.24,,,,False,False
 Jefferson City,2026-10-23,Sullivan,,,,,2.09,1.67,,,,False,False
-Jefferson City,2026-10-26,Orchard Farm,,,,,-0.23,2.98,,,,False,False
+Jefferson City,2026-10-26,Orchard Farm,,,,,-0.22,2.98,,,,False,False
 Jefferson City,2026-10-28,Father Tolton,,,,,-0.22,4.09,,,,False,False
 Jennings,2026-09-15,Cardinal Ritter,,1,9,L,1.02,6.85,-0.02,-2.15,-2.17,False,False
 Jennings,2026-09-17,Hazelwood Central,,0,10,L,,,,,,False,False
@@ -1808,18 +1808,18 @@ Jennings,2026-10-21,Normandy Collaborative,,,,,,,,,,False,False
 Jennings,2026-10-23,University City,,,,,-3.39,8.57,,,,False,False
 John Burroughs,2026-08-28,Whitfield,,8,0,W,5.13,-0.31,2.87,-0.31,2.56,False,False
 John Burroughs,2026-08-29,Notre Dame (Cape Girardeau),,0,2,L,1.89,2.23,-1.89,0.23,-1.66,False,False
-John Burroughs,2026-09-01,MICDS,,3,1,W,3.25,0.56,-0.25,-0.44,-0.68,False,False
+John Burroughs,2026-09-01,MICDS,,3,1,W,3.24,0.56,-0.24,-0.44,-0.68,False,False
 John Burroughs,2026-09-03,Priory,,2,1,W,2.04,1.2,-0.04,0.2,0.17,False,False
 John Burroughs,2026-09-08,Lutheran South,,5,1,W,4.26,0.6,0.74,-0.4,0.33,False,False
 John Burroughs,2026-09-10,Ladue Horton Watkins,,2,1,W,2.02,2.3,-0.02,1.3,1.28,False,False
 John Burroughs,2026-09-16,Francis Howell North,,3,1,W,2.75,1.33,0.25,0.33,0.58,False,False
 John Burroughs,2026-09-19,Pembroke Hill,,4,3,W,2.37,2.62,1.63,-0.38,1.25,False,False
 John Burroughs,2026-09-23,Bayless,,4,0,W,3.86,0.09,0.14,0.09,0.23,False,False
-John Burroughs,2026-09-26,MICDS,,3,1,W,3.25,0.56,-0.25,-0.44,-0.68,False,False
+John Burroughs,2026-09-26,MICDS,,3,1,W,3.24,0.56,-0.24,-0.44,-0.68,False,False
 John Burroughs,2026-09-29,Whitfield,,8,1,W,5.13,-0.31,2.87,-1.31,1.56,False,False
 John Burroughs,2026-10-02,Principia,,2,1,W,2.95,0.23,-0.95,-0.77,-1.72,False,False
-John Burroughs,2026-10-06,Westminster Christian Academy,,2,1,W,3.5,0.65,-1.5,-0.35,-1.84,False,False
-John Burroughs,2026-10-08,Vianney,,,,,1.51,1.67,,,,False,False
+John Burroughs,2026-10-06,Westminster Christian Academy,,2,1,W,3.5,0.66,-1.5,-0.34,-1.84,False,False
+John Burroughs,2026-10-08,Vianney,,,,,1.52,1.67,,,,False,False
 John Burroughs,2026-10-13,Affton,,,,,5.44,0.85,,,,False,False
 John Burroughs,2026-10-15,St. Dominic,,,,,1.05,2.58,,,,False,False
 John Burroughs,2026-10-15,Parkway Central,,,,,2.87,-0.08,,,,False,False
@@ -1839,7 +1839,7 @@ Joplin,2026-09-28,Thomas Jefferson Independent Day,,1,0,W,2.23,0.26,-1.23,0.26,-
 Joplin,2026-09-29,Lebanon,,5,1,W,3.3,0.19,1.7,-0.81,0.89,False,False
 Joplin,2026-10-03,Logan-Rogersville,,3,1,W,0.88,2.54,2.12,1.54,3.67,False,False
 Joplin,2026-10-06,Glendale,,0,2,L,-0.09,2.78,0.09,0.78,0.87,False,False
-Joplin,2026-10-08,Nixa,,,,,-0.54,3.45,,,,False,False
+Joplin,2026-10-08,Nixa,,,,,-0.55,3.44,,,,False,False
 Joplin,2026-10-12,Carl Junction,,,,,2.82,0.17,,,,False,False
 Joplin,2026-10-13,Webb City,,,,,2.92,-0.68,,,,False,False
 Joplin,2026-10-15,Willard,,,,,3.05,-0.06,,,,False,False
@@ -1899,7 +1899,7 @@ Kennett,2026-10-22,Poplar Bluff,,,,,-0.19,9.19,,,,False,False
 Kennett,2026-10-27,Perryville,,,,,-0.77,8.53,,,,False,False
 Kickapoo,2026-08-28,Rock Bridge,,0,8,L,0.14,4.55,-0.14,-3.45,-3.59,False,False
 Kickapoo,2026-08-29,Hickman,,1,5,L,0.87,4.14,0.13,-0.86,-0.73,False,False
-Kickapoo,2026-09-01,Willard,,2,3,L,2.8,1.23,-0.8,-1.77,-2.56,False,False
+Kickapoo,2026-09-01,Willard,,2,3,L,2.79,1.23,-0.79,-1.77,-2.56,False,False
 Kickapoo,2026-09-03,Neosho,,2,1,W,1.84,2.01,0.16,1.01,1.17,False,False
 Kickapoo,2026-09-05,Pembroke Hill,,2,3,L,0.01,4.94,1.99,1.94,3.93,False,False
 Kickapoo,2026-09-11,Springfield Catholic,,0,3,L,0.33,3.52,-0.33,0.52,0.19,False,False
@@ -1912,11 +1912,11 @@ Kickapoo,2026-09-24,Joplin,,2,4,L,0.82,2.37,1.18,-1.63,-0.45,False,False
 Kickapoo,2026-09-26,Branson,,2,4,L,1.23,2.6,0.77,-1.4,-0.63,False,False
 Kickapoo,2026-09-29,Carthage,,1,3,L,0.55,3.11,0.45,0.11,0.56,False,False
 Kickapoo,2026-10-01,Lee's Summit West,,1,4,L,-0.87,4.1,1.87,0.1,1.97,False,False
-Kickapoo,2026-10-02,Raymore-Peculiar,,1,0,W,0.2,2.43,0.8,2.43,3.23,False,False
-Kickapoo,2026-10-03,Jackson,,1,4,L,0.29,4.28,0.71,0.28,0.98,False,False
+Kickapoo,2026-10-02,Raymore-Peculiar,,1,0,W,0.2,2.43,0.8,2.43,3.24,False,False
+Kickapoo,2026-10-03,Jackson,,1,4,L,0.3,4.28,0.7,0.28,0.98,False,False
 Kickapoo,2026-10-07,Parkview,,0,2,L,2.22,2.14,-2.22,0.14,-2.08,False,False
 Kickapoo,2026-10-13,Ozark,,,,,1.3,3.58,,,,False,False
-Kickapoo,2026-10-15,Nixa,,,,,-0.8,4.74,,,,False,False
+Kickapoo,2026-10-15,Nixa,,,,,-0.8,4.73,,,,False,False
 Kickapoo,2026-10-17,Logan-Rogersville,,,,,0.62,3.83,,,,False,False
 Kickapoo,2026-10-19,Waynesville,,,,,2.3,1.1,,,,False,False
 Kickapoo,2026-10-21,Glendale,,,,,-0.35,4.07,,,,False,False
@@ -1941,25 +1941,25 @@ Kirksville,2026-10-13,Mexico,,,,,5.36,-1.38,,,,False,False
 Kirksville,2026-10-15,Canton,,,,,5.44,-1.39,,,,False,False
 Kirksville,2026-10-20,Marshall,,,,,0.4,2.11,,,,False,False
 Kirksville,2026-10-22,Chillicothe,,,,,2.61,-0.07,,,,False,False
-Kirkwood,2026-08-28,Liberty (Wentzville),,4,1,W,3.04,0.3,0.96,-0.7,0.26,False,False
+Kirkwood,2026-08-28,Liberty (Wentzville),,4,1,W,3.03,0.3,0.97,-0.7,0.26,False,False
 Kirkwood,2026-09-01,Parkway West,,0,1,L,0.96,0.61,-0.96,-0.39,-1.35,False,False
 Kirkwood,2026-09-03,Chaminade College Prep,,0,1,L,0.57,1.68,-0.57,0.68,0.11,False,False
 Kirkwood,2026-09-08,Vianney,,1,2,L,1.08,0.62,-0.08,-1.38,-1.46,False,False
 Kirkwood,2026-09-11,Notre Dame (Cape Girardeau),,2,0,W,1.46,1.18,0.54,1.18,1.72,False,False
-Kirkwood,2026-09-15,Eureka,,1,1,T,1.88,1.38,-0.88,0.38,-0.5,False,False
+Kirkwood,2026-09-15,Eureka,,1,1,T,1.9,1.41,-0.9,0.41,-0.5,False,False
 Kirkwood,2026-09-17,Ladue Horton Watkins,,5,0,W,1.59,1.25,3.41,1.25,4.66,False,False
-Kirkwood,2026-09-21,Francis Howell North,,4,1,W,2.32,0.28,1.68,-0.72,0.96,False,False
-Kirkwood,2026-09-24,Oakville,,0,1,L,0.47,1.21,-0.47,0.21,-0.26,False,False
+Kirkwood,2026-09-21,Francis Howell North,,4,1,W,2.31,0.27,1.69,-0.73,0.96,False,False
+Kirkwood,2026-09-24,Oakville,,0,1,L,0.47,1.2,-0.47,0.2,-0.26,False,False
 Kirkwood,2026-09-29,Christian Brothers College,,0,1,L,1.19,1.36,-1.19,0.36,-0.83,False,False
-Kirkwood,2026-10-01,Lindbergh,,1,2,L,1.65,0.7,-0.65,-1.3,-1.94,False,False
-Kirkwood,2026-10-03,Rockwood Summit,,1,1,T,2.15,0.85,-1.15,-0.15,-1.3,False,False
+Kirkwood,2026-10-01,Lindbergh,,1,2,L,1.64,0.7,-0.64,-1.3,-1.94,False,False
+Kirkwood,2026-10-03,Rockwood Summit,,1,1,T,2.15,0.84,-1.15,-0.16,-1.3,False,False
 Kirkwood,2026-10-06,Webster Groves,,,,,2.21,0.39,,,,False,False
-Kirkwood,2026-10-08,Marquette,,,,,0.96,1.54,,,,False,False
-Kirkwood,2026-10-15,Clayton,,,,,1.64,0.74,,,,False,False
-Kirkwood,2026-10-19,St. Dominic,,,,,0.62,1.53,,,,False,False
-Kirkwood,2026-10-23,Hickman,,,,,2.8,0.77,,,,False,False
+Kirkwood,2026-10-08,Marquette,,,,,0.99,1.56,,,,False,False
+Kirkwood,2026-10-15,Clayton,,,,,1.63,0.74,,,,False,False
+Kirkwood,2026-10-19,St. Dominic,,,,,0.62,1.52,,,,False,False
+Kirkwood,2026-10-23,Hickman,,,,,2.79,0.77,,,,False,False
 Kirkwood,2026-10-24,Rock Bridge,,,,,2.07,1.19,,,,False,False
-Kirkwood,2026-10-26,Timberland,,,,,1.89,-0.31,,,,False,False
+Kirkwood,2026-10-26,Timberland,,,,,1.89,-0.32,,,,False,False
 Kirkwood,2026-10-28,Parkway South,,,,,2.18,0.06,,,,False,False
 Knob Noster,2026-08-27,Central (Kansas City),,0,6,L,-0.54,7.66,0.54,1.66,2.2,False,False
 Knob Noster,2026-08-31,Heartland (Belton) Sr.,,0,1,L,,,,,,False,False
@@ -2003,27 +2003,27 @@ La Monte,2026-10-27,Ewing Marion Kauffman with University Academy Charter,,,,,0.
 La Monte,2026-10-28,Oak Grove,,,,,-1.36,4.61,,,,False,False
 La Monte,2026-10-29,Lutheran (Kansas City),,,,,-0.39,1.44,,,,False,False
 Ladue Horton Watkins,2026-08-28,"Quincy Notre Dame(Quincy, IL)",,7,0,W,,,,,,False,False
-Ladue Horton Watkins,2026-08-29,Lindbergh,,3,0,W,2.22,1.62,0.78,1.62,2.39,False,False
+Ladue Horton Watkins,2026-08-29,Lindbergh,,3,0,W,2.22,1.61,0.78,1.61,2.39,False,False
 Ladue Horton Watkins,2026-08-29,"Providence Catholic(New Lenox, IL)",,3,1,W,,,,,,False,False
 Ladue Horton Watkins,2026-09-03,De Smet Jesuit,,1,3,L,2.13,1.37,-1.13,-1.63,-2.76,False,False
 Ladue Horton Watkins,2026-09-08,Christian Brothers College,,3,4,L,1.77,2.27,1.23,-1.73,-0.49,False,False
 Ladue Horton Watkins,2026-09-10,John Burroughs,,1,2,L,2.3,2.02,-1.3,0.02,-1.28,False,False
 Ladue Horton Watkins,2026-09-15,Lafayette (Wildwood),,4,1,W,2.92,2.77,1.08,1.77,2.84,False,False
 Ladue Horton Watkins,2026-09-17,Kirkwood,,0,5,L,1.25,1.59,-1.25,-3.41,-4.66,False,False
-Ladue Horton Watkins,2026-09-19,Webster Groves,,5,2,W,2.79,1.31,2.21,-0.69,1.52,False,False
-Ladue Horton Watkins,2026-09-22,Lindbergh,,2,0,W,2.22,1.62,-0.22,1.62,1.39,False,False
+Ladue Horton Watkins,2026-09-19,Webster Groves,,5,2,W,2.78,1.3,2.22,-0.7,1.52,False,False
+Ladue Horton Watkins,2026-09-22,Lindbergh,,2,0,W,2.22,1.61,-0.22,1.61,1.39,False,False
 Ladue Horton Watkins,2026-09-24,Ft. Zumwalt South,,4,3,W,2.61,1.66,1.39,-1.34,0.05,False,False
 Ladue Horton Watkins,2026-09-26,Vianney,,1,0,W,1.66,1.53,-0.66,1.53,0.87,False,False
-Ladue Horton Watkins,2026-09-29,Ft. Zumwalt West,,2,0,W,2.02,1.18,-0.02,1.18,1.16,False,False
-Ladue Horton Watkins,2026-10-01,Marquette,,0,1,L,1.54,2.45,-1.54,1.45,-0.09,False,False
-Ladue Horton Watkins,2026-10-03,St. Dominic,,1,3,L,1.2,2.44,-0.2,-0.56,-0.75,False,False
-Ladue Horton Watkins,2026-10-08,Rockwood Summit,,,,,2.73,1.76,,,,False,False
+Ladue Horton Watkins,2026-09-29,Ft. Zumwalt West,,2,0,W,2.01,1.17,-0.01,1.17,1.16,False,False
+Ladue Horton Watkins,2026-10-01,Marquette,,0,1,L,1.57,2.47,-1.57,1.47,-0.09,False,False
+Ladue Horton Watkins,2026-10-03,St. Dominic,,1,3,L,1.19,2.44,-0.19,-0.56,-0.75,False,False
+Ladue Horton Watkins,2026-10-08,Rockwood Summit,,,,,2.72,1.76,,,,False,False
 Ladue Horton Watkins,2026-10-10,Francis Howell Central,,,,,1.57,2.43,,,,False,False
-Ladue Horton Watkins,2026-10-13,Timberland,,,,,2.47,0.6,,,,False,False
-Ladue Horton Watkins,2026-10-20,Clayton,,,,,2.22,1.66,,,,False,False
-Ladue Horton Watkins,2026-10-22,Oakville,,,,,1.05,2.12,,,,False,False
-Ladue Horton Watkins,2026-10-24,Parkway West,,,,,1.54,1.53,,,,False,False
-Ladue Horton Watkins,2026-10-28,Parkway Central,,,,,3.02,-0.21,,,,False,False
+Ladue Horton Watkins,2026-10-13,Timberland,,,,,2.46,0.6,,,,False,False
+Ladue Horton Watkins,2026-10-20,Clayton,,,,,2.21,1.65,,,,False,False
+Ladue Horton Watkins,2026-10-22,Oakville,,,,,1.04,2.12,,,,False,False
+Ladue Horton Watkins,2026-10-24,Parkway West,,,,,1.54,1.52,,,,False,False
+Ladue Horton Watkins,2026-10-28,Parkway Central,,,,,3.01,-0.22,,,,False,False
 Ladue Horton Watkins,2026-10-29,Westminster Christian Academy,,,,,3.64,0.52,,,,False,False
 Lafayette (Wildwood),2026-08-27,St. Francis Borgia,,4,0,W,6.51,-0.51,-2.51,-0.51,-3.03,False,False
 Lafayette (Wildwood),2026-08-31,Pattonville,,5,3,W,4.1,1.82,0.9,-1.18,-0.28,False,False
@@ -2033,19 +2033,19 @@ Lafayette (Wildwood),2026-09-08,MICDS,,4,1,W,3.99,1.19,0.01,0.19,0.2,False,False
 Lafayette (Wildwood),2026-09-10,Mehlville,,5,1,W,3.61,1.01,1.39,0.01,1.41,False,False
 Lafayette (Wildwood),2026-09-12,Francis Howell Central,,2,3,L,2.17,3.19,-0.17,0.19,0.02,False,False
 Lafayette (Wildwood),2026-09-15,Ladue Horton Watkins,,1,4,L,2.77,2.92,-1.77,-1.08,-2.84,False,False
-Lafayette (Wildwood),2026-09-17,Clayton,,2,0,W,2.82,2.41,-0.82,2.41,1.6,False,False
+Lafayette (Wildwood),2026-09-17,Clayton,,2,0,W,2.81,2.41,-0.81,2.41,1.6,False,False
 Lafayette (Wildwood),2026-09-22,Francis Howell North,,7,3,W,3.5,1.95,3.5,-1.05,2.45,False,False
 Lafayette (Wildwood),2026-09-23,Parkway South,,4,2,W,3.36,1.73,0.64,-0.27,0.37,False,False
 Lafayette (Wildwood),2026-10-01,Parkway West,,2,3,L,2.14,2.28,-0.14,-0.72,-0.86,False,False
 Lafayette (Wildwood),2026-10-06,Ft. Zumwalt West,,3,2,W,2.62,1.93,0.38,-0.07,0.32,False,False
-Lafayette (Wildwood),2026-10-08,Eureka,,,,,3.06,3.05,,,,False,False
-Lafayette (Wildwood),2026-10-12,Marquette,,,,,2.14,3.21,,,,False,False
+Lafayette (Wildwood),2026-10-08,Eureka,,,,,3.08,3.08,,,,False,False
+Lafayette (Wildwood),2026-10-12,Marquette,,,,,2.17,3.23,,,,False,False
 Lafayette (Wildwood),2026-10-13,Westminster Christian Academy,,,,,4.24,1.28,,,,False,False
 Lafayette (Wildwood),2026-10-15,Webster Groves,,,,,3.39,2.06,,,,False,False
 Lafayette (Wildwood),2026-10-19,Timberland,,,,,3.07,1.36,,,,False,False
 Lafayette (Wildwood),2026-10-21,Parkway Central,,,,,3.62,0.54,,,,False,False
 Lafayette (Wildwood),2026-10-26,Francis Howell,,,,,3.09,2.48,,,,False,False
-Lafayette (Wildwood),2026-10-28,Ft. Zumwalt East,,,,,3.82,0.74,,,,False,False
+Lafayette (Wildwood),2026-10-28,Ft. Zumwalt East,,,,,3.83,0.74,,,,False,False
 Laquey with Richland,2026-09-01,Crocker,,3,2,W,3.73,2.06,-0.73,0.06,-0.67,False,False
 Laquey with Richland,2026-09-03,Iberia,,8,0,W,7.45,-2.22,0.55,-2.22,-1.67,False,False
 Laquey with Richland,2026-09-08,Dixon,,5,0,W,3.84,0.68,1.16,0.68,1.84,False,False
@@ -2095,7 +2095,7 @@ Lee's Summit,2026-09-08,Park Hill South,,3,0,W,2.42,0.63,0.58,0.63,1.21,False,Fa
 Lee's Summit,2026-09-10,"KC East Christian(Overland Park, KS)",,6,1,W,,,,,,False,False
 Lee's Summit,2026-09-17,Lee's Summit North,,7,0,W,3.11,0.28,3.89,0.28,4.16,False,False
 Lee's Summit,2026-09-22,Raymore-Peculiar,,4,0,W,3.26,-1.05,0.74,-1.05,-0.31,False,False
-Lee's Summit,2026-09-24,Lee's Summit West,,0,1,L,2.2,0.62,-2.2,-0.38,-2.57,False,False
+Lee's Summit,2026-09-24,Lee's Summit West,,0,1,L,2.2,0.62,-2.2,-0.38,-2.58,False,False
 Lee's Summit,2026-09-29,St. Michael the Archangel,,3,0,W,4.39,-0.01,-1.39,-0.01,-1.41,False,False
 Lee's Summit,2026-10-08,Liberty North,,,,,2.16,1.71,,,,False,False
 Lee's Summit,2026-10-13,Park Hill,,,,,3.2,-0.48,,,,False,False
@@ -2114,7 +2114,7 @@ Lee's Summit North,2026-09-15,Blue Springs South,,0,2,L,1.31,3.14,-1.31,1.14,-0.
 Lee's Summit North,2026-09-17,Lee's Summit,,0,7,L,0.28,3.11,-0.28,-3.89,-4.16,False,False
 Lee's Summit North,2026-09-22,Rockhurst,,0,3,L,0.3,4.77,-0.3,1.77,1.47,False,False
 Lee's Summit North,2026-09-24,Blue Springs,,2,3,L,1.43,2.32,0.57,-0.68,-0.11,False,False
-Lee's Summit North,2026-09-29,Central (St. Joseph),,3,0,W,3.08,0.3,-0.08,0.3,0.23,False,False
+Lee's Summit North,2026-09-29,Central (St. Joseph),,3,0,W,3.07,0.3,-0.07,0.3,0.23,False,False
 Lee's Summit North,2026-10-01,Oak Park,,6,0,W,3.35,0.47,2.65,0.47,3.11,False,False
 Lee's Summit North,2026-10-06,Lee's Summit West,,0,1,L,0.78,2.04,-0.78,1.04,0.26,False,False
 Lee's Summit North,2026-10-08,North Kansas City,,,,,3.27,0.66,,,,False,False
@@ -2130,10 +2130,10 @@ Lee's Summit West,2026-09-14,Pembroke Hill,,1,0,W,2.0,1.96,-1.0,1.96,0.96,False,
 Lee's Summit West,2026-09-16,Grain Valley,,5,1,W,3.76,-0.03,1.24,-1.03,0.21,False,False
 Lee's Summit West,2026-09-19,Rock Bridge,,2,3,L,2.13,1.57,-0.13,-1.43,-1.56,False,False
 Lee's Summit West,2026-09-22,Park Hill South,,2,1,W,1.35,1.13,0.65,0.13,0.78,False,False
-Lee's Summit West,2026-09-24,Lee's Summit,,1,0,W,0.62,2.2,0.38,2.2,2.57,False,False
+Lee's Summit West,2026-09-24,Lee's Summit,,1,0,W,0.62,2.2,0.38,2.2,2.58,False,False
 Lee's Summit West,2026-10-01,Kickapoo,,4,1,W,4.1,-0.87,-0.1,-1.87,-1.97,False,False
-Lee's Summit West,2026-10-02,Carthage,,1,0,W,2.54,0.12,-1.54,0.12,-1.42,False,False
-Lee's Summit West,2026-10-03,Nixa,,0,2,L,1.19,1.76,-1.19,-0.24,-1.44,False,False
+Lee's Summit West,2026-10-02,Carthage,,1,0,W,2.54,0.13,-1.54,0.13,-1.42,False,False
+Lee's Summit West,2026-10-03,Nixa,,0,2,L,1.19,1.75,-1.19,-0.25,-1.44,False,False
 Lee's Summit West,2026-10-06,Lee's Summit North,,1,0,W,2.04,0.78,-1.04,0.78,-0.26,False,False
 Lee's Summit West,2026-10-08,Raymore-Peculiar,,,,,2.19,-0.55,,,,False,False
 Lee's Summit West,2026-10-13,Blue Springs South,,,,,1.66,2.22,,,,False,False
@@ -2157,7 +2157,7 @@ Liberty,2026-10-20,Lee's Summit North,,,,,2.54,1.65,,,,False,False
 Liberty,2026-10-22,Platte County,,,,,4.51,-0.66,,,,False,False
 Liberty,2026-10-26,Lee's Summit,,,,,1.12,3.07,,,,False,False
 Liberty,2026-10-27,Kearney,,,,,5.95,0.58,,,,False,False
-Liberty (Wentzville),2026-08-28,Kirkwood,,1,4,L,0.3,3.04,0.7,-0.96,-0.26,False,False
+Liberty (Wentzville),2026-08-28,Kirkwood,,1,4,L,0.3,3.03,0.7,-0.97,-0.26,False,False
 Liberty (Wentzville),2026-09-01,Francis Howell North,,3,4,L,1.94,2.64,1.06,-1.36,-0.3,False,False
 Liberty (Wentzville),2026-09-03,Francis Howell,,0,3,L,1.54,3.17,-1.54,0.17,-1.36,False,False
 Liberty (Wentzville),2026-09-08,Ft. Zumwalt West,,2,1,W,1.06,2.62,0.94,1.62,2.56,False,False
@@ -2167,9 +2167,9 @@ Liberty (Wentzville),2026-09-24,Rock Bridge,,3,2,W,1.69,3.55,1.31,1.55,2.85,Fals
 Liberty (Wentzville),2026-10-01,"Quincy(Quincy, IL)",,3,1,W,,,,,,False,False
 Liberty (Wentzville),2026-10-05,Timberland,,1,2,L,1.51,2.05,-0.51,0.05,-0.46,False,False
 Liberty (Wentzville),2026-10-13,Oakville,,,,,0.09,3.57,,,,False,False
-Liberty (Wentzville),2026-10-15,Helias Catholic,,,,,1.23,2.49,,,,False,False
+Liberty (Wentzville),2026-10-15,Helias Catholic,,,,,1.24,2.5,,,,False,False
 Liberty (Wentzville),2026-10-20,Rockwood Summit,,,,,1.77,3.21,,,,False,False
-Liberty (Wentzville),2026-10-22,Marquette,,,,,0.58,3.9,,,,False,False
+Liberty (Wentzville),2026-10-22,Marquette,,,,,0.61,3.92,,,,False,False
 Liberty (Wentzville),2026-10-26,Ft. Zumwalt East,,,,,2.27,1.43,,,,False,False
 Liberty Christian Sr.,2026-08-27,North Point,,0,9,L,,,,,,False,False
 Liberty Christian Sr.,2026-09-14,Wright City,,0,8,L,,,,,,False,False
@@ -2212,26 +2212,26 @@ Lincoln College Prep,2026-10-20,Van Horn,,,,,2.13,4.31,,,,False,False
 Lincoln College Prep,2026-10-22,Grandview,,,,,5.18,0.69,,,,False,False
 Lincoln College Prep,2026-10-26,Ewing Marion Kauffman with University Academy Charter,,,,,6.92,-0.12,,,,False,False
 Lindbergh,2026-08-28,"Providence Catholic(New Lenox, IL)",,1,0,W,,,,,,False,False
-Lindbergh,2026-08-29,Ladue Horton Watkins,,0,3,L,1.62,2.22,-1.62,-0.78,-2.39,False,False
+Lindbergh,2026-08-29,Ladue Horton Watkins,,0,3,L,1.61,2.22,-1.61,-0.78,-2.39,False,False
 Lindbergh,2026-08-29,"Quincy Notre Dame(Quincy, IL)",,4,2,W,,,,,,False,False
-Lindbergh,2026-09-01,Eureka,,2,3,L,1.91,2.35,0.09,-0.65,-0.56,False,False
-Lindbergh,2026-09-03,Christian Brothers College,,1,3,L,1.22,2.33,-0.22,-0.67,-0.89,False,False
-Lindbergh,2026-09-09,St. Dominic,,3,4,L,0.65,2.5,2.35,-1.5,0.86,False,False
-Lindbergh,2026-09-10,Marquette,,1,3,L,0.99,2.51,0.01,-0.49,-0.48,False,False
-Lindbergh,2026-09-12,Priory,,1,0,W,1.63,1.13,-0.63,1.13,0.5,False,False
-Lindbergh,2026-09-14,Seckman,,4,0,W,2.43,0.1,1.57,0.1,1.67,False,False
+Lindbergh,2026-09-01,Eureka,,2,3,L,1.93,2.38,0.07,-0.62,-0.55,False,False
+Lindbergh,2026-09-03,Christian Brothers College,,1,3,L,1.21,2.33,-0.21,-0.67,-0.89,False,False
+Lindbergh,2026-09-09,St. Dominic,,3,4,L,0.64,2.49,2.36,-1.51,0.85,False,False
+Lindbergh,2026-09-10,Marquette,,1,3,L,1.01,2.53,-0.01,-0.47,-0.48,False,False
+Lindbergh,2026-09-12,Priory,,1,0,W,1.63,1.12,-0.63,1.12,0.49,False,False
+Lindbergh,2026-09-14,Seckman,,4,0,W,2.42,0.09,1.58,0.09,1.67,False,False
 Lindbergh,2026-09-15,Vianney,,2,0,W,1.11,1.59,0.89,1.59,2.48,False,False
-Lindbergh,2026-09-17,Rockwood Summit,,1,3,L,2.18,1.82,-1.18,-1.18,-2.36,False,False
-Lindbergh,2026-09-22,Ladue Horton Watkins,,0,2,L,1.62,2.22,-1.62,0.22,-1.39,False,False
+Lindbergh,2026-09-17,Rockwood Summit,,1,3,L,2.17,1.81,-1.17,-1.19,-2.36,False,False
+Lindbergh,2026-09-22,Ladue Horton Watkins,,0,2,L,1.61,2.22,-1.61,0.22,-1.39,False,False
 Lindbergh,2026-09-24,Mehlville,,2,0,W,2.45,0.31,-0.45,0.31,-0.14,False,False
-Lindbergh,2026-10-01,Kirkwood,,2,1,W,0.7,1.65,1.3,0.65,1.94,False,False
-Lindbergh,2026-10-06,Northwest (Cedar Hill),,3,1,W,2.44,1.93,0.56,0.93,1.49,False,False
-Lindbergh,2026-10-08,Oakville,,,,,0.5,2.18,,,,False,False
-Lindbergh,2026-10-13,Jackson,,,,,2.25,1.89,,,,False,False
-Lindbergh,2026-10-15,Marquette,,,,,0.99,2.51,,,,False,False
+Lindbergh,2026-10-01,Kirkwood,,2,1,W,0.7,1.64,1.3,0.64,1.94,False,False
+Lindbergh,2026-10-06,Northwest (Cedar Hill),,3,1,W,2.43,1.93,0.57,0.93,1.49,False,False
+Lindbergh,2026-10-08,Oakville,,,,,0.49,2.17,,,,False,False
+Lindbergh,2026-10-13,Jackson,,,,,2.25,1.88,,,,False,False
+Lindbergh,2026-10-15,Marquette,,,,,1.01,2.53,,,,False,False
 Lindbergh,2026-10-19,Fox,,,,,4.86,-0.88,,,,False,False
 Lindbergh,2026-10-20,Chaminade College Prep,,,,,0.59,2.65,,,,False,False
-Lindbergh,2026-10-26,SLUH,,,,,0.49,2.81,,,,False,False
+Lindbergh,2026-10-26,SLUH,,,,,0.49,2.8,,,,False,False
 Lindbergh,2026-10-28,De Smet Jesuit,,,,,1.58,1.42,,,,False,False
 Logan-Rogersville,2026-08-28,Willard,,4,0,W,4.52,-0.26,-0.52,-0.26,-0.78,False,False
 Logan-Rogersville,2026-09-01,Ozark,,4,3,W,3.02,2.09,0.98,-0.91,0.07,False,False
@@ -2308,15 +2308,15 @@ Lutheran North,2026-10-01,Crossroads College Preparatory,,4,3,W,4.22,3.72,-0.22,
 Lutheran North,2026-10-02,Jennings,,9,0,W,8.15,-1.05,0.85,-1.05,-0.2,False,False
 Lutheran North,2026-10-05,Principia,,0,8,L,-1.59,6.94,1.59,-1.06,0.53,False,False
 Lutheran North,2026-10-09,Whitfield,,,,,0.59,6.39,,,,False,False
-Lutheran North,2026-10-12,Lutheran South,,,,,-0.28,7.3,,,,False,False
+Lutheran North,2026-10-12,Lutheran South,,,,,-0.27,7.3,,,,False,False
 Lutheran North,2026-10-13,Gateway with Soldan International Studies,,,,,1.34,5.11,,,,False,False
 Lutheran North,2026-10-16,Collegiate School of Med-Bio Science with McKinley Classical Leadership,,,,,1.26,4.99,,,,False,False
-Lutheran North,2026-10-19,Lutheran South,,,,,-0.28,7.3,,,,False,False
+Lutheran North,2026-10-19,Lutheran South,,,,,-0.27,7.3,,,,False,False
 Lutheran North,2026-10-20,Hazelwood Central,,,,,,,,,,False,False
 Lutheran North,2026-10-28,MICDS,,,,,-1.29,7.27,,,,False,False
 Lutheran South,2026-08-28,Westminster Christian Academy,,3,2,W,1.94,2.76,1.06,0.76,1.82,False,False
 Lutheran South,2026-09-01,Priory,,1,3,L,0.48,3.31,0.52,0.31,0.83,False,False
-Lutheran South,2026-09-03,MICDS,,2,4,L,1.69,2.67,0.31,-1.33,-1.02,False,False
+Lutheran South,2026-09-03,MICDS,,2,4,L,1.69,2.67,0.31,-1.33,-1.01,False,False
 Lutheran South,2026-09-08,John Burroughs,,1,5,L,0.6,4.26,0.4,-0.74,-0.33,False,False
 Lutheran South,2026-09-10,Veritas Christian Academy,,2,0,W,2.02,2.03,-0.02,2.03,2.01,False,False
 Lutheran South,2026-09-14,Whitfield,,3,4,L,3.57,1.8,-0.57,-2.2,-2.77,False,False
@@ -2324,15 +2324,15 @@ Lutheran South,2026-09-17,Westminster Christian Academy,,1,6,L,1.94,2.76,-0.94,-
 Lutheran South,2026-09-18,Lutheran St. Charles,,1,0,W,2.22,2.01,-1.22,2.01,0.78,False,False
 Lutheran South,2026-09-22,Metro,,1,3,L,2.7,2.66,-1.7,-0.34,-2.04,False,False
 Lutheran South,2026-09-24,St. Mary's South Side,,3,2,W,2.91,3.13,0.09,1.13,1.23,False,False
-Lutheran South,2026-09-26,Affton,,5,4,W,3.88,2.95,1.12,-1.05,0.07,False,False
-Lutheran South,2026-09-29,MICDS,,2,1,W,1.69,2.67,0.31,1.67,1.98,False,False
+Lutheran South,2026-09-26,Affton,,5,4,W,3.89,2.95,1.11,-1.05,0.07,False,False
+Lutheran South,2026-09-29,MICDS,,2,1,W,1.69,2.67,0.31,1.67,1.99,False,False
 Lutheran South,2026-10-01,DeSoto,,4,1,W,4.89,1.61,-0.89,0.61,-0.28,False,False
 Lutheran South,2026-10-06,Windsor (Imperial),,8,1,W,3.88,-0.0,4.12,-1.0,3.12,False,False
 Lutheran South,2026-10-08,Hillsboro,,,,,4.78,0.47,,,,False,False
-Lutheran South,2026-10-12,Lutheran North,,,,,7.3,-0.28,,,,False,False
+Lutheran South,2026-10-12,Lutheran North,,,,,7.3,-0.27,,,,False,False
 Lutheran South,2026-10-13,Principia,,,,,1.39,2.34,,,,False,False
 Lutheran South,2026-10-15,Priory,,,,,0.48,3.31,,,,False,False
-Lutheran South,2026-10-19,Lutheran North,,,,,7.3,-0.28,,,,False,False
+Lutheran South,2026-10-19,Lutheran North,,,,,7.3,-0.27,,,,False,False
 Lutheran South,2026-10-22,St. Pius X (Festus),,,,,2.62,1.45,,,,False,False
 Lutheran South,2026-10-26,Webster Groves,,,,,1.08,3.55,,,,False,False
 Lutheran St. Charles,2026-08-27,Troy Buchanan,,1,2,L,0.13,2.15,0.87,0.15,1.02,False,False
@@ -2361,20 +2361,20 @@ Lutheran St. Charles,2026-10-28,St. Francis Borgia,,,,,3.51,0.49,,,,False,False
 Lutheran St. Charles,2026-10-29,Saxony Lutheran with St. Vincent,,,,,1.69,2.84,,,,False,False
 "Lutheran St. Charles(St. Charles, MO)",2026-09-26,Jefferson City,,3,0,W,,,,,,False,False
 MICDS,2026-08-28,Parkway Central,,2,1,W,1.28,1.01,0.72,0.01,0.73,False,False
-MICDS,2026-09-01,John Burroughs,,1,3,L,0.56,3.25,0.44,0.25,0.68,False,False
-MICDS,2026-09-03,Lutheran South,,4,2,W,2.67,1.69,1.33,-0.31,1.02,False,False
+MICDS,2026-09-01,John Burroughs,,1,3,L,0.56,3.24,0.44,0.24,0.68,False,False
+MICDS,2026-09-03,Lutheran South,,4,2,W,2.67,1.69,1.33,-0.31,1.01,False,False
 MICDS,2026-09-08,Lafayette (Wildwood),,1,4,L,1.19,3.99,-0.19,-0.01,-0.2,False,False
 MICDS,2026-09-10,St. Mary's South Side,,1,0,W,2.87,2.11,-1.87,2.11,0.24,False,False
-MICDS,2026-09-14,Eureka,,0,7,L,0.73,3.52,-0.73,-3.48,-4.21,False,False
-MICDS,2026-09-17,Priory,,1,0,W,0.45,2.3,0.55,2.3,2.85,False,False
+MICDS,2026-09-14,Eureka,,0,7,L,0.75,3.54,-0.75,-3.46,-4.2,False,False
+MICDS,2026-09-17,Priory,,1,0,W,0.45,2.29,0.55,2.29,2.85,False,False
 MICDS,2026-09-18,Pembroke Hill,,0,5,L,0.78,3.71,-0.78,-1.29,-2.07,False,False
 MICDS,2026-09-24,Principia,,3,2,W,1.36,1.32,1.64,-0.68,0.96,False,False
-MICDS,2026-09-26,John Burroughs,,1,3,L,0.56,3.25,0.44,0.25,0.68,False,False
-MICDS,2026-09-29,Lutheran South,,1,2,L,2.67,1.69,-1.67,-0.31,-1.98,False,False
+MICDS,2026-09-26,John Burroughs,,1,3,L,0.56,3.24,0.44,0.24,0.68,False,False
+MICDS,2026-09-29,Lutheran South,,1,2,L,2.67,1.69,-1.67,-0.31,-1.99,False,False
 MICDS,2026-09-30,Metro,,2,1,W,2.66,1.64,-0.66,0.64,-0.02,False,False
 MICDS,2026-10-02,Gateway with Soldan International Studies,,7,1,W,4.28,-0.5,2.72,-1.5,1.22,False,False
 MICDS,2026-10-06,Ritenour,,2,0,W,3.41,-1.0,-1.41,-1.0,-2.41,False,False
-MICDS,2026-10-08,Westminster Christian Academy,,,,,1.91,1.75,,,,False,False
+MICDS,2026-10-08,Westminster Christian Academy,,,,,1.9,1.74,,,,False,False
 MICDS,2026-10-12,Parkway South,,,,,1.02,2.2,,,,False,False
 MICDS,2026-10-19,Bayless,,,,,2.27,1.18,,,,False,False
 MICDS,2026-10-23,Whitfield,,,,,3.54,0.78,,,,False,False
@@ -2407,35 +2407,35 @@ Maranatha Baptist,2026-09-29,Dixon,,2,5,L,,,,,,False,False
 "Marion(Marion, IL)",2026-09-01,Central (Cape Girardeau),,0,2,L,,,,,,False,False
 "Marion(Marion, IL)",2026-09-02,Sikeston,,2,5,L,,,,,,False,False
 "Marion(Marion, IL)",2026-10-01,Perryville,,1,5,L,,,,,,False,False
-Marquette,2026-08-28,Ft. Zumwalt West,,3,0,W,2.3,0.55,0.7,0.55,1.25,False,False
-Marquette,2026-08-31,SLUH,,0,3,L,1.33,2.12,-1.33,-0.88,-2.21,False,False
-Marquette,2026-09-02,Parkway West,,3,0,W,1.83,0.9,1.17,0.9,2.07,False,False
+Marquette,2026-08-28,Ft. Zumwalt West,,3,0,W,2.32,0.58,0.68,0.58,1.25,False,False
+Marquette,2026-08-31,SLUH,,0,3,L,1.35,2.15,-1.35,-0.85,-2.2,False,False
+Marquette,2026-09-02,Parkway West,,3,0,W,1.85,0.92,1.15,0.92,2.08,False,False
 Marquette,2026-09-03,"Columbia(Columbia, IL)",,2,4,L,,,,,,False,False
-Marquette,2026-09-09,Priory,,5,0,W,2.47,0.44,2.53,0.44,2.97,False,False
-Marquette,2026-09-10,Lindbergh,,3,1,W,2.51,0.99,0.49,-0.01,0.48,False,False
-Marquette,2026-09-12,St. Dominic,,0,1,L,1.48,1.82,-1.48,0.82,-0.67,False,False
-Marquette,2026-09-15,Oakville,,2,3,L,1.34,1.5,0.66,-1.5,-0.84,False,False
+Marquette,2026-09-09,Priory,,5,0,W,2.49,0.47,2.51,0.47,2.98,False,False
+Marquette,2026-09-10,Lindbergh,,3,1,W,2.53,1.01,0.47,0.01,0.48,False,False
+Marquette,2026-09-12,St. Dominic,,0,1,L,1.5,1.84,-1.5,0.84,-0.66,False,False
+Marquette,2026-09-15,Oakville,,2,3,L,1.36,1.52,0.64,-1.48,-0.83,False,False
 Marquette,2026-09-19,"Blue Valley West(Kansas City, MO)",,2,3,L,,,,,,False,False
-Marquette,2026-09-22,Rockwood Summit,,4,2,W,3.01,1.13,0.99,-0.87,0.12,False,False
-Marquette,2026-09-24,Francis Howell,,4,3,W,2.78,1.1,1.22,-1.9,-0.68,False,False
-Marquette,2026-09-26,Nixa,,0,1,L,1.99,1.66,-1.99,0.66,-1.33,False,False
-Marquette,2026-10-01,Ladue Horton Watkins,,1,0,W,2.45,1.54,-1.45,1.54,0.09,False,False
-Marquette,2026-10-06,Eureka,,,,,2.75,1.67,,,,False,False
-Marquette,2026-10-08,Kirkwood,,,,,1.54,0.96,,,,False,False
-Marquette,2026-10-12,Lafayette (Wildwood),,,,,3.21,2.14,,,,False,False
-Marquette,2026-10-15,Lindbergh,,,,,2.51,0.99,,,,False,False
-Marquette,2026-10-17,Rock Bridge,,,,,2.93,1.47,,,,False,False
-Marquette,2026-10-19,Parkway South,,,,,3.04,0.35,,,,False,False
-Marquette,2026-10-20,Francis Howell Central,,,,,1.85,1.81,,,,False,False
-Marquette,2026-10-22,Liberty (Wentzville),,,,,3.9,0.58,,,,False,False
-Marquette,2026-10-27,Vianney,,,,,1.95,0.9,,,,False,False
+Marquette,2026-09-22,Rockwood Summit,,4,2,W,3.03,1.16,0.97,-0.84,0.12,False,False
+Marquette,2026-09-24,Francis Howell,,4,3,W,2.8,1.13,1.2,-1.87,-0.67,False,False
+Marquette,2026-09-26,Nixa,,0,1,L,2.01,1.69,-2.01,0.69,-1.33,False,False
+Marquette,2026-10-01,Ladue Horton Watkins,,1,0,W,2.47,1.57,-1.47,1.57,0.09,False,False
+Marquette,2026-10-06,Eureka,,3,2,W,2.79,1.72,0.21,-0.28,-0.07,False,False
+Marquette,2026-10-08,Kirkwood,,,,,1.56,0.99,,,,False,False
+Marquette,2026-10-12,Lafayette (Wildwood),,,,,3.23,2.17,,,,False,False
+Marquette,2026-10-15,Lindbergh,,,,,2.53,1.01,,,,False,False
+Marquette,2026-10-17,Rock Bridge,,,,,2.96,1.5,,,,False,False
+Marquette,2026-10-19,Parkway South,,,,,3.07,0.38,,,,False,False
+Marquette,2026-10-20,Francis Howell Central,,,,,1.88,1.84,,,,False,False
+Marquette,2026-10-22,Liberty (Wentzville),,,,,3.92,0.61,,,,False,False
+Marquette,2026-10-27,Vianney,,,,,1.97,0.93,,,,False,False
 "Marquette Catholic(Alton, IL)",2026-10-07,Duchesne,,,,,,,,,,False,False
 "Marquette U High(Milwaukee, WI)",2026-09-11,SLUH,,0,0,T,,,,,,False,False
 "Marquette University(Milwaukee, WI)",2026-09-18,Rockhurst,,0,0,T,,,,,,False,False
 Marshall,2026-08-28,Northeast (Kansas City),,2,5,L,0.44,3.5,1.56,-1.5,0.07,False,False
 Marshall,2026-08-29,Father Tolton,,1,3,L,1.28,2.16,-0.28,-0.84,-1.12,False,False
 Marshall,2026-09-01,Harrisonville,,4,1,W,3.04,0.59,0.96,-0.41,0.55,False,False
-Marshall,2026-09-03,Chillicothe,,5,0,W,3.38,-1.03,1.62,-1.03,0.6,False,False
+Marshall,2026-09-03,Chillicothe,,5,0,W,3.37,-1.03,1.63,-1.03,0.6,False,False
 Marshall,2026-09-08,Mexico,,8,0,W,6.12,-2.33,1.88,-2.33,-0.45,False,False
 Marshall,2026-09-11,Perryville,,3,0,W,2.84,1.02,0.16,1.02,1.18,False,False
 Marshall,2026-09-11,Southern Boone,,4,0,W,2.54,0.87,1.46,0.87,2.33,False,False
@@ -2539,14 +2539,14 @@ McDonald County,2026-10-20,Cassville,,,,,2.39,1.02,,,,False,False
 McDonald County,2026-10-27,Thomas Jefferson Independent Day,,,,,2.35,1.98,,,,False,False
 Mehlville,2026-08-28,Vianney,,0,1,L,-0.25,2.37,0.25,1.37,1.62,False,False
 Mehlville,2026-09-01,Clayton,,1,3,L,0.3,2.49,0.7,-0.51,0.19,False,False
-Mehlville,2026-09-03,Oakville,,0,2,L,-0.86,2.96,0.86,0.96,1.82,False,False
-Mehlville,2026-09-08,Northwest (Cedar Hill),,1,4,L,1.08,2.71,-0.08,-1.29,-1.37,False,False
+Mehlville,2026-09-03,Oakville,,0,2,L,-0.87,2.96,0.87,0.96,1.82,False,False
+Mehlville,2026-09-08,Northwest (Cedar Hill),,1,4,L,1.07,2.71,-0.07,-1.29,-1.37,False,False
 Mehlville,2026-09-10,Lafayette (Wildwood),,1,5,L,1.01,3.61,-0.01,-1.39,-1.41,False,False
-Mehlville,2026-09-12,Eureka,,0,1,L,0.55,3.13,-0.55,2.13,1.58,False,False
+Mehlville,2026-09-12,Eureka,,0,1,L,0.57,3.16,-0.57,2.16,1.59,False,False
 Mehlville,2026-09-15,Seckman,,0,1,L,1.07,0.88,-1.07,-0.12,-1.19,False,False
 Mehlville,2026-09-16,Affton,,3,1,W,3.68,1.55,-0.68,0.55,-0.13,False,False
 Mehlville,2026-09-17,Parkway South,,1,1,T,0.85,1.81,0.15,0.81,0.97,False,False
-Mehlville,2026-09-23,Parkway West,,0,4,L,-0.37,2.37,0.37,-1.63,-1.26,False,False
+Mehlville,2026-09-23,Parkway West,,0,4,L,-0.37,2.36,0.37,-1.64,-1.26,False,False
 Mehlville,2026-09-24,Lindbergh,,0,2,L,0.31,2.45,-0.31,0.45,0.14,False,False
 Mehlville,2026-09-29,SLUH,,1,5,L,-0.87,3.59,1.87,-1.41,0.46,False,False
 Mehlville,2026-10-01,"Collinsville(Collinsville, IL)",,3,1,W,,,,,,False,False
@@ -2555,7 +2555,7 @@ Mehlville,2026-10-08,Parkway Central,,,,,1.1,0.62,,,,False,False
 Mehlville,2026-10-09,"Blue Valley Northwest(Overland Park, KS)",,,,,,,,,,False,False
 Mehlville,2026-10-10,"St. James(Lenexa, KS)",,,,,,,,,,False,False
 Mehlville,2026-10-19,Farmington,,,,,1.06,1.93,,,,False,False
-Mehlville,2026-10-21,Webster Groves,,,,,0.88,2.14,,,,False,False
+Mehlville,2026-10-21,Webster Groves,,,,,0.87,2.14,,,,False,False
 Mehlville,2026-10-27,Fox,,,,,3.5,-0.1,,,,False,False
 Metro,2026-09-08,Bishop DuBourg,,7,1,W,4.87,0.44,2.13,-0.56,1.57,False,False
 Metro,2026-09-10,Collegiate School of Med-Bio Science with McKinley Classical Leadership,,2,0,W,4.2,0.39,-2.2,0.39,-1.81,False,False
@@ -2665,7 +2665,7 @@ Monett,2026-10-27,Parkview,,,,,3.12,1.57,,,,False,False
 "Murphysboro(Murphysboro, IL)",2026-10-01,Central (Cape Girardeau),,2,0,W,,,,,,False,False
 Neosho,2026-08-27,McDonald County,,0,3,L,2.45,2.22,-2.45,-0.78,-3.23,False,False
 Neosho,2026-08-29,Hannibal,,1,0,W,3.14,1.21,-2.14,1.21,-0.93,False,False
-Neosho,2026-08-29,Rolla,,2,0,W,1.91,1.02,0.09,1.02,1.11,False,False
+Neosho,2026-08-29,Rolla,,2,0,W,1.91,1.03,0.09,1.03,1.11,False,False
 Neosho,2026-09-01,Carl Junction,,4,1,W,2.47,1.19,1.53,0.19,1.72,False,False
 Neosho,2026-09-03,Kickapoo,,1,2,L,2.01,1.84,-1.01,-0.16,-1.17,False,False
 Neosho,2026-09-15,Nixa,,1,9,L,-0.9,4.47,1.9,-4.53,-2.63,False,False
@@ -2677,7 +2677,7 @@ Neosho,2026-10-02,Logan-Rogersville,,1,3,L,0.52,3.57,0.48,0.57,1.05,False,False
 Neosho,2026-10-03,Raymore-Peculiar,,1,3,L,0.1,2.16,0.9,-0.84,0.07,False,False
 Neosho,2026-10-06,Waynesville,,,,,2.2,0.83,,,,False,False
 Neosho,2026-10-13,Carthage,,,,,0.45,2.84,,,,False,False
-Neosho,2026-10-15,Webb City,,,,,2.56,0.34,,,,False,False
+Neosho,2026-10-15,Webb City,,,,,2.57,0.35,,,,False,False
 Neosho,2026-10-20,Willard,,,,,2.7,0.96,,,,False,False
 Neosho,2026-10-22,Republic,,,,,0.92,1.24,,,,False,False
 Neosho,2026-10-27,Joplin,,,,,0.72,2.1,,,,False,False
@@ -2722,29 +2722,29 @@ New Heights Christian with McAuley Catholic,2026-10-20,Trinity Academy,,,,,,,,,,
 New Heights Christian with McAuley Catholic,2026-10-22,New Covenant Academy,,,,,1.18,1.11,,,,False,False
 New Heights Christian with McAuley Catholic,2026-10-26,Fair Grove,,,,,1.14,3.85,,,,False,False
 New Heights Christian with McAuley Catholic,2026-10-27,Aurora,,,,,2.33,-0.14,,,,False,False
-Nixa,2026-08-28,Hickman,,2,3,L,3.49,1.23,-1.49,-1.77,-3.27,False,False
+Nixa,2026-08-28,Hickman,,2,3,L,3.49,1.23,-1.49,-1.77,-3.26,False,False
 Nixa,2026-08-29,Rock Bridge,,3,2,W,2.77,1.64,0.23,-0.36,-0.13,False,False
 Nixa,2026-09-01,Branson,,3,0,W,3.86,-0.31,-0.86,-0.31,-1.17,False,False
 Nixa,2026-09-03,Monett,,4,0,W,4.17,0.1,-0.17,0.1,-0.07,False,False
-Nixa,2026-09-08,Springfield Catholic,,3,2,W,2.96,0.61,0.04,-1.39,-1.35,False,False
+Nixa,2026-09-08,Springfield Catholic,,3,2,W,2.95,0.6,0.05,-1.4,-1.35,False,False
 Nixa,2026-09-11,Summit Christian Academy,,5,0,W,3.95,-0.52,1.05,-0.52,0.53,False,False
 Nixa,2026-09-15,Neosho,,9,1,W,4.47,-0.9,4.53,-1.9,2.63,False,False
 Nixa,2026-09-18,Chaminade College Prep,,0,1,L,1.27,2.13,-1.27,1.13,-0.13,False,False
-Nixa,2026-09-22,Carthage,,3,0,W,3.18,0.2,-0.18,0.2,0.02,False,False
+Nixa,2026-09-22,Carthage,,3,0,W,3.17,0.19,-0.17,0.19,0.02,False,False
 Nixa,2026-09-24,Willard,,8,0,W,5.42,-1.68,2.58,-1.68,0.9,False,False
-Nixa,2026-09-25,Parkway South,,2,1,W,2.88,0.51,-0.88,-0.49,-1.37,False,False
-Nixa,2026-09-26,Marquette,,1,0,W,1.66,1.99,-0.66,1.99,1.33,False,False
-Nixa,2026-09-29,Republic,,7,0,W,3.65,-1.4,3.35,-1.4,1.95,False,False
+Nixa,2026-09-25,Parkway South,,2,1,W,2.88,0.51,-0.88,-0.49,-1.36,False,False
+Nixa,2026-09-26,Marquette,,1,0,W,1.69,2.01,-0.69,2.01,1.33,False,False
+Nixa,2026-09-29,Republic,,7,0,W,3.65,-1.41,3.35,-1.41,1.95,False,False
 Nixa,2026-10-01,Jackson,,3,1,W,2.92,1.37,0.08,0.37,0.45,False,False
-Nixa,2026-10-02,Washington,,6,0,W,4.99,-1.0,1.01,-1.0,0.02,False,False
-Nixa,2026-10-03,Lee's Summit West,,2,0,W,1.76,1.19,0.24,1.19,1.44,False,False
+Nixa,2026-10-02,Washington,,6,0,W,4.98,-1.0,1.02,-1.0,0.02,False,False
+Nixa,2026-10-03,Lee's Summit West,,2,0,W,1.75,1.19,0.25,1.19,1.44,False,False
 Nixa,2026-10-06,Webb City,,8,1,W,5.29,-2.3,2.71,-3.3,-0.59,False,False
-Nixa,2026-10-08,Joplin,,,,,3.45,-0.54,,,,False,False
+Nixa,2026-10-08,Joplin,,,,,3.44,-0.55,,,,False,False
 Nixa,2026-10-13,Glendale,,,,,2.28,1.16,,,,False,False
-Nixa,2026-10-15,Kickapoo,,,,,4.74,-0.8,,,,False,False
+Nixa,2026-10-15,Kickapoo,,,,,4.73,-0.8,,,,False,False
 Nixa,2026-10-20,Lebanon,,,,,5.67,-1.43,,,,False,False
 Nixa,2026-10-22,Waynesville,,,,,4.93,-1.81,,,,False,False
-Nixa,2026-10-27,Ozark,,,,,3.93,0.67,,,,False,False
+Nixa,2026-10-27,Ozark,,,,,3.92,0.66,,,,False,False
 Normandy Collaborative,2026-09-08,McCluer North,,0,1,L,,,,,,False,False
 Normandy Collaborative,2026-09-17,University City,,0,8,L,,,,,,False,False
 Normandy Collaborative,2026-09-21,STEAM Academy,,0,8,L,,,,,,False,False
@@ -2804,7 +2804,7 @@ North Point,2026-09-15,Ft. Zumwalt South,,3,4,L,2.04,3.21,0.96,-0.79,0.16,False,
 North Point,2026-09-21,St. Charles,,1,4,L,2.66,3.55,-1.66,-0.45,-2.11,False,False
 North Point,2026-09-22,Pattonville,,4,3,W,2.93,2.6,1.07,-0.4,0.67,False,False
 North Point,2026-09-25,Veritas Christian Academy,,2,1,W,3.16,1.33,-1.16,0.33,-0.82,False,False
-North Point,2026-09-29,St. Francis Borgia,,6,1,W,5.34,0.28,0.66,-0.72,-0.07,False,False
+North Point,2026-09-29,St. Francis Borgia,,6,1,W,5.35,0.28,0.65,-0.72,-0.07,False,False
 North Point,2026-10-01,Wright City,,8,0,W,6.14,-1.44,1.86,-1.44,0.43,False,False
 North Point,2026-10-06,Parkway Central,,3,0,W,2.45,1.33,0.55,1.33,1.88,False,False
 North Point,2026-10-08,Ft. Zumwalt West,,,,,1.45,2.72,,,,False,False
@@ -2848,40 +2848,40 @@ Northland Christian,2026-10-26,Savannah,,,,,1.08,3.41,,,,False,False
 Northwest (Cedar Hill),2026-08-27,St. Charles,,4,3,W,2.93,2.83,1.07,-0.17,0.9,False,False
 Northwest (Cedar Hill),2026-08-28,Farmington,,0,1,L,2.68,1.91,-2.68,0.91,-1.77,False,False
 Northwest (Cedar Hill),2026-09-01,Lafayette (Wildwood),,3,2,W,2.63,3.59,0.37,1.59,1.96,False,False
-Northwest (Cedar Hill),2026-09-03,Eureka,,5,6,L,2.17,3.12,2.83,-2.88,-0.05,False,False
-Northwest (Cedar Hill),2026-09-08,Mehlville,,4,1,W,2.71,1.08,1.29,0.08,1.37,False,False
-Northwest (Cedar Hill),2026-09-10,Republic,,0,1,L,3.24,-0.12,-3.24,-1.12,-4.36,False,False
+Northwest (Cedar Hill),2026-09-03,Eureka,,5,6,L,2.19,3.14,2.81,-2.86,-0.05,False,False
+Northwest (Cedar Hill),2026-09-08,Mehlville,,4,1,W,2.71,1.07,1.29,0.07,1.37,False,False
+Northwest (Cedar Hill),2026-09-10,Republic,,0,1,L,3.23,-0.12,-3.23,-1.12,-4.36,False,False
 Northwest (Cedar Hill),2026-09-11,Ozark,,4,2,W,3.51,1.95,0.49,-0.05,0.44,False,False
-Northwest (Cedar Hill),2026-09-12,Glendale,,1,4,L,1.87,2.45,-0.87,-1.55,-2.42,False,False
+Northwest (Cedar Hill),2026-09-12,Glendale,,1,4,L,1.86,2.44,-0.86,-1.56,-2.42,False,False
 Northwest (Cedar Hill),2026-09-15,Jackson,,2,1,W,2.51,2.65,-0.51,1.65,1.14,False,False
-Northwest (Cedar Hill),2026-09-17,Oakville,,0,1,L,0.76,2.95,-0.76,1.95,1.19,False,False
+Northwest (Cedar Hill),2026-09-17,Oakville,,0,1,L,0.75,2.94,-0.75,1.94,1.19,False,False
 Northwest (Cedar Hill),2026-09-22,Parkway North,,3,1,W,5.54,-0.99,-2.54,-1.99,-4.53,False,False
 Northwest (Cedar Hill),2026-09-23,Ritenour,,5,1,W,4.86,-1.4,0.14,-2.4,-2.26,False,False
-Northwest (Cedar Hill),2026-09-28,Affton,,7,0,W,5.3,1.53,1.7,1.53,3.24,False,False
+Northwest (Cedar Hill),2026-09-28,Affton,,7,0,W,5.29,1.53,1.71,1.53,3.24,False,False
 Northwest (Cedar Hill),2026-10-01,Camdenton,,4,0,W,3.87,1.05,0.13,1.05,1.18,False,False
 Northwest (Cedar Hill),2026-10-02,Hannibal,,7,0,W,5.45,-0.15,1.55,-0.15,1.4,False,False
 Northwest (Cedar Hill),2026-10-03,Poplar Bluff,,7,2,W,5.21,1.42,1.79,-0.58,1.21,False,False
-Northwest (Cedar Hill),2026-10-06,Lindbergh,,1,3,L,1.93,2.44,-0.93,-0.56,-1.49,False,False
+Northwest (Cedar Hill),2026-10-06,Lindbergh,,1,3,L,1.93,2.43,-0.93,-0.57,-1.49,False,False
 Northwest (Cedar Hill),2026-10-08,Fox,,,,,5.12,-0.11,,,,False,False
 Northwest (Cedar Hill),2026-10-09,Hillsboro,,,,,6.19,-0.95,,,,False,False
 Northwest (Cedar Hill),2026-10-12,Fox,,,,,5.12,-0.11,,,,False,False
-Northwest (Cedar Hill),2026-10-19,Vianney,,,,,1.37,2.36,,,,False,False
-Northwest (Cedar Hill),2026-10-22,Seckman,,,,,2.69,0.86,,,,False,False
+Northwest (Cedar Hill),2026-10-19,Vianney,,,,,1.37,2.35,,,,False,False
+Northwest (Cedar Hill),2026-10-22,Seckman,,,,,2.68,0.86,,,,False,False
 Northwest (Cedar Hill),2026-10-28,Pattonville,,,,,3.2,1.88,,,,False,False
 Notre Dame (Cape Girardeau),2026-08-29,John Burroughs,,2,0,W,2.23,1.89,-0.23,1.89,1.66,False,False
 Notre Dame (Cape Girardeau),2026-09-01,Perryville,,5,1,W,4.86,-0.19,0.14,-1.19,-1.05,False,False
-Notre Dame (Cape Girardeau),2026-09-04,Poplar Bluff,,7,0,W,5.43,0.47,1.57,0.47,2.04,False,False
-Notre Dame (Cape Girardeau),2026-09-08,Central (Cape Girardeau),,8,0,W,5.0,-2.64,3.0,-2.64,0.35,False,False
+Notre Dame (Cape Girardeau),2026-09-04,Poplar Bluff,,7,0,W,5.44,0.47,1.56,0.47,2.04,False,False
+Notre Dame (Cape Girardeau),2026-09-08,Central (Cape Girardeau),,8,0,W,5.0,-2.64,3.0,-2.64,0.36,False,False
 Notre Dame (Cape Girardeau),2026-09-11,Kirkwood,,0,2,L,1.18,1.46,-1.18,-0.54,-1.72,False,False
 Notre Dame (Cape Girardeau),2026-09-15,Saxony Lutheran with St. Vincent,,3,1,W,4.02,0.95,-1.02,-0.05,-1.06,False,False
-Notre Dame (Cape Girardeau),2026-09-17,Farmington,,3,1,W,2.9,0.96,0.1,-0.04,0.06,False,False
+Notre Dame (Cape Girardeau),2026-09-17,Farmington,,3,1,W,2.91,0.96,0.09,-0.04,0.06,False,False
 Notre Dame (Cape Girardeau),2026-09-21,SLUH,,1,3,L,0.97,2.62,0.03,-0.38,-0.35,False,False
 Notre Dame (Cape Girardeau),2026-09-24,Dexter,,9,0,W,8.79,-5.05,0.21,-5.05,-4.84,False,False
 Notre Dame (Cape Girardeau),2026-09-25,"McCracken County(Paducah, KY)",,2,0,W,,,,,,False,False
 Notre Dame (Cape Girardeau),2026-09-26,"Evansville Reitz Memorial(Evansville, IN)",,1,0,W,,,,,,False,False
-Notre Dame (Cape Girardeau),2026-09-28,St. Pius X (Festus),,8,0,W,4.25,-0.92,3.75,-0.92,2.83,False,False
+Notre Dame (Cape Girardeau),2026-09-28,St. Pius X (Festus),,8,0,W,4.25,-0.91,3.75,-0.91,2.83,False,False
 Notre Dame (Cape Girardeau),2026-09-30,"Carbondale(Carbondale, IL)",,6,0,W,,,,,,False,False
-Notre Dame (Cape Girardeau),2026-10-06,Poplar Bluff,,,,,5.43,0.47,,,,False,False
+Notre Dame (Cape Girardeau),2026-10-06,Poplar Bluff,,,,,5.44,0.47,,,,False,False
 Notre Dame (Cape Girardeau),2026-10-08,Fredericktown,,,,,6.83,-1.83,,,,False,False
 Notre Dame (Cape Girardeau),2026-10-09,Rolla,,,,,4.45,-1.28,,,,False,False
 Notre Dame (Cape Girardeau),2026-10-15,DeSoto,,,,,6.52,-0.75,,,,False,False
@@ -2937,25 +2937,25 @@ Oak Park,2026-10-15,North Kansas City,,,,,2.04,2.31,,,,False,False
 Oak Park,2026-10-20,Central (St. Joseph),,,,,1.85,1.96,,,,False,False
 Oak Park,2026-10-22,Park Hill South,,,,,-0.22,3.7,,,,False,False
 Oak Park,2026-10-27,Park Hill South,,,,,-0.22,3.7,,,,False,False
-Oakville,2026-09-01,Jackson,,1,0,W,2.76,0.71,-1.76,0.71,-1.04,False,False
-Oakville,2026-09-03,Mehlville,,2,0,W,2.96,-0.86,-0.96,-0.86,-1.82,False,False
+Oakville,2026-09-01,Jackson,,1,0,W,2.75,0.71,-1.75,0.71,-1.04,False,False
+Oakville,2026-09-03,Mehlville,,2,0,W,2.96,-0.87,-0.96,-0.87,-1.82,False,False
 Oakville,2026-09-08,Francis Howell,,2,0,W,2.45,0.61,-0.45,0.61,0.16,False,False
-Oakville,2026-09-10,Vianney,,0,1,L,1.62,0.42,-1.62,-0.58,-2.2,False,False
-Oakville,2026-09-15,Marquette,,3,2,W,1.5,1.34,1.5,-0.66,0.84,False,False
-Oakville,2026-09-17,Northwest (Cedar Hill),,1,0,W,2.95,0.76,-1.95,0.76,-1.19,False,False
-Oakville,2026-09-22,Eureka,,3,1,W,2.42,1.18,0.58,0.18,0.76,False,False
-Oakville,2026-09-24,Kirkwood,,1,0,W,1.21,0.47,-0.21,0.47,0.26,False,False
-Oakville,2026-09-26,SLUH,,0,1,L,1.0,1.64,-1.0,0.64,-0.36,False,False
+Oakville,2026-09-10,Vianney,,0,1,L,1.61,0.41,-1.61,-0.59,-2.2,False,False
+Oakville,2026-09-15,Marquette,,3,2,W,1.52,1.36,1.48,-0.64,0.83,False,False
+Oakville,2026-09-17,Northwest (Cedar Hill),,1,0,W,2.94,0.75,-1.94,0.75,-1.19,False,False
+Oakville,2026-09-22,Eureka,,3,1,W,2.44,1.2,0.56,0.2,0.77,False,False
+Oakville,2026-09-24,Kirkwood,,1,0,W,1.2,0.47,-0.2,0.47,0.26,False,False
+Oakville,2026-09-26,SLUH,,0,1,L,0.99,1.63,-0.99,0.63,-0.37,False,False
 Oakville,2026-09-28,Parkway Central,,5,0,W,2.97,-1.33,2.03,-1.33,0.7,False,False
 Oakville,2026-10-01,Rockwood Summit,,6,1,W,2.68,0.64,3.32,-0.36,2.96,False,False
-Oakville,2026-10-03,Christian Brothers College,,3,2,W,1.72,1.16,1.28,-0.84,0.43,False,False
-Oakville,2026-10-06,Parkway West,,1,0,W,1.5,0.41,-0.5,0.41,-0.09,False,False
-Oakville,2026-10-08,Lindbergh,,,,,2.18,0.5,,,,False,False
+Oakville,2026-10-03,Christian Brothers College,,3,2,W,1.72,1.15,1.28,-0.85,0.43,False,False
+Oakville,2026-10-06,Parkway West,,1,0,W,1.49,0.4,-0.49,0.4,-0.09,False,False
+Oakville,2026-10-08,Lindbergh,,,,,2.17,0.49,,,,False,False
 Oakville,2026-10-10,Priory,,,,,2.14,-0.05,,,,False,False
 Oakville,2026-10-13,Liberty (Wentzville),,,,,3.57,0.09,,,,False,False
-Oakville,2026-10-20,Fox,,,,,5.37,-2.05,,,,False,False
-Oakville,2026-10-22,Ladue Horton Watkins,,,,,2.12,1.05,,,,False,False
-Oakville,2026-10-26,Seckman,,,,,2.94,-1.08,,,,False,False
+Oakville,2026-10-20,Fox,,,,,5.37,-2.06,,,,False,False
+Oakville,2026-10-22,Ladue Horton Watkins,,,,,2.12,1.04,,,,False,False
+Oakville,2026-10-26,Seckman,,,,,2.93,-1.08,,,,False,False
 Odessa,2026-08-28,Paseo Academy,,0,1,L,2.41,1.91,-2.41,0.91,-1.5,False,False
 Odessa,2026-08-29,Bolivar,,2,10,L,-0.28,4.02,2.28,-5.98,-3.71,False,False
 Odessa,2026-09-02,William Chrisman,,2,3,L,0.6,3.2,1.4,0.2,1.6,False,False
@@ -2988,7 +2988,7 @@ Orchard Farm,2026-09-03,St. Charles West,,6,0,W,3.06,-0.76,2.94,-0.76,2.18,False
 Orchard Farm,2026-09-04,"Althoff Catholic(belleville, IL)",,0,3,L,,,,,,False,False
 Orchard Farm,2026-09-05,"Rochester(Rochester, IL)",,3,1,W,,,,,,False,False
 Orchard Farm,2026-09-08,Warrenton,,2,1,W,3.01,0.98,-1.01,-0.02,-1.03,False,False
-Orchard Farm,2026-09-10,St. Charles,,3,1,W,1.02,3.2,1.98,2.2,4.18,False,False
+Orchard Farm,2026-09-10,St. Charles,,3,1,W,1.02,3.21,1.98,2.21,4.18,False,False
 Orchard Farm,2026-09-15,Holt,,3,0,W,3.62,-0.45,-0.62,-0.45,-1.07,False,False
 Orchard Farm,2026-09-22,Westminster Christian Academy,,0,1,L,1.44,1.72,-1.44,0.72,-0.72,False,False
 Orchard Farm,2026-09-24,St. Louis United,,2,0,W,,,,,,False,False
@@ -2999,7 +2999,7 @@ Orchard Farm,2026-10-08,Troy Buchanan,,,,,0.33,1.59,,,,False,False
 Orchard Farm,2026-10-13,"Collinsville HS(Collinsville, IL)",,,,,,,,,,False,False
 Orchard Farm,2026-10-15,Washington,,,,,2.66,0.66,,,,False,False
 Orchard Farm,2026-10-20,Collegiate School of Med-Bio Science with McKinley Classical Leadership,,,,,3.74,-0.65,,,,False,False
-Orchard Farm,2026-10-26,Jefferson City,,,,,2.98,-0.23,,,,False,False
+Orchard Farm,2026-10-26,Jefferson City,,,,,2.98,-0.22,,,,False,False
 Osage,2026-08-27,Battle with Columbia Independent,,0,7,L,0.11,4.38,-0.11,-2.62,-2.73,False,False
 Osage,2026-09-01,Southern Boone,,2,3,L,0.91,4.28,1.09,1.28,2.37,False,False
 Osage,2026-09-08,Sullivan,,3,4,L,1.95,3.14,1.05,-0.86,0.19,False,False
@@ -3010,7 +3010,7 @@ Osage,2026-09-17,Camdenton,,0,7,L,0.44,4.72,-0.44,-2.28,-2.72,False,False
 Osage,2026-09-21,Jefferson City,,0,3,L,1.45,3.07,-1.45,0.07,-1.39,False,False
 Osage,2026-09-24,Smith-Cotton,,0,4,L,0.63,5.05,-0.63,1.05,0.42,False,False
 Osage,2026-09-29,Boonville,,0,1,L,1.64,3.2,-1.64,2.2,0.56,False,False
-Osage,2026-10-02,Central (Springfield),,0,5,L,0.63,3.93,-0.63,-1.07,-1.71,False,False
+Osage,2026-10-02,Central (Springfield),,0,5,L,0.63,3.93,-0.63,-1.07,-1.7,False,False
 Osage,2026-10-05,Capital City,,0,8,L,0.47,4.62,-0.47,-3.38,-3.85,False,False
 Osage,2026-10-06,Mexico,,2,1,W,4.49,1.07,-2.49,0.07,-2.41,False,False
 Osage,2026-10-08,Crocker,,,,,4.12,2.98,,,,False,False
@@ -3030,7 +3030,7 @@ Ozark,2026-09-15,Waynesville,,2,0,W,3.77,0.29,-1.77,0.29,-1.48,False,False
 Ozark,2026-09-17,Chaminade College Prep,,1,4,L,0.11,4.23,0.89,0.23,1.12,False,False
 Ozark,2026-09-22,Willard,,8,0,W,4.26,0.42,3.74,0.42,4.16,False,False
 Ozark,2026-09-24,Carthage,,1,0,W,2.02,2.29,-1.02,2.29,1.28,False,False
-Ozark,2026-09-28,Springfield Catholic,,2,3,L,1.79,2.7,0.21,-0.3,-0.09,False,False
+Ozark,2026-09-28,Springfield Catholic,,2,3,L,1.8,2.7,0.2,-0.3,-0.09,False,False
 Ozark,2026-09-29,Neosho,,3,0,W,3.31,1.2,-0.31,1.2,0.89,False,False
 Ozark,2026-10-02,Hickman,,2,3,L,2.33,3.33,-0.33,0.33,-0.01,False,False
 Ozark,2026-10-03,Washington,,2,3,L,3.83,1.1,-1.83,-1.9,-3.73,False,False
@@ -3043,7 +3043,7 @@ Ozark,2026-10-16,"Blue Valley North(Lenexa , KS)",,,,,,,,,,False,False
 Ozark,2026-10-17,Rockhurst,,,,,0.12,6.02,,,,False,False
 Ozark,2026-10-19,Glendale,,,,,1.12,3.26,,,,False,False
 Ozark,2026-10-22,Lebanon,,,,,4.51,0.67,,,,False,False
-Ozark,2026-10-27,Nixa,,,,,0.67,3.93,,,,False,False
+Ozark,2026-10-27,Nixa,,,,,0.66,3.92,,,,False,False
 Ozark,2026-10-29,Joplin,,,,,2.29,1.55,,,,False,False
 Pacific,2026-09-01,Fredericktown,,4,1,W,2.48,1.44,1.52,0.44,1.96,False,False
 Pacific,2026-09-02,North County,,5,0,W,3.6,-0.42,1.4,-0.42,0.97,False,False
@@ -3132,26 +3132,26 @@ Parkway Central,2026-09-03,Principia,,0,1,L,0.71,0.95,-0.71,-0.05,-0.77,False,Fa
 Parkway Central,2026-09-08,Ft. Zumwalt East,,1,0,W,0.84,0.83,0.16,0.83,0.99,False,False
 Parkway Central,2026-09-14,Christian Brothers College,,0,2,L,-0.61,3.12,0.61,1.12,1.74,False,False
 Parkway Central,2026-09-15,Pattonville,,0,1,L,1.12,1.91,-1.12,0.91,-0.21,False,False
-Parkway Central,2026-09-17,Eureka,,0,6,L,0.08,3.15,-0.08,-2.85,-2.94,False,False
+Parkway Central,2026-09-17,Eureka,,0,6,L,0.1,3.17,-0.1,-2.83,-2.93,False,False
 Parkway Central,2026-09-23,Webster Groves,,0,2,L,0.41,2.15,-0.41,0.15,-0.25,False,False
 Parkway Central,2026-09-28,Oakville,,0,5,L,-1.33,2.97,1.33,-2.03,-0.7,False,False
-Parkway Central,2026-10-03,Clayton,,2,1,W,-0.16,2.51,2.16,1.51,3.67,False,False
+Parkway Central,2026-10-03,Clayton,,2,1,W,-0.17,2.5,2.17,1.5,3.67,False,False
 Parkway Central,2026-10-06,North Point,,0,3,L,1.33,2.45,-1.33,-0.55,-1.88,False,False
 Parkway Central,2026-10-08,Mehlville,,,,,0.62,1.1,,,,False,False
 Parkway Central,2026-10-09,Westminster Christian Academy,,,,,1.26,1.37,,,,False,False
 Parkway Central,2026-10-12,Parkway North,,,,,3.45,-0.96,,,,False,False
-Parkway Central,2026-10-14,Parkway West,,,,,-0.84,2.38,,,,False,False
+Parkway Central,2026-10-14,Parkway West,,,,,-0.84,2.37,,,,False,False
 Parkway Central,2026-10-15,John Burroughs,,,,,-0.08,2.87,,,,False,False
 Parkway Central,2026-10-21,Lafayette (Wildwood),,,,,0.54,3.62,,,,False,False
-Parkway Central,2026-10-22,Francis Howell North,,,,,0.52,2.04,,,,False,False
+Parkway Central,2026-10-22,Francis Howell North,,,,,0.51,2.04,,,,False,False
 Parkway Central,2026-10-27,Parkway South,,,,,0.38,1.82,,,,False,False
-Parkway Central,2026-10-28,Ladue Horton Watkins,,,,,-0.21,3.02,,,,False,False
+Parkway Central,2026-10-28,Ladue Horton Watkins,,,,,-0.22,3.01,,,,False,False
 Parkway North,2026-08-27,"Collinsville(Collinsville, IL)",,1,4,L,,,,,,False,False
 Parkway North,2026-08-29,"Belleville West(Belleville, IL)",,1,3,L,,,,,,False,False
 Parkway North,2026-08-29,"Civic Memorial(Bethalto, IL)",,0,2,L,,,,,,False,False
 Parkway North,2026-09-03,Maplewood-Richmond Hts.,,0,2,L,0.14,3.67,-0.14,1.67,1.54,False,False
 Parkway North,2026-09-09,"Alton(Alton, IL)",,0,1,L,,,,,,False,False
-Parkway North,2026-09-10,Seckman,,0,8,L,-0.99,3.71,0.99,-4.29,-3.3,False,False
+Parkway North,2026-09-10,Seckman,,0,8,L,-1.0,3.7,1.0,-4.3,-3.3,False,False
 Parkway North,2026-09-17,Roosevelt,,3,0,W,2.6,0.3,0.4,0.3,0.7,False,False
 Parkway North,2026-09-22,Northwest (Cedar Hill),,1,3,L,-0.99,5.54,1.99,2.54,4.53,False,False
 Parkway North,2026-09-25,Whitfield,,1,0,W,1.3,3.22,-0.3,3.22,2.92,False,False
@@ -3165,47 +3165,47 @@ Parkway North,2026-10-12,Parkway Central,,,,,-0.96,3.45,,,,False,False
 Parkway North,2026-10-14,Hillsboro,,,,,2.51,1.9,,,,False,False
 Parkway North,2026-10-15,Affton,,,,,1.61,4.38,,,,False,False
 Parkway North,2026-10-20,St. Charles,,,,,-0.75,5.67,,,,False,False
-Parkway North,2026-10-21,Ritenour,,,,,1.17,1.44,,,,False,False
+Parkway North,2026-10-21,Ritenour,,,,,1.18,1.44,,,,False,False
 Parkway North,2026-10-27,St. Charles West,,,,,1.29,1.71,,,,False,False
 Parkway North,2026-10-29,North Point,,,,,-0.26,5.27,,,,False,False
 Parkway South,2026-09-01,Seckman,,1,0,W,1.79,0.63,-0.79,0.63,-0.16,False,False
 Parkway South,2026-09-03,Pattonville,,2,1,W,2.3,1.65,-0.3,0.65,0.35,False,False
-Parkway South,2026-09-10,Webster Groves,,1,2,L,1.6,1.9,-0.6,-0.1,-0.7,False,False
-Parkway South,2026-09-15,Clayton,,3,4,L,1.02,2.25,1.98,-1.75,0.22,False,False
+Parkway South,2026-09-10,Webster Groves,,1,2,L,1.59,1.9,-0.59,-0.1,-0.7,False,False
+Parkway South,2026-09-15,Clayton,,3,4,L,1.02,2.24,1.98,-1.76,0.22,False,False
 Parkway South,2026-09-17,Mehlville,,1,1,T,1.81,0.85,-0.81,-0.15,-0.97,False,False
 Parkway South,2026-09-23,Lafayette (Wildwood),,2,4,L,1.73,3.36,0.27,-0.64,-0.37,False,False
-Parkway South,2026-09-25,Nixa,,1,2,L,0.51,2.88,0.49,0.88,1.37,False,False
+Parkway South,2026-09-25,Nixa,,1,2,L,0.51,2.88,0.49,0.88,1.36,False,False
 Parkway South,2026-09-29,Ft. Zumwalt South,,1,0,W,1.42,2.25,-0.42,2.25,1.83,False,False
 Parkway South,2026-10-01,"O'Fallon Township(O'Fallon, IL)",,2,1,W,,,,,,False,False
 Parkway South,2026-10-03,SLUH,,1,7,L,-0.15,3.34,1.15,-3.66,-2.51,False,False
 Parkway South,2026-10-08,Parkway West,,,,,0.35,2.12,,,,False,False
 Parkway South,2026-10-12,MICDS,,,,,2.2,1.02,,,,False,False
-Parkway South,2026-10-19,Marquette,,,,,0.35,3.04,,,,False,False
-Parkway South,2026-10-21,Eureka,,,,,1.27,2.89,,,,False,False
+Parkway South,2026-10-19,Marquette,,,,,0.38,3.07,,,,False,False
+Parkway South,2026-10-21,Eureka,,,,,1.29,2.91,,,,False,False
 Parkway South,2026-10-27,Parkway Central,,,,,1.82,0.38,,,,False,False
 Parkway South,2026-10-28,Kirkwood,,,,,0.06,2.18,,,,False,False
 Parkway West,2026-08-28,Ft. Zumwalt South,,3,0,W,1.97,1.03,1.03,1.03,2.06,False,False
 Parkway West,2026-08-31,Francis Howell Central,,0,2,L,0.93,1.81,-0.93,-0.19,-1.12,False,False
 Parkway West,2026-09-01,Kirkwood,,1,0,W,0.61,0.96,0.39,0.96,1.35,False,False
-Parkway West,2026-09-02,Marquette,,0,3,L,0.9,1.83,-0.9,-1.17,-2.07,False,False
+Parkway West,2026-09-02,Marquette,,0,3,L,0.92,1.85,-0.92,-1.15,-2.08,False,False
 Parkway West,2026-09-08,Ritenour,,9,1,W,4.51,-2.85,4.49,-3.85,0.64,False,False
-Parkway West,2026-09-10,Eureka,,2,1,W,1.82,1.67,0.18,0.67,0.85,False,False
-Parkway West,2026-09-15,Rockwood Summit,,1,1,T,2.09,1.13,-1.09,0.13,-0.95,False,False
-Parkway West,2026-09-16,Webster Groves,,3,2,W,2.15,0.68,0.85,-1.32,-0.47,False,False
-Parkway West,2026-09-22,Chaminade College Prep,,0,2,L,0.51,1.97,-0.51,-0.03,-0.54,False,False
-Parkway West,2026-09-23,Mehlville,,4,0,W,2.37,-0.37,1.63,-0.37,1.26,False,False
-Parkway West,2026-09-28,Francis Howell North,,1,0,W,2.26,0.57,-1.26,0.57,-0.69,False,False
-Parkway West,2026-09-29,Ft. Zumwalt East,,4,0,W,2.58,-0.64,1.42,-0.64,0.77,False,False
+Parkway West,2026-09-10,Eureka,,2,1,W,1.84,1.69,0.16,0.69,0.85,False,False
+Parkway West,2026-09-15,Rockwood Summit,,1,1,T,2.08,1.13,-1.08,0.13,-0.95,False,False
+Parkway West,2026-09-16,Webster Groves,,3,2,W,2.14,0.67,0.86,-1.33,-0.47,False,False
+Parkway West,2026-09-22,Chaminade College Prep,,0,2,L,0.5,1.97,-0.5,-0.03,-0.54,False,False
+Parkway West,2026-09-23,Mehlville,,4,0,W,2.36,-0.37,1.64,-0.37,1.26,False,False
+Parkway West,2026-09-28,Francis Howell North,,1,0,W,2.25,0.56,-1.25,0.56,-0.69,False,False
+Parkway West,2026-09-29,Ft. Zumwalt East,,4,0,W,2.58,-0.65,1.42,-0.65,0.77,False,False
 Parkway West,2026-10-01,Lafayette (Wildwood),,3,2,W,2.28,2.14,0.72,0.14,0.86,False,False
 Parkway West,2026-10-05,Seckman,,1,0,W,2.34,-0.59,-1.34,-0.59,-1.93,False,False
-Parkway West,2026-10-06,Oakville,,0,1,L,0.41,1.5,-0.41,0.5,0.09,False,False
+Parkway West,2026-10-06,Oakville,,0,1,L,0.4,1.49,-0.4,0.49,0.09,False,False
 Parkway West,2026-10-08,Parkway South,,,,,2.12,0.35,,,,False,False
-Parkway West,2026-10-13,Francis Howell North,,,,,2.26,0.57,,,,False,False
-Parkway West,2026-10-14,Parkway Central,,,,,2.38,-0.84,,,,False,False
-Parkway West,2026-10-20,Timberland,,,,,1.83,-0.02,,,,False,False
-Parkway West,2026-10-22,Clayton,,,,,1.58,1.03,,,,False,False
-Parkway West,2026-10-24,Ladue Horton Watkins,,,,,1.53,1.54,,,,False,False
-Parkway West,2026-10-26,Pattonville,,,,,2.86,0.43,,,,False,False
+Parkway West,2026-10-13,Francis Howell North,,,,,2.25,0.56,,,,False,False
+Parkway West,2026-10-14,Parkway Central,,,,,2.37,-0.84,,,,False,False
+Parkway West,2026-10-20,Timberland,,,,,1.82,-0.03,,,,False,False
+Parkway West,2026-10-22,Clayton,,,,,1.57,1.02,,,,False,False
+Parkway West,2026-10-24,Ladue Horton Watkins,,,,,1.52,1.54,,,,False,False
+Parkway West,2026-10-26,Pattonville,,,,,2.85,0.43,,,,False,False
 Paseo Academy,2026-08-28,Odessa,,1,0,W,1.91,2.41,-0.91,2.41,1.5,False,False
 Paseo Academy,2026-08-29,Moberly,,1,6,L,0.02,4.58,0.98,-1.42,-0.44,False,False
 Paseo Academy,2026-09-01,Cristo Rey,,1,3,L,2.77,2.3,-1.77,-0.7,-2.47,False,False
@@ -3247,7 +3247,7 @@ Pattonville,2026-10-12,Holt,,,,,4.71,-0.32,,,,False,False
 Pattonville,2026-10-15,Ft. Zumwalt North,,,,,2.9,0.53,,,,False,False
 Pattonville,2026-10-19,Seckman,,,,,1.87,1.37,,,,False,False
 Pattonville,2026-10-21,Affton,,,,,4.48,2.04,,,,False,False
-Pattonville,2026-10-26,Parkway West,,,,,0.43,2.86,,,,False,False
+Pattonville,2026-10-26,Parkway West,,,,,0.43,2.85,,,,False,False
 Pattonville,2026-10-28,Northwest (Cedar Hill),,,,,1.88,3.2,,,,False,False
 "Pattonville(St. Charles, MO)",2026-09-25,St. Charles West,,4,0,W,,,,,,False,False
 Pembroke Hill,2026-08-28,"Olathe West(Olathe, KS)",,1,4,L,,,,,,False,False
@@ -3264,7 +3264,7 @@ Pembroke Hill,2026-10-09,Hickman,,,,,3.69,2.04,,,,False,False
 Pembroke Hill,2026-10-10,Rock Bridge,,,,,2.97,2.45,,,,False,False
 Pembroke Hill,2026-10-13,St. Michael the Archangel,,,,,4.15,1.36,,,,False,False
 Pembroke Hill,2026-10-20,Barstow,,,,,4.28,-0.06,,,,False,False
-Pembroke Hill,2026-10-22,Van Horn,,,,,2.57,2.99,,,,False,False
+Pembroke Hill,2026-10-22,Van Horn,,,,,2.56,2.99,,,,False,False
 Pembroke Hill,2026-10-27,Summit Christian Academy,,,,,4.15,0.29,,,,False,False
 Pembroke Hill,2026-10-29,Harrisonville,,,,,5.45,-0.15,,,,False,False
 "Peoria Notre Dame(Peoria, IL)",2026-09-11,Christian Brothers College,,1,1,T,,,,,,False,False
@@ -3280,14 +3280,14 @@ Perryville,2026-09-15,Festus,,8,0,W,4.05,-0.33,3.95,-0.33,3.62,False,False
 Perryville,2026-09-17,Hillsboro,,5,2,W,4.26,0.99,0.74,-1.01,-0.26,False,False
 Perryville,2026-09-22,Festus,,8,0,W,4.05,-0.33,3.95,-0.33,3.62,False,False
 Perryville,2026-09-24,Jackson,,0,7,L,0.57,4.6,-0.57,-2.4,-2.98,False,False
-Perryville,2026-09-29,Clayton,,1,7,L,-0.01,4.42,1.01,-2.58,-1.57,False,False
+Perryville,2026-09-29,Clayton,,1,7,L,-0.02,4.42,1.02,-2.58,-1.57,False,False
 Perryville,2026-10-01,"Marion(Marion, IL)",,5,1,W,,,,,,False,False
 Perryville,2026-10-06,Sikeston,,1,3,L,0.65,4.49,0.35,1.49,1.84,False,False
 Perryville,2026-10-08,Saxony Lutheran with St. Vincent,,,,,1.86,3.85,,,,False,False
 Perryville,2026-10-13,DeSoto,,,,,4.37,2.14,,,,False,False
 Perryville,2026-10-15,Farmington,,,,,0.75,3.85,,,,False,False
 Perryville,2026-10-19,Fredericktown,,,,,4.67,1.06,,,,False,False
-Perryville,2026-10-20,Seckman,,,,,0.75,2.81,,,,False,False
+Perryville,2026-10-20,Seckman,,,,,0.75,2.8,,,,False,False
 Perryville,2026-10-22,Central (Cape Girardeau),,,,,2.85,0.25,,,,False,False
 Perryville,2026-10-26,Hillsboro,,,,,4.26,0.99,,,,False,False
 Perryville,2026-10-27,Kennett,,,,,8.53,-0.77,,,,False,False
@@ -3334,18 +3334,18 @@ Pleasant Hill,2026-10-22,La Monte,,,,,4.99,-1.91,,,,False,False
 Pleasant Hill,2026-10-27,Odessa,,,,,4.22,-0.61,,,,False,False
 Poplar Bluff,2026-08-28,"Murphysboro(Murphysboro, IL)",,2,3,L,,,,,,False,False
 Poplar Bluff,2026-08-29,"Harrisburg(Harrisburg, IL)",,4,1,W,,,,,,False,False
-Poplar Bluff,2026-09-04,Notre Dame (Cape Girardeau),,0,7,L,0.47,5.43,-0.47,-1.57,-2.04,False,False
+Poplar Bluff,2026-09-04,Notre Dame (Cape Girardeau),,0,7,L,0.47,5.44,-0.47,-1.56,-2.04,False,False
 Poplar Bluff,2026-09-15,Kennett,,8,0,W,9.19,-0.19,-1.19,-0.19,-1.38,False,False
 Poplar Bluff,2026-09-21,DeSoto,,8,2,W,5.03,2.71,2.97,0.71,3.68,False,False
 Poplar Bluff,2026-09-24,Sikeston,,2,6,L,1.31,5.06,0.69,-0.94,-0.25,False,False
 Poplar Bluff,2026-10-02,Rolla,,2,1,W,2.95,2.18,-0.95,1.18,0.23,False,False
 Poplar Bluff,2026-10-03,Jefferson City,,2,2,T,3.61,1.92,-1.61,-0.08,-1.7,False,False
 Poplar Bluff,2026-10-03,Northwest (Cedar Hill),,2,7,L,1.42,5.21,0.58,-1.79,-1.21,False,False
-Poplar Bluff,2026-10-06,Notre Dame (Cape Girardeau),,,,,0.47,5.43,,,,False,False
+Poplar Bluff,2026-10-06,Notre Dame (Cape Girardeau),,,,,0.47,5.44,,,,False,False
 Poplar Bluff,2026-10-09,Farmington,,,,,1.41,4.43,,,,False,False
 Poplar Bluff,2026-10-12,St. Pius X (Festus),,,,,2.76,2.55,,,,False,False
 Poplar Bluff,2026-10-15,Central (Cape Girardeau),,,,,3.51,0.82,,,,False,False
-Poplar Bluff,2026-10-19,Jackson,,,,,1.23,5.17,,,,False,False
+Poplar Bluff,2026-10-19,Jackson,,,,,1.24,5.17,,,,False,False
 Poplar Bluff,2026-10-22,Kennett,,,,,9.19,-0.19,,,,False,False
 Poplar Bluff,2026-10-27,Saxony Lutheran with St. Vincent,,,,,2.52,4.42,,,,False,False
 Principia,2026-08-28,Priory,,0,3,L,0.11,2.0,-0.11,-1.0,-1.12,False,False
@@ -3363,26 +3363,26 @@ Principia,2026-10-09,Whitfield,,,,,3.21,0.48,,,,False,False
 Principia,2026-10-10,St. Louis United,,,,,,,,,,False,False
 Principia,2026-10-13,Lutheran South,,,,,2.34,1.39,,,,False,False
 Principia,2026-10-16,Gateway Science Charter,,,,,4.22,-0.38,,,,False,False
-Principia,2026-10-17,Springfield Catholic,,,,,0.77,1.99,,,,False,False
+Principia,2026-10-17,Springfield Catholic,,,,,0.77,2.0,,,,False,False
 Principia,2026-10-20,Metro,,,,,2.33,1.35,,,,False,False
 Principia,2026-10-22,Timberland,,,,,0.4,1.53,,,,False,False
 Principia,2026-10-27,Priory,,,,,0.11,2.0,,,,False,False
 Priory,2026-08-28,Principia,,3,0,W,2.0,0.11,1.0,0.11,1.12,False,False
 Priory,2026-09-01,Lutheran South,,3,1,W,3.31,0.48,-0.31,-0.52,-0.83,False,False
 Priory,2026-09-03,John Burroughs,,1,2,L,1.2,2.04,-0.2,0.04,-0.17,False,False
-Priory,2026-09-05,Veritas Christian Academy,,2,0,W,2.63,-0.2,-0.63,-0.2,-0.82,False,False
-Priory,2026-09-09,Marquette,,0,5,L,0.44,2.47,-0.44,-2.53,-2.97,False,False
+Priory,2026-09-05,Veritas Christian Academy,,2,0,W,2.62,-0.2,-0.62,-0.2,-0.82,False,False
+Priory,2026-09-09,Marquette,,0,5,L,0.47,2.49,-0.47,-2.51,-2.98,False,False
 Priory,2026-09-10,St. Dominic,,2,1,W,0.1,2.46,1.9,1.46,3.36,False,False
-Priory,2026-09-12,Lindbergh,,0,1,L,1.13,1.63,-1.13,0.63,-0.5,False,False
-Priory,2026-09-15,Westminster Christian Academy,,3,2,W,2.55,0.54,0.45,-1.46,-1.01,False,False
-Priory,2026-09-17,MICDS,,0,1,L,2.3,0.45,-2.3,-0.55,-2.85,False,False
+Priory,2026-09-12,Lindbergh,,0,1,L,1.12,1.63,-1.12,0.63,-0.49,False,False
+Priory,2026-09-15,Westminster Christian Academy,,3,2,W,2.54,0.54,0.46,-1.46,-1.01,False,False
+Priory,2026-09-17,MICDS,,0,1,L,2.29,0.45,-2.29,-0.55,-2.85,False,False
 Priory,2026-09-18,Fox,,7,0,W,4.32,-0.92,2.68,-0.92,1.76,False,False
 Priory,2026-09-22,Christian Brothers College,,0,1,L,0.67,2.29,-0.67,1.29,0.62,False,False
 Priory,2026-09-24,Whitfield,,2,1,W,4.18,-0.43,-2.18,-1.43,-3.61,False,False
 Priory,2026-09-26,Farmington,,4,1,W,1.88,1.1,2.12,0.1,2.22,False,False
 Priory,2026-09-29,Lutheran North,,,,,7.91,-2.5,,,,False,False
 Priory,2026-10-01,"Father McGivney(Glen Carbon, IL)",,2,0,W,,,,,,False,False
-Priory,2026-10-06,SLUH,,0,0,T,-0.05,2.77,0.05,2.77,2.82,False,False
+Priory,2026-10-06,SLUH,,0,0,T,-0.06,2.77,0.06,2.77,2.82,False,False
 Priory,2026-10-07,Bayless,,3,0,W,2.91,-0.02,0.09,-0.02,0.06,False,False
 Priory,2026-10-10,Oakville,,,,,-0.05,2.14,,,,False,False
 Priory,2026-10-12,Webster Groves,,,,,1.69,1.32,,,,False,False
@@ -3416,7 +3416,7 @@ Raymore-Peculiar,2026-09-22,Lee's Summit,,0,4,L,-1.05,3.26,1.05,-0.74,0.31,False
 Raymore-Peculiar,2026-09-23,Blue Springs South,,0,2,L,-0.02,3.29,0.02,1.29,1.3,False,False
 Raymore-Peculiar,2026-09-29,North Kansas City,,3,1,W,1.94,0.81,1.06,-0.19,0.86,False,False
 Raymore-Peculiar,2026-10-01,Grandview,,3,0,W,3.1,-0.45,-0.1,-0.45,-0.55,False,False
-Raymore-Peculiar,2026-10-02,Kickapoo,,0,1,L,2.43,0.2,-2.43,-0.8,-3.23,False,False
+Raymore-Peculiar,2026-10-02,Kickapoo,,0,1,L,2.43,0.2,-2.43,-0.8,-3.24,False,False
 Raymore-Peculiar,2026-10-03,Neosho,,3,1,W,2.16,0.1,0.84,-0.9,-0.07,False,False
 Raymore-Peculiar,2026-10-06,Blue Springs,,0,3,L,0.1,2.47,-0.1,-0.53,-0.63,False,False
 Raymore-Peculiar,2026-10-08,Lee's Summit West,,,,,-0.55,2.19,,,,False,False
@@ -3466,7 +3466,7 @@ Republic,2026-08-29,Cassville,,1,0,W,1.41,-0.5,-0.41,-0.5,-0.91,False,False
 Republic,2026-09-01,Springfield Catholic,,0,7,L,-0.28,2.43,0.28,-4.57,-4.3,False,False
 Republic,2026-09-03,Farmington,,1,3,L,-0.13,2.45,1.13,-0.55,0.58,False,False
 Republic,2026-09-08,Parkview,,3,1,W,1.62,1.05,1.38,0.05,1.43,False,False
-Republic,2026-09-10,Northwest (Cedar Hill),,1,0,W,-0.12,3.24,1.12,3.24,4.36,False,False
+Republic,2026-09-10,Northwest (Cedar Hill),,1,0,W,-0.12,3.23,1.12,3.23,4.36,False,False
 Republic,2026-09-12,Summit Christian Academy,,1,0,W,0.72,1.3,0.28,1.3,1.58,False,False
 Republic,2026-09-14,Central (Springfield),,0,1,L,1.25,0.8,-1.25,-0.2,-1.45,False,False
 Republic,2026-09-18,Capital City,,1,0,W,1.09,1.49,-0.09,1.49,1.41,False,False
@@ -3474,7 +3474,7 @@ Republic,2026-09-19,Battle with Columbia Independent,,1,2,L,0.72,1.25,0.28,-0.75
 Republic,2026-09-22,Kickapoo,,2,1,W,1.51,1.02,0.49,0.02,0.52,False,False
 Republic,2026-09-24,Waynesville,,0,2,L,1.7,0.01,-1.7,-1.99,-3.69,False,False
 Republic,2026-09-26,Camdenton,,1,2,L,1.06,1.59,-0.06,-0.41,-0.47,False,False
-Republic,2026-09-29,Nixa,,0,7,L,-1.4,3.65,1.4,-3.35,-1.95,False,False
+Republic,2026-09-29,Nixa,,0,7,L,-1.41,3.65,1.41,-3.35,-1.95,False,False
 Republic,2026-10-01,Lebanon,,1,0,W,2.44,0.39,-1.44,0.39,-1.05,False,False
 Republic,2026-10-06,Ozark,,0,1,L,0.69,2.49,-0.69,1.49,0.8,False,False
 Republic,2026-10-08,Glendale,,,,,-0.95,2.99,,,,False,False
@@ -3486,7 +3486,7 @@ Republic,2026-10-22,Neosho,,,,,1.24,0.92,,,,False,False
 Republic,2026-10-27,Webb City,,,,,2.06,-0.47,,,,False,False
 Ritenour,2026-09-04,Gateway Legacy Sr. H.,,,,,,,,,,False,False
 Ritenour,2026-09-08,Parkway West,,1,9,L,-2.85,4.51,3.85,-4.49,-0.64,False,False
-Ritenour,2026-09-10,Affton,,1,3,L,1.2,3.69,-0.2,0.69,0.5,False,False
+Ritenour,2026-09-10,Affton,,1,3,L,1.2,3.7,-0.2,0.7,0.5,False,False
 Ritenour,2026-09-11,Hazelwood West,,2,3,L,,,,,,False,False
 Ritenour,2026-09-17,Pattonville,,2,7,L,-0.89,4.04,2.89,-2.96,-0.06,False,False
 Ritenour,2026-09-21,Collegiate School of Med-Bio Science with McKinley Classical Leadership,,0,1,L,1.55,1.13,-1.55,0.13,-1.42,False,False
@@ -3496,7 +3496,7 @@ Ritenour,2026-10-05,Holt,,1,0,W,1.43,1.33,-0.43,1.33,0.9,False,False
 Ritenour,2026-10-06,MICDS,,0,2,L,-1.0,3.41,1.0,1.41,2.41,False,False
 Ritenour,2026-10-08,Seckman,,,,,-1.41,3.02,,,,False,False
 Ritenour,2026-10-13,St. Mary's South Side,,,,,0.22,3.87,,,,False,False
-Ritenour,2026-10-21,Parkway North,,,,,1.44,1.17,,,,False,False
+Ritenour,2026-10-21,Parkway North,,,,,1.44,1.18,,,,False,False
 "Rochester(Rochester, IL)",2026-09-05,Orchard Farm,,1,3,L,,,,,,False,False
 Rock Bridge,2026-08-28,Kickapoo,,8,0,W,4.55,0.14,3.45,0.14,3.59,False,False
 Rock Bridge,2026-08-29,Nixa,,2,3,L,1.64,2.77,0.36,-0.23,0.13,False,False
@@ -3516,7 +3516,7 @@ Rock Bridge,2026-10-09,Ozark,,,,,3.74,1.61,,,,False,False
 Rock Bridge,2026-10-10,Pembroke Hill,,,,,2.45,2.97,,,,False,False
 Rock Bridge,2026-10-13,Capital City,,,,,4.13,0.61,,,,False,False
 Rock Bridge,2026-10-15,Francis Howell,,,,,2.43,2.21,,,,False,False
-Rock Bridge,2026-10-17,Marquette,,,,,1.47,2.93,,,,False,False
+Rock Bridge,2026-10-17,Marquette,,,,,1.5,2.96,,,,False,False
 Rock Bridge,2026-10-20,Helias Catholic,,,,,2.12,1.53,,,,False,False
 Rock Bridge,2026-10-23,Park Hill South,,,,,1.8,2.14,,,,False,False
 Rock Bridge,2026-10-24,Kirkwood,,,,,1.19,2.07,,,,False,False
@@ -3545,21 +3545,21 @@ Rockwood Summit,2026-09-03,Lafayette (Wildwood),,1,3,L,2.52,3.33,-1.52,0.33,-1.1
 Rockwood Summit,2026-09-09,Chaminade College Prep,,1,4,L,0.74,3.15,0.26,-0.85,-0.59,False,False
 Rockwood Summit,2026-09-11,Ft. Zumwalt East,,3,0,W,2.82,0.54,0.18,0.54,0.72,False,False
 Rockwood Summit,2026-09-14,Farmington,,3,2,W,2.57,1.65,0.43,-0.35,0.08,False,False
-Rockwood Summit,2026-09-15,Parkway West,,1,1,T,1.13,2.09,-0.13,1.09,0.95,False,False
-Rockwood Summit,2026-09-17,Lindbergh,,3,1,W,1.82,2.18,1.18,1.18,2.36,False,False
-Rockwood Summit,2026-09-22,Marquette,,2,4,L,1.13,3.01,0.87,-0.99,-0.12,False,False
-Rockwood Summit,2026-09-25,Webster Groves,,2,1,W,2.38,1.87,-0.38,0.87,0.48,False,False
+Rockwood Summit,2026-09-15,Parkway West,,1,1,T,1.13,2.08,-0.13,1.08,0.95,False,False
+Rockwood Summit,2026-09-17,Lindbergh,,3,1,W,1.81,2.17,1.19,1.17,2.36,False,False
+Rockwood Summit,2026-09-22,Marquette,,2,4,L,1.16,3.03,0.84,-0.97,-0.12,False,False
+Rockwood Summit,2026-09-25,Webster Groves,,2,1,W,2.38,1.86,-0.38,0.86,0.48,False,False
 Rockwood Summit,2026-09-29,Vianney,,1,3,L,1.25,2.09,-0.25,-0.91,-1.16,False,False
 Rockwood Summit,2026-10-01,Oakville,,1,6,L,0.64,2.68,0.36,-3.32,-2.96,False,False
-Rockwood Summit,2026-10-03,Kirkwood,,1,1,T,0.85,2.15,0.15,1.15,1.3,False,False
-Rockwood Summit,2026-10-08,Ladue Horton Watkins,,,,,1.76,2.73,,,,False,False
+Rockwood Summit,2026-10-03,Kirkwood,,1,1,T,0.84,2.15,0.16,1.15,1.3,False,False
+Rockwood Summit,2026-10-08,Ladue Horton Watkins,,,,,1.76,2.72,,,,False,False
 Rockwood Summit,2026-10-12,Ft. Zumwalt South,,,,,2.2,2.22,,,,False,False
 Rockwood Summit,2026-10-15,Capital City,,,,,3.79,0.69,,,,False,False
 Rockwood Summit,2026-10-20,Liberty (Wentzville),,,,,3.21,1.77,,,,False,False
-Rockwood Summit,2026-10-26,Eureka,,,,,2.06,2.86,,,,False,False
-Rockwood Summit,2026-10-28,Ft. Zumwalt West,,,,,1.61,1.74,,,,False,False
+Rockwood Summit,2026-10-26,Eureka,,,,,2.07,2.88,,,,False,False
+Rockwood Summit,2026-10-28,Ft. Zumwalt West,,,,,1.61,1.73,,,,False,False
 Rolla,2026-08-29,Hannibal,,0,0,T,2.42,1.38,-2.42,1.38,-1.04,False,False
-Rolla,2026-08-29,Neosho,,0,2,L,1.02,1.91,-1.02,-0.09,-1.11,False,False
+Rolla,2026-08-29,Neosho,,0,2,L,1.03,1.91,-1.03,-0.09,-1.11,False,False
 Rolla,2026-09-01,Camdenton,,2,3,L,0.84,2.58,1.16,-0.42,0.74,False,False
 Rolla,2026-09-08,Bolivar,,2,0,W,1.5,1.56,0.5,1.56,2.06,False,False
 Rolla,2026-09-11,Hannibal,,3,3,T,2.42,1.38,0.58,-1.62,-1.04,False,False
@@ -3616,25 +3616,25 @@ Ruskin,2026-10-27,Paseo Academy,,,,,2.92,2.21,,,,False,False
 Ruskin,2026-10-29,Smith-Cotton,,,,,-0.24,5.67,,,,False,False
 "SHAWNEE MISSION WEST(SHAWNEE MISSION, KS)",2026-09-04,Lincoln College Prep,,4,5,L,,,,,,False,False
 SLUH,2026-08-29,Chaminade College Prep,,2,2,T,1.73,1.47,0.27,-0.53,-0.26,False,False
-SLUH,2026-08-31,Marquette,,3,0,W,2.12,1.33,0.88,1.33,2.21,False,False
-SLUH,2026-09-01,St. Mary's South Side,,7,0,W,5.2,-0.23,1.8,-0.23,1.57,False,False
-SLUH,2026-09-04,Glendale,,3,0,W,2.75,0.5,0.25,0.5,0.75,False,False
+SLUH,2026-08-31,Marquette,,3,0,W,2.15,1.35,0.85,1.35,2.2,False,False
+SLUH,2026-09-01,St. Mary's South Side,,7,0,W,5.19,-0.23,1.81,-0.23,1.57,False,False
+SLUH,2026-09-04,Glendale,,3,0,W,2.74,0.5,0.26,0.5,0.76,False,False
 SLUH,2026-09-08,Webster Groves,,1,0,W,3.37,0.18,-2.37,0.18,-2.19,False,False
 SLUH,2026-09-11,"Marquette U High(Milwaukee, WI)",,0,0,T,,,,,,False,False
 SLUH,2026-09-12,"Union Grove HS(Milwaukee, WI)",,2,0,W,,,,,,False,False
 SLUH,2026-09-15,St. Dominic,,1,3,L,1.78,1.32,-0.78,-1.68,-2.46,False,False
-SLUH,2026-09-17,Vianney,,3,0,W,2.25,0.41,0.75,0.41,1.16,False,False
+SLUH,2026-09-17,Vianney,,3,0,W,2.24,0.41,0.76,0.41,1.16,False,False
 SLUH,2026-09-21,Notre Dame (Cape Girardeau),,3,1,W,2.62,0.97,0.38,-0.03,0.35,False,False
 SLUH,2026-09-24,De Smet Jesuit,,2,0,W,2.72,0.24,-0.72,0.24,-0.47,False,False
-SLUH,2026-09-26,Oakville,,1,0,W,1.64,1.0,-0.64,1.0,0.36,False,False
+SLUH,2026-09-26,Oakville,,1,0,W,1.63,0.99,-0.63,0.99,0.37,False,False
 SLUH,2026-09-29,Mehlville,,5,1,W,3.59,-0.87,1.41,-1.87,-0.46,False,False
-SLUH,2026-10-01,Ft. Zumwalt South,,3,0,W,3.19,0.54,-0.19,0.54,0.34,False,False
+SLUH,2026-10-01,Ft. Zumwalt South,,3,0,W,3.19,0.53,-0.19,0.53,0.34,False,False
 SLUH,2026-10-03,Parkway South,,7,1,W,3.34,-0.15,3.66,-1.15,2.51,False,False
-SLUH,2026-10-06,Priory,,0,0,T,2.77,-0.05,-2.77,-0.05,-2.82,False,False
+SLUH,2026-10-06,Priory,,0,0,T,2.77,-0.06,-2.77,-0.06,-2.82,False,False
 SLUH,2026-10-08,Christian Brothers College,,,,,2.35,1.15,,,,False,False
 SLUH,2026-10-10,"Wichita SE(Wichita, KS)",,,,,,,,,,False,False
 SLUH,2026-10-12,"Triad HS(Triad , IL)",,,,,,,,,,False,False
-SLUH,2026-10-26,Lindbergh,,,,,2.81,0.49,,,,False,False
+SLUH,2026-10-26,Lindbergh,,,,,2.8,0.49,,,,False,False
 "ST. THOMAS AQUINAS(OVERLAN PARK, KS)",2026-09-08,Lincoln College Prep,,7,5,W,,,,,,False,False
 STEAM Academy,2026-08-28,Maplewood-Richmond Hts.,,0,8,L,-1.15,5.59,1.15,-2.41,-1.26,False,False
 STEAM Academy,2026-09-03,Hancock,,1,2,L,0.71,3.0,0.29,1.0,1.29,False,False
@@ -3697,7 +3697,7 @@ Saxony Lutheran with St. Vincent,2026-08-27,St. Mary's South Side,,4,2,W,3.53,2.
 Saxony Lutheran with St. Vincent,2026-09-01,Farmington,,2,3,L,1.89,3.01,0.11,0.01,0.12,False,False
 Saxony Lutheran with St. Vincent,2026-09-03,Dexter,,7,0,W,7.78,-3.0,-0.78,-3.0,-3.78,False,False
 Saxony Lutheran with St. Vincent,2026-09-08,Fredericktown,,7,0,W,5.81,0.22,1.19,0.22,1.4,False,False
-Saxony Lutheran with St. Vincent,2026-09-10,St. Pius X (Festus),,2,3,L,3.24,1.14,-1.24,-1.86,-3.1,False,False
+Saxony Lutheran with St. Vincent,2026-09-10,St. Pius X (Festus),,2,3,L,3.24,1.13,-1.24,-1.87,-3.1,False,False
 Saxony Lutheran with St. Vincent,2026-09-15,Notre Dame (Cape Girardeau),,1,3,L,0.95,4.02,0.05,1.02,1.06,False,False
 Saxony Lutheran with St. Vincent,2026-09-17,"Anna-Jonesboro(Anna, IL)",,5,0,W,,,,,,False,False
 Saxony Lutheran with St. Vincent,2026-09-21,Sikeston,,2,3,L,1.79,3.64,0.21,0.64,0.85,False,False
@@ -3707,14 +3707,14 @@ Saxony Lutheran with St. Vincent,2026-10-08,Perryville,,,,,3.85,1.86,,,,False,Fa
 Saxony Lutheran with St. Vincent,2026-10-13,Central (Cape Girardeau),,,,,3.99,-0.59,,,,False,False
 Saxony Lutheran with St. Vincent,2026-10-15,Jackson,,,,,1.72,3.75,,,,False,False
 Saxony Lutheran with St. Vincent,2026-10-20,North County,,,,,6.94,-1.65,,,,False,False
-Saxony Lutheran with St. Vincent,2026-10-22,Bayless,,,,,2.93,1.88,,,,False,False
+Saxony Lutheran with St. Vincent,2026-10-22,Bayless,,,,,2.92,1.88,,,,False,False
 Saxony Lutheran with St. Vincent,2026-10-27,Poplar Bluff,,,,,4.42,2.52,,,,False,False
 Saxony Lutheran with St. Vincent,2026-10-29,Lutheran St. Charles,,,,,2.84,1.69,,,,False,False
 Seckman,2026-09-01,Parkway South,,0,1,L,0.63,1.79,-0.63,0.79,0.16,False,False
 Seckman,2026-09-03,Ft. Zumwalt East,,0,1,L,1.1,0.79,-1.1,-0.21,-1.3,False,False
-Seckman,2026-09-08,Eureka,,0,3,L,0.34,3.11,-0.34,0.11,-0.23,False,False
-Seckman,2026-09-10,Parkway North,,8,0,W,3.71,-0.99,4.29,-0.99,3.3,False,False
-Seckman,2026-09-14,Lindbergh,,0,4,L,0.1,2.43,-0.1,-1.57,-1.67,False,False
+Seckman,2026-09-08,Eureka,,0,3,L,0.35,3.13,-0.35,0.13,-0.22,False,False
+Seckman,2026-09-10,Parkway North,,8,0,W,3.7,-1.0,4.3,-1.0,3.3,False,False
+Seckman,2026-09-14,Lindbergh,,0,4,L,0.09,2.42,-0.09,-1.58,-1.67,False,False
 Seckman,2026-09-15,Mehlville,,1,0,W,0.88,1.07,0.12,1.07,1.19,False,False
 Seckman,2026-09-17,"WATERLOO HIGH SCHOOL(WATERLOO, IL)",,1,2,L,,,,,,False,False
 Seckman,2026-09-21,Jackson,,1,2,L,0.67,2.64,0.33,0.64,0.97,False,False
@@ -3724,11 +3724,11 @@ Seckman,2026-10-05,Parkway West,,0,1,L,-0.59,2.34,0.59,1.34,1.93,False,False
 Seckman,2026-10-08,Ritenour,,,,,3.02,-1.41,,,,False,False
 Seckman,2026-10-12,St. Francis Borgia,,,,,3.78,-0.46,,,,False,False
 Seckman,2026-10-19,Pattonville,,,,,1.37,1.87,,,,False,False
-Seckman,2026-10-20,Perryville,,,,,2.81,0.75,,,,False,False
-Seckman,2026-10-22,Northwest (Cedar Hill),,,,,0.86,2.69,,,,False,False
-Seckman,2026-10-26,Oakville,,,,,-1.08,2.94,,,,False,False
+Seckman,2026-10-20,Perryville,,,,,2.8,0.75,,,,False,False
+Seckman,2026-10-22,Northwest (Cedar Hill),,,,,0.86,2.68,,,,False,False
+Seckman,2026-10-26,Oakville,,,,,-1.08,2.93,,,,False,False
 Seckman,2026-10-27,St. Mary's South Side,,,,,2.48,1.7,,,,False,False
-Seckman,2026-10-29,Affton,,,,,3.46,1.53,,,,False,False
+Seckman,2026-10-29,Affton,,,,,3.46,1.52,,,,False,False
 "Shawnee Mission West(Overland Park, KS)",2026-09-01,East (Kansas City),,4,3,W,,,,,,False,False
 Sikeston,2026-08-28,"Carbondale(Carbondale, IL)",,3,2,W,,,,,,False,False
 Sikeston,2026-08-29,"Murphysboro(Murphysboro, IL)",,5,2,W,,,,,,False,False
@@ -3743,11 +3743,11 @@ Sikeston,2026-09-18,Trinity Academy,,5,1,W,,,,,,False,False
 Sikeston,2026-09-19,Willard,,6,0,W,4.86,-0.51,1.14,-0.51,0.63,False,False
 Sikeston,2026-09-21,Saxony Lutheran with St. Vincent,,3,2,W,3.64,1.79,-0.64,-0.21,-0.85,False,False
 Sikeston,2026-09-24,Poplar Bluff,,6,2,W,5.06,1.31,0.94,-0.69,0.25,False,False
-Sikeston,2026-09-28,Jackson,,1,2,L,2.35,2.54,-1.35,0.54,-0.82,False,False
+Sikeston,2026-09-28,Jackson,,1,2,L,2.36,2.54,-1.36,0.54,-0.82,False,False
 Sikeston,2026-10-01,"Anna Jonesboro(Anna Jonesboro, IL)",,3,1,W,,,,,,False,False
 Sikeston,2026-10-06,Perryville,,3,1,W,4.49,0.65,-1.49,-0.35,-1.84,False,False
 Sikeston,2026-10-08,North County,,,,,7.57,-2.86,,,,False,False
-Sikeston,2026-10-12,Farmington,,,,,2.53,1.79,,,,False,False
+Sikeston,2026-10-12,Farmington,,,,,2.53,1.8,,,,False,False
 Sikeston,2026-10-19,Notre Dame (Cape Girardeau),,,,,1.59,2.8,,,,False,False
 Sikeston,2026-10-20,Kennett,,,,,10.31,-2.83,,,,False,False
 Sikeston,2026-10-22,Hillsboro,,,,,6.04,-1.06,,,,False,False
@@ -3852,7 +3852,7 @@ Springfield Catholic,2026-08-29,Capital City,,3,1,W,3.1,0.8,-0.1,-0.2,-0.3,False
 Springfield Catholic,2026-09-01,Republic,,7,0,W,2.43,-0.28,4.57,-0.28,4.3,False,False
 Springfield Catholic,2026-09-03,Carl Junction,,6,0,W,3.97,-0.33,2.03,-0.33,1.7,False,False
 Springfield Catholic,2026-09-04,Pembroke Hill,,0,4,L,1.41,3.15,-1.41,-0.85,-2.26,False,False
-Springfield Catholic,2026-09-08,Nixa,,2,3,L,0.61,2.96,1.39,-0.04,1.35,False,False
+Springfield Catholic,2026-09-08,Nixa,,2,3,L,0.6,2.95,1.4,-0.05,1.35,False,False
 Springfield Catholic,2026-09-10,Liberty North,,0,4,L,0.5,3.4,-0.5,-0.6,-1.09,False,False
 Springfield Catholic,2026-09-11,Kickapoo,,3,0,W,3.52,0.33,-0.52,0.33,-0.19,False,False
 Springfield Catholic,2026-09-12,Grain Valley,,4,2,W,3.18,1.17,0.82,-0.83,-0.01,False,False
@@ -3861,13 +3861,13 @@ Springfield Catholic,2026-09-15,Glendale,,2,1,W,1.06,2.29,0.94,1.29,2.23,False,F
 Springfield Catholic,2026-09-18,Bishop DuBourg,,8,0,W,5.51,-1.13,2.49,-1.13,1.36,False,False
 Springfield Catholic,2026-09-19,St. Michael the Archangel,,0,1,L,2.73,1.68,-2.73,0.68,-2.05,False,False
 Springfield Catholic,2026-09-24,Rolla,,3,0,W,3.42,-0.49,-0.42,-0.49,-0.91,False,False
-Springfield Catholic,2026-09-28,Ozark,,3,2,W,2.7,1.79,0.3,-0.21,0.09,False,False
+Springfield Catholic,2026-09-28,Ozark,,3,2,W,2.7,1.8,0.3,-0.2,0.09,False,False
 Springfield Catholic,2026-09-29,Trinity Academy,,7,1,W,,,,,,False,False
 Springfield Catholic,2026-10-06,Logan-Rogersville,,1,0,W,2.03,2.05,-1.03,2.05,1.03,False,False
 Springfield Catholic,2026-10-09,Camdenton,,,,,3.07,0.89,,,,False,False
 Springfield Catholic,2026-10-13,Branson,,,,,2.64,0.82,,,,False,False
 Springfield Catholic,2026-10-16,Chaminade College Prep,,,,,0.05,3.26,,,,False,False
-Springfield Catholic,2026-10-17,Principia,,,,,1.99,0.77,,,,False,False
+Springfield Catholic,2026-10-17,Principia,,,,,2.0,0.77,,,,False,False
 Springfield Catholic,2026-10-19,Joplin,,,,,2.23,0.58,,,,False,False
 Springfield Catholic,2026-10-22,West Plains,,,,,4.08,0.52,,,,False,False
 Springfield Catholic,2026-10-27,New Covenant Academy,,,,,4.27,-0.78,,,,False,False
@@ -3878,7 +3878,7 @@ St. Charles,2026-08-27,Northwest (Cedar Hill),,3,4,L,2.83,2.93,0.17,-1.07,-0.9,F
 St. Charles,2026-09-01,Holt,,8,0,W,5.66,-0.59,2.34,-0.59,1.75,False,False
 St. Charles,2026-09-03,Winfield,,5,0,W,6.07,-0.5,-1.07,-0.5,-1.57,False,False
 St. Charles,2026-09-08,St. Charles West,,8,0,W,5.1,-0.89,2.9,-0.89,2.0,False,False
-St. Charles,2026-09-10,Orchard Farm,,1,3,L,3.2,1.02,-2.2,-1.98,-4.18,False,False
+St. Charles,2026-09-10,Orchard Farm,,1,3,L,3.21,1.02,-2.21,-1.98,-4.18,False,False
 St. Charles,2026-09-15,Warrenton,,6,2,W,5.05,0.84,0.95,-1.16,-0.21,False,False
 St. Charles,2026-09-17,Ft. Zumwalt North,,6,0,W,3.85,0.26,2.15,0.26,2.41,False,False
 St. Charles,2026-09-21,North Point,,4,1,W,3.55,2.66,0.45,1.66,2.11,False,False
@@ -3888,11 +3888,11 @@ St. Charles,2026-09-29,Father Tolton,,3,2,W,3.21,2.14,-0.21,0.14,-0.08,False,Fal
 St. Charles,2026-10-02,Veritas Christian Academy,,5,1,W,3.56,0.84,1.44,-0.16,1.28,False,False
 St. Charles,2026-10-06,Pattonville,,0,2,L,3.34,2.12,-3.34,0.12,-3.22,False,False
 St. Charles,2026-10-08,Lutheran St. Charles,,,,,3.77,0.82,,,,False,False
-St. Charles,2026-10-13,Clayton,,,,,2.06,2.72,,,,False,False
+St. Charles,2026-10-13,Clayton,,,,,2.05,2.71,,,,False,False
 St. Charles,2026-10-19,Duchesne,,,,,5.56,-0.31,,,,False,False
 St. Charles,2026-10-20,Parkway North,,,,,5.67,-0.75,,,,False,False
 St. Charles,2026-10-22,Wright City,,,,,6.55,-1.92,,,,False,False
-St. Charles,2026-10-28,Washington,,,,,4.7,0.52,,,,False,False
+St. Charles,2026-10-28,Washington,,,,,4.71,0.52,,,,False,False
 St. Charles West,2026-08-28,Hancock,,2,1,W,1.85,0.51,0.15,-0.49,-0.34,False,False
 St. Charles West,2026-09-01,Warrenton,,1,2,L,1.09,2.87,-0.09,0.87,0.78,False,False
 St. Charles West,2026-09-03,Orchard Farm,,0,6,L,-0.76,3.06,0.76,-2.94,-2.18,False,False
@@ -3915,24 +3915,24 @@ St. Charles West,2026-10-20,Union,,,,,1.14,1.4,,,,False,False
 St. Charles West,2026-10-22,Roosevelt,,,,,2.45,-0.28,,,,False,False
 St. Charles West,2026-10-27,Parkway North,,,,,1.71,1.29,,,,False,False
 St. Charles West,2026-10-29,Collegiate School of Med-Bio Science with McKinley Classical Leadership,,,,,1.82,1.25,,,,False,False
-St. Dominic,2026-09-01,Vianney,,1,0,W,1.94,0.56,-0.94,0.56,-0.37,False,False
-St. Dominic,2026-09-09,Lindbergh,,4,3,W,2.5,0.65,1.5,-2.35,-0.86,False,False
+St. Dominic,2026-09-01,Vianney,,1,0,W,1.93,0.56,-0.93,0.56,-0.37,False,False
+St. Dominic,2026-09-09,Lindbergh,,4,3,W,2.49,0.64,1.51,-2.36,-0.85,False,False
 St. Dominic,2026-09-10,Priory,,1,2,L,2.46,0.1,-1.46,-1.9,-3.36,False,False
-St. Dominic,2026-09-12,Marquette,,1,0,W,1.82,1.48,-0.82,1.48,0.67,False,False
+St. Dominic,2026-09-12,Marquette,,1,0,W,1.84,1.5,-0.84,1.5,0.66,False,False
 St. Dominic,2026-09-15,SLUH,,3,1,W,1.32,1.78,1.68,0.78,2.46,False,False
 St. Dominic,2026-09-17,St. Francis Borgia,,7,0,W,6.19,-2.24,0.81,-2.24,-1.43,False,False
 St. Dominic,2026-09-21,"Triad(Triad, IL)",,0,1,L,,,,,,False,False
 St. Dominic,2026-09-26,Francis Howell Central,,0,0,T,1.84,1.46,-1.84,1.46,-0.38,False,False
 St. Dominic,2026-09-29,De Smet Jesuit,,3,0,W,2.41,0.4,0.59,0.4,0.99,False,False
 St. Dominic,2026-10-01,Westminster Christian Academy,,3,2,W,3.92,-0.45,-0.92,-2.45,-3.37,False,False
-St. Dominic,2026-10-03,Ladue Horton Watkins,,3,1,W,2.44,1.2,0.56,0.2,0.75,False,False
+St. Dominic,2026-10-03,Ladue Horton Watkins,,3,1,W,2.44,1.19,0.56,0.19,0.75,False,False
 St. Dominic,2026-10-06,Christian Brothers College,,3,2,W,2.04,1.3,0.96,-0.7,0.26,False,False
-St. Dominic,2026-10-10,Vianney,,,,,1.94,0.56,,,,False,False
-St. Dominic,2026-10-13,Francis Howell,,,,,2.77,0.76,,,,False,False
+St. Dominic,2026-10-10,Vianney,,,,,1.93,0.56,,,,False,False
+St. Dominic,2026-10-13,Francis Howell,,,,,2.77,0.75,,,,False,False
 St. Dominic,2026-10-15,John Burroughs,,,,,2.58,1.05,,,,False,False
-St. Dominic,2026-10-19,Kirkwood,,,,,1.53,0.62,,,,False,False
-St. Dominic,2026-10-22,Ft. Zumwalt South,,,,,2.89,0.69,,,,False,False
-St. Dominic,2026-10-24,Timberland,,,,,2.75,-0.37,,,,False,False
+St. Dominic,2026-10-19,Kirkwood,,,,,1.52,0.62,,,,False,False
+St. Dominic,2026-10-22,Ft. Zumwalt South,,,,,2.88,0.69,,,,False,False
+St. Dominic,2026-10-24,Timberland,,,,,2.74,-0.37,,,,False,False
 St. Dominic,2026-10-26,Chaminade College Prep,,,,,1.42,1.62,,,,False,False
 St. Francis Borgia,2026-08-27,Lafayette (Wildwood),,0,4,L,-0.51,6.51,0.51,2.51,3.03,False,False
 St. Francis Borgia,2026-08-31,St. Louis United,,2,4,L,,,,,,False,False
@@ -3941,13 +3941,13 @@ St. Francis Borgia,2026-09-15,Union,,2,3,L,1.82,2.05,0.18,-0.95,-0.77,False,Fals
 St. Francis Borgia,2026-09-17,St. Dominic,,0,7,L,-2.24,6.19,2.24,-0.81,1.43,False,False
 St. Francis Borgia,2026-09-21,St. Pius X (Festus),,0,1,L,0.89,2.96,-0.89,1.96,1.07,False,False
 St. Francis Borgia,2026-09-24,Father Tolton,,0,5,L,-0.06,4.82,0.06,-0.18,-0.11,False,False
-St. Francis Borgia,2026-09-29,North Point,,1,6,L,0.28,5.34,0.72,-0.66,0.07,False,False
+St. Francis Borgia,2026-09-29,North Point,,1,6,L,0.28,5.35,0.72,-0.65,0.07,False,False
 St. Francis Borgia,2026-10-01,Gateway Legacy Sr. H.,,2,8,L,,,,,,False,False
 St. Francis Borgia,2026-10-03,Helias Catholic,,0,1,L,-1.25,4.79,1.25,3.79,5.04,False,False
 St. Francis Borgia,2026-10-06,Washington,,1,6,L,1.43,3.21,-0.43,-2.79,-3.22,False,False
 St. Francis Borgia,2026-10-08,Pacific,,,,,1.87,1.49,,,,False,False
 St. Francis Borgia,2026-10-12,Seckman,,,,,-0.46,3.78,,,,False,False
-St. Francis Borgia,2026-10-19,Eureka,,,,,-0.98,6.04,,,,False,False
+St. Francis Borgia,2026-10-19,Eureka,,,,,-0.95,6.07,,,,False,False
 St. Francis Borgia,2026-10-22,Rolla,,,,,1.08,2.59,,,,False,False
 St. Francis Borgia,2026-10-26,Bishop DuBourg,,,,,3.18,1.95,,,,False,False
 St. Francis Borgia,2026-10-28,Lutheran St. Charles,,,,,0.49,3.51,,,,False,False
@@ -3971,7 +3971,7 @@ St. Louis United,2026-10-27,Brentwood,,,,,,,,,,False,False
 St. Louis United,2026-10-29,Bishop DuBourg,,,,,,,,,,False,False
 St. Mary's South Side,2026-08-27,Saxony Lutheran with St. Vincent,,2,4,L,2.81,3.53,-0.81,-0.47,-1.29,False,False
 St. Mary's South Side,2026-08-29,Helias Catholic,,2,3,L,0.91,3.49,1.09,0.49,1.58,False,False
-St. Mary's South Side,2026-09-01,SLUH,,0,7,L,-0.23,5.2,0.23,-1.8,-1.57,False,False
+St. Mary's South Side,2026-09-01,SLUH,,0,7,L,-0.23,5.19,0.23,-1.81,-1.57,False,False
 St. Mary's South Side,2026-09-03,Clayton,,1,7,L,0.94,4.1,0.06,-2.9,-2.84,False,False
 St. Mary's South Side,2026-09-05,De Smet Jesuit,,1,4,L,0.86,3.81,0.14,-0.19,-0.04,False,False
 St. Mary's South Side,2026-09-08,St. Pius X (Festus),,1,0,W,3.05,1.66,-2.05,1.66,-0.39,False,False
@@ -4033,12 +4033,12 @@ St. Pius X (Festus),2026-08-28,Bishop DuBourg,,4,3,W,3.66,0.36,0.34,-2.64,-2.3,F
 St. Pius X (Festus),2026-09-01,Affton,,3,2,W,2.63,2.87,0.37,0.87,1.23,False,False
 St. Pius X (Festus),2026-09-03,Fox,,,,,2.46,1.22,,,,False,False
 St. Pius X (Festus),2026-09-08,St. Mary's South Side,,0,1,L,1.66,3.05,-1.66,2.05,0.39,False,False
-St. Pius X (Festus),2026-09-10,Saxony Lutheran with St. Vincent,,3,2,W,1.14,3.24,1.86,1.24,3.1,False,False
+St. Pius X (Festus),2026-09-10,Saxony Lutheran with St. Vincent,,3,2,W,1.13,3.24,1.87,1.24,3.1,False,False
 St. Pius X (Festus),2026-09-14,Brentwood,,1,2,L,2.56,0.75,-1.56,-1.25,-2.81,False,False
 St. Pius X (Festus),2026-09-15,Roosevelt,,4,1,W,3.62,-1.21,0.38,-2.21,-1.83,False,False
 St. Pius X (Festus),2026-09-21,St. Francis Borgia,,1,0,W,2.96,0.89,-1.96,0.89,-1.07,False,False
 St. Pius X (Festus),2026-09-24,Union,,2,1,W,2.3,0.46,-0.3,-0.54,-0.85,False,False
-St. Pius X (Festus),2026-09-28,Notre Dame (Cape Girardeau),,0,8,L,-0.92,4.25,0.92,-3.75,-2.83,False,False
+St. Pius X (Festus),2026-09-28,Notre Dame (Cape Girardeau),,0,8,L,-0.91,4.25,0.91,-3.75,-2.83,False,False
 St. Pius X (Festus),2026-10-02,Orchard Farm,,3,2,W,0.41,2.12,2.59,0.12,2.71,False,False
 St. Pius X (Festus),2026-10-06,"Gibault Catholic(Waterloo , IL)",,1,0,W,,,,,,False,False
 St. Pius X (Festus),2026-10-12,Poplar Bluff,,,,,2.55,2.76,,,,False,False
@@ -4176,7 +4176,7 @@ Thomas Jefferson Independent Day,2026-10-15,"Fort Scott(Fort Scott, KS)",,,,,,,,
 Thomas Jefferson Independent Day,2026-10-17,Paseo Academy,,,,,4.44,-0.59,,,,False,False
 Thomas Jefferson Independent Day,2026-10-20,Fair Grove,,,,,2.26,3.61,,,,False,False
 Thomas Jefferson Independent Day,2026-10-27,McDonald County,,,,,1.98,2.35,,,,False,False
-Timberland,2026-08-27,Eureka,,1,0,W,0.9,2.6,0.1,2.6,2.7,False,False
+Timberland,2026-08-27,Eureka,,1,0,W,0.92,2.62,0.08,2.62,2.71,False,False
 Timberland,2026-09-01,Ft. Zumwalt North,,4,0,W,2.44,-0.5,1.56,-0.5,1.05,False,False
 Timberland,2026-09-03,North Point,,2,1,W,2.15,1.9,-0.15,0.9,0.75,False,False
 Timberland,2026-09-08,Washington,,2,0,W,3.3,-0.24,-1.3,-0.24,-1.54,False,False
@@ -4186,16 +4186,16 @@ Timberland,2026-09-17,Francis Howell,,1,2,L,0.93,2.03,0.07,0.03,0.1,False,False
 Timberland,2026-09-22,Ft. Zumwalt West,,0,3,L,0.45,1.48,-0.45,-1.52,-1.97,False,False
 Timberland,2026-09-24,Francis Howell North,,1,2,L,1.33,1.49,-0.33,-0.51,-0.84,False,False
 Timberland,2026-09-29,"O'Fallon(O'Fallon, IL)",,5,0,W,,,,,,False,False
-Timberland,2026-10-01,Chaminade College Prep,,0,3,L,-0.42,2.9,0.42,-0.1,0.31,False,False
+Timberland,2026-10-01,Chaminade College Prep,,0,3,L,-0.42,2.89,0.42,-0.11,0.31,False,False
 Timberland,2026-10-03,"Collinsville(Collinsville, IL)",,5,1,W,,,,,,False,False
 Timberland,2026-10-05,Liberty (Wentzville),,2,1,W,2.05,1.51,-0.05,0.51,0.46,False,False
 Timberland,2026-10-06,St. Charles West,,8,0,W,3.7,-1.65,4.3,-1.65,2.65,False,False
-Timberland,2026-10-13,Ladue Horton Watkins,,,,,0.6,2.47,,,,False,False
+Timberland,2026-10-13,Ladue Horton Watkins,,,,,0.6,2.46,,,,False,False
 Timberland,2026-10-19,Lafayette (Wildwood),,,,,1.36,3.07,,,,False,False
-Timberland,2026-10-20,Parkway West,,,,,-0.02,1.83,,,,False,False
+Timberland,2026-10-20,Parkway West,,,,,-0.03,1.82,,,,False,False
 Timberland,2026-10-22,Principia,,,,,1.53,0.4,,,,False,False
-Timberland,2026-10-24,St. Dominic,,,,,-0.37,2.75,,,,False,False
-Timberland,2026-10-26,Kirkwood,,,,,-0.31,1.89,,,,False,False
+Timberland,2026-10-24,St. Dominic,,,,,-0.37,2.74,,,,False,False
+Timberland,2026-10-26,Kirkwood,,,,,-0.32,1.89,,,,False,False
 "Triad HS(Triad , IL)",2026-10-12,SLUH,,,,,,,,,,False,False
 "Triad(Triad, IL)",2026-09-21,St. Dominic,,1,0,W,,,,,,False,False
 "Triad(Troy, IL)",2026-09-14,De Smet Jesuit,,0,0,T,,,,,,False,False
@@ -4218,7 +4218,7 @@ Troy Buchanan,2026-08-29,St. Louis United,,4,1,W,,,,,,False,False
 Troy Buchanan,2026-09-01,Pattonville,,2,1,W,1.72,1.42,0.28,0.42,0.7,False,False
 Troy Buchanan,2026-09-03,Ft. Zumwalt West,,0,1,L,0.24,1.54,-0.24,0.54,0.3,False,False
 Troy Buchanan,2026-09-08,Francis Howell North,,1,2,L,1.12,1.55,-0.12,-0.45,-0.56,False,False
-Troy Buchanan,2026-09-10,Francis Howell,,0,1,L,0.71,2.09,-0.71,1.09,0.38,False,False
+Troy Buchanan,2026-09-10,Francis Howell,,0,1,L,0.71,2.09,-0.71,1.09,0.37,False,False
 Troy Buchanan,2026-09-15,Liberty (Wentzville),,3,0,W,1.83,1.57,1.17,1.57,2.74,False,False
 Troy Buchanan,2026-09-18,Francis Howell Central,,0,4,L,-0.21,2.8,0.21,-1.2,-0.99,False,False
 Troy Buchanan,2026-09-21,Veritas Christian Academy,,2,1,W,1.94,0.15,0.06,-0.85,-0.8,False,False
@@ -4285,7 +4285,7 @@ University City,2026-09-17,Normandy Collaborative,,8,0,W,,,,,,False,False
 University City,2026-09-21,Hazelwood Central,,2,4,L,,,,,,False,False
 University City,2026-09-23,STEAM Academy,,4,1,W,3.48,1.41,0.52,0.41,0.93,False,False
 University City,2026-09-24,McCluer,,3,0,W,,,,,,False,False
-University City,2026-09-28,Whitfield,,1,3,L,1.0,4.05,-0.0,1.05,1.05,False,False
+University City,2026-09-28,Whitfield,,1,3,L,1.0,4.06,-0.0,1.06,1.05,False,False
 University City,2026-10-01,Jennings,,8,0,W,8.57,-3.39,-0.57,-3.39,-3.95,False,False
 University City,2026-10-05,Hazelwood West,,2,5,L,,,,,,False,False
 University City,2026-10-07,McCluer North,,8,0,W,6.79,-2.07,1.21,-2.07,-0.86,False,False
@@ -4339,15 +4339,15 @@ Van Horn,2026-10-08,East (Kansas City),,,,,5.3,0.71,,,,False,False
 Van Horn,2026-10-13,Summit Christian Academy,,,,,4.3,0.02,,,,False,False
 Van Horn,2026-10-15,St. Michael the Archangel,,,,,4.31,1.09,,,,False,False
 Van Horn,2026-10-20,Lincoln College Prep,,,,,4.31,2.13,,,,False,False
-Van Horn,2026-10-22,Pembroke Hill,,,,,2.99,2.57,,,,False,False
+Van Horn,2026-10-22,Pembroke Hill,,,,,2.99,2.56,,,,False,False
 Van Horn,2026-10-27,Raytown,,,,,6.3,0.6,,,,False,False
 Veritas Christian Academy,2026-08-29,Principia,,2,1,W,0.71,1.65,1.29,0.65,1.94,False,False
 Veritas Christian Academy,2026-08-31,University City,,7,0,W,4.28,-0.55,2.72,-0.55,2.17,False,False
 Veritas Christian Academy,2026-09-03,Valley Park,,1,0,W,2.17,-0.48,-1.17,-0.48,-1.65,False,False
-Veritas Christian Academy,2026-09-05,Priory,,0,2,L,-0.2,2.63,0.2,0.63,0.82,False,False
+Veritas Christian Academy,2026-09-05,Priory,,0,2,L,-0.2,2.62,0.2,0.62,0.82,False,False
 Veritas Christian Academy,2026-09-08,Union,,1,0,W,2.88,-0.14,-1.88,-0.14,-2.02,False,False
 Veritas Christian Academy,2026-09-10,Lutheran South,,0,2,L,2.03,2.02,-2.03,0.02,-2.01,False,False
-Veritas Christian Academy,2026-09-17,Holt,,2,0,W,3.44,-0.09,-1.44,-0.09,-1.53,False,False
+Veritas Christian Academy,2026-09-17,Holt,,2,0,W,3.44,-0.1,-1.44,-0.1,-1.53,False,False
 Veritas Christian Academy,2026-09-21,Troy Buchanan,,1,2,L,0.15,1.94,0.85,-0.06,0.8,False,False
 Veritas Christian Academy,2026-09-22,St. Charles West,,5,0,W,2.88,-0.4,2.12,-0.4,1.72,False,False
 Veritas Christian Academy,2026-09-25,North Point,,1,2,L,1.33,3.16,-0.33,1.16,0.82,False,False
@@ -4365,26 +4365,26 @@ Veritas Christian Academy,2026-10-22,Washington,,,,,2.48,1.02,,,,False,False
 Veritas Christian Academy,2026-10-26,Duchesne,,,,,3.34,0.19,,,,False,False
 Veritas Christian Academy,2026-10-28,Whitfield,,,,,2.89,1.11,,,,False,False
 Vianney,2026-08-28,Mehlville,,1,0,W,2.37,-0.25,-1.37,-0.25,-1.62,False,False
-Vianney,2026-09-01,St. Dominic,,0,1,L,0.56,1.94,-0.56,0.94,0.37,False,False
+Vianney,2026-09-01,St. Dominic,,0,1,L,0.56,1.93,-0.56,0.93,0.37,False,False
 Vianney,2026-09-03,Webster Groves,,,,,2.15,0.8,,,,False,False
 Vianney,2026-09-05,Glendale,,2,2,T,1.53,1.12,0.47,-0.88,-0.41,False,False
 Vianney,2026-09-08,Kirkwood,,2,1,W,0.62,1.08,1.38,0.08,1.46,False,False
-Vianney,2026-09-10,Oakville,,1,0,W,0.42,1.62,0.58,1.62,2.2,False,False
+Vianney,2026-09-10,Oakville,,1,0,W,0.41,1.61,0.59,1.61,2.2,False,False
 Vianney,2026-09-15,Lindbergh,,0,2,L,1.59,1.11,-1.59,-0.89,-2.48,False,False
-Vianney,2026-09-17,SLUH,,0,3,L,0.41,2.25,-0.41,-0.75,-1.16,False,False
+Vianney,2026-09-17,SLUH,,0,3,L,0.41,2.24,-0.41,-0.76,-1.16,False,False
 Vianney,2026-09-19,St. Mary's South Side,,7,2,W,3.98,0.38,3.02,-1.62,1.41,False,False
 Vianney,2026-09-22,Clayton,,2,1,W,1.58,1.15,0.42,0.15,0.57,False,False
 Vianney,2026-09-24,Chaminade College Prep,,0,3,L,0.51,2.09,-0.51,-0.91,-1.43,False,False
 Vianney,2026-09-26,Ladue Horton Watkins,,0,1,L,1.53,1.66,-1.53,0.66,-0.87,False,False
 Vianney,2026-09-29,Rockwood Summit,,3,1,W,2.09,1.25,0.91,0.25,1.16,False,False
 Vianney,2026-10-01,Webster Groves,,4,1,W,2.15,0.8,1.85,-0.2,1.64,False,False
-Vianney,2026-10-03,Francis Howell Central,,0,1,L,0.93,1.93,-0.93,0.93,-0.01,False,False
+Vianney,2026-10-03,Francis Howell Central,,0,1,L,0.94,1.93,-0.94,0.93,-0.01,False,False
 Vianney,2026-10-06,De Smet Jesuit,,1,1,T,1.5,0.86,-0.5,-0.14,-0.64,False,False
-Vianney,2026-10-08,John Burroughs,,,,,1.67,1.51,,,,False,False
-Vianney,2026-10-10,St. Dominic,,,,,0.56,1.94,,,,False,False
-Vianney,2026-10-15,Christian Brothers College,,,,,1.13,1.77,,,,False,False
-Vianney,2026-10-19,Northwest (Cedar Hill),,,,,2.36,1.37,,,,False,False
-Vianney,2026-10-27,Marquette,,,,,0.9,1.95,,,,False,False
+Vianney,2026-10-08,John Burroughs,,,,,1.67,1.52,,,,False,False
+Vianney,2026-10-10,St. Dominic,,,,,0.56,1.93,,,,False,False
+Vianney,2026-10-15,Christian Brothers College,,,,,1.14,1.77,,,,False,False
+Vianney,2026-10-19,Northwest (Cedar Hill),,,,,2.35,1.37,,,,False,False
+Vianney,2026-10-27,Marquette,,,,,0.93,1.97,,,,False,False
 "Vienna, IL(Vienna, IL)",2026-10-05,Kennett,,,,,,,,,,False,False
 "WATERLOO HIGH SCHOOL(WATERLOO, IL)",2026-09-17,Seckman,,2,1,W,,,,,,False,False
 Warrensburg,2026-09-01,Maryville,,1,5,L,1.56,3.94,-0.56,-1.06,-1.62,False,False
@@ -4428,11 +4428,11 @@ Washington,2026-09-01,Sullivan,,1,3,L,2.98,1.35,-1.98,-1.65,-3.62,False,False
 Washington,2026-09-08,Timberland,,0,2,L,-0.24,3.3,0.24,1.3,1.54,False,False
 Washington,2026-09-10,North Point,,0,5,L,1.01,4.3,-1.01,-0.7,-1.71,False,False
 Washington,2026-09-15,Ft. Zumwalt North,,1,2,L,1.31,1.9,-0.31,-0.1,-0.41,False,False
-Washington,2026-09-17,Ft. Zumwalt South,,0,6,L,-0.1,4.36,0.1,-1.64,-1.55,False,False
+Washington,2026-09-17,Ft. Zumwalt South,,0,6,L,-0.09,4.36,0.09,-1.64,-1.55,False,False
 Washington,2026-09-21,Pacific,,2,0,W,2.61,0.45,-0.61,0.45,-0.16,False,False
 Washington,2026-09-24,Ft. Zumwalt East,,0,2,L,0.52,2.68,-0.52,0.68,0.16,False,False
 Washington,2026-09-29,St. Charles West,,2,1,W,2.56,0.74,-0.56,-0.26,-0.81,False,False
-Washington,2026-10-02,Nixa,,0,6,L,-1.0,4.99,1.0,-1.01,-0.02,False,False
+Washington,2026-10-02,Nixa,,0,6,L,-1.0,4.98,1.0,-1.02,-0.02,False,False
 Washington,2026-10-03,Ozark,,3,2,W,1.1,3.83,1.9,1.83,3.73,False,False
 Washington,2026-10-06,St. Francis Borgia,,6,1,W,3.21,1.43,2.79,0.43,3.22,False,False
 Washington,2026-10-12,Winfield,,,,,3.53,1.14,,,,False,False
@@ -4442,7 +4442,7 @@ Washington,2026-10-19,Holt,,,,,3.12,1.05,,,,False,False
 Washington,2026-10-20,Troy Buchanan,,,,,-0.18,3.09,,,,False,False
 Washington,2026-10-22,Veritas Christian Academy,,,,,1.02,2.48,,,,False,False
 Washington,2026-10-27,Elsberry,,,,,4.42,-1.53,,,,False,False
-Washington,2026-10-28,St. Charles,,,,,0.52,4.7,,,,False,False
+Washington,2026-10-28,St. Charles,,,,,0.52,4.71,,,,False,False
 "Washington(Kansas City, KA)",2026-09-17,Cristo Rey,,7,0,W,,,,,,False,False
 "Washington(Kansas City, KS)",2026-10-08,Northeast (Kansas City),,,,,,,,,,False,False
 "Washington(Kansas City, KS)",2026-10-19,Central (Kansas City),,,,,,,,,,False,False
@@ -4480,29 +4480,29 @@ Webb City,2026-10-01,"Pittsburg(Pittsburg, KS)",,1,2,L,,,,,,False,False
 Webb City,2026-10-06,Nixa,,1,8,L,-2.3,5.29,3.3,-2.71,0.59,False,False
 Webb City,2026-10-08,Ozark,,,,,-0.2,4.13,,,,False,False
 Webb City,2026-10-13,Joplin,,,,,-0.68,2.92,,,,False,False
-Webb City,2026-10-15,Neosho,,,,,0.34,2.56,,,,False,False
+Webb City,2026-10-15,Neosho,,,,,0.35,2.57,,,,False,False
 Webb City,2026-10-20,Carthage,,,,,-0.95,3.66,,,,False,False
 Webb City,2026-10-22,Willard,,,,,1.3,1.79,,,,False,False
 Webb City,2026-10-27,Republic,,,,,-0.47,2.06,,,,False,False
-Webster Groves,2026-08-27,Francis Howell Central,,1,2,L,0.71,3.06,0.29,1.06,1.35,False,False
+Webster Groves,2026-08-27,Francis Howell Central,,1,2,L,0.71,3.05,0.29,1.05,1.35,False,False
 Webster Groves,2026-09-01,Ft. Zumwalt South,,0,1,L,1.75,2.28,-1.75,1.28,-0.47,False,False
 Webster Groves,2026-09-03,Vianney,,,,,0.8,2.15,,,,False,False
 Webster Groves,2026-09-08,SLUH,,0,1,L,0.18,3.37,-0.18,2.37,2.19,False,False
-Webster Groves,2026-09-10,Parkway South,,2,1,W,1.9,1.6,0.1,0.6,0.7,False,False
-Webster Groves,2026-09-14,Chaminade College Prep,,1,3,L,0.28,3.22,0.72,0.22,0.93,False,False
-Webster Groves,2026-09-16,Parkway West,,2,3,L,0.68,2.15,1.32,-0.85,0.47,False,False
-Webster Groves,2026-09-19,Ladue Horton Watkins,,2,5,L,1.31,2.79,0.69,-2.21,-1.52,False,False
+Webster Groves,2026-09-10,Parkway South,,2,1,W,1.9,1.59,0.1,0.59,0.7,False,False
+Webster Groves,2026-09-14,Chaminade College Prep,,1,3,L,0.28,3.21,0.72,0.21,0.93,False,False
+Webster Groves,2026-09-16,Parkway West,,2,3,L,0.67,2.14,1.33,-0.86,0.47,False,False
+Webster Groves,2026-09-19,Ladue Horton Watkins,,2,5,L,1.3,2.78,0.7,-2.22,-1.52,False,False
 Webster Groves,2026-09-23,Parkway Central,,2,0,W,2.15,0.41,-0.15,0.41,0.25,False,False
-Webster Groves,2026-09-25,Rockwood Summit,,1,2,L,1.87,2.38,-0.87,0.38,-0.48,False,False
-Webster Groves,2026-09-30,Eureka,,1,3,L,1.6,2.92,-0.6,-0.08,-0.68,False,False
+Webster Groves,2026-09-25,Rockwood Summit,,1,2,L,1.86,2.38,-0.86,0.38,-0.48,False,False
+Webster Groves,2026-09-30,Eureka,,1,3,L,1.62,2.94,-0.62,-0.06,-0.68,False,False
 Webster Groves,2026-10-01,Vianney,,1,4,L,0.8,2.15,0.2,-1.85,-1.64,False,False
 Webster Groves,2026-10-03,St. Mary's South Side,,5,2,W,3.75,1.51,1.25,-0.49,0.76,False,False
 Webster Groves,2026-10-06,Kirkwood,,,,,0.39,2.21,,,,False,False
-Webster Groves,2026-10-08,Clayton,,,,,1.36,2.28,,,,False,False
+Webster Groves,2026-10-08,Clayton,,,,,1.35,2.27,,,,False,False
 Webster Groves,2026-10-10,Highland,,,,,,,,,,False,False
 Webster Groves,2026-10-12,Priory,,,,,1.32,1.69,,,,False,False
 Webster Groves,2026-10-15,Lafayette (Wildwood),,,,,2.06,3.39,,,,False,False
-Webster Groves,2026-10-21,Mehlville,,,,,2.14,0.88,,,,False,False
+Webster Groves,2026-10-21,Mehlville,,,,,2.14,0.87,,,,False,False
 Webster Groves,2026-10-23,John Burroughs,,,,,1.44,2.64,,,,False,False
 Webster Groves,2026-10-26,Lutheran South,,,,,3.55,1.08,,,,False,False
 West Plains,2026-08-29,New Covenant Academy,,2,1,W,3.06,1.57,-1.06,0.57,-0.49,False,False
@@ -4515,7 +4515,7 @@ West Plains,2026-09-11,Monett,,1,4,L,1.74,3.57,-0.74,-0.43,-1.17,False,False
 West Plains,2026-09-12,Joplin,,0,3,L,1.01,2.93,-1.01,-0.07,-1.09,False,False
 West Plains,2026-09-14,Sullivan,,3,2,W,3.37,1.67,-0.37,-0.33,-0.7,False,False
 West Plains,2026-09-16,Logan-Rogersville,,1,8,L,0.82,4.4,0.18,-3.6,-3.42,False,False
-West Plains,2026-09-26,Capital City,,2,3,L,1.89,3.14,0.11,0.14,0.26,False,False
+West Plains,2026-09-26,Capital City,,2,3,L,1.88,3.14,0.12,0.14,0.26,False,False
 West Plains,2026-09-28,Central (Springfield),,3,2,W,2.05,2.45,0.95,0.45,1.4,False,False
 West Plains,2026-09-30,Bolivar,,3,2,W,2.51,2.22,0.49,0.22,0.7,False,False
 West Plains,2026-10-05,Rolla,,3,0,W,2.21,1.86,0.79,1.86,2.65,False,False
@@ -4530,15 +4530,15 @@ Westminster Christian Academy,2026-08-28,Lutheran South,,2,3,L,2.76,1.94,-0.76,-
 Westminster Christian Academy,2026-09-01,Principia,,1,2,L,1.45,1.57,-0.45,-0.43,-0.88,False,False
 Westminster Christian Academy,2026-09-03,Whitfield,,4,1,W,3.63,1.03,0.37,0.03,0.4,False,False
 Westminster Christian Academy,2026-09-08,Pattonville,,1,3,L,1.85,2.53,-0.85,-0.47,-1.32,False,False
-Westminster Christian Academy,2026-09-15,Priory,,2,3,L,0.54,2.55,1.46,-0.45,1.01,False,False
+Westminster Christian Academy,2026-09-15,Priory,,2,3,L,0.54,2.54,1.46,-0.46,1.01,False,False
 Westminster Christian Academy,2026-09-17,Lutheran South,,6,1,W,2.76,1.94,3.24,0.94,4.18,False,False
 Westminster Christian Academy,2026-09-22,Orchard Farm,,1,0,W,1.72,1.44,-0.72,1.44,0.72,False,False
 Westminster Christian Academy,2026-09-25,Lutheran North,,8,0,W,7.36,-1.04,0.64,-1.04,-0.4,False,False
 Westminster Christian Academy,2026-09-29,Principia,,0,2,L,1.45,1.57,-1.45,-0.43,-1.88,False,False
 Westminster Christian Academy,2026-10-01,St. Dominic,,2,3,L,-0.45,3.92,2.45,0.92,3.37,False,False
 Westminster Christian Academy,2026-10-02,Lutheran St. Charles,,1,2,L,2.28,1.24,-1.28,-0.76,-2.04,False,False
-Westminster Christian Academy,2026-10-06,John Burroughs,,1,2,L,0.65,3.5,0.35,1.5,1.84,False,False
-Westminster Christian Academy,2026-10-08,MICDS,,,,,1.75,1.91,,,,False,False
+Westminster Christian Academy,2026-10-06,John Burroughs,,1,2,L,0.66,3.5,0.34,1.5,1.84,False,False
+Westminster Christian Academy,2026-10-08,MICDS,,,,,1.74,1.9,,,,False,False
 Westminster Christian Academy,2026-10-09,Parkway Central,,,,,1.37,1.26,,,,False,False
 Westminster Christian Academy,2026-10-13,Lafayette (Wildwood),,,,,1.28,4.24,,,,False,False
 Westminster Christian Academy,2026-10-15,Ft. Zumwalt East,,,,,1.58,1.46,,,,False,False
@@ -4558,7 +4558,7 @@ Whitfield,2026-09-17,Lutheran St. Charles,,1,0,W,1.32,2.87,-0.32,2.87,2.55,False
 Whitfield,2026-09-22,Duchesne,,7,3,W,3.11,1.74,3.89,-1.26,2.63,False,False
 Whitfield,2026-09-24,Priory,,1,2,L,-0.43,4.18,1.43,2.18,3.61,False,False
 Whitfield,2026-09-25,Parkway North,,0,1,L,3.22,1.3,-3.22,0.3,-2.92,False,False
-Whitfield,2026-09-28,University City,,3,1,W,4.05,1.0,-1.05,0.0,-1.05,False,False
+Whitfield,2026-09-28,University City,,3,1,W,4.06,1.0,-1.06,0.0,-1.05,False,False
 Whitfield,2026-09-29,John Burroughs,,1,8,L,-0.31,5.13,1.31,-2.87,-1.56,False,False
 Whitfield,2026-10-08,Principia,,,,,0.48,3.21,,,,False,False
 Whitfield,2026-10-09,Lutheran North,,,,,6.39,0.59,,,,False,False
@@ -4571,7 +4571,7 @@ Whitfield,2026-10-28,Veritas Christian Academy,,,,,1.11,2.89,,,,False,False
 Whitfield,2026-10-29,Bayless,,,,,1.4,3.07,,,,False,False
 "Wichita SE(Wichita, KS)",2026-10-10,SLUH,,,,,,,,,,False,False
 Willard,2026-08-28,Logan-Rogersville,,0,4,L,-0.26,4.52,0.26,0.52,0.78,False,False
-Willard,2026-09-01,Kickapoo,,3,2,W,1.23,2.8,1.77,0.8,2.56,False,False
+Willard,2026-09-01,Kickapoo,,3,2,W,1.23,2.79,1.77,0.79,2.56,False,False
 Willard,2026-09-03,Greenwood,,2,1,W,1.39,1.93,0.61,0.93,1.54,False,False
 Willard,2026-09-04,New Covenant Academy,,2,1,W,1.99,1.69,0.01,0.69,0.7,False,False
 Willard,2026-09-08,Marshfield,,1,0,W,2.66,0.92,-1.66,0.92,-0.73,False,False

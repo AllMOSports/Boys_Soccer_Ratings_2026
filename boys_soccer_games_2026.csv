@@ -1273,6 +1273,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-06,Excelsior Springs,3,Lone Jack,1,False,False
 2026-10-06,Windsor (Imperial),1,Lutheran South,8,False,False
 2026-10-06,St. Mary's South Side,3,Lutheran St. Charles,1,False,False
+2026-10-06,Eureka,2,Marquette,3,False,False
 2026-10-06,St. Paul Lutheran (Concordia),1,Marshall,0,False,False
 2026-10-06,Hillcrest,4,Marshfield,3,False,False
 2026-10-06,Roosevelt,0,Metro,6,False,False
@@ -1311,7 +1312,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-06,Branson,1,West Plains,0,False,False
 2026-10-06,Cassville,,Aurora,,False,False
 2026-10-06,Valley Park,,Hancock,,False,False
-2026-10-06,Eureka,,Marquette,,False,False
 2026-10-06,Poplar Bluff,,Notre Dame (Cape Girardeau),,False,False
 2026-10-06,Neosho,,Waynesville,,False,False
 2026-10-06,Kirkwood,,Webster Groves,,False,False

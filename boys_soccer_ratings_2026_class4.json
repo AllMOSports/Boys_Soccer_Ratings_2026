@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 08, 2026 at 02:27 PM",
+  "last_updated": "October 08, 2026 at 02:32 PM",
   "league_average": 2.26,
   "classification": 4,
   "teams": [
@@ -8,7 +8,7 @@
       "school": "Rockhurst",
       "classification": 4,
       "district": 7,
-      "ovr_rating": 8.16,
+      "ovr_rating": 8.15,
       "off_rating": 4.63,
       "off_rank": 1,
       "def_rating": 3.52,
@@ -20,8 +20,8 @@
       "classification": 4,
       "district": 2,
       "ovr_rating": 6.64,
-      "off_rating": 3.01,
-      "off_rank": 3,
+      "off_rating": 3.0,
+      "off_rank": 4,
       "def_rating": 3.64,
       "def_rank": 1
     },
@@ -52,8 +52,8 @@
       "school": "Oakville",
       "classification": 4,
       "district": 1,
-      "ovr_rating": 6.01,
-      "off_rating": 2.38,
+      "ovr_rating": 6.0,
+      "off_rating": 2.37,
       "off_rank": 14,
       "def_rating": 3.63,
       "def_rank": 2
@@ -63,10 +63,10 @@
       "school": "Marquette",
       "classification": 4,
       "district": 2,
-      "ovr_rating": 5.85,
-      "off_rating": 2.71,
+      "ovr_rating": 5.84,
+      "off_rating": 2.73,
       "off_rank": 7,
-      "def_rating": 3.14,
+      "def_rating": 3.11,
       "def_rank": 6
     },
     {
@@ -86,8 +86,8 @@
       "classification": 4,
       "district": 7,
       "ovr_rating": 5.51,
-      "off_rating": 3.01,
-      "off_rank": 4,
+      "off_rating": 3.0,
+      "off_rank": 3,
       "def_rating": 2.51,
       "def_rank": 18
     },
@@ -107,7 +107,7 @@
       "school": "Christian Brothers College",
       "classification": 4,
       "district": 3,
-      "ovr_rating": 5.44,
+      "ovr_rating": 5.43,
       "off_rating": 2.53,
       "off_rank": 11,
       "def_rating": 2.91,
@@ -130,7 +130,7 @@
       "classification": 4,
       "district": 6,
       "ovr_rating": 4.95,
-      "off_rating": 1.91,
+      "off_rating": 1.9,
       "off_rank": 22,
       "def_rating": 3.04,
       "def_rank": 9
@@ -151,8 +151,8 @@
       "school": "Vianney",
       "classification": 4,
       "district": 2,
-      "ovr_rating": 4.81,
-      "off_rating": 1.79,
+      "ovr_rating": 4.8,
+      "off_rating": 1.78,
       "off_rank": 27,
       "def_rating": 3.02,
       "def_rank": 10
@@ -162,10 +162,10 @@
       "school": "Lafayette (Wildwood)",
       "classification": 4,
       "district": 2,
-      "ovr_rating": 4.78,
+      "ovr_rating": 4.77,
       "off_rating": 3.02,
       "off_rank": 2,
-      "def_rating": 1.76,
+      "def_rating": 1.75,
       "def_rank": 33
     },
     {
@@ -174,10 +174,10 @@
       "classification": 4,
       "district": 2,
       "ovr_rating": 4.77,
-      "off_rating": 2.55,
+      "off_rating": 2.57,
       "off_rank": 9,
-      "def_rating": 2.22,
-      "def_rank": 21
+      "def_rating": 2.2,
+      "def_rank": 22
     },
     {
       "ovr_rank": 17,
@@ -217,8 +217,8 @@
       "school": "Glendale",
       "classification": 4,
       "district": 5,
-      "ovr_rating": 4.4,
-      "off_rating": 1.88,
+      "ovr_rating": 4.39,
+      "off_rating": 1.87,
       "off_rank": 23,
       "def_rating": 2.52,
       "def_rank": 16
@@ -228,7 +228,7 @@
       "school": "Rock Bridge",
       "classification": 4,
       "district": 4,
-      "ovr_rating": 4.39,
+      "ovr_rating": 4.38,
       "off_rating": 2.35,
       "off_rank": 15,
       "def_rating": 2.03,
@@ -240,32 +240,32 @@
       "classification": 4,
       "district": 1,
       "ovr_rating": 4.32,
-      "off_rating": 1.87,
+      "off_rating": 1.86,
       "off_rank": 24,
       "def_rating": 2.46,
       "def_rank": 19
     },
     {
       "ovr_rank": 23,
-      "school": "Francis Howell",
-      "classification": 4,
-      "district": 3,
-      "ovr_rating": 4.17,
-      "off_rating": 1.98,
-      "off_rank": 19,
-      "def_rating": 2.19,
-      "def_rank": 23
-    },
-    {
-      "ovr_rank": 24,
       "school": "De Smet Jesuit",
       "classification": 4,
       "district": 3,
-      "ovr_rating": 4.17,
+      "ovr_rating": 4.16,
       "off_rating": 1.62,
       "off_rank": 28,
       "def_rating": 2.55,
       "def_rank": 15
+    },
+    {
+      "ovr_rank": 24,
+      "school": "Francis Howell",
+      "classification": 4,
+      "district": 3,
+      "ovr_rating": 4.16,
+      "off_rating": 1.98,
+      "off_rank": 19,
+      "def_rating": 2.19,
+      "def_rank": 23
     },
     {
       "ovr_rank": 25,
@@ -294,8 +294,8 @@
       "school": "Northwest (Cedar Hill)",
       "classification": 4,
       "district": 1,
-      "ovr_rating": 3.82,
-      "off_rating": 2.13,
+      "ovr_rating": 3.81,
+      "off_rating": 2.12,
       "off_rank": 17,
       "def_rating": 1.69,
       "def_rank": 36
@@ -316,10 +316,10 @@
       "school": "Hickman",
       "classification": 4,
       "district": 4,
-      "ovr_rating": 3.25,
+      "ovr_rating": 3.24,
       "off_rating": 1.94,
       "off_rank": 20,
-      "def_rating": 1.31,
+      "def_rating": 1.3,
       "def_rank": 40
     },
     {
@@ -338,7 +338,7 @@
       "school": "Parkway South",
       "classification": 4,
       "district": 2,
-      "ovr_rating": 3.15,
+      "ovr_rating": 3.14,
       "off_rating": 1.23,
       "off_rank": 35,
       "def_rating": 1.92,
@@ -349,11 +349,11 @@
       "school": "Timberland",
       "classification": 4,
       "district": 4,
-      "ovr_rating": 3.07,
+      "ovr_rating": 3.06,
       "off_rating": 0.85,
-      "off_rank": 37,
+      "off_rank": 38,
       "def_rating": 2.21,
-      "def_rank": 22
+      "def_rank": 21
     },
     {
       "ovr_rank": 33,
@@ -374,7 +374,7 @@
       "ovr_rating": 2.82,
       "off_rating": 1.85,
       "off_rank": 25,
-      "def_rating": 0.97,
+      "def_rating": 0.96,
       "def_rank": 45
     },
     {
@@ -407,7 +407,7 @@
       "ovr_rating": 2.53,
       "off_rating": 1.46,
       "off_rank": 30,
-      "def_rating": 1.07,
+      "def_rating": 1.06,
       "def_rank": 43
     },
     {
@@ -426,10 +426,10 @@
       "school": "Ozark",
       "classification": 4,
       "district": 5,
-      "ovr_rating": 2.26,
+      "ovr_rating": 2.25,
       "off_rating": 1.38,
       "off_rank": 33,
-      "def_rating": 0.88,
+      "def_rating": 0.87,
       "def_rank": 47
     },
     {
@@ -460,7 +460,7 @@
       "classification": 4,
       "district": 8,
       "ovr_rating": 2.08,
-      "off_rating": 0.34,
+      "off_rating": 0.33,
       "off_rank": 47,
       "def_rating": 1.75,
       "def_rank": 34
@@ -503,7 +503,7 @@
       "school": "Branson",
       "classification": 4,
       "district": 5,
-      "ovr_rating": 1.35,
+      "ovr_rating": 1.34,
       "off_rating": 0.4,
       "off_rank": 46,
       "def_rating": 0.94,
@@ -525,7 +525,7 @@
       "school": "Smith-Cotton",
       "classification": 4,
       "district": 6,
-      "ovr_rating": 1.14,
+      "ovr_rating": 1.13,
       "off_rating": 0.81,
       "off_rank": 39,
       "def_rating": 0.32,
@@ -536,7 +536,7 @@
       "school": "North Kansas City",
       "classification": 4,
       "district": 8,
-      "ovr_rating": 1.08,
+      "ovr_rating": 1.07,
       "off_rating": 0.52,
       "off_rank": 44,
       "def_rating": 0.55,
@@ -547,7 +547,7 @@
       "school": "Battle with Columbia Independent",
       "classification": 4,
       "district": 4,
-      "ovr_rating": 0.99,
+      "ovr_rating": 0.98,
       "off_rating": 0.14,
       "off_rank": 53,
       "def_rating": 0.84,
@@ -558,7 +558,7 @@
       "school": "Central (St. Joseph)",
       "classification": 4,
       "district": 8,
-      "ovr_rating": 0.92,
+      "ovr_rating": 0.91,
       "off_rating": 0.17,
       "off_rank": 51,
       "def_rating": 0.75,
@@ -613,9 +613,9 @@
       "school": "Poplar Bluff",
       "classification": 4,
       "district": 1,
-      "ovr_rating": 0.03,
+      "ovr_rating": 0.02,
       "off_rating": 0.85,
-      "off_rank": 38,
+      "off_rank": 37,
       "def_rating": -0.83,
       "def_rank": 61
     },
@@ -624,7 +624,7 @@
       "school": "Kickapoo",
       "classification": 4,
       "district": 5,
-      "ovr_rating": -0.02,
+      "ovr_rating": -0.03,
       "off_rating": -0.09,
       "off_rank": 54,
       "def_rating": 0.06,
@@ -657,10 +657,10 @@
       "school": "Truman",
       "classification": 4,
       "district": 7,
-      "ovr_rating": -1.67,
+      "ovr_rating": -1.68,
       "off_rating": -0.17,
       "off_rank": 55,
-      "def_rating": -1.5,
+      "def_rating": -1.51,
       "def_rank": 63
     },
     {
@@ -669,7 +669,7 @@
       "classification": 4,
       "district": 6,
       "ovr_rating": -2.08,
-      "off_rating": -1.58,
+      "off_rating": -1.59,
       "off_rank": 62,
       "def_rating": -0.49,
       "def_rank": 59
@@ -690,7 +690,7 @@
       "school": "Ritenour",
       "classification": 4,
       "district": 3,
-      "ovr_rating": -2.44,
+      "ovr_rating": -2.45,
       "off_rating": -1.97,
       "off_rank": 63,
       "def_rating": -0.47,
@@ -701,10 +701,10 @@
       "school": "Ruskin",
       "classification": 4,
       "district": 7,
-      "ovr_rating": -4.77,
+      "ovr_rating": -4.78,
       "off_rating": -2.18,
       "off_rank": 64,
-      "def_rating": -2.59,
+      "def_rating": -2.6,
       "def_rank": 64
     }
   ]

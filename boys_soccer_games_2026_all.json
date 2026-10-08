@@ -16424,6 +16424,17 @@
   },
   {
     "date": "2026-10-06",
+    "team1": "Eureka",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Marquette",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-06",
     "team1": "St. Paul Lutheran (Concordia)",
     "team1_classified": true,
     "score1": 1,
@@ -16846,17 +16857,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Hancock",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-06",
-    "team1": "Eureka",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Marquette",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
