@@ -1,15 +1,16 @@
 name: Boys Soccer 2026 (games, schedule, ratings)
  
 on:
-  # Nightly at 2:00 AM Central, Aug-Nov. GitHub cron only runs on UTC,
+  # Nightly at 2:17 AM Central, Aug-Nov. GitHub cron only runs on UTC,
   # so there are two entries -- one for Daylight time (CDT, UTC-5) and one
   # for Standard time (CST, UTC-6) -- and the "gate" job below lets only
   # the one matching Chicago's current offset go ahead. That keeps it at
   # 2:00 AM local all season, across the Nov 1 time change.
-  # GitHub can start scheduled runs late when it's busy (usually minutes).
+  # GitHub delays scheduled runs that start exactly on the hour (its busiest
+  # time), so this runs at an off-minute instead.
   schedule:
-    - cron: "0 7 * 8-11 *"     # 2:00 AM CDT
-    - cron: "0 8 * 8-11 *"     # 2:00 AM CST
+    - cron: "17 7 * 8-11 *"     # 2:17 AM CDT
+    - cron: "17 8 * 8-11 *"     # 2:17 AM CST
   workflow_dispatch:            # manual runs still work any time
  
 permissions:
@@ -33,9 +34,9 @@ jobs:
           RUN=false
           if [ -z "$SCHEDULE" ]; then
             RUN=true                                   # manual run
-          elif [ "$SCHEDULE" = "0 7 * 8-11 *" ] && [ "$ZONE" = "CDT" ]; then
+          elif [ "$SCHEDULE" = "17 7 * 8-11 *" ] && [ "$ZONE" = "CDT" ]; then
             RUN=true
-          elif [ "$SCHEDULE" = "0 8 * 8-11 *" ] && [ "$ZONE" = "CST" ]; then
+          elif [ "$SCHEDULE" = "17 8 * 8-11 *" ] && [ "$ZONE" = "CST" ]; then
             RUN=true
           fi
           echo "Chicago is on $ZONE; trigger '${SCHEDULE:-manual}' -> run=$RUN"
@@ -59,7 +60,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 pandas
+          pip install requests beautifulsoup4 pandas pillow fonttools brotli
  
       - name: Check required input files
         run: |
@@ -81,6 +82,13 @@ jobs:
             sed -n '/TEAMS NOT INCLUDED IN RATINGS/,/^=====/p' ratings_log.txt >> "$GITHUB_STEP_SUMMARY"
           fi
  
+      # Rankings graphics (statewide + each class) from the fresh ratings.
+      # Runs only if the ratings step succeeded. continue-on-error means a
+      # graphics problem never blocks the ratings/games data from pushing.
+      - name: Build rankings graphics
+        continue-on-error: true
+        run: python Boys_Soccer_Graphics_2026.py
+ 
       - name: Commit and push outputs
         run: |
           git config user.name  "github-actions[bot]"
@@ -94,10 +102,13 @@ jobs:
                   boys_soccer_games_2026_all.json boys_soccer_games_2026_all.csv \
                   boys_soccer_schedule_2026.json boys_soccer_schedule_2026.csv \
                   boys_soccer_missing_scores_2026.csv
+          # Rankings graphics (+ fonts, in case they were downloaded this run)
+          git add graphics/*.png 2>/dev/null || true
+          git add fonts/*.ttf 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "Update Boys Soccer 2026 games, schedule, ratings ($(date -u +'%Y-%m-%d'))"
+          git commit -m "Update Boys Soccer 2026 games, schedule, ratings, graphics ($(date -u +'%Y-%m-%d'))"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
