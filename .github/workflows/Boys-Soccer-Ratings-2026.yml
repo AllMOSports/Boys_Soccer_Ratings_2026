@@ -1,16 +1,9 @@
+# Started by cron-job.org at 2:17 AM Central via GitHub's API (workflow_dispatch),
+# because GitHub's own schedule was starting these runs hours late.
+# The "Run workflow" button in the Actions tab still works too.
 name: Boys Soccer 2026 (games, schedule, ratings)
  
 on:
-  # Nightly at 2:17 AM Central, Aug-Nov. GitHub cron only runs on UTC,
-  # so there are two entries -- one for Daylight time (CDT, UTC-5) and one
-  # for Standard time (CST, UTC-6) -- and the "gate" job below lets only
-  # the one matching Chicago's current offset go ahead. That keeps it at
-  # 2:00 AM local all season, across the Nov 1 time change.
-  # GitHub delays scheduled runs that start exactly on the hour (its busiest
-  # time), so this runs at an off-minute instead.
-  schedule:
-    - cron: "17 7 * 8-11 *"     # 2:17 AM CDT
-    - cron: "17 8 * 8-11 *"     # 2:17 AM CST
   workflow_dispatch:            # manual runs still work any time
  
 permissions:
