@@ -157,10 +157,10 @@
     "date": "2026-08-27",
     "team1": "Van Horn",
     "team1_classified": true,
-    "score1": 6,
+    "score1": 0,
     "team2": "Grain Valley",
     "team2_classified": true,
-    "score2": 0,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
@@ -16754,6 +16754,17 @@
   },
   {
     "date": "2026-10-06",
+    "team1": "Sacred Heart",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Smithton",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-06",
     "team1": "Father Tolton",
     "team1_classified": true,
     "score1": 2,
@@ -17260,6 +17271,17 @@
   },
   {
     "date": "2026-10-08",
+    "team1": "Affton",
+    "team1_classified": true,
+    "score1": 4,
+    "team2": "Brentwood",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-08",
     "team1": "Chillicothe",
     "team1_classified": true,
     "score1": 1,
@@ -17321,6 +17343,17 @@
     "team2": "Chaminade College Prep",
     "team2_classified": true,
     "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-08",
+    "team1": "Mexico",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Christian Fellowship Sr. with Hallsville",
+    "team2_classified": true,
+    "score2": 5,
     "forfeit": false,
     "overtime": false
   },
@@ -17491,6 +17524,17 @@
   },
   {
     "date": "2026-10-08",
+    "team1": "Southern Boone",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Jefferson City",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-08",
     "team1": "Vianney",
     "team1_classified": true,
     "score1": 2,
@@ -17515,10 +17559,10 @@
     "date": "2026-10-08",
     "team1": "Moberly",
     "team1_classified": true,
-    "score1": 1,
+    "score1": 0,
     "team2": "Kirksville",
     "team2_classified": true,
-    "score2": 0,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
@@ -17634,6 +17678,17 @@
   },
   {
     "date": "2026-10-08",
+    "team1": "Parkview",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "New Covenant Academy",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-08",
     "team1": "Sikeston",
     "team1_classified": true,
     "score1": 8,
@@ -17711,12 +17766,34 @@
   },
   {
     "date": "2026-10-08",
+    "team1": "Parkway West",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Parkway South",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-08",
     "team1": "Ewing Marion Kauffman with University Academy Charter",
     "team1_classified": true,
     "score1": 1,
     "team2": "Paseo Academy",
     "team2_classified": true,
     "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-08",
+    "team1": "Parkway North",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Pattonville",
+    "team2_classified": true,
+    "score2": 4,
     "forfeit": false,
     "overtime": false
   },
@@ -17898,6 +17975,17 @@
   },
   {
     "date": "2026-10-08",
+    "team1": "Clayton",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Webster Groves",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-08",
     "team1": "Lebanon",
     "team1_classified": true,
     "score1": 1,
@@ -17915,28 +18003,6 @@
     "team2": "Wright City",
     "team2_classified": true,
     "score2": 8,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-08",
-    "team1": "Affton",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Brentwood",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-08",
-    "team1": "Mexico",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Christian Fellowship Sr. with Hallsville",
-    "team2_classified": true,
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },
@@ -17964,17 +18030,6 @@
   },
   {
     "date": "2026-10-08",
-    "team1": "Southern Boone",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Jefferson City",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-08",
     "team1": "Parkway Central",
     "team1_classified": true,
     "score1": null,
@@ -17986,54 +18041,10 @@
   },
   {
     "date": "2026-10-08",
-    "team1": "Parkview",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "New Covenant Academy",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-08",
     "team1": "Crocker",
     "team1_classified": true,
     "score1": null,
     "team2": "Osage",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-08",
-    "team1": "Parkway West",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Parkway South",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-08",
-    "team1": "Parkway North",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Pattonville",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-08",
-    "team1": "Clayton",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Webster Groves",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -18273,17 +18284,6 @@
   {
     "date": "2026-10-09",
     "team1": "Principia",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Whitfield",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-09",
-    "team1": "Lutheran North",
     "team1_classified": true,
     "score1": null,
     "team2": "Whitfield",

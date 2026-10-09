@@ -11,7 +11,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-08-27,Smithton,3,Fatima,0
 2026-08-27,Webster Groves,1,Francis Howell Central,2
 2026-08-27,Francis Howell North,3,Ft. Zumwalt East,0
-2026-08-27,Van Horn,6,Grain Valley,0
 2026-08-27,Ft. Zumwalt South,1,Helias Catholic,2
 2026-08-27,North County,0,Hillsboro,3
 2026-08-27,Duchesne,1,Holt,2
@@ -1274,6 +1273,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-06,Pembroke Hill,3,Rockhurst,7
 2026-10-06,Union,2,Rolla,5
 2026-10-06,Helias Catholic,3,Smith-Cotton,1
+2026-10-06,Sacred Heart,1,Smithton,0
 2026-10-06,Father Tolton,2,Southern Boone,1
 2026-10-06,Timberland,8,St. Charles West,0
 2026-10-06,Christian Brothers College,2,St. Dominic,3
@@ -1308,12 +1308,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-08,Ruskin,1,Belton,9
 2026-10-08,St. Michael the Archangel,0,Blue Springs,4
 2026-10-08,Monett,2,Branson,0
+2026-10-08,Affton,4,Brentwood,2
 2026-10-08,Chillicothe,1,Cameron,0
 2026-10-08,Hannibal,0,Capital City,5
 2026-10-08,Waynesville,1,Carthage,2
 2026-10-08,Carl Junction,1,Central (Springfield),5
 2026-10-08,Park Hill South,3,Central (St. Joseph),0
 2026-10-08,De Smet Jesuit,0,Chaminade College Prep,2
+2026-10-08,Mexico,2,Christian Fellowship Sr. with Hallsville,5
 2026-10-08,Pleasant Hill,3,Clinton,1
 2026-10-08,Central (Kansas City),4,Cristo Rey,1
 2026-10-08,Van Horn,6,East (Kansas City),1
@@ -1327,9 +1329,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-08,Hillcrest,1,Greenwood,0
 2026-10-08,Marshall,0,Helias Catholic,6
 2026-10-08,Lutheran South,4,Hillsboro,2
+2026-10-08,Southern Boone,1,Jefferson City,3
 2026-10-08,Vianney,2,John Burroughs,3
 2026-10-08,Nixa,7,Joplin,1
-2026-10-08,Moberly,1,Kirksville,0
+2026-10-08,Moberly,0,Kirksville,1
 2026-10-08,Rockwood Summit,2,Ladue Horton Watkins,3
 2026-10-08,North Kansas City,0,Lee's Summit North,4
 2026-10-08,Lee's Summit,1,Liberty North,4
@@ -1340,6 +1343,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-08,Excelsior Springs,4,Maryville,3
 2026-10-08,Westminster Christian Academy,1,MICDS,2
 2026-10-08,Canton,1,Missouri Military Academy,8
+2026-10-08,Parkview,2,New Covenant Academy,0
 2026-10-08,Sikeston,8,North County,0
 2026-10-08,Ft. Zumwalt West,2,North Point,3
 2026-10-08,Fredericktown,0,Notre Dame (Cape Girardeau),8
@@ -1347,7 +1351,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-08,Lindbergh,2,Oakville,3
 2026-10-08,Center,7,Odessa,2
 2026-10-08,Liberty,4,Park Hill,3
+2026-10-08,Parkway West,0,Parkway South,2
 2026-10-08,Ewing Marion Kauffman with University Academy Charter,1,Paseo Academy,2
+2026-10-08,Parkway North,0,Pattonville,4
 2026-10-08,Saxony Lutheran with St. Vincent,0,Perryville,1
 2026-10-08,Lee's Summit West,0,Raymore-Peculiar,1
 2026-10-08,Glendale,4,Republic,1
@@ -1363,5 +1369,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-08,St. Charles West,0,Veritas Christian Academy,4
 2026-10-08,Summit Christian Academy,7,Warrensburg,2
 2026-10-08,Ozark,3,Webb City,0
+2026-10-08,Clayton,0,Webster Groves,2
 2026-10-08,Lebanon,1,Willard,4
 2026-10-08,Elsberry,0,Wright City,8
