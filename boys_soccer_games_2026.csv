@@ -1407,24 +1407,25 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-08,Calvary Lutheran,,Iberia,,False,False
 2026-10-08,Parkway Central,,Mehlville,,False,False
 2026-10-08,Crocker,,Osage,,False,False
-2026-10-09,Springfield Catholic,,Camdenton,,False,False
-2026-10-09,Lone Jack,,Crocker,,False,False
-2026-10-09,Ft. Zumwalt East,,De Smet Jesuit,,False,False
+2026-10-09,Springfield Catholic,8,Camdenton,0,False,False
+2026-10-09,Lone Jack,4,Crocker,1,False,False
+2026-10-09,Ft. Zumwalt East,0,De Smet Jesuit,5,False,False
+2026-10-09,Pembroke Hill,3,Hickman,3,False,False
+2026-10-09,Bishop DuBourg,0,Lutheran St. Charles,2,False,False
+2026-10-09,Christian Fellowship Sr. with Hallsville,0,Missouri Military Academy,1,False,False
+2026-10-09,Rock Bridge,3,Ozark,1,False,False
+2026-10-09,Sacred Heart,0,Stover,1,False,False
+2026-10-09,Parkway Central,2,Westminster Christian Academy,1,False,False
+2026-10-09,Principia,3,Whitfield,2,False,False
 2026-10-09,Poplar Bluff,,Farmington,,False,False
 2026-10-09,University City,,Festus,,False,False
 2026-10-09,Valley Park,,Gateway with Soldan International Studies,,False,False
 2026-10-09,Bayless,,Hancock,,False,False
-2026-10-09,Pembroke Hill,,Hickman,,False,False
 2026-10-09,Northwest (Cedar Hill),,Hillsboro,,False,False
 2026-10-09,Northland Christian,,Lutheran (Kansas City),,False,False
-2026-10-09,Bishop DuBourg,,Lutheran St. Charles,,False,False
 2026-10-09,Brentwood,,Maplewood-Richmond Hts.,,False,False
 2026-10-09,STEAM Academy,,McCluer North,,False,False
-2026-10-09,Christian Fellowship Sr. with Hallsville,,Missouri Military Academy,,False,False
 2026-10-09,Rolla,,Notre Dame (Cape Girardeau),,False,False
-2026-10-09,Rock Bridge,,Ozark,,False,False
-2026-10-09,Parkway Central,,Westminster Christian Academy,,False,False
-2026-10-09,Principia,,Whitfield,,False,False
 2026-10-10,Father Tolton,,Capital City,,False,False
 2026-10-10,Ft. Zumwalt West,,Francis Howell,,False,False
 2026-10-10,Lone Jack,,Greenwood,,False,False
@@ -1609,7 +1610,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-15,Harrisonville,,Odessa,,False,False
 2026-10-15,Washington,,Orchard Farm,,False,False
 2026-10-15,Park Hill,,Park Hill South,,False,False
-2026-10-15,John Burroughs,,Parkway Central,,False,False
 2026-10-15,Affton,,Parkway North,,False,False
 2026-10-15,Frontier STEM,,Paseo Academy,,False,False
 2026-10-15,Ft. Zumwalt North,,Pattonville,,False,False
