@@ -11809,6 +11809,15 @@
   },
   {
     "date": "2026-10-06",
+    "team1": "Neosho",
+    "score1": 1,
+    "team2": "Waynesville",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-06",
     "team1": "Nixa",
     "score1": 8,
     "team2": "Webb City",
@@ -11830,15 +11839,6 @@
     "team1": "Cassville",
     "score1": null,
     "team2": "Aurora",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-06",
-    "team1": "Neosho",
-    "score1": null,
-    "team2": "Waynesville",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -12700,9 +12700,36 @@
   },
   {
     "date": "2026-10-09",
+    "team1": "Valley Park",
+    "score1": 2,
+    "team2": "Gateway with Soldan International Studies",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-09",
     "team1": "Pembroke Hill",
     "score1": 3,
     "team2": "Hickman",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-09",
+    "team1": "Northwest (Cedar Hill)",
+    "score1": 3,
+    "team2": "Hillsboro",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-09",
+    "team1": "Northland Christian",
+    "score1": 0,
+    "team2": "Lutheran (Kansas City)",
     "score2": 3,
     "forfeit": false,
     "overtime": false
@@ -12718,10 +12745,37 @@
   },
   {
     "date": "2026-10-09",
+    "team1": "Brentwood",
+    "score1": 1,
+    "team2": "Maplewood-Richmond Hts.",
+    "score2": 4,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-09",
+    "team1": "STEAM Academy",
+    "score1": 8,
+    "team2": "McCluer North",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-09",
     "team1": "Christian Fellowship Sr. with Hallsville",
     "score1": 0,
     "team2": "Missouri Military Academy",
     "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-09",
+    "team1": "Rolla",
+    "score1": 0,
+    "team2": "Notre Dame (Cape Girardeau)",
+    "score2": 5,
     "forfeit": false,
     "overtime": false
   },
@@ -12781,15 +12835,6 @@
   },
   {
     "date": "2026-10-09",
-    "team1": "Valley Park",
-    "score1": null,
-    "team2": "Gateway with Soldan International Studies",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-09",
     "team1": "Bayless",
     "score1": null,
     "team2": "Hancock",
@@ -12798,56 +12843,83 @@
     "overtime": false
   },
   {
-    "date": "2026-10-09",
-    "team1": "Northwest (Cedar Hill)",
-    "score1": null,
-    "team2": "Hillsboro",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-09",
-    "team1": "Northland Christian",
-    "score1": null,
-    "team2": "Lutheran (Kansas City)",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-09",
-    "team1": "Brentwood",
-    "score1": null,
-    "team2": "Maplewood-Richmond Hts.",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-09",
-    "team1": "STEAM Academy",
-    "score1": null,
-    "team2": "McCluer North",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-09",
-    "team1": "Rolla",
-    "score1": null,
-    "team2": "Notre Dame (Cape Girardeau)",
-    "score2": null,
+    "date": "2026-10-10",
+    "team1": "Father Tolton",
+    "score1": 5,
+    "team2": "Capital City",
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-10",
-    "team1": "Father Tolton",
-    "score1": null,
-    "team2": "Capital City",
-    "score2": null,
+    "team1": "Lone Jack",
+    "score1": 0,
+    "team2": "Greenwood",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Moberly",
+    "score1": 3,
+    "team2": "Hannibal",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Francis Howell Central",
+    "score1": 3,
+    "team2": "Ladue Horton Watkins",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Battle with Columbia Independent",
+    "score1": 0,
+    "team2": "Marshall",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Raymore-Peculiar",
+    "score1": 0,
+    "team2": "Park Hill",
+    "score2": 4,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Branson",
+    "score1": 0,
+    "team2": "Parkview",
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Rock Bridge",
+    "score1": 2,
+    "team2": "Pembroke Hill",
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Oakville",
+    "score1": 3,
+    "team2": "Priory",
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
@@ -12862,81 +12934,9 @@
   },
   {
     "date": "2026-10-10",
-    "team1": "Lone Jack",
-    "score1": null,
-    "team2": "Greenwood",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Moberly",
-    "score1": null,
-    "team2": "Hannibal",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
     "team1": "Ozark",
     "score1": null,
     "team2": "Hickman",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Francis Howell Central",
-    "score1": null,
-    "team2": "Ladue Horton Watkins",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Battle with Columbia Independent",
-    "score1": null,
-    "team2": "Marshall",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Raymore-Peculiar",
-    "score1": null,
-    "team2": "Park Hill",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Branson",
-    "score1": null,
-    "team2": "Parkview",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Rock Bridge",
-    "score1": null,
-    "team2": "Pembroke Hill",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Oakville",
-    "score1": null,
-    "team2": "Priory",
     "score2": null,
     "forfeit": false,
     "overtime": false

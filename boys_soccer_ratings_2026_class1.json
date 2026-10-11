@@ -1,6 +1,6 @@
 {
-  "last_updated": "October 10, 2026 at 07:19 AM",
-  "league_average": 2.27,
+  "last_updated": "October 11, 2026 at 07:19 AM",
+  "league_average": 2.26,
   "classification": 1,
   "teams": [
     {
@@ -8,10 +8,10 @@
       "school": "Pembroke Hill",
       "classification": 1,
       "district": 7,
-      "ovr_rating": 4.81,
-      "off_rating": 2.66,
+      "ovr_rating": 4.75,
+      "off_rating": 2.55,
       "off_rank": 1,
-      "def_rating": 2.14,
+      "def_rating": 2.2,
       "def_rank": 1
     },
     {
@@ -19,10 +19,10 @@
       "school": "Father Tolton",
       "classification": 1,
       "district": 3,
-      "ovr_rating": 2.63,
-      "off_rating": 1.29,
+      "ovr_rating": 2.78,
+      "off_rating": 1.5,
       "off_rank": 3,
-      "def_rating": 1.35,
+      "def_rating": 1.28,
       "def_rank": 2
     },
     {
@@ -30,8 +30,8 @@
       "school": "Saxony Lutheran with St. Vincent",
       "classification": 1,
       "district": 1,
-      "ovr_rating": 1.25,
-      "off_rating": 0.61,
+      "ovr_rating": 1.24,
+      "off_rating": 0.6,
       "off_rank": 5,
       "def_rating": 0.64,
       "def_rank": 4
@@ -41,10 +41,10 @@
       "school": "Metro",
       "classification": 1,
       "district": 2,
-      "ovr_rating": 1.04,
-      "off_rating": 0.82,
+      "ovr_rating": 1.03,
+      "off_rating": 0.81,
       "off_rank": 4,
-      "def_rating": 0.22,
+      "def_rating": 0.21,
       "def_rank": 6
     },
     {
@@ -52,10 +52,10 @@
       "school": "Fair Grove",
       "classification": 1,
       "district": 6,
-      "ovr_rating": 0.92,
-      "off_rating": 1.51,
+      "ovr_rating": 0.99,
+      "off_rating": 1.57,
       "off_rank": 2,
-      "def_rating": -0.59,
+      "def_rating": -0.58,
       "def_rank": 16
     },
     {
@@ -64,9 +64,9 @@
       "classification": 1,
       "district": 1,
       "ovr_rating": 0.81,
-      "off_rating": 0.27,
+      "off_rating": 0.33,
       "off_rank": 6,
-      "def_rating": 0.54,
+      "def_rating": 0.49,
       "def_rank": 5
     },
     {
@@ -74,8 +74,8 @@
       "school": "Barstow",
       "classification": 1,
       "district": 7,
-      "ovr_rating": 0.55,
-      "off_rating": -0.17,
+      "ovr_rating": 0.62,
+      "off_rating": -0.09,
       "off_rank": 8,
       "def_rating": 0.71,
       "def_rank": 3
@@ -85,8 +85,8 @@
       "school": "St. Pius X (Festus)",
       "classification": 1,
       "district": 1,
-      "ovr_rating": -0.28,
-      "off_rating": -0.49,
+      "ovr_rating": -0.29,
+      "off_rating": -0.5,
       "off_rank": 10,
       "def_rating": 0.21,
       "def_rank": 7
@@ -96,10 +96,10 @@
       "school": "Thomas Jefferson Independent Day",
       "classification": 1,
       "district": 6,
-      "ovr_rating": -0.47,
-      "off_rating": -0.63,
+      "ovr_rating": -0.41,
+      "off_rating": -0.61,
       "off_rank": 11,
-      "def_rating": 0.17,
+      "def_rating": 0.2,
       "def_rank": 8
     },
     {
@@ -107,10 +107,10 @@
       "school": "St. Paul Lutheran (Concordia)",
       "classification": 1,
       "district": 5,
-      "ovr_rating": -0.54,
-      "off_rating": -0.39,
+      "ovr_rating": -0.52,
+      "off_rating": -0.35,
       "off_rank": 9,
-      "def_rating": -0.16,
+      "def_rating": -0.17,
       "def_rank": 13
     },
     {
@@ -118,55 +118,55 @@
       "school": "Whitfield",
       "classification": 1,
       "district": 2,
-      "ovr_rating": -0.62,
-      "off_rating": -0.06,
+      "ovr_rating": -0.64,
+      "off_rating": -0.07,
       "off_rank": 7,
-      "def_rating": -0.56,
-      "def_rank": 14
+      "def_rating": -0.58,
+      "def_rank": 15
     },
     {
       "ovr_rank": 12,
       "school": "Faith Christian Academy",
       "classification": 1,
       "district": 8,
-      "ovr_rating": -1.08,
-      "off_rating": -1.12,
-      "off_rank": 12,
-      "def_rating": 0.04,
-      "def_rank": 9
+      "ovr_rating": -1.28,
+      "off_rating": -1.27,
+      "off_rank": 14,
+      "def_rating": -0.01,
+      "def_rank": 10
     },
     {
       "ovr_rank": 13,
       "school": "Greenwood",
       "classification": 1,
       "district": 6,
-      "ovr_rating": -1.33,
-      "off_rating": -1.23,
-      "off_rank": 13,
-      "def_rating": -0.09,
-      "def_rank": 12
+      "ovr_rating": -1.3,
+      "off_rating": -1.29,
+      "off_rank": 15,
+      "def_rating": -0.01,
+      "def_rank": 9
     },
     {
       "ovr_rank": 14,
-      "school": "New Heights Christian with McAuley Catholic",
-      "classification": 1,
-      "district": 6,
-      "ovr_rating": -1.87,
-      "off_rating": -1.81,
-      "off_rank": 21,
-      "def_rating": -0.06,
-      "def_rank": 10
-    },
-    {
-      "ovr_rank": 15,
       "school": "New Covenant Academy",
       "classification": 1,
       "district": 6,
-      "ovr_rating": -1.9,
-      "off_rating": -1.31,
-      "off_rank": 15,
-      "def_rating": -0.59,
-      "def_rank": 15
+      "ovr_rating": -1.81,
+      "off_rating": -1.27,
+      "off_rank": 13,
+      "def_rating": -0.54,
+      "def_rank": 14
+    },
+    {
+      "ovr_rank": 15,
+      "school": "New Heights Christian with McAuley Catholic",
+      "classification": 1,
+      "district": 6,
+      "ovr_rating": -1.85,
+      "off_rating": -1.79,
+      "off_rank": 20,
+      "def_rating": -0.05,
+      "def_rank": 11
     },
     {
       "ovr_rank": 16,
@@ -174,10 +174,10 @@
       "classification": 1,
       "district": 1,
       "ovr_rating": -2.06,
-      "off_rating": -1.99,
-      "off_rank": 22,
-      "def_rating": -0.07,
-      "def_rank": 11
+      "off_rating": -1.98,
+      "off_rank": 21,
+      "def_rating": -0.08,
+      "def_rank": 12
     },
     {
       "ovr_rank": 17,
@@ -185,9 +185,9 @@
       "classification": 1,
       "district": 1,
       "ovr_rating": -2.1,
-      "off_rating": -1.23,
-      "off_rank": 14,
-      "def_rating": -0.86,
+      "off_rating": -1.21,
+      "off_rank": 12,
+      "def_rating": -0.89,
       "def_rank": 17
     },
     {
@@ -195,33 +195,33 @@
       "school": "Stover",
       "classification": 1,
       "district": 3,
-      "ovr_rating": -2.54,
-      "off_rating": -1.4,
+      "ovr_rating": -2.49,
+      "off_rating": -1.37,
       "off_rank": 16,
-      "def_rating": -1.14,
-      "def_rank": 21
+      "def_rating": -1.12,
+      "def_rank": 22
     },
     {
       "ovr_rank": 19,
-      "school": "Laquey with Richland",
-      "classification": 1,
-      "district": 4,
-      "ovr_rating": -2.79,
-      "off_rating": -1.73,
-      "off_rank": 20,
-      "def_rating": -1.06,
-      "def_rank": 19
-    },
-    {
-      "ovr_rank": 20,
       "school": "Lone Jack",
       "classification": 1,
       "district": 5,
-      "ovr_rating": -2.8,
+      "ovr_rating": -2.7,
+      "off_rating": -1.71,
+      "off_rank": 19,
+      "def_rating": -1.0,
+      "def_rank": 18
+    },
+    {
+      "ovr_rank": 20,
+      "school": "Laquey with Richland",
+      "classification": 1,
+      "district": 4,
+      "ovr_rating": -2.71,
       "off_rating": -1.68,
       "off_rank": 18,
-      "def_rating": -1.12,
-      "def_rank": 20
+      "def_rating": -1.03,
+      "def_rank": 19
     },
     {
       "ovr_rank": 21,
@@ -229,64 +229,64 @@
       "classification": 1,
       "district": 1,
       "ovr_rating": -3.33,
-      "off_rating": -2.27,
-      "off_rank": 26,
-      "def_rating": -1.06,
-      "def_rank": 18
+      "off_rating": -2.28,
+      "off_rank": 23,
+      "def_rating": -1.05,
+      "def_rank": 21
     },
     {
       "ovr_rank": 22,
       "school": "Frontier School of Excellence Charter",
       "classification": 1,
       "district": 7,
-      "ovr_rating": -3.49,
-      "off_rating": -2.25,
+      "ovr_rating": -3.79,
+      "off_rating": -2.39,
       "off_rank": 25,
-      "def_rating": -1.23,
-      "def_rank": 22
+      "def_rating": -1.4,
+      "def_rank": 23
     },
     {
       "ovr_rank": 23,
-      "school": "Northland Christian",
+      "school": "Lutheran (Kansas City)",
       "classification": 1,
-      "district": 8,
-      "ovr_rating": -3.74,
-      "off_rating": -1.72,
-      "off_rank": 19,
-      "def_rating": -2.02,
-      "def_rank": 24
+      "district": 7,
+      "ovr_rating": -3.95,
+      "off_rating": -2.91,
+      "off_rank": 31,
+      "def_rating": -1.04,
+      "def_rank": 20
     },
     {
       "ovr_rank": 24,
       "school": "Crocker",
       "classification": 1,
       "district": 4,
-      "ovr_rating": -4.71,
-      "off_rating": -1.45,
+      "ovr_rating": -4.64,
+      "off_rating": -1.4,
       "off_rank": 17,
-      "def_rating": -3.26,
-      "def_rank": 31
+      "def_rating": -3.24,
+      "def_rank": 30
     },
     {
       "ovr_rank": 25,
-      "school": "Lutheran (Kansas City)",
+      "school": "Northland Christian",
       "classification": 1,
-      "district": 7,
-      "ovr_rating": -4.75,
-      "off_rating": -3.44,
-      "off_rank": 36,
-      "def_rating": -1.31,
-      "def_rank": 23
+      "district": 8,
+      "ovr_rating": -4.94,
+      "off_rating": -2.31,
+      "off_rank": 24,
+      "def_rating": -2.63,
+      "def_rank": 26
     },
     {
       "ovr_rank": 26,
       "school": "Cameron",
       "classification": 1,
       "district": 8,
-      "ovr_rating": -5.11,
-      "off_rating": -2.2,
-      "off_rank": 24,
-      "def_rating": -2.92,
+      "ovr_rating": -5.07,
+      "off_rating": -2.16,
+      "off_rank": 22,
+      "def_rating": -2.9,
       "def_rank": 27
     },
     {
@@ -294,63 +294,63 @@
       "school": "Sacred Heart",
       "classification": 1,
       "district": 5,
-      "ovr_rating": -5.7,
-      "off_rating": -3.39,
-      "off_rank": 35,
-      "def_rating": -2.31,
-      "def_rank": 25
+      "ovr_rating": -5.62,
+      "off_rating": -3.34,
+      "off_rank": 36,
+      "def_rating": -2.28,
+      "def_rank": 24
     },
     {
       "ovr_rank": 28,
       "school": "Smithton",
       "classification": 1,
       "district": 3,
-      "ovr_rating": -5.79,
-      "off_rating": -3.3,
-      "off_rank": 33,
-      "def_rating": -2.49,
-      "def_rank": 26
+      "ovr_rating": -5.73,
+      "off_rating": -3.27,
+      "off_rank": 34,
+      "def_rating": -2.46,
+      "def_rank": 25
     },
     {
       "ovr_rank": 29,
-      "school": "Frontier STEM",
+      "school": "Dixon",
       "classification": 1,
-      "district": 8,
-      "ovr_rating": -5.83,
-      "off_rating": -2.13,
-      "off_rank": 23,
-      "def_rating": -3.7,
-      "def_rank": 34
+      "district": 4,
+      "ovr_rating": -6.29,
+      "off_rating": -2.67,
+      "off_rank": 29,
+      "def_rating": -3.63,
+      "def_rank": 33
     },
     {
       "ovr_rank": 30,
       "school": "Cristo Rey",
       "classification": 1,
       "district": 7,
-      "ovr_rating": -6.01,
-      "off_rating": -2.87,
-      "off_rank": 31,
-      "def_rating": -3.14,
-      "def_rank": 29
+      "ovr_rating": -6.31,
+      "off_rating": -3.03,
+      "off_rank": 32,
+      "def_rating": -3.28,
+      "def_rank": 31
     },
     {
       "ovr_rank": 31,
-      "school": "Dixon",
+      "school": "Frontier STEM",
       "classification": 1,
-      "district": 4,
-      "ovr_rating": -6.34,
-      "off_rating": -2.7,
-      "off_rank": 29,
-      "def_rating": -3.64,
-      "def_rank": 33
+      "district": 8,
+      "ovr_rating": -6.39,
+      "off_rating": -2.42,
+      "off_rank": 26,
+      "def_rating": -3.97,
+      "def_rank": 36
     },
     {
       "ovr_rank": 32,
       "school": "Lutheran North",
       "classification": 1,
       "district": 2,
-      "ovr_rating": -6.81,
-      "off_rating": -2.43,
+      "ovr_rating": -6.83,
+      "off_rating": -2.45,
       "off_rank": 27,
       "def_rating": -4.38,
       "def_rank": 39
@@ -360,10 +360,10 @@
       "school": "Green Ridge with Cole Camp",
       "classification": 1,
       "district": 5,
-      "ovr_rating": -6.9,
-      "off_rating": -3.29,
-      "off_rank": 32,
-      "def_rating": -3.61,
+      "ovr_rating": -6.85,
+      "off_rating": -3.26,
+      "off_rank": 33,
+      "def_rating": -3.59,
       "def_rank": 32
     },
     {
@@ -371,55 +371,55 @@
       "school": "La Monte",
       "classification": 1,
       "district": 5,
-      "ovr_rating": -7.11,
-      "off_rating": -3.96,
+      "ovr_rating": -7.05,
+      "off_rating": -3.93,
       "off_rank": 38,
-      "def_rating": -3.15,
-      "def_rank": 30
+      "def_rating": -3.12,
+      "def_rank": 29
     },
     {
       "ovr_rank": 35,
-      "school": "Crossroads College Preparatory",
-      "classification": 1,
-      "district": 2,
-      "ovr_rating": -7.14,
-      "off_rating": -2.85,
-      "off_rank": 30,
-      "def_rating": -4.29,
-      "def_rank": 38
-    },
-    {
-      "ovr_rank": 36,
       "school": "Elsberry",
       "classification": 1,
       "district": 2,
-      "ovr_rating": -7.16,
-      "off_rating": -4.19,
+      "ovr_rating": -7.14,
+      "off_rating": -4.17,
       "off_rank": 40,
       "def_rating": -2.97,
       "def_rank": 28
+    },
+    {
+      "ovr_rank": 36,
+      "school": "Crossroads College Preparatory",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": -7.15,
+      "off_rating": -2.86,
+      "off_rank": 30,
+      "def_rating": -4.29,
+      "def_rank": 38
     },
     {
       "ovr_rank": 37,
       "school": "Canton",
       "classification": 1,
       "district": 2,
-      "ovr_rating": -7.31,
-      "off_rating": -3.34,
-      "off_rank": 34,
-      "def_rating": -3.97,
-      "def_rank": 36
+      "ovr_rating": -7.27,
+      "off_rating": -3.32,
+      "off_rank": 35,
+      "def_rating": -3.96,
+      "def_rank": 35
     },
     {
       "ovr_rank": 38,
       "school": "Eugene",
       "classification": 1,
       "district": 3,
-      "ovr_rating": -7.83,
-      "off_rating": -3.91,
+      "ovr_rating": -7.78,
+      "off_rating": -3.88,
       "off_rank": 37,
-      "def_rating": -3.92,
-      "def_rank": 35
+      "def_rating": -3.9,
+      "def_rank": 34
     },
     {
       "ovr_rank": 39,
@@ -427,9 +427,9 @@
       "classification": 1,
       "district": 8,
       "ovr_rating": -8.18,
-      "off_rating": -2.54,
+      "off_rating": -2.53,
       "off_rank": 28,
-      "def_rating": -5.64,
+      "def_rating": -5.66,
       "def_rank": 40
     },
     {
@@ -437,10 +437,10 @@
       "school": "Fatima",
       "classification": 1,
       "district": 4,
-      "ovr_rating": -8.69,
-      "off_rating": -4.53,
+      "ovr_rating": -8.65,
+      "off_rating": -4.51,
       "off_rank": 41,
-      "def_rating": -4.16,
+      "def_rating": -4.13,
       "def_rank": 37
     },
     {
@@ -448,10 +448,10 @@
       "school": "Calvary Lutheran",
       "classification": 1,
       "district": 3,
-      "ovr_rating": -10.78,
-      "off_rating": -3.96,
+      "ovr_rating": -10.73,
+      "off_rating": -3.93,
       "off_rank": 39,
-      "def_rating": -6.82,
+      "def_rating": -6.8,
       "def_rank": 41
     },
     {
@@ -459,10 +459,10 @@
       "school": "Iberia",
       "classification": 1,
       "district": 4,
-      "ovr_rating": -12.59,
-      "off_rating": -5.64,
+      "ovr_rating": -12.54,
+      "off_rating": -5.61,
       "off_rank": 42,
-      "def_rating": -6.95,
+      "def_rating": -6.93,
       "def_rank": 42
     }
   ]

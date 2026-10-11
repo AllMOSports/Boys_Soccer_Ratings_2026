@@ -31,7 +31,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-05,no score,Paseo Academy,,Knob Noster,,True
 2026-10-06,no score,Cassville,,Aurora,,True
 2026-10-06,no score,Bishop LeBlond,,"Maur Hill(Atchison, KS)",,False
-2026-10-06,no score,Neosho,,Waynesville,,True
 2026-10-06,no score,Kirkwood,,Webster Groves,,True
 2026-10-07,no score,KIPP St. Louis Sr.,,Bishop DuBourg,,False
 2026-10-07,no score,Maryville,,Bishop LeBlond,,True
@@ -41,3 +40,8 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-08,no score,Guadalupe Centers Charter,,"JC Harmon(Kansas City, KS)",,False
 2026-10-08,no score,Parkway Central,,Mehlville,,True
 2026-10-08,no score,Crocker,,Osage,,True
+2026-10-09,no score,Mehlville,,"Blue Valley Northwest(Overland Park, KS)",,False
+2026-10-09,no score,Guadalupe Centers Charter,,Daniel Academy Sr. High,,False
+2026-10-09,no score,Poplar Bluff,,Farmington,,True
+2026-10-09,no score,University City,,Festus,,True
+2026-10-09,no score,Bayless,,Hancock,,True
