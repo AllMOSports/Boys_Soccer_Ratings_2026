@@ -7932,17 +7932,6 @@
   },
   {
     "date": "2026-09-15",
-    "team1": "Greenwood",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Central (Springfield)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-09-15",
     "team1": "North Kansas City",
     "team1_classified": true,
     "score1": null,
@@ -15654,6 +15643,17 @@
   },
   {
     "date": "2026-10-05",
+    "team1": "Calvary Lutheran",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Capital City",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-05",
     "team1": "Central (Springfield)",
     "team1_classified": true,
     "score1": 1,
@@ -15968,17 +15968,6 @@
     "team2": "William Chrisman",
     "team2_classified": true,
     "score2": 3,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-05",
-    "team1": "Calvary Lutheran",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Capital City",
-    "team2_classified": true,
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },
@@ -17139,6 +17128,17 @@
   },
   {
     "date": "2026-10-07",
+    "team1": "Winnetonka",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Truman",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-07",
     "team1": "McCluer North",
     "team1_classified": true,
     "score1": 0,
@@ -17209,17 +17209,6 @@
     "team1_classified": false,
     "score1": null,
     "team2": "Duchesne",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-07",
-    "team1": "Winnetonka",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Truman",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -17519,6 +17508,17 @@
     "team2": "Hillsboro",
     "team2_classified": true,
     "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-08",
+    "team1": "Calvary Lutheran",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Iberia",
+    "team2_classified": true,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
@@ -18008,17 +18008,6 @@
   },
   {
     "date": "2026-10-08",
-    "team1": "Calvary Lutheran",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Iberia",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-08",
     "team1": "Guadalupe Centers Charter",
     "team1_classified": true,
     "score1": null,
@@ -18305,6 +18294,17 @@
   },
   {
     "date": "2026-10-10",
+    "team1": "Clayton",
+    "team1_classified": true,
+    "score1": 4,
+    "team2": "Althoff Catholic(Belleville, IL)",
+    "team2_classified": false,
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
     "team1": "Father Tolton",
     "team1_classified": true,
     "score1": 5,
@@ -18338,6 +18338,17 @@
   },
   {
     "date": "2026-10-10",
+    "team1": "Ft. Zumwalt West",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Francis Howell",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
     "team1": "Lone Jack",
     "team1_classified": true,
     "score1": 0,
@@ -18355,6 +18366,17 @@
     "team2": "Hannibal",
     "team2_classified": true,
     "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Ozark",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Hickman",
+    "team2_classified": true,
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
@@ -18426,6 +18448,17 @@
   },
   {
     "date": "2026-10-10",
+    "team1": "St. Michael the Archangel",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "St. Thomas Aquinas(Overland Park, KS)",
+    "team2_classified": false,
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
     "team1": "Ft. Zumwalt South",
     "team1_classified": true,
     "score1": 1,
@@ -18448,6 +18481,17 @@
   },
   {
     "date": "2026-10-10",
+    "team1": "St. Dominic",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Vianney",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
     "team1": "SLUH",
     "team1_classified": true,
     "score1": 1,
@@ -18459,43 +18503,10 @@
   },
   {
     "date": "2026-10-10",
-    "team1": "Clayton",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Althoff Catholic(Belleville, IL)",
-    "team2_classified": false,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
     "team1": "Blue Valley Northwest(Overland Park, KS)",
     "team1_classified": false,
     "score1": null,
     "team2": "Chaminade College Prep",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Ft. Zumwalt West",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Francis Howell",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Ozark",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Hickman",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -18541,28 +18552,6 @@
     "score1": null,
     "team2": "St. James(Lenexa, KS)",
     "team2_classified": false,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "St. Michael the Archangel",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "St. Thomas Aquinas(Overland Park, KS)",
-    "team2_classified": false,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "St. Dominic",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Vianney",
-    "team2_classified": true,
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -21037,6 +21026,17 @@
     "team1_classified": true,
     "score1": null,
     "team2": "McCluer North",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-16",
+    "team1": "Fair Grove",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Monett",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -25360,6 +25360,17 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Ladue Horton Watkins",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-28",
+    "team1": "Oakville",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Liberty (Wentzville)",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,

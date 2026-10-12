@@ -5509,15 +5509,6 @@
   },
   {
     "date": "2026-09-15",
-    "team1": "Greenwood",
-    "score1": null,
-    "team2": "Central (Springfield)",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-09-15",
     "team1": "North Kansas City",
     "score1": null,
     "team2": "Liberty North",
@@ -10900,6 +10891,15 @@
   },
   {
     "date": "2026-10-05",
+    "team1": "Calvary Lutheran",
+    "score1": 1,
+    "team2": "Capital City",
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-05",
     "team1": "Central (Springfield)",
     "score1": 1,
     "team2": "Cassville",
@@ -11120,15 +11120,6 @@
     "score1": 0,
     "team2": "William Chrisman",
     "score2": 3,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-05",
-    "team1": "Calvary Lutheran",
-    "score1": null,
-    "team2": "Capital City",
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },
@@ -11989,6 +11980,15 @@
   },
   {
     "date": "2026-10-07",
+    "team1": "Winnetonka",
+    "score1": 1,
+    "team2": "Truman",
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-07",
     "team1": "McCluer North",
     "score1": 0,
     "team2": "University City",
@@ -12028,15 +12028,6 @@
     "team1": "Maryville",
     "score1": null,
     "team2": "Bishop LeBlond",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-07",
-    "team1": "Winnetonka",
-    "score1": null,
-    "team2": "Truman",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -12254,6 +12245,15 @@
     "score1": 4,
     "team2": "Hillsboro",
     "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-08",
+    "team1": "Calvary Lutheran",
+    "score1": 2,
+    "team2": "Iberia",
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
@@ -12646,15 +12646,6 @@
   },
   {
     "date": "2026-10-08",
-    "team1": "Calvary Lutheran",
-    "score1": null,
-    "team2": "Iberia",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-08",
     "team1": "Parkway Central",
     "score1": null,
     "team2": "Mehlville",
@@ -12853,6 +12844,15 @@
   },
   {
     "date": "2026-10-10",
+    "team1": "Ft. Zumwalt West",
+    "score1": 1,
+    "team2": "Francis Howell",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
     "team1": "Lone Jack",
     "score1": 0,
     "team2": "Greenwood",
@@ -12866,6 +12866,15 @@
     "score1": 3,
     "team2": "Hannibal",
     "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Ozark",
+    "score1": 2,
+    "team2": "Hickman",
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
@@ -12925,28 +12934,10 @@
   },
   {
     "date": "2026-10-10",
-    "team1": "Ft. Zumwalt West",
-    "score1": null,
-    "team2": "Francis Howell",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Ozark",
-    "score1": null,
-    "team2": "Hickman",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
     "team1": "St. Dominic",
-    "score1": null,
+    "score1": 1,
     "team2": "Vianney",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
@@ -14728,6 +14719,15 @@
     "team1": "Jennings",
     "score1": null,
     "team2": "McCluer North",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-16",
+    "team1": "Fair Grove",
+    "score1": null,
+    "team2": "Monett",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -18022,6 +18022,15 @@
     "team1": "Parkway Central",
     "score1": null,
     "team2": "Ladue Horton Watkins",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-28",
+    "team1": "Oakville",
+    "score1": null,
+    "team2": "Liberty (Wentzville)",
     "score2": null,
     "forfeit": false,
     "overtime": false
