@@ -2,8 +2,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-03,no score,Maranatha Baptist,,Crocker,,False
 2026-09-03,no score,St. Pius X (Festus),,Fox,,True
 2026-09-03,no score,Webster Groves,,Vianney,,True
-2026-09-04,no score,Ritenour,,Gateway Legacy Sr. H.,,False
-2026-09-08,no score,Collegiate School of Med-Bio Science with McKinley Classical Leadership,,Lutheran North,,True
 2026-09-09,no score,William Chrisman,,Truman,,True
 2026-09-10,no score,Logan-Rogersville,,New Heights Christian with McAuley Catholic,,True
 2026-09-15,no score,North Kansas City,,Liberty North,,True
@@ -21,7 +19,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-01,no score,Laquey with Richland,,Marshfield,,True
 2026-10-01,no score,Belton,,Raytown,,True
 2026-10-01,no score,Stover,,Smithton,,True
-2026-10-01,no score,Chillicothe,,St. Paul Lutheran (Concordia),,True
 2026-10-02,no score,Fair Grove,,Crocker,,True
 2026-10-02,no score,Ewing Marion Kauffman with University Academy Charter,,Smithton,,True
 2026-10-02,no score,Father Tolton,,Warrenton,,True
@@ -32,17 +29,13 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-06,no score,Kirkwood,,Webster Groves,,True
 2026-10-07,no score,KIPP St. Louis Sr.,,Bishop DuBourg,,False
 2026-10-07,no score,Maryville,,Bishop LeBlond,,True
-2026-10-07,no score,"Marquette Catholic(Alton, IL)",,Duchesne,,False
 2026-10-08,no score,Guadalupe Centers Charter,,"JC Harmon(Kansas City, KS)",,False
-2026-10-08,no score,Parkway Central,,Mehlville,,True
-2026-10-08,no score,Crocker,,Osage,,True
-2026-10-09,no score,Mehlville,,"Blue Valley Northwest(Overland Park, KS)",,False
 2026-10-09,no score,Guadalupe Centers Charter,,Daniel Academy Sr. High,,False
 2026-10-09,no score,Poplar Bluff,,Farmington,,True
 2026-10-09,no score,University City,,Festus,,True
-2026-10-09,no score,Bayless,,Hancock,,True
 2026-10-10,no score,"Blue Valley Northwest(Overland Park, KS)",,Chaminade College Prep,,False
 2026-10-10,no score,Webster Groves,,Highland,,False
 2026-10-10,no score,"Quincy(Quincy, IL)",,Kirksville,,False
-2026-10-10,no score,St. Louis United,,Principia,,False
-2026-10-10,no score,Mehlville,,"St. James(Lenexa, KS)",,False
+2026-10-11,no score,"Blue Valley Northwest(Overland Park, KS)",,Chaminade College Prep,,False
+2026-10-11,no score,Webster Groves,,Highland,,False
+2026-10-11,no score,"Quincy(Quincy, IL)",,Kirksville,,False
