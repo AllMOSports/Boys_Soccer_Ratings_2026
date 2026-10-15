@@ -1,43 +1,43 @@
 School,OFF Rating,DEF Rating,OVR Rating,OFF Rank,DEF Rank,OVR Rank
-Pembroke Hill,2.57,2.23,4.81,1,1,1
-Father Tolton,1.55,1.34,2.89,2,2,2
-Saxony Lutheran with St. Vincent,0.56,0.68,1.24,5,4,3
-Metro,0.86,0.21,1.07,4,6,4
-Fair Grove,1.45,-0.65,0.79,3,13,5
-Maplewood-Richmond Hts.,0.29,0.49,0.78,7,5,6
-Barstow,-0.12,0.7,0.57,8,3,7
-Whitfield,0.31,-0.7,-0.39,6,14,8
-St. Pius X (Festus),-0.54,-0.27,-0.81,9,11,9
-St. Paul Lutheran (Concordia),-0.76,-0.3,-1.07,10,12,10
-Greenwood,-1.2,0.06,-1.14,12,8,11
-New Heights Christian with McAuley Catholic,-1.38,0.14,-1.24,16,7,12
-Faith Christian Academy,-1.33,-0.27,-1.6,15,10,13
-New Covenant Academy,-1.29,-0.82,-2.11,14,15,14
-Valley Park,-2.07,-0.15,-2.22,22,9,15
-Brentwood,-1.16,-1.12,-2.28,11,18,16
-Thomas Jefferson Independent Day,-1.29,-1.01,-2.3,13,16,17
-Lone Jack,-1.72,-1.03,-2.75,19,17,18
-Laquey with Richland,-1.68,-1.3,-2.99,18,22,19
-Frontier School of Excellence Charter,-2.04,-1.21,-3.25,21,21,20
-Stover,-2.03,-1.44,-3.48,20,23,21
-Hancock,-2.31,-1.19,-3.5,24,20,22
-Lutheran (Kansas City),-3.39,-1.14,-4.53,35,19,23
-Crocker,-1.6,-3.25,-4.85,17,31,24
-Cameron,-2.28,-2.79,-5.08,23,26,25
-Smithton,-3.16,-1.93,-5.1,32,24,26
-Northland Christian,-2.32,-2.8,-5.11,25,27,27
-Sacred Heart,-3.26,-2.35,-5.6,33,25,28
-Cristo Rey,-2.98,-3.19,-6.17,31,30,29
-Dixon,-2.74,-3.6,-6.34,29,33,30
-Frontier STEM,-2.46,-3.89,-6.36,26,35,31
-Green Ridge with Cole Camp,-3.27,-3.43,-6.69,34,32,32
-La Monte,-3.88,-3.05,-6.93,38,28,33
-Lutheran North,-2.58,-4.51,-7.09,27,39,34
-Crossroads College Preparatory,-2.97,-4.34,-7.31,30,38,35
-Elsberry,-4.3,-3.18,-7.48,39,29,36
-Canton,-3.47,-4.03,-7.51,36,36,37
-Eugene,-3.74,-3.83,-7.56,37,34,38
-Bishop LeBlond,-2.59,-5.7,-8.28,28,40,39
-Fatima,-4.48,-4.13,-8.61,40,37,40
-Calvary Lutheran,-4.61,-6.41,-11.02,41,41,41
-Iberia,-5.52,-6.52,-12.04,42,42,42
+Pembroke Hill,2.64,2.19,4.83,1,1,1
+Father Tolton,1.54,1.34,2.88,2,2,2
+Saxony Lutheran with St. Vincent,0.53,0.67,1.2,5,3,3
+Metro,0.83,0.22,1.06,4,6,4
+Maplewood-Richmond Hts.,0.5,0.45,0.95,6,5,5
+Fair Grove,1.52,-0.66,0.86,3,14,6
+Barstow,-0.16,0.66,0.5,8,4,7
+Whitfield,0.33,-0.66,-0.33,7,13,8
+St. Pius X (Festus),-0.56,-0.32,-0.88,9,10,9
+Greenwood,-1.22,0.05,-1.17,11,8,10
+New Heights Christian with McAuley Catholic,-1.38,0.12,-1.26,15,7,11
+St. Paul Lutheran (Concordia),-0.78,-0.52,-1.3,10,12,12
+Faith Christian Academy,-1.59,-0.4,-1.99,17,11,13
+New Covenant Academy,-1.23,-0.88,-2.11,13,15,14
+Valley Park,-2.09,-0.11,-2.21,22,9,15
+Brentwood,-1.22,-1.07,-2.29,12,18,16
+Thomas Jefferson Independent Day,-1.37,-0.92,-2.29,14,16,17
+Laquey with Richland,-1.92,-0.94,-2.86,19,17,18
+Lone Jack,-1.72,-1.16,-2.88,18,19,19
+Frontier School of Excellence Charter,-2.09,-1.26,-3.36,21,22,20
+Hancock,-2.29,-1.17,-3.46,24,20,21
+Stover,-2.06,-1.43,-3.49,20,23,22
+Lutheran (Kansas City),-3.48,-1.18,-4.66,35,21,23
+Cameron,-2.16,-2.71,-4.87,23,26,24
+Crocker,-1.58,-3.29,-4.87,16,31,25
+Smithton,-3.03,-1.95,-4.98,32,24,26
+Northland Christian,-2.37,-2.96,-5.33,25,27,27
+Sacred Heart,-3.27,-2.35,-5.63,34,25,28
+Cristo Rey,-2.98,-3.25,-6.23,30,30,29
+Dixon,-2.72,-3.61,-6.32,28,33,30
+Frontier STEM,-2.59,-3.86,-6.45,27,35,31
+Green Ridge with Cole Camp,-3.27,-3.39,-6.66,33,32,32
+La Monte,-3.88,-3.03,-6.91,38,28,33
+Lutheran North,-2.55,-4.48,-7.04,26,39,34
+Crossroads College Preparatory,-2.94,-4.34,-7.29,29,38,35
+Elsberry,-4.27,-3.11,-7.38,39,29,36
+Canton,-3.5,-4.03,-7.53,36,36,37
+Eugene,-3.74,-3.81,-7.55,37,34,38
+Fatima,-4.47,-4.11,-8.59,40,37,39
+Bishop LeBlond,-3.02,-6.75,-9.77,31,42,40
+Calvary Lutheran,-4.61,-6.4,-11.0,41,40,41
+Iberia,-5.5,-6.52,-12.02,42,41,42
