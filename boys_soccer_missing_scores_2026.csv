@@ -1,19 +1,13 @@
 date,problem,team1,score1,team2,score2,both_classified
-2026-10-12,one team's score only,MICDS,0,Parkway South,,True
 2026-09-03,no score,Maranatha Baptist,,Crocker,,False
 2026-09-03,no score,St. Pius X (Festus),,Fox,,True
-2026-09-09,no score,William Chrisman,,Truman,,True
 2026-09-15,no score,North Kansas City,,Liberty North,,True
-2026-09-15,no score,Chillicothe,,Maryville,,True
 2026-09-16,no score,Raytown,,Winnetonka,,True
-2026-09-17,no score,Hickman,,Ft. Zumwalt West,,True
 2026-09-17,no score,Cardinal Ritter,,KIPP St. Louis Sr.,,False
-2026-09-17,no score,Fulton,,Wright City,,True
 2026-09-21,no score,Liberty Christian Sr.,,Warrenton,,False
 2026-10-01,no score,Maryville,,Bishop LeBlond,,True
 2026-10-01,no score,Marshall,,Kirksville,,True
 2026-10-01,no score,Sunnydale Adventist Acad HS,,La Monte,,False
-2026-10-01,no score,Platte County,,Liberty,,True
 2026-10-01,no score,Laquey with Richland,,Marshfield,,True
 2026-10-02,no score,Fair Grove,,Crocker,,True
 2026-10-02,no score,Ewing Marion Kauffman with University Academy Charter,,Smithton,,True
@@ -22,12 +16,8 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-07,no score,Maryville,,Bishop LeBlond,,True
 2026-10-08,no score,Guadalupe Centers Charter,,"JC Harmon(Kansas City, KS)",,False
 2026-10-09,no score,Guadalupe Centers Charter,,Daniel Academy Sr. High,,False
-2026-10-10,no score,"Quincy(Quincy, IL)",,Kirksville,,False
-2026-10-11,no score,"Quincy(Quincy, IL)",,Kirksville,,False
-2026-10-13,no score,Bayless,,Crossroads College Preparatory,,True
 2026-10-13,no score,Cardinal Ritter,,KIPP St. Louis Sr.,,False
 2026-10-13,no score,Aurora,,McDonald County,,True
 2026-10-13,no score,Central (St. Joseph),,North Kansas City,,True
-2026-10-13,no score,Bayless,,"TBD(Saint Louis, MO)",,False
 2026-10-13,no score,Summit Christian Academy,,Van Horn,,True
-2026-10-13,no score,Bishop DuBourg,,Windsor (Imperial),,True
+2026-10-14,no score,Parkview,,Fair Grove,,True
