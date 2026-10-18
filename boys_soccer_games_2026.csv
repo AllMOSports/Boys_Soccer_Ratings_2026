@@ -1614,35 +1614,35 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-15,Ft. Zumwalt East,0,Westminster Christian Academy,1,False,False
 2026-10-15,Sullivan,1,Windsor (Imperial),2,False,False
 2026-10-15,Smith-Cotton,,Marshall,,False,False
-2026-10-15,Elsberry,,Missouri Military Academy,,False,False
+2026-10-16,Veritas Christian Academy,3,Bishop DuBourg,2,False,False
 2026-10-16,Camdenton,3,Central (Springfield),0,False,False
 2026-10-16,Springfield Catholic,0,Chaminade College Prep,4,False,False
 2026-10-16,Barstow,6,Christian Fellowship Sr. with Hallsville,0,False,False
 2026-10-16,Valley Park,0,Duchesne,1,False,False
 2026-10-16,Francis Howell Central,2,Ft. Zumwalt South,3,False,False
 2026-10-16,Rockhurst,2,Glendale,0,False,False
+2026-10-16,Collegiate School of Med-Bio Science with McKinley Classical Leadership,2,Lutheran North,1,False,False
 2026-10-16,Fair Grove,1,Monett,3,False,False
 2026-10-16,Timberland,3,Orchard Farm,2,False,False
 2026-10-16,Gateway Science Charter,0,Principia,8,False,False
 2026-10-16,University City,2,STEAM Academy,1,False,False
 2026-10-16,Winfield,2,Warrenton,4,False,False
-2026-10-16,Veritas Christian Academy,,Bishop DuBourg,,False,False
-2026-10-16,Collegiate School of Med-Bio Science with McKinley Classical Leadership,,Lutheran North,,False,False
 2026-10-16,Jennings,,McCluer North,,False,False
 2026-10-16,Rolla,,Parkview,,False,False
 2026-10-16,Knob Noster,,Sacred Heart,,False,False
-2026-10-17,Barstow,,Father Tolton,,False,False
+2026-10-17,Barstow,3,Father Tolton,7,False,False
+2026-10-17,Timberland,2,Ft. Zumwalt South,3,False,False
+2026-10-17,Rock Bridge,3,Marquette,2,False,False
+2026-10-17,Hickman,2,Moberly,0,False,False
+2026-10-17,Chaminade College Prep,2,Oakville,1,False,False
+2026-10-17,Springfield Catholic,2,Principia,1,False,False
+2026-10-17,Troy Buchanan,3,St. Mary's South Side,1,False,False
+2026-10-17,St. Pius X (Festus),2,St. Pius X (Kansas City),1,False,False
+2026-10-17,Washington,4,Union,1,False,False
 2026-10-17,Logan-Rogersville,,Kickapoo,,False,False
-2026-10-17,Rock Bridge,,Marquette,,False,False
-2026-10-17,Hickman,,Moberly,,False,False
 2026-10-17,Priory,,Notre Dame (Cape Girardeau),,False,False
-2026-10-17,Chaminade College Prep,,Oakville,,False,False
 2026-10-17,Rockhurst,,Ozark,,False,False
-2026-10-17,Springfield Catholic,,Principia,,False,False
-2026-10-17,Troy Buchanan,,St. Mary's South Side,,False,False
-2026-10-17,St. Pius X (Festus),,St. Pius X (Kansas City),,False,False
 2026-10-17,Paseo Academy,,Thomas Jefferson Independent Day,,False,False
-2026-10-17,Washington,,Union,,False,False
 2026-10-19,Excelsior Springs,,Benton,,False,False
 2026-10-19,Gateway Science Charter,,Bishop DuBourg,,False,False
 2026-10-19,Grain Valley,,Blue Springs,,False,False
@@ -2042,5 +2042,8 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-29,Battle with Columbia Independent,,Warrenton,,False,False
 2026-10-29,Carl Junction,,West Plains,,False,False
 2026-10-29,Perryville,,Windsor (Imperial),,False,False
+2026-10-31,Savannah,,Chillicothe,,False,False
+2026-10-31,Excelsior Springs,,Maryville,,False,False
+2026-10-31,St. Pius X (Kansas City),,Guadalupe Centers Charter,,False,False
 2026-11-02,Frontier STEM,,Bishop LeBlond,,False,False
 2026-11-03,Northland Christian,,Cameron,,False,False
