@@ -1625,23 +1625,23 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-16,Fair Grove,1,Monett,3,False,False
 2026-10-16,Timberland,3,Orchard Farm,2,False,False
 2026-10-16,Gateway Science Charter,0,Principia,8,False,False
+2026-10-16,Knob Noster,0,Sacred Heart,2,False,False
 2026-10-16,University City,2,STEAM Academy,1,False,False
 2026-10-16,Winfield,2,Warrenton,4,False,False
 2026-10-16,Jennings,,McCluer North,,False,False
 2026-10-16,Rolla,,Parkview,,False,False
-2026-10-16,Knob Noster,,Sacred Heart,,False,False
 2026-10-17,Barstow,3,Father Tolton,7,False,False
 2026-10-17,Timberland,2,Ft. Zumwalt South,3,False,False
+2026-10-17,Logan-Rogersville,8,Kickapoo,0,False,False
 2026-10-17,Rock Bridge,3,Marquette,2,False,False
 2026-10-17,Hickman,2,Moberly,0,False,False
+2026-10-17,Priory,2,Notre Dame (Cape Girardeau),1,False,False
 2026-10-17,Chaminade College Prep,2,Oakville,1,False,False
+2026-10-17,Rockhurst,8,Ozark,,False,False
 2026-10-17,Springfield Catholic,2,Principia,1,False,False
 2026-10-17,Troy Buchanan,3,St. Mary's South Side,1,False,False
 2026-10-17,St. Pius X (Festus),2,St. Pius X (Kansas City),1,False,False
 2026-10-17,Washington,4,Union,1,False,False
-2026-10-17,Logan-Rogersville,,Kickapoo,,False,False
-2026-10-17,Priory,,Notre Dame (Cape Girardeau),,False,False
-2026-10-17,Rockhurst,,Ozark,,False,False
 2026-10-17,Paseo Academy,,Thomas Jefferson Independent Day,,False,False
 2026-10-19,Excelsior Springs,,Benton,,False,False
 2026-10-19,Gateway Science Charter,,Bishop DuBourg,,False,False
@@ -1794,6 +1794,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-22,Warrensburg,,Capital City,,False,False
 2026-10-22,Greenwood,,Cassville,,False,False
 2026-10-22,Perryville,,Central (Cape Girardeau),,False,False
+2026-10-22,Chaminade College Prep,,Christian Brothers College,,False,False
 2026-10-22,Boonville,,Christian Fellowship Sr. with Hallsville,,False,False
 2026-10-22,Parkway West,,Clayton,,False,False
 2026-10-22,Lone Jack,,Clinton,,False,False
@@ -2046,4 +2047,8 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-31,Excelsior Springs,,Maryville,,False,False
 2026-10-31,St. Pius X (Kansas City),,Guadalupe Centers Charter,,False,False
 2026-11-02,Frontier STEM,,Bishop LeBlond,,False,False
+2026-11-02,Christian Brothers College,,Ritenour,,False,False
+2026-11-02,De Smet Jesuit,,Francis Howell North,,False,False
+2026-11-02,Francis Howell Central,,Ft. Zumwalt North,,False,False
+2026-11-02,Francis Howell,,Pattonville,,False,False
 2026-11-03,Northland Christian,,Cameron,,False,False

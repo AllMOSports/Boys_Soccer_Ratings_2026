@@ -19405,17 +19405,6 @@
   },
   {
     "date": "2026-10-13",
-    "team1": "Bayless",
-    "team1_classified": true,
-    "score1": 0,
-    "team2": "MICDS(Saint Louis, MO)",
-    "team2_classified": false,
-    "score2": 6,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-13",
     "team1": "Southern Boone",
     "team1_classified": true,
     "score1": 7,
@@ -20901,6 +20890,17 @@
   },
   {
     "date": "2026-10-16",
+    "team1": "Knob Noster",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Sacred Heart",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-16",
     "team1": "University City",
     "team1_classified": true,
     "score1": 2,
@@ -20955,17 +20955,6 @@
     "overtime": false
   },
   {
-    "date": "2026-10-16",
-    "team1": "Knob Noster",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Sacred Heart",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
     "date": "2026-10-17",
     "team1": "Barstow",
     "team1_classified": true,
@@ -21000,6 +20989,17 @@
   },
   {
     "date": "2026-10-17",
+    "team1": "Logan-Rogersville",
+    "team1_classified": true,
+    "score1": 8,
+    "team2": "Kickapoo",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-17",
     "team1": "Rock Bridge",
     "team1_classified": true,
     "score1": 3,
@@ -21022,12 +21022,34 @@
   },
   {
     "date": "2026-10-17",
+    "team1": "Priory",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Notre Dame (Cape Girardeau)",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-17",
     "team1": "Chaminade College Prep",
     "team1_classified": true,
     "score1": 2,
     "team2": "Oakville",
     "team2_classified": true,
     "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-17",
+    "team1": "Rockhurst",
+    "team1_classified": true,
+    "score1": 8,
+    "team2": "Ozark",
+    "team2_classified": true,
+    "score2": null,
     "forfeit": false,
     "overtime": false
   },
@@ -21072,39 +21094,6 @@
     "team2": "Union",
     "team2_classified": true,
     "score2": 1,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-17",
-    "team1": "Logan-Rogersville",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Kickapoo",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-17",
-    "team1": "Priory",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Notre Dame (Cape Girardeau)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-17",
-    "team1": "Rockhurst",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Ozark",
-    "team2_classified": true,
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },
@@ -22995,6 +22984,17 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Central (Cape Girardeau)",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-22",
+    "team1": "Chaminade College Prep",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Christian Brothers College",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -25899,6 +25899,50 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Bishop LeBlond",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-02",
+    "team1": "Christian Brothers College",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Ritenour",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-02",
+    "team1": "De Smet Jesuit",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Francis Howell North",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-02",
+    "team1": "Francis Howell Central",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Ft. Zumwalt North",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-02",
+    "team1": "Francis Howell",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Pattonville",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
