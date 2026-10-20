@@ -1,5 +1,4 @@
 date,problem,team1,score1,team2,score2,both_classified
-2026-10-17,one team's score only,Rockhurst,8,Ozark,,True
 2026-09-03,no score,Maranatha Baptist,,Crocker,,False
 2026-09-16,no score,Raytown,,Winnetonka,,True
 2026-09-17,no score,Cardinal Ritter,,KIPP St. Louis Sr.,,False
@@ -9,10 +8,8 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-01,no score,Laquey with Richland,,Marshfield,,True
 2026-10-02,no score,Fair Grove,,Crocker,,True
 2026-10-13,no score,Cardinal Ritter,,KIPP St. Louis Sr.,,False
-2026-10-13,no score,Aurora,,McDonald County,,True
 2026-10-15,no score,KIPP St. Louis Sr.,,Cardinal Ritter,,False
 2026-10-15,no score,Smith-Cotton,,Marshall,,True
-2026-10-16,no score,Ozark,,"Blue Valley North(Lenexa , KS)",,False
 2026-10-16,no score,Jennings,,McCluer North,,True
-2026-10-16,no score,Rolla,,Parkview,,True
 2026-10-17,no score,Paseo Academy,,Thomas Jefferson Independent Day,,True
+2026-10-18,no score,Paseo Academy,,Thomas Jefferson Independent Day,,True
