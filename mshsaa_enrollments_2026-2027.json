@@ -1,0 +1,2386 @@
+{
+  "season": "2026-2027",
+  "source": "MSHSAA enrollments (MSHSAA_Enrollments_-_2026-2027.xlsx)",
+  "teams": [
+    {
+      "name": "Academie Lafayette",
+      "enrollment": 95
+    },
+    {
+      "name": "Adrian",
+      "enrollment": 161
+    },
+    {
+      "name": "Advance",
+      "enrollment": 82
+    },
+    {
+      "name": "Affton",
+      "enrollment": 580
+    },
+    {
+      "name": "Albany",
+      "enrollment": 83
+    },
+    {
+      "name": "Alton",
+      "enrollment": 134
+    },
+    {
+      "name": "Appleton City",
+      "enrollment": 87
+    },
+    {
+      "name": "Arcadia Valley",
+      "enrollment": 238
+    },
+    {
+      "name": "Archie",
+      "enrollment": 110
+    },
+    {
+      "name": "Ash Grove",
+      "enrollment": 155
+    },
+    {
+      "name": "Atlanta",
+      "enrollment": 44
+    },
+    {
+      "name": "Aurora",
+      "enrollment": 432
+    },
+    {
+      "name": "Ava",
+      "enrollment": 290
+    },
+    {
+      "name": "Bakersfield",
+      "enrollment": 104
+    },
+    {
+      "name": "Ballard",
+      "enrollment": 35
+    },
+    {
+      "name": "Barstow",
+      "enrollment": 164
+    },
+    {
+      "name": "Battle",
+      "enrollment": 1027
+    },
+    {
+      "name": "Bayless",
+      "enrollment": 452
+    },
+    {
+      "name": "Believe Acad Charter",
+      "enrollment": 208
+    },
+    {
+      "name": "Bell City",
+      "enrollment": 50
+    },
+    {
+      "name": "Belle",
+      "enrollment": 138
+    },
+    {
+      "name": "Belton",
+      "enrollment": 951
+    },
+    {
+      "name": "Benton",
+      "enrollment": 728
+    },
+    {
+      "name": "Bernie",
+      "enrollment": 104
+    },
+    {
+      "name": "Bevier",
+      "enrollment": 44
+    },
+    {
+      "name": "Billings",
+      "enrollment": 75
+    },
+    {
+      "name": "Bishop DuBourg",
+      "enrollment": 136
+    },
+    {
+      "name": "Bishop LeBlond",
+      "enrollment": 113
+    },
+    {
+      "name": "Bismarck",
+      "enrollment": 90
+    },
+    {
+      "name": "Blair Oaks",
+      "enrollment": 286
+    },
+    {
+      "name": "Bloomfield",
+      "enrollment": 126
+    },
+    {
+      "name": "Blue Eye",
+      "enrollment": 127
+    },
+    {
+      "name": "Blue Springs",
+      "enrollment": 1828
+    },
+    {
+      "name": "Blue Springs South",
+      "enrollment": 1653
+    },
+    {
+      "name": "Bolivar",
+      "enrollment": 543
+    },
+    {
+      "name": "Boonville",
+      "enrollment": 372
+    },
+    {
+      "name": "Bosworth",
+      "enrollment": 4
+    },
+    {
+      "name": "Bourbon",
+      "enrollment": 183
+    },
+    {
+      "name": "Bowling Green",
+      "enrollment": 284
+    },
+    {
+      "name": "Bradleyville",
+      "enrollment": 43
+    },
+    {
+      "name": "Branson",
+      "enrollment": 1080
+    },
+    {
+      "name": "Brashear",
+      "enrollment": 31
+    },
+    {
+      "name": "Braymer",
+      "enrollment": 54
+    },
+    {
+      "name": "Breckenridge",
+      "enrollment": 10
+    },
+    {
+      "name": "Brentwood",
+      "enrollment": 152
+    },
+    {
+      "name": "Bronaugh",
+      "enrollment": 29
+    },
+    {
+      "name": "Brookfield",
+      "enrollment": 194
+    },
+    {
+      "name": "Brunswick",
+      "enrollment": 66
+    },
+    {
+      "name": "Bucklin",
+      "enrollment": 22
+    },
+    {
+      "name": "Buffalo",
+      "enrollment": 310
+    },
+    {
+      "name": "Bunceton",
+      "enrollment": 20
+    },
+    {
+      "name": "Bunker",
+      "enrollment": 45
+    },
+    {
+      "name": "Butler",
+      "enrollment": 201
+    },
+    {
+      "name": "CALE HS",
+      "enrollment": 14
+    },
+    {
+      "name": "Cabool",
+      "enrollment": 138
+    },
+    {
+      "name": "Cainsville",
+      "enrollment": 15
+    },
+    {
+      "name": "California",
+      "enrollment": 307
+    },
+    {
+      "name": "Calvary Lutheran",
+      "enrollment": 92
+    },
+    {
+      "name": "Camdenton",
+      "enrollment": 890
+    },
+    {
+      "name": "Cameron",
+      "enrollment": 324
+    },
+    {
+      "name": "Campbell",
+      "enrollment": 115
+    },
+    {
+      "name": "Canton",
+      "enrollment": 116
+    },
+    {
+      "name": "Capital City",
+      "enrollment": 961
+    },
+    {
+      "name": "Cardinal Ritter",
+      "enrollment": 345
+    },
+    {
+      "name": "Carl Junction",
+      "enrollment": 677
+    },
+    {
+      "name": "Carrollton",
+      "enrollment": 173
+    },
+    {
+      "name": "Carthage",
+      "enrollment": 1092
+    },
+    {
+      "name": "Caruthersville",
+      "enrollment": 201
+    },
+    {
+      "name": "Cassville",
+      "enrollment": 412
+    },
+    {
+      "name": "Center",
+      "enrollment": 459
+    },
+    {
+      "name": "Central (Cape Girardeau)",
+      "enrollment": 915
+    },
+    {
+      "name": "Central (Kansas City)",
+      "enrollment": 521
+    },
+    {
+      "name": "Central (New Madrid County)",
+      "enrollment": 259
+    },
+    {
+      "name": "Central (Park Hills)",
+      "enrollment": 419
+    },
+    {
+      "name": "Central (Springfield)",
+      "enrollment": 957
+    },
+    {
+      "name": "Central (St. Joseph)",
+      "enrollment": 1382
+    },
+    {
+      "name": "Central Visual and Performing Arts",
+      "enrollment": 203
+    },
+    {
+      "name": "Centralia",
+      "enrollment": 303
+    },
+    {
+      "name": "Chadwick",
+      "enrollment": 60
+    },
+    {
+      "name": "Chaffee",
+      "enrollment": 138
+    },
+    {
+      "name": "Chaminade College Prep",
+      "enrollment": 836
+    },
+    {
+      "name": "Chamois",
+      "enrollment": 30
+    },
+    {
+      "name": "Charleston",
+      "enrollment": 142
+    },
+    {
+      "name": "Chilhowee",
+      "enrollment": 37
+    },
+    {
+      "name": "Chillicothe",
+      "enrollment": 383
+    },
+    {
+      "name": "Christian Brothers College",
+      "enrollment": 1222
+    },
+    {
+      "name": "Christian Fellowship Sr.",
+      "enrollment": 75
+    },
+    {
+      "name": "Clark County",
+      "enrollment": 225
+    },
+    {
+      "name": "Clarkton",
+      "enrollment": 69
+    },
+    {
+      "name": "Clayton",
+      "enrollment": 607
+    },
+    {
+      "name": "Clearwater",
+      "enrollment": 182
+    },
+    {
+      "name": "Clever",
+      "enrollment": 303
+    },
+    {
+      "name": "Climax Springs",
+      "enrollment": 46
+    },
+    {
+      "name": "Clinton",
+      "enrollment": 425
+    },
+    {
+      "name": "Clopton",
+      "enrollment": 115
+    },
+    {
+      "name": "Cole Camp",
+      "enrollment": 182
+    },
+    {
+      "name": "Collegiate School of Med-Bio Science",
+      "enrollment": 232
+    },
+    {
+      "name": "Columbia Independent",
+      "enrollment": 64
+    },
+    {
+      "name": "Community",
+      "enrollment": 73
+    },
+    {
+      "name": "Concordia",
+      "enrollment": 98
+    },
+    {
+      "name": "Confluence Prep Academy Charter",
+      "enrollment": 292
+    },
+    {
+      "name": "Conway",
+      "enrollment": 182
+    },
+    {
+      "name": "Cooter",
+      "enrollment": 61
+    },
+    {
+      "name": "Cor Jesu Academy",
+      "enrollment": 894
+    },
+    {
+      "name": "Couch",
+      "enrollment": 42
+    },
+    {
+      "name": "Craig",
+      "enrollment": 20
+    },
+    {
+      "name": "Crane",
+      "enrollment": 119
+    },
+    {
+      "name": "Crest Ridge",
+      "enrollment": 124
+    },
+    {
+      "name": "Cristo Rey",
+      "enrollment": 163
+    },
+    {
+      "name": "Crocker",
+      "enrollment": 120
+    },
+    {
+      "name": "Crossroads College Preparatory",
+      "enrollment": 65
+    },
+    {
+      "name": "Crossroads Prep Charter",
+      "enrollment": 242
+    },
+    {
+      "name": "Crystal City",
+      "enrollment": 107
+    },
+    {
+      "name": "Cuba",
+      "enrollment": 272
+    },
+    {
+      "name": "Dadeville",
+      "enrollment": 48
+    },
+    {
+      "name": "De Smet Jesuit",
+      "enrollment": 968
+    },
+    {
+      "name": "DeKalb",
+      "enrollment": 58
+    },
+    {
+      "name": "DeLaSalle Charter (KC)",
+      "enrollment": 116
+    },
+    {
+      "name": "DeSoto",
+      "enrollment": 576
+    },
+    {
+      "name": "Delta",
+      "enrollment": 49
+    },
+    {
+      "name": "Delta (Deering)",
+      "enrollment": 46
+    },
+    {
+      "name": "Dexter",
+      "enrollment": 413
+    },
+    {
+      "name": "Diamond",
+      "enrollment": 162
+    },
+    {
+      "name": "Dixon",
+      "enrollment": 179
+    },
+    {
+      "name": "Doniphan",
+      "enrollment": 353
+    },
+    {
+      "name": "Dora",
+      "enrollment": 86
+    },
+    {
+      "name": "Drexel",
+      "enrollment": 57
+    },
+    {
+      "name": "Duchesne",
+      "enrollment": 201
+    },
+    {
+      "name": "East (Kansas City)",
+      "enrollment": 588
+    },
+    {
+      "name": "East Buchanan",
+      "enrollment": 170
+    },
+    {
+      "name": "East Carter",
+      "enrollment": 135
+    },
+    {
+      "name": "East Newton",
+      "enrollment": 290
+    },
+    {
+      "name": "East Prairie",
+      "enrollment": 225
+    },
+    {
+      "name": "El Dorado Springs",
+      "enrollment": 231
+    },
+    {
+      "name": "Eldon",
+      "enrollment": 414
+    },
+    {
+      "name": "Ellington",
+      "enrollment": 93
+    },
+    {
+      "name": "Elsberry",
+      "enrollment": 181
+    },
+    {
+      "name": "Eminence",
+      "enrollment": 70
+    },
+    {
+      "name": "Eugene",
+      "enrollment": 127
+    },
+    {
+      "name": "Eureka",
+      "enrollment": 1126
+    },
+    {
+      "name": "Everton",
+      "enrollment": 41
+    },
+    {
+      "name": "Ewing Marion Kauffman",
+      "enrollment": 309
+    },
+    {
+      "name": "Excelsior Springs",
+      "enrollment": 533
+    },
+    {
+      "name": "Exeter",
+      "enrollment": 80
+    },
+    {
+      "name": "Fair Grove",
+      "enrollment": 268
+    },
+    {
+      "name": "Fair Play",
+      "enrollment": 54
+    },
+    {
+      "name": "Fairfax",
+      "enrollment": 34
+    },
+    {
+      "name": "Faith Christian Academy",
+      "enrollment": 66
+    },
+    {
+      "name": "Faith Walk",
+      "enrollment": 1
+    },
+    {
+      "name": "Farmington",
+      "enrollment": 985
+    },
+    {
+      "name": "Father Tolton",
+      "enrollment": 262
+    },
+    {
+      "name": "Fatima",
+      "enrollment": 251
+    },
+    {
+      "name": "Fayette",
+      "enrollment": 148
+    },
+    {
+      "name": "Festus",
+      "enrollment": 755
+    },
+    {
+      "name": "Fordland",
+      "enrollment": 136
+    },
+    {
+      "name": "Forsyth",
+      "enrollment": 280
+    },
+    {
+      "name": "Fort Osage",
+      "enrollment": 1105
+    },
+    {
+      "name": "Fox",
+      "enrollment": 1161
+    },
+    {
+      "name": "Francis Howell",
+      "enrollment": 1310
+    },
+    {
+      "name": "Francis Howell Central",
+      "enrollment": 1308
+    },
+    {
+      "name": "Francis Howell North",
+      "enrollment": 1305
+    },
+    {
+      "name": "Frederick Douglass",
+      "enrollment": 138
+    },
+    {
+      "name": "Fredericktown",
+      "enrollment": 425
+    },
+    {
+      "name": "Frontier STEM",
+      "enrollment": 305
+    },
+    {
+      "name": "Frontier School of Excellence Charter",
+      "enrollment": 114
+    },
+    {
+      "name": "Ft. Zumwalt East",
+      "enrollment": 868
+    },
+    {
+      "name": "Ft. Zumwalt North",
+      "enrollment": 1144
+    },
+    {
+      "name": "Ft. Zumwalt South",
+      "enrollment": 884
+    },
+    {
+      "name": "Ft. Zumwalt West",
+      "enrollment": 1186
+    },
+    {
+      "name": "Fulton",
+      "enrollment": 463
+    },
+    {
+      "name": "Gainesville",
+      "enrollment": 141
+    },
+    {
+      "name": "Galena",
+      "enrollment": 77
+    },
+    {
+      "name": "Gallatin",
+      "enrollment": 108
+    },
+    {
+      "name": "Gateway",
+      "enrollment": 692
+    },
+    {
+      "name": "Gateway Science Charter",
+      "enrollment": 434
+    },
+    {
+      "name": "Gideon",
+      "enrollment": 47
+    },
+    {
+      "name": "Gilman City",
+      "enrollment": 31
+    },
+    {
+      "name": "Glasgow",
+      "enrollment": 93
+    },
+    {
+      "name": "Glendale",
+      "enrollment": 1046
+    },
+    {
+      "name": "Gloria Deo Academy",
+      "enrollment": 94
+    },
+    {
+      "name": "Golden City",
+      "enrollment": 34
+    },
+    {
+      "name": "Grain Valley",
+      "enrollment": 1121
+    },
+    {
+      "name": "Grand Center Arts Charter",
+      "enrollment": 318
+    },
+    {
+      "name": "Grandview",
+      "enrollment": 855
+    },
+    {
+      "name": "Grandview (Hillsboro)",
+      "enrollment": 173
+    },
+    {
+      "name": "Green City",
+      "enrollment": 58
+    },
+    {
+      "name": "Green Ridge",
+      "enrollment": 87
+    },
+    {
+      "name": "Greenfield",
+      "enrollment": 75
+    },
+    {
+      "name": "Greenville",
+      "enrollment": 146
+    },
+    {
+      "name": "Greenwood",
+      "enrollment": 120
+    },
+    {
+      "name": "Grundy County",
+      "enrollment": 28
+    },
+    {
+      "name": "Guadalupe Centers Charter",
+      "enrollment": 384
+    },
+    {
+      "name": "Hale",
+      "enrollment": 24
+    },
+    {
+      "name": "Halfway",
+      "enrollment": 67
+    },
+    {
+      "name": "Hallsville",
+      "enrollment": 349
+    },
+    {
+      "name": "Hancock",
+      "enrollment": 260
+    },
+    {
+      "name": "Hannibal",
+      "enrollment": 741
+    },
+    {
+      "name": "Hardin-Central",
+      "enrollment": 52
+    },
+    {
+      "name": "Harrisburg",
+      "enrollment": 131
+    },
+    {
+      "name": "Harrisonville",
+      "enrollment": 578
+    },
+    {
+      "name": "Hartville",
+      "enrollment": 141
+    },
+    {
+      "name": "Hayti",
+      "enrollment": 112
+    },
+    {
+      "name": "Hazelwood Central",
+      "enrollment": 1173
+    },
+    {
+      "name": "Hazelwood East",
+      "enrollment": 921
+    },
+    {
+      "name": "Hazelwood West",
+      "enrollment": 1414
+    },
+    {
+      "name": "Helias Catholic",
+      "enrollment": 502
+    },
+    {
+      "name": "Herculaneum",
+      "enrollment": 335
+    },
+    {
+      "name": "Hermann",
+      "enrollment": 216
+    },
+    {
+      "name": "Hermitage",
+      "enrollment": 69
+    },
+    {
+      "name": "Hickman",
+      "enrollment": 1516
+    },
+    {
+      "name": "Higbee",
+      "enrollment": 51
+    },
+    {
+      "name": "Highland",
+      "enrollment": 183
+    },
+    {
+      "name": "Hillcrest",
+      "enrollment": 808
+    },
+    {
+      "name": "Hillsboro",
+      "enrollment": 754
+    },
+    {
+      "name": "Hiram Neuwoehner",
+      "enrollment": 65
+    },
+    {
+      "name": "Hogan Prep Academy Charter",
+      "enrollment": 231
+    },
+    {
+      "name": "Holcomb",
+      "enrollment": 95
+    },
+    {
+      "name": "Holden",
+      "enrollment": 270
+    },
+    {
+      "name": "Hollister",
+      "enrollment": 369
+    },
+    {
+      "name": "Holt",
+      "enrollment": 736
+    },
+    {
+      "name": "Houston",
+      "enrollment": 239
+    },
+    {
+      "name": "Humansville",
+      "enrollment": 94
+    },
+    {
+      "name": "Hume",
+      "enrollment": 27
+    },
+    {
+      "name": "Hurley",
+      "enrollment": 41
+    },
+    {
+      "name": "Iberia",
+      "enrollment": 132
+    },
+    {
+      "name": "Incarnate Word Academy",
+      "enrollment": 342
+    },
+    {
+      "name": "Jackson",
+      "enrollment": 1294
+    },
+    {
+      "name": "Jamestown",
+      "enrollment": 43
+    },
+    {
+      "name": "Jasper",
+      "enrollment": 88
+    },
+    {
+      "name": "Jefferson (Conception)",
+      "enrollment": 24
+    },
+    {
+      "name": "Jefferson (Festus)",
+      "enrollment": 242
+    },
+    {
+      "name": "Jefferson City",
+      "enrollment": 980
+    },
+    {
+      "name": "Jennings",
+      "enrollment": 524
+    },
+    {
+      "name": "John Burroughs",
+      "enrollment": 345
+    },
+    {
+      "name": "Joplin",
+      "enrollment": 1652
+    },
+    {
+      "name": "KIPP KC Legacy",
+      "enrollment": 220
+    },
+    {
+      "name": "KIPP St. Louis Sr.",
+      "enrollment": 219
+    },
+    {
+      "name": "Kairos Charter",
+      "enrollment": 194
+    },
+    {
+      "name": "Kearney",
+      "enrollment": 790
+    },
+    {
+      "name": "Kelly",
+      "enrollment": 210
+    },
+    {
+      "name": "Kennett",
+      "enrollment": 381
+    },
+    {
+      "name": "Keytesville",
+      "enrollment": 23
+    },
+    {
+      "name": "Kickapoo",
+      "enrollment": 1418
+    },
+    {
+      "name": "King City",
+      "enrollment": 76
+    },
+    {
+      "name": "Kingston",
+      "enrollment": 198
+    },
+    {
+      "name": "Kingsville",
+      "enrollment": 61
+    },
+    {
+      "name": "Kirksville",
+      "enrollment": 547
+    },
+    {
+      "name": "Kirkwood",
+      "enrollment": 1262
+    },
+    {
+      "name": "Knob Noster",
+      "enrollment": 493
+    },
+    {
+      "name": "Knox County",
+      "enrollment": 90
+    },
+    {
+      "name": "Koshkonong",
+      "enrollment": 74
+    },
+    {
+      "name": "La Monte",
+      "enrollment": 69
+    },
+    {
+      "name": "La Plata",
+      "enrollment": 61
+    },
+    {
+      "name": "Ladue Horton Watkins",
+      "enrollment": 1072
+    },
+    {
+      "name": "Lafayette (Wildwood)",
+      "enrollment": 1236
+    },
+    {
+      "name": "Lafayette County",
+      "enrollment": 205
+    },
+    {
+      "name": "Lakeland",
+      "enrollment": 75
+    },
+    {
+      "name": "Lamar",
+      "enrollment": 266
+    },
+    {
+      "name": "Laquey",
+      "enrollment": 124
+    },
+    {
+      "name": "Lathrop",
+      "enrollment": 190
+    },
+    {
+      "name": "Lawson",
+      "enrollment": 268
+    },
+    {
+      "name": "Lebanon",
+      "enrollment": 973
+    },
+    {
+      "name": "Lee's Summit",
+      "enrollment": 1420
+    },
+    {
+      "name": "Lee's Summit North",
+      "enrollment": 1325
+    },
+    {
+      "name": "Lee's Summit West",
+      "enrollment": 1462
+    },
+    {
+      "name": "Leeton",
+      "enrollment": 71
+    },
+    {
+      "name": "Leopold",
+      "enrollment": 51
+    },
+    {
+      "name": "Lesterville",
+      "enrollment": 31
+    },
+    {
+      "name": "Lexington",
+      "enrollment": 200
+    },
+    {
+      "name": "Liberal",
+      "enrollment": 60
+    },
+    {
+      "name": "Liberty",
+      "enrollment": 1315
+    },
+    {
+      "name": "Liberty (Mountain View)",
+      "enrollment": 243
+    },
+    {
+      "name": "Liberty (Wentzville)",
+      "enrollment": 1276
+    },
+    {
+      "name": "Liberty North",
+      "enrollment": 1638
+    },
+    {
+      "name": "Licking",
+      "enrollment": 222
+    },
+    {
+      "name": "Lift for Life Academy Charter",
+      "enrollment": 285
+    },
+    {
+      "name": "Lincoln",
+      "enrollment": 114
+    },
+    {
+      "name": "Lincoln College Prep",
+      "enrollment": 822
+    },
+    {
+      "name": "Lindbergh",
+      "enrollment": 1779
+    },
+    {
+      "name": "Linn",
+      "enrollment": 159
+    },
+    {
+      "name": "Linn County",
+      "enrollment": 41
+    },
+    {
+      "name": "Lockwood",
+      "enrollment": 86
+    },
+    {
+      "name": "Logan-Rogersville",
+      "enrollment": 587
+    },
+    {
+      "name": "Lone Jack",
+      "enrollment": 154
+    },
+    {
+      "name": "Louisiana",
+      "enrollment": 143
+    },
+    {
+      "name": "Lutheran (Kansas City)",
+      "enrollment": 75
+    },
+    {
+      "name": "Lutheran North",
+      "enrollment": 173
+    },
+    {
+      "name": "Lutheran South",
+      "enrollment": 462
+    },
+    {
+      "name": "Lutheran St. Charles",
+      "enrollment": 356
+    },
+    {
+      "name": "Lutie",
+      "enrollment": 42
+    },
+    {
+      "name": "MICDS",
+      "enrollment": 444
+    },
+    {
+      "name": "Macks Creek",
+      "enrollment": 79
+    },
+    {
+      "name": "Macon",
+      "enrollment": 312
+    },
+    {
+      "name": "Macon County",
+      "enrollment": 20
+    },
+    {
+      "name": "Madison",
+      "enrollment": 43
+    },
+    {
+      "name": "Malden",
+      "enrollment": 153
+    },
+    {
+      "name": "Malta Bend",
+      "enrollment": 19
+    },
+    {
+      "name": "Mansfield",
+      "enrollment": 121
+    },
+    {
+      "name": "Maplewood-Richmond Hts.",
+      "enrollment": 316
+    },
+    {
+      "name": "Marceline",
+      "enrollment": 139
+    },
+    {
+      "name": "Marion C. Early",
+      "enrollment": 127
+    },
+    {
+      "name": "Marion County",
+      "enrollment": 38
+    },
+    {
+      "name": "Marionville",
+      "enrollment": 163
+    },
+    {
+      "name": "Mark Twain",
+      "enrollment": 183
+    },
+    {
+      "name": "Marquand-Zion",
+      "enrollment": 28
+    },
+    {
+      "name": "Marquette",
+      "enrollment": 1577
+    },
+    {
+      "name": "Marshall",
+      "enrollment": 583
+    },
+    {
+      "name": "Marshfield",
+      "enrollment": 638
+    },
+    {
+      "name": "Maryville",
+      "enrollment": 392
+    },
+    {
+      "name": "Maysville",
+      "enrollment": 128
+    },
+    {
+      "name": "McAuley Catholic",
+      "enrollment": 62
+    },
+    {
+      "name": "McCluer",
+      "enrollment": 897
+    },
+    {
+      "name": "McCluer North",
+      "enrollment": 821
+    },
+    {
+      "name": "McDonald County",
+      "enrollment": 725
+    },
+    {
+      "name": "McKinley Classical Leadership",
+      "enrollment": 201
+    },
+    {
+      "name": "Meadow Heights",
+      "enrollment": 101
+    },
+    {
+      "name": "Meadville",
+      "enrollment": 48
+    },
+    {
+      "name": "Mehlville",
+      "enrollment": 1038
+    },
+    {
+      "name": "Mercer",
+      "enrollment": 28
+    },
+    {
+      "name": "Metro",
+      "enrollment": 243
+    },
+    {
+      "name": "Mexico",
+      "enrollment": 519
+    },
+    {
+      "name": "Miami (Amoret)",
+      "enrollment": 37
+    },
+    {
+      "name": "Mid-Buchanan",
+      "enrollment": 193
+    },
+    {
+      "name": "Midway",
+      "enrollment": 104
+    },
+    {
+      "name": "Milan",
+      "enrollment": 130
+    },
+    {
+      "name": "Miller",
+      "enrollment": 148
+    },
+    {
+      "name": "Miller Career Academy",
+      "enrollment": 258
+    },
+    {
+      "name": "Miriam",
+      "enrollment": 38
+    },
+    {
+      "name": "Missouri Military Academy",
+      "enrollment": 244
+    },
+    {
+      "name": "Missouri School for the Blind",
+      "enrollment": 17
+    },
+    {
+      "name": "Missouri School for the Deaf",
+      "enrollment": 16
+    },
+    {
+      "name": "Moberly",
+      "enrollment": 480
+    },
+    {
+      "name": "Monett",
+      "enrollment": 526
+    },
+    {
+      "name": "Monroe City",
+      "enrollment": 227
+    },
+    {
+      "name": "Montgomery County",
+      "enrollment": 251
+    },
+    {
+      "name": "Montrose",
+      "enrollment": 22
+    },
+    {
+      "name": "Mound City",
+      "enrollment": 64
+    },
+    {
+      "name": "Mountain Grove",
+      "enrollment": 340
+    },
+    {
+      "name": "Mt. Vernon",
+      "enrollment": 344
+    },
+    {
+      "name": "Naylor",
+      "enrollment": 80
+    },
+    {
+      "name": "Neelyville",
+      "enrollment": 135
+    },
+    {
+      "name": "Neosho",
+      "enrollment": 1082
+    },
+    {
+      "name": "Neosho Christian",
+      "enrollment": 14
+    },
+    {
+      "name": "Nerinx Hall",
+      "enrollment": 916
+    },
+    {
+      "name": "Nevada",
+      "enrollment": 479
+    },
+    {
+      "name": "New Bloomfield",
+      "enrollment": 139
+    },
+    {
+      "name": "New Covenant Academy",
+      "enrollment": 167
+    },
+    {
+      "name": "New Franklin",
+      "enrollment": 73
+    },
+    {
+      "name": "New Haven",
+      "enrollment": 109
+    },
+    {
+      "name": "New Heights Christian",
+      "enrollment": 134
+    },
+    {
+      "name": "Newburg",
+      "enrollment": 67
+    },
+    {
+      "name": "Newtown-Harris",
+      "enrollment": 15
+    },
+    {
+      "name": "Niangua",
+      "enrollment": 45
+    },
+    {
+      "name": "Nixa",
+      "enrollment": 1532
+    },
+    {
+      "name": "Nodaway-Holt",
+      "enrollment": 46
+    },
+    {
+      "name": "Norborne",
+      "enrollment": 29
+    },
+    {
+      "name": "Normandy Collaborative",
+      "enrollment": 460
+    },
+    {
+      "name": "North Andrew",
+      "enrollment": 68
+    },
+    {
+      "name": "North Callaway",
+      "enrollment": 240
+    },
+    {
+      "name": "North County",
+      "enrollment": 533
+    },
+    {
+      "name": "North Daviess",
+      "enrollment": 18
+    },
+    {
+      "name": "North Harrison",
+      "enrollment": 48
+    },
+    {
+      "name": "North Kansas City",
+      "enrollment": 1291
+    },
+    {
+      "name": "North Nodaway",
+      "enrollment": 35
+    },
+    {
+      "name": "North Pemiscot",
+      "enrollment": 53
+    },
+    {
+      "name": "North Platte",
+      "enrollment": 137
+    },
+    {
+      "name": "North Point",
+      "enrollment": 1082
+    },
+    {
+      "name": "North Shelby",
+      "enrollment": 68
+    },
+    {
+      "name": "Northeast (Cairo)",
+      "enrollment": 66
+    },
+    {
+      "name": "Northeast (Kansas City)",
+      "enrollment": 614
+    },
+    {
+      "name": "Northeast Nodaway",
+      "enrollment": 34
+    },
+    {
+      "name": "Northeast Vernon County",
+      "enrollment": 36
+    },
+    {
+      "name": "Northland Christian",
+      "enrollment": 106
+    },
+    {
+      "name": "Northview",
+      "enrollment": 73
+    },
+    {
+      "name": "Northwest (Cedar Hill)",
+      "enrollment": 1282
+    },
+    {
+      "name": "Northwest (Hughesville)",
+      "enrollment": 79
+    },
+    {
+      "name": "Northwestern (Mendon)",
+      "enrollment": 19
+    },
+    {
+      "name": "Norwood",
+      "enrollment": 83
+    },
+    {
+      "name": "Notre Dame (Cape Girardeau)",
+      "enrollment": 325
+    },
+    {
+      "name": "Notre Dame (St. Louis)",
+      "enrollment": 364
+    },
+    {
+      "name": "Notre Dame de Sion",
+      "enrollment": 492
+    },
+    {
+      "name": "Novinger",
+      "enrollment": 37
+    },
+    {
+      "name": "Oak Grove",
+      "enrollment": 448
+    },
+    {
+      "name": "Oak Park",
+      "enrollment": 1323
+    },
+    {
+      "name": "Oak Ridge",
+      "enrollment": 80
+    },
+    {
+      "name": "Oakville",
+      "enrollment": 1295
+    },
+    {
+      "name": "Odessa",
+      "enrollment": 485
+    },
+    {
+      "name": "Oran",
+      "enrollment": 82
+    },
+    {
+      "name": "Orchard Farm",
+      "enrollment": 546
+    },
+    {
+      "name": "Orrick",
+      "enrollment": 59
+    },
+    {
+      "name": "Osage",
+      "enrollment": 482
+    },
+    {
+      "name": "Osborn",
+      "enrollment": 31
+    },
+    {
+      "name": "Osceola",
+      "enrollment": 115
+    },
+    {
+      "name": "Otterville",
+      "enrollment": 54
+    },
+    {
+      "name": "Owensville",
+      "enrollment": 444
+    },
+    {
+      "name": "Ozark",
+      "enrollment": 1350
+    },
+    {
+      "name": "Pacific",
+      "enrollment": 670
+    },
+    {
+      "name": "Palmyra",
+      "enrollment": 232
+    },
+    {
+      "name": "Paris",
+      "enrollment": 126
+    },
+    {
+      "name": "Park Hill",
+      "enrollment": 1415
+    },
+    {
+      "name": "Park Hill South",
+      "enrollment": 1435
+    },
+    {
+      "name": "Parkview",
+      "enrollment": 924
+    },
+    {
+      "name": "Parkway Central",
+      "enrollment": 904
+    },
+    {
+      "name": "Parkway North",
+      "enrollment": 741
+    },
+    {
+      "name": "Parkway South",
+      "enrollment": 1135
+    },
+    {
+      "name": "Parkway West",
+      "enrollment": 1012
+    },
+    {
+      "name": "Paseo Academy",
+      "enrollment": 348
+    },
+    {
+      "name": "Pattonsburg",
+      "enrollment": 38
+    },
+    {
+      "name": "Pattonville",
+      "enrollment": 1513
+    },
+    {
+      "name": "Pembroke Hill",
+      "enrollment": 320
+    },
+    {
+      "name": "Penney",
+      "enrollment": 141
+    },
+    {
+      "name": "Perryville",
+      "enrollment": 447
+    },
+    {
+      "name": "Pierce City",
+      "enrollment": 156
+    },
+    {
+      "name": "Pilot Grove",
+      "enrollment": 79
+    },
+    {
+      "name": "Plato",
+      "enrollment": 139
+    },
+    {
+      "name": "Platte County",
+      "enrollment": 1011
+    },
+    {
+      "name": "Plattsburg",
+      "enrollment": 142
+    },
+    {
+      "name": "Pleasant Hill",
+      "enrollment": 573
+    },
+    {
+      "name": "Pleasant Hope",
+      "enrollment": 145
+    },
+    {
+      "name": "Polo",
+      "enrollment": 101
+    },
+    {
+      "name": "Poplar Bluff",
+      "enrollment": 1062
+    },
+    {
+      "name": "Portageville",
+      "enrollment": 156
+    },
+    {
+      "name": "Potosi",
+      "enrollment": 458
+    },
+    {
+      "name": "Prairie Home",
+      "enrollment": 34
+    },
+    {
+      "name": "Princeton",
+      "enrollment": 76
+    },
+    {
+      "name": "Principia",
+      "enrollment": 151
+    },
+    {
+      "name": "Priory",
+      "enrollment": 330
+    },
+    {
+      "name": "Purdy",
+      "enrollment": 124
+    },
+    {
+      "name": "Putnam County",
+      "enrollment": 132
+    },
+    {
+      "name": "Puxico",
+      "enrollment": 153
+    },
+    {
+      "name": "Raymore-Peculiar",
+      "enrollment": 1506
+    },
+    {
+      "name": "Raytown",
+      "enrollment": 961
+    },
+    {
+      "name": "Raytown South",
+      "enrollment": 738
+    },
+    {
+      "name": "Reeds Spring",
+      "enrollment": 418
+    },
+    {
+      "name": "Republic",
+      "enrollment": 1141
+    },
+    {
+      "name": "Rich Hill",
+      "enrollment": 83
+    },
+    {
+      "name": "Richland",
+      "enrollment": 110
+    },
+    {
+      "name": "Richland (Essex)",
+      "enrollment": 54
+    },
+    {
+      "name": "Richmond",
+      "enrollment": 344
+    },
+    {
+      "name": "Ridgeway",
+      "enrollment": 24
+    },
+    {
+      "name": "Risco",
+      "enrollment": 49
+    },
+    {
+      "name": "Ritenour",
+      "enrollment": 1389
+    },
+    {
+      "name": "Riverview Gardens",
+      "enrollment": 800
+    },
+    {
+      "name": "Rock Bridge",
+      "enrollment": 1477
+    },
+    {
+      "name": "Rock Port",
+      "enrollment": 88
+    },
+    {
+      "name": "Rockhurst",
+      "enrollment": 1306
+    },
+    {
+      "name": "Rockwood Summit",
+      "enrollment": 867
+    },
+    {
+      "name": "Rolla",
+      "enrollment": 998
+    },
+    {
+      "name": "Roosevelt",
+      "enrollment": 482
+    },
+    {
+      "name": "Rosati-Kain",
+      "enrollment": 142
+    },
+    {
+      "name": "Ruskin",
+      "enrollment": 1015
+    },
+    {
+      "name": "Russellville",
+      "enrollment": 114
+    },
+    {
+      "name": "SLUH",
+      "enrollment": 1498
+    },
+    {
+      "name": "STEAM Academy",
+      "enrollment": 339
+    },
+    {
+      "name": "Sacred Heart",
+      "enrollment": 57
+    },
+    {
+      "name": "Salem",
+      "enrollment": 411
+    },
+    {
+      "name": "Salisbury",
+      "enrollment": 132
+    },
+    {
+      "name": "Santa Fe",
+      "enrollment": 74
+    },
+    {
+      "name": "Sarcoxie",
+      "enrollment": 175
+    },
+    {
+      "name": "Savannah",
+      "enrollment": 515
+    },
+    {
+      "name": "Saxony Lutheran",
+      "enrollment": 212
+    },
+    {
+      "name": "School of the Ozarks",
+      "enrollment": 71
+    },
+    {
+      "name": "Schuyler County",
+      "enrollment": 107
+    },
+    {
+      "name": "Scotland County",
+      "enrollment": 128
+    },
+    {
+      "name": "Scott City",
+      "enrollment": 190
+    },
+    {
+      "name": "Scott County Central",
+      "enrollment": 52
+    },
+    {
+      "name": "Seckman",
+      "enrollment": 1272
+    },
+    {
+      "name": "Senath-Hornersville",
+      "enrollment": 148
+    },
+    {
+      "name": "Seneca",
+      "enrollment": 331
+    },
+    {
+      "name": "Seymour",
+      "enrollment": 169
+    },
+    {
+      "name": "Sheldon",
+      "enrollment": 38
+    },
+    {
+      "name": "Sherwood",
+      "enrollment": 155
+    },
+    {
+      "name": "Sikeston",
+      "enrollment": 716
+    },
+    {
+      "name": "Silex",
+      "enrollment": 120
+    },
+    {
+      "name": "Skyline",
+      "enrollment": 157
+    },
+    {
+      "name": "Slater",
+      "enrollment": 113
+    },
+    {
+      "name": "Smith-Cotton",
+      "enrollment": 1097
+    },
+    {
+      "name": "Smithton",
+      "enrollment": 100
+    },
+    {
+      "name": "Smithville",
+      "enrollment": 627
+    },
+    {
+      "name": "Soldan International Studies",
+      "enrollment": 167
+    },
+    {
+      "name": "South Callaway",
+      "enrollment": 180
+    },
+    {
+      "name": "South Harrison",
+      "enrollment": 168
+    },
+    {
+      "name": "South Holt",
+      "enrollment": 57
+    },
+    {
+      "name": "South Iron",
+      "enrollment": 64
+    },
+    {
+      "name": "South Nodaway",
+      "enrollment": 34
+    },
+    {
+      "name": "South Pemiscot",
+      "enrollment": 106
+    },
+    {
+      "name": "South Shelby",
+      "enrollment": 141
+    },
+    {
+      "name": "Southeast",
+      "enrollment": 381
+    },
+    {
+      "name": "Southern Boone",
+      "enrollment": 424
+    },
+    {
+      "name": "Southland",
+      "enrollment": 59
+    },
+    {
+      "name": "Southview",
+      "enrollment": 40
+    },
+    {
+      "name": "Southwest (Livingston County)",
+      "enrollment": 37
+    },
+    {
+      "name": "Southwest (Washburn)",
+      "enrollment": 157
+    },
+    {
+      "name": "Sparta",
+      "enrollment": 163
+    },
+    {
+      "name": "Spokane",
+      "enrollment": 149
+    },
+    {
+      "name": "Springfield Catholic",
+      "enrollment": 254
+    },
+    {
+      "name": "St. Charles",
+      "enrollment": 561
+    },
+    {
+      "name": "St. Charles West",
+      "enrollment": 488
+    },
+    {
+      "name": "St. Clair",
+      "enrollment": 479
+    },
+    {
+      "name": "St. Dominic",
+      "enrollment": 847
+    },
+    {
+      "name": "St. Elizabeth",
+      "enrollment": 51
+    },
+    {
+      "name": "St. Francis Borgia",
+      "enrollment": 339
+    },
+    {
+      "name": "St. James",
+      "enrollment": 334
+    },
+    {
+      "name": "St. Joseph Christian",
+      "enrollment": 125
+    },
+    {
+      "name": "St. Joseph's Academy",
+      "enrollment": 988
+    },
+    {
+      "name": "St. Mary's South Side",
+      "enrollment": 384
+    },
+    {
+      "name": "St. Michael the Archangel",
+      "enrollment": 357
+    },
+    {
+      "name": "St. Paul Lutheran (Concordia)",
+      "enrollment": 95
+    },
+    {
+      "name": "St. Paul Lutheran (Farmington)",
+      "enrollment": 38
+    },
+    {
+      "name": "St. Pius X (Festus)",
+      "enrollment": 232
+    },
+    {
+      "name": "St. Pius X (Kansas City)",
+      "enrollment": 394
+    },
+    {
+      "name": "St. Teresa's Academy",
+      "enrollment": 834
+    },
+    {
+      "name": "St. Vincent",
+      "enrollment": 85
+    },
+    {
+      "name": "Staley",
+      "enrollment": 1583
+    },
+    {
+      "name": "Stanberry",
+      "enrollment": 79
+    },
+    {
+      "name": "Ste. Genevieve",
+      "enrollment": 408
+    },
+    {
+      "name": "Steelville",
+      "enrollment": 192
+    },
+    {
+      "name": "Stewartsville",
+      "enrollment": 58
+    },
+    {
+      "name": "Stockton",
+      "enrollment": 206
+    },
+    {
+      "name": "Stoutland",
+      "enrollment": 72
+    },
+    {
+      "name": "Stover",
+      "enrollment": 198
+    },
+    {
+      "name": "Strafford",
+      "enrollment": 316
+    },
+    {
+      "name": "Sturgeon",
+      "enrollment": 90
+    },
+    {
+      "name": "Sullivan",
+      "enrollment": 533
+    },
+    {
+      "name": "Summersville",
+      "enrollment": 96
+    },
+    {
+      "name": "Summit Christian Academy",
+      "enrollment": 318
+    },
+    {
+      "name": "Sumner",
+      "enrollment": 229
+    },
+    {
+      "name": "Sweet Springs",
+      "enrollment": 99
+    },
+    {
+      "name": "Tarkio",
+      "enrollment": 69
+    },
+    {
+      "name": "Thayer",
+      "enrollment": 168
+    },
+    {
+      "name": "The Fulton School",
+      "enrollment": 18
+    },
+    {
+      "name": "The Summit Preparatory",
+      "enrollment": 21
+    },
+    {
+      "name": "Thomas Jefferson Independent Day",
+      "enrollment": 78
+    },
+    {
+      "name": "Timberland",
+      "enrollment": 1088
+    },
+    {
+      "name": "Tina-Avalon",
+      "enrollment": 33
+    },
+    {
+      "name": "Tipton",
+      "enrollment": 147
+    },
+    {
+      "name": "Trenton",
+      "enrollment": 235
+    },
+    {
+      "name": "Tri-County",
+      "enrollment": 27
+    },
+    {
+      "name": "Troy Buchanan",
+      "enrollment": 1601
+    },
+    {
+      "name": "Truman",
+      "enrollment": 1177
+    },
+    {
+      "name": "Tuscumbia",
+      "enrollment": 40
+    },
+    {
+      "name": "Twin Rivers",
+      "enrollment": 188
+    },
+    {
+      "name": "Union",
+      "enrollment": 662
+    },
+    {
+      "name": "Union Star",
+      "enrollment": 47
+    },
+    {
+      "name": "University Academy Charter",
+      "enrollment": 195
+    },
+    {
+      "name": "University City",
+      "enrollment": 656
+    },
+    {
+      "name": "Ursuline Academy",
+      "enrollment": 588
+    },
+    {
+      "name": "Valle Catholic",
+      "enrollment": 90
+    },
+    {
+      "name": "Valley",
+      "enrollment": 95
+    },
+    {
+      "name": "Valley Park",
+      "enrollment": 149
+    },
+    {
+      "name": "Van Buren",
+      "enrollment": 109
+    },
+    {
+      "name": "Van Horn",
+      "enrollment": 815
+    },
+    {
+      "name": "Van-Far",
+      "enrollment": 115
+    },
+    {
+      "name": "Vashon",
+      "enrollment": 385
+    },
+    {
+      "name": "Veritas Christian Academy",
+      "enrollment": 172
+    },
+    {
+      "name": "Verona",
+      "enrollment": 71
+    },
+    {
+      "name": "Versailles",
+      "enrollment": 278
+    },
+    {
+      "name": "Vianney",
+      "enrollment": 818
+    },
+    {
+      "name": "Viburnum",
+      "enrollment": 75
+    },
+    {
+      "name": "Vienna",
+      "enrollment": 96
+    },
+    {
+      "name": "Villa Duchesne",
+      "enrollment": 350
+    },
+    {
+      "name": "Visitation Academy",
+      "enrollment": 392
+    },
+    {
+      "name": "Walnut Grove",
+      "enrollment": 57
+    },
+    {
+      "name": "Warrensburg",
+      "enrollment": 729
+    },
+    {
+      "name": "Warrenton",
+      "enrollment": 694
+    },
+    {
+      "name": "Warsaw",
+      "enrollment": 249
+    },
+    {
+      "name": "Washington",
+      "enrollment": 894
+    },
+    {
+      "name": "Waynesville",
+      "enrollment": 1230
+    },
+    {
+      "name": "Weaubleau",
+      "enrollment": 65
+    },
+    {
+      "name": "Webb City",
+      "enrollment": 1032
+    },
+    {
+      "name": "Webster Groves",
+      "enrollment": 928
+    },
+    {
+      "name": "Wellington-Napoleon",
+      "enrollment": 87
+    },
+    {
+      "name": "Wellsville-Middletown",
+      "enrollment": 55
+    },
+    {
+      "name": "West County",
+      "enrollment": 230
+    },
+    {
+      "name": "West Nodaway",
+      "enrollment": 45
+    },
+    {
+      "name": "West Plains",
+      "enrollment": 827
+    },
+    {
+      "name": "West Platte",
+      "enrollment": 181
+    },
+    {
+      "name": "Westminster Christian Academy",
+      "enrollment": 528
+    },
+    {
+      "name": "Westran",
+      "enrollment": 130
+    },
+    {
+      "name": "Wheatland",
+      "enrollment": 63
+    },
+    {
+      "name": "Wheaton",
+      "enrollment": 89
+    },
+    {
+      "name": "Whitfield",
+      "enrollment": 215
+    },
+    {
+      "name": "Willard",
+      "enrollment": 1001
+    },
+    {
+      "name": "William Chrisman",
+      "enrollment": 1013
+    },
+    {
+      "name": "Willow Springs",
+      "enrollment": 243
+    },
+    {
+      "name": "Windsor",
+      "enrollment": 151
+    },
+    {
+      "name": "Windsor (Imperial)",
+      "enrollment": 678
+    },
+    {
+      "name": "Winfield",
+      "enrollment": 383
+    },
+    {
+      "name": "Winnetonka",
+      "enrollment": 947
+    },
+    {
+      "name": "Winona",
+      "enrollment": 110
+    },
+    {
+      "name": "Winston",
+      "enrollment": 29
+    },
+    {
+      "name": "Woodland",
+      "enrollment": 189
+    },
+    {
+      "name": "Worth County",
+      "enrollment": 61
+    },
+    {
+      "name": "Wright City",
+      "enrollment": 399
+    },
+    {
+      "name": "Zalma",
+      "enrollment": 41
+    }
+  ]
+}
