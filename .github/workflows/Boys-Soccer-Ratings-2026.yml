@@ -53,7 +53,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 pandas pillow fonttools brotli
+          pip install requests beautifulsoup4 pandas pillow fonttools brotli numpy
  
       - name: Check required input files
         run: |
@@ -75,6 +75,14 @@ jobs:
             sed -n '/TEAMS NOT INCLUDED IN RATINGS/,/^=====/p' ratings_log.txt >> "$GITHUB_STEP_SUMMARY"
           fi
  
+      # Size-adjusted ("per capita") rankings from the fresh ratings.
+      # Needs build_per_capita_2026.py + mshsaa_enrollments_2026-2027.json in
+      # the repo root. continue-on-error means a problem here never blocks the
+      # ratings/games data from pushing.
+      - name: Build size-adjusted rankings
+        continue-on-error: true
+        run: python build_per_capita_2026.py --sport boys_soccer
+ 
       # Rankings graphics (statewide + each class) from the fresh ratings.
       # Runs only if the ratings step succeeded. continue-on-error means a
       # graphics problem never blocks the ratings/games data from pushing.
@@ -95,6 +103,8 @@ jobs:
                   boys_soccer_games_2026_all.json boys_soccer_games_2026_all.csv \
                   boys_soccer_schedule_2026.json boys_soccer_schedule_2026.csv \
                   boys_soccer_missing_scores_2026.csv
+          # Size-adjusted rankings (skipped quietly if that step failed)
+          git add per_capita_boys_soccer_2026.json per_capita_boys_soccer_2026.csv 2>/dev/null || true
           # Rankings graphics (+ fonts, in case they were downloaded this run)
           git add graphics/*.png 2>/dev/null || true
           git add fonts/*.ttf 2>/dev/null || true
@@ -102,6 +112,6 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "Update Boys Soccer 2026 games, schedule, ratings, graphics ($(date -u +'%Y-%m-%d'))"
+          git commit -m "Update Boys Soccer 2026 games, schedule, ratings, per capita, graphics ($(date -u +'%Y-%m-%d'))"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
