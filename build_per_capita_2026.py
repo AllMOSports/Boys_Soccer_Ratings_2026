@@ -94,11 +94,11 @@ COOP_COMBINE = True
 # sport's private_factor. Public magnet schools (Metro, Lincoln College Prep,
 # Paseo, etc.) are treated as public. Edit as needed.
 PRIVATE_SCHOOLS = {
-    "Bishop DuBourg", "Bishop LeBlond", "Calvary Lutheran", "Cardinal Ritter",
+    "Barstow", "Bishop DuBourg", "Bishop LeBlond", "Calvary Lutheran", "Cardinal Ritter",
     "Chaminade College Prep", "Christian Brothers College",
     "Christian Fellowship Sr.", "Columbia Independent", "Cor Jesu Academy",
     "Cristo Rey", "Crossroads College Preparatory", "De Smet Jesuit",
-    "Duchesne", "Faith Christian Academy", "Father Tolton", "Gloria Deo Academy",
+    "Duchesne", "Faith Christian Academy", "Father Tolton", "Gloria Deo Academy", "Greenwood",
     "Helias Catholic", "Incarnate Word Academy", "John Burroughs",
     "Lutheran (Kansas City)", "Lutheran North", "Lutheran South",
     "Lutheran St. Charles", "MICDS", "McAuley Catholic",
