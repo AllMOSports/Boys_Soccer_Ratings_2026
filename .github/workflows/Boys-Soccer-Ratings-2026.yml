@@ -83,6 +83,18 @@ jobs:
         continue-on-error: true
         run: python build_per_capita_2026.py --sport boys_soccer
  
+      # Size-adjusted Top 10 graphic -> graphics/size_adjusted_rankings_boys_soccer_2026.png
+      # (picked up by the "git add graphics/*.png" line in the commit step).
+      # Skipped automatically if the size-adjusted step above failed.
+      - name: Build size-adjusted rankings graphic
+        continue-on-error: true
+        run: |
+          if [ -f per_capita_boys_soccer_2026.json ]; then
+            python build_per_capita_graphic_2026.py --sport boys_soccer
+          else
+            echo "No per_capita_boys_soccer_2026.json -- skipping graphic."
+          fi
+ 
       # Rankings graphics (statewide + each class) from the fresh ratings.
       # Runs only if the ratings step succeeded. continue-on-error means a
       # graphics problem never blocks the ratings/games data from pushing.
