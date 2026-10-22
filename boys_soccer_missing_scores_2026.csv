@@ -10,14 +10,12 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-13,no score,Cardinal Ritter,,KIPP St. Louis Sr.,,False
 2026-10-15,no score,KIPP St. Louis Sr.,,Cardinal Ritter,,False
 2026-10-15,no score,Smith-Cotton,,Marshall,,True
-2026-10-16,no score,Jennings,,McCluer North,,True
-2026-10-17,no score,Paseo Academy,,Thomas Jefferson Independent Day,,True
-2026-10-18,no score,Paseo Academy,,Thomas Jefferson Independent Day,,True
 2026-10-19,no score,Gateway Science Charter,,Bishop DuBourg,,True
-2026-10-19,no score,Valley Park,,Crossroads College Preparatory,,True
-2026-10-19,no score,Lebanon,,Fair Grove,,True
 2026-10-19,no score,Hazelwood East,,Jennings,,False
 2026-10-19,no score,Festus,,North County,,True
-2026-10-19,no score,Pattonville,,Seckman,,True
-2026-10-19,no score,Ruskin,,Smithville,,True
 2026-10-19,no score,Warrenton,,St. Louis United,,False
+2026-10-20,no score,Thomas Jefferson Independent Day,,Fair Grove,,True
+2026-10-20,no score,McCluer North,,Hazelwood West,,False
+2026-10-20,no score,Faith Christian Academy,,"Heritage Christian(Olathe, KS)",,False
+2026-10-20,no score,Bishop LeBlond,,Savannah,,True
+2026-10-20,no score,Whitfield,,Westminster Christian Academy,,True

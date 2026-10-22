@@ -1494,7 +1494,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-13,Park Hill,1,Lee's Summit,5
 2026-10-13,Blue Springs South,2,Lee's Summit West,0
 2026-10-13,Oak Park,0,Liberty,7
-2026-10-13,Blue Springs,1,Liberty North,1
 2026-10-13,Cristo Rey,0,Lincoln College Prep,8
 2026-10-13,Principia,2,Lutheran South,1
 2026-10-13,West Plains,2,Marshfield,0
@@ -1591,6 +1590,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-15,Washington,1,Orchard Farm,2
 2026-10-15,Park Hill,2,Park Hill South,4
 2026-10-15,Affton,7,Parkway North,1
+2026-10-15,Seckman,0,Parkway South,3
 2026-10-15,Frontier STEM,3,Paseo Academy,1
 2026-10-15,Ft. Zumwalt North,1,Pattonville,2
 2026-10-15,Lutheran South,1,Priory,5
@@ -1639,6 +1639,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-19,Collegiate School of Med-Bio Science with McKinley Classical Leadership,1,Brentwood,0
 2026-10-19,Father Tolton,4,Camdenton,2
 2026-10-19,McDonald County,4,Carl Junction,3
+2026-10-19,Valley Park,5,Crossroads College Preparatory,3
 2026-10-19,Veritas Christian Academy,8,Elsberry,0
 2026-10-19,Belton,2,Fort Osage,3
 2026-10-19,De Smet Jesuit,4,Francis Howell North,0
@@ -1664,8 +1665,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-19,Fredericktown,2,Perryville,3
 2026-10-19,Jackson,5,Poplar Bluff,2
 2026-10-19,Maryville,0,Savannah,4
+2026-10-19,Pattonville,3,Seckman,1
 2026-10-19,Notre Dame (Cape Girardeau),10,Sikeston,2
 2026-10-19,Hillcrest,0,Smith-Cotton,6
+2026-10-19,Ruskin,1,Smithville,7
 2026-10-19,Duchesne,2,St. Charles,5
 2026-10-19,Kirkwood,2,St. Dominic,0
 2026-10-19,Eureka,5,St. Francis Borgia,0
@@ -1685,7 +1688,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-20,Jefferson City,3,Camdenton,7
 2026-10-20,Hickman,3,Capital City,2
 2026-10-20,Marshfield,0,Carl Junction,1
+2026-10-20,Webb City,3,Carthage,5
 2026-10-20,McDonald County,3,Cassville,7
+2026-10-20,Oak Park,0,Central (St. Joseph),1
 2026-10-20,Lindbergh,1,Chaminade College Prep,0
 2026-10-20,Sacred Heart,1,Chillicothe,3
 2026-10-20,Francis Howell North,0,Christian Brothers College,3
@@ -1694,37 +1699,56 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-20,Pacific,4,Elsberry,1
 2026-10-20,Laquey with Richland,2,Eugene,1
 2026-10-20,Calvary Lutheran,2,Fatima,4
+2026-10-20,Lone Jack,1,Fort Osage,6
 2026-10-20,Marquette,0,Francis Howell Central,1
 2026-10-20,Frontier STEM,3,Frontier School of Excellence Charter,2
+2026-10-20,Missouri Military Academy,0,Ft. Zumwalt North,1
 2026-10-20,Ft. Zumwalt West,2,Ft. Zumwalt South,1
 2026-10-20,Winfield,0,Fulton,1
 2026-10-20,New Covenant Academy,0,Greenwood,2
+2026-10-20,Northeast (Kansas City),8,Guadalupe Centers Charter,0
 2026-10-20,Center,1,Harrisonville,2
 2026-10-20,Rock Bridge,2,Helias Catholic,0
 2026-10-20,Festus,0,Hillsboro,1
 2026-10-20,Priory,4,John Burroughs,1
+2026-10-20,Marshall,0,Kirksville,2
 2026-10-20,Paseo Academy,4,La Monte,2
 2026-10-20,Blue Springs South,3,Lee's Summit,0
 2026-10-20,Liberty,5,Lee's Summit North,2
+2026-10-20,Van Horn,4,Lincoln College Prep,3
 2026-10-20,Bolivar,0,Logan-Rogersville,6
 2026-10-20,Northland Christian,0,Lutheran (Kansas City),3
+2026-10-20,North Point,2,Lutheran St. Charles,1
 2026-10-20,Wright City,1,Mexico,0
 2026-10-20,Lebanon,0,Nixa,8
 2026-10-20,Park Hill South,3,North Kansas City,0
+2026-10-20,Fox,1,Oakville,8
+2026-10-20,Collegiate School of Med-Bio Science with McKinley Classical Leadership,0,Orchard Farm,4
 2026-10-20,Blue Springs,1,Park Hill,0
 2026-10-20,Central (Springfield),1,Parkview,0
+2026-10-20,Timberland,0,Parkway West,1
 2026-10-20,Oak Grove,2,Pleasant Hill,4
 2026-10-20,Metro,1,Principia,0
 2026-10-20,Liberty North,7,Raymore-Peculiar,0
 2026-10-20,Joplin,2,Republic,3
 2026-10-20,Liberty (Wentzville),2,Rockwood Summit,6
+2026-10-20,North County,0,Saxony Lutheran with St. Vincent,5
+2026-10-20,Perryville,1,Seckman,5
 2026-10-20,Kennett,1,Sikeston,11
 2026-10-20,Battle with Columbia Independent,0,Smith-Cotton,1
 2026-10-20,Parkway North,0,St. Charles,8
+2026-10-20,Union,3,St. Charles West,2
 2026-10-20,Bayless,2,St. Pius X (Festus),1
 2026-10-20,Lee's Summit West,3,Staley,1
 2026-10-20,St. Michael the Archangel,2,Summit Christian Academy,3
+2026-10-20,Bishop DuBourg,0,Valley Park,1
 2026-10-20,Warrenton,0,Veritas Christian Academy,1
 2026-10-20,Cameron,0,Warrensburg,3
 2026-10-20,Troy Buchanan,3,Washington,0
+2026-10-20,Hillcrest,0,West Plains,5
+2026-10-20,Neosho,6,Willard,1
 2026-10-20,Central (Cape Girardeau),0,Windsor (Imperial),2
+2026-10-21,Kickapoo,0,Glendale,8
+2026-10-21,Paseo Academy,5,Knob Noster,1
+2026-10-21,St. Paul Lutheran (Concordia),6,Odessa,1
+2026-10-21,Parkway North,1,Ritenour,0
