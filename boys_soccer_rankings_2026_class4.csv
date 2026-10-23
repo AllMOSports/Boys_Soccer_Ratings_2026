@@ -1,65 +1,65 @@
 School,OFF Rating,DEF Rating,OVR Rating,OFF Rank,DEF Rank,OVR Rank
-Rockhurst,4.52,3.73,8.25,1,2,1
-SLUH,2.89,3.78,6.67,5,1,2
-Liberty North,3.45,3.19,6.64,2,5,3
-Blue Springs South,3.08,3.11,6.19,4,9,4
-Oakville,2.55,3.36,5.91,11,4,5
-Christian Brothers College,2.68,3.16,5.84,8,6,6
-Francis Howell Central,2.55,3.16,5.71,10,8,7
-Marquette,2.55,3.16,5.7,12,7,8
-Lee's Summit,2.64,2.9,5.54,9,12,9
-Nixa,2.71,2.7,5.41,7,14,10
-Kirkwood,1.83,3.54,5.37,26,3,11
-Liberty,3.09,2.08,5.17,3,24,12
-Blue Springs,2.28,2.72,5.0,16,13,13
-Vianney,1.88,2.97,4.84,22,10,14
-Lafayette (Wildwood),2.75,2.07,4.82,6,25,15
-Ladue Horton Watkins,2.37,2.44,4.82,15,20,16
-Rock Bridge,2.5,2.29,4.79,13,21,17
-Glendale,2.15,2.58,4.73,17,17,18
-Lee's Summit West,1.74,2.96,4.7,28,11,19
-Lindbergh,2.05,2.55,4.6,20,19,20
-Park Hill South,1.86,2.67,4.53,23,15,21
-Eureka,2.42,2.07,4.49,14,26,22
-De Smet Jesuit,1.83,2.58,4.41,27,16,23
-Northwest (Cedar Hill),2.08,1.98,4.07,19,28,24
-Ft. Zumwalt West,1.44,2.58,4.02,33,18,25
-Francis Howell,1.84,1.97,3.82,24,29,26
-Jackson,1.84,1.92,3.76,25,31,27
-Lee's Summit North,1.88,1.8,3.67,21,34,28
-Parkway South,1.48,2.05,3.53,32,27,29
-North Point,2.09,1.2,3.29,18,41,30
-Timberland,1.04,2.23,3.27,38,22,31
-Park Hill,1.35,1.9,3.25,36,32,32
-Hickman,1.71,1.46,3.17,29,38,33
-Francis Howell North,1.29,1.67,2.97,37,36,34
-Troy Buchanan,0.6,2.17,2.76,45,23,35
-Pattonville,1.41,1.29,2.69,35,40,36
-Staley,0.63,1.96,2.59,43,30,37
-Liberty (Wentzville),1.51,0.95,2.46,31,44,38
-Mehlville,0.61,1.81,2.42,44,33,39
-Carthage,0.86,1.49,2.35,40,37,40
-Ozark,1.42,0.92,2.34,34,46,41
-Raymore-Peculiar,0.31,1.7,2.02,49,35,42
-Fort Osage,1.03,0.81,1.84,39,48,43
-Seckman,0.53,1.29,1.83,46,39,44
-Grain Valley,0.8,0.55,1.35,41,53,45
-Smith-Cotton,0.77,0.48,1.25,42,54,46
-Poplar Bluff,1.55,-0.32,1.23,30,58,47
-North Kansas City,0.43,0.61,1.05,47,52,48
-Oak Park,0.39,0.63,1.01,48,51,49
-Central (St. Joseph),0.04,0.89,0.93,51,47,50
-Joplin,0.23,0.65,0.88,50,50,51
-Battle with Columbia Independent,-0.2,1.0,0.8,54,43,52
-Branson,-0.08,0.77,0.69,52,49,53
-Ft. Zumwalt North,-0.32,0.94,0.62,56,45,54
-Republic,-0.64,1.02,0.38,58,42,55
-Neosho,-0.24,0.44,0.2,55,55,56
-Kickapoo,-0.09,-0.3,-0.39,53,57,57
-Waynesville,-1.12,0.14,-0.98,60,56,58
-Fox,-0.46,-0.72,-1.17,57,61,59
-Truman,-0.97,-0.73,-1.7,59,62,60
-Webb City,-1.52,-0.35,-1.87,61,59,61
-Ritenour,-1.94,-0.68,-2.62,63,60,62
-William Chrisman,-1.76,-1.56,-3.32,62,63,63
-Ruskin,-2.16,-3.06,-5.23,64,64,64
+Rockhurst,4.5,3.7,8.2,1,2,1
+SLUH,2.88,3.79,6.67,5,1,2
+Liberty North,3.37,3.11,6.48,2,9,3
+Blue Springs South,3.18,3.16,6.33,3,7,4
+Christian Brothers College,2.77,3.25,6.02,6,5,5
+Oakville,2.6,3.31,5.91,10,4,6
+Francis Howell Central,2.56,3.16,5.72,11,6,7
+Marquette,2.55,3.16,5.71,12,8,8
+Lee's Summit,2.67,2.83,5.5,9,12,9
+Kirkwood,1.84,3.55,5.39,25,3,10
+Nixa,2.71,2.68,5.39,8,14,11
+Liberty,3.1,2.08,5.18,4,26,12
+Vianney,1.88,2.99,4.87,22,11,13
+Blue Springs,2.15,2.72,4.87,16,13,14
+Ladue Horton Watkins,2.42,2.43,4.85,14,20,15
+Lafayette (Wildwood),2.72,2.08,4.81,7,25,16
+Rock Bridge,2.5,2.27,4.77,13,22,17
+Lee's Summit West,1.72,3.06,4.77,28,10,18
+Glendale,2.12,2.58,4.7,17,17,19
+Lindbergh,2.06,2.56,4.62,19,19,20
+Park Hill South,1.87,2.67,4.54,23,15,21
+Eureka,2.4,2.08,4.49,15,24,22
+De Smet Jesuit,1.83,2.59,4.41,26,16,23
+Northwest (Cedar Hill),2.07,1.99,4.06,18,29,24
+Ft. Zumwalt West,1.44,2.56,4.01,33,18,25
+Lee's Summit North,1.93,1.95,3.88,20,30,26
+Jackson,1.84,1.92,3.77,24,32,27
+Francis Howell,1.75,2.02,3.76,27,28,28
+Parkway South,1.46,2.05,3.51,32,27,29
+Timberland,1.04,2.2,3.23,39,23,30
+Hickman,1.7,1.44,3.13,29,38,31
+Park Hill,1.24,1.85,3.09,36,33,32
+North Point,1.92,1.17,3.08,21,41,33
+Francis Howell North,1.4,1.56,2.96,34,36,34
+Troy Buchanan,0.61,2.32,2.93,45,21,35
+Staley,0.67,1.93,2.6,44,31,36
+Liberty (Wentzville),1.52,0.96,2.48,31,42,37
+Pattonville,1.21,1.23,2.44,37,40,38
+Carthage,0.85,1.48,2.33,40,37,39
+Mehlville,0.71,1.6,2.31,42,35,40
+Ozark,1.36,0.89,2.24,35,46,41
+Raymore-Peculiar,0.33,1.67,1.99,48,34,42
+Fort Osage,1.05,0.78,1.83,38,48,43
+Seckman,0.51,1.28,1.79,46,39,44
+Grain Valley,0.68,0.71,1.38,43,51,45
+Smith-Cotton,0.78,0.46,1.24,41,54,46
+Poplar Bluff,1.53,-0.33,1.2,30,58,47
+Oak Park,0.4,0.58,0.98,47,53,48
+North Kansas City,0.23,0.72,0.95,49,50,49
+Central (St. Joseph),0.04,0.86,0.9,51,47,50
+Joplin,0.21,0.63,0.84,50,52,51
+Branson,-0.11,0.75,0.64,52,49,52
+Battle with Columbia Independent,-0.27,0.89,0.61,55,45,53
+Ft. Zumwalt North,-0.34,0.91,0.57,56,44,54
+Republic,-0.68,0.94,0.26,58,43,55
+Neosho,-0.19,0.43,0.24,54,55,56
+Kickapoo,-0.11,-0.32,-0.43,53,57,57
+Waynesville,-1.13,0.15,-0.98,60,56,58
+Fox,-0.4,-0.74,-1.13,57,62,59
+Truman,-0.99,-0.48,-1.47,59,60,60
+Webb City,-1.41,-0.4,-1.81,61,59,61
+Ritenour,-1.89,-0.68,-2.58,63,61,62
+William Chrisman,-1.65,-1.45,-3.1,62,63,63
+Ruskin,-2.24,-3.0,-5.23,64,64,64

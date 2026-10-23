@@ -1,6 +1,5 @@
 date,problem,team1,score1,team2,score2,both_classified
 2026-09-03,no score,Maranatha Baptist,,Crocker,,False
-2026-09-16,no score,Raytown,,Winnetonka,,True
 2026-09-17,no score,Cardinal Ritter,,KIPP St. Louis Sr.,,False
 2026-09-21,no score,Liberty Christian Sr.,,Warrenton,,False
 2026-10-01,no score,Marshall,,Kirksville,,True
@@ -17,5 +16,8 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-20,no score,Thomas Jefferson Independent Day,,Fair Grove,,True
 2026-10-20,no score,McCluer North,,Hazelwood West,,False
 2026-10-20,no score,Faith Christian Academy,,"Heritage Christian(Olathe, KS)",,False
-2026-10-20,no score,Bishop LeBlond,,Savannah,,True
 2026-10-20,no score,Whitfield,,Westminster Christian Academy,,True
+2026-10-21,no score,Frontier STEM,,Frontier School of Excellence Charter,,True
+2026-10-21,no score,Parkway Central,,Lafayette (Wildwood),,True
+2026-10-21,no score,Eureka,,Parkway South,,True
+2026-10-21,no score,Grandview,,Raytown,,True
