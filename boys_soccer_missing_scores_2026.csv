@@ -14,10 +14,12 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-19,no score,Festus,,North County,,True
 2026-10-19,no score,Warrenton,,St. Louis United,,False
 2026-10-20,no score,Thomas Jefferson Independent Day,,Fair Grove,,True
-2026-10-20,no score,McCluer North,,Hazelwood West,,False
-2026-10-20,no score,Faith Christian Academy,,"Heritage Christian(Olathe, KS)",,False
-2026-10-20,no score,Whitfield,,Westminster Christian Academy,,True
-2026-10-21,no score,Frontier STEM,,Frontier School of Excellence Charter,,True
-2026-10-21,no score,Parkway Central,,Lafayette (Wildwood),,True
 2026-10-21,no score,Eureka,,Parkway South,,True
-2026-10-21,no score,Grandview,,Raytown,,True
+2026-10-22,no score,Westminster Christian Academy,,Bishop DuBourg,,True
+2026-10-22,no score,Lincoln College Prep,,Grandview,,True
+2026-10-22,no score,Northland Christian,,"Kansas City Christian(Kansas City, KS)",,False
+2026-10-22,no score,Poplar Bluff,,Kennett,,True
+2026-10-22,no score,Chillicothe,,Kirksville,,True
+2026-10-22,no score,Pleasant Hill,,La Monte,,True
+2026-10-22,no score,Elsberry,,Winfield,,True
+2026-10-22,no score,Central (St. Joseph),,Winnetonka,,True
