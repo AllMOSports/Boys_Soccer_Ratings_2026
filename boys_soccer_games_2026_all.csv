@@ -2139,6 +2139,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-22,Willard,True,2,Webb City,True,3,False,False
 2026-10-22,Springfield Catholic,True,8,West Plains,True,2,False,False
 2026-10-22,Hazelwood West,False,3,Winfield,True,2,False,False
+2026-10-22,Central (St. Joseph),True,4,Winnetonka,True,2,False,False
 2026-10-22,St. Charles,True,5,Wright City,True,0,False,False
 2026-10-22,Westminster Christian Academy,True,,Bishop DuBourg,True,,False,False
 2026-10-22,Lincoln College Prep,True,,Grandview,True,,False,False
@@ -2147,35 +2148,34 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-22,Chillicothe,True,,Kirksville,True,,False,False
 2026-10-22,Pleasant Hill,True,,La Monte,True,,False,False
 2026-10-22,Elsberry,True,,Winfield,True,,False,False
-2026-10-22,Central (St. Joseph),True,,Winnetonka,True,,False,False
 2026-10-23,Sacred Heart,True,3,Dixon,True,2,False,False
 2026-10-23,New Covenant Academy,True,2,Fair Grove,True,2,False,False
 2026-10-23,Southern Boone,True,1,Green Ridge with Cole Camp,True,3,False,False
+2026-10-23,Kirkwood,True,1,Hickman,True,1,False,False
+2026-10-23,Farmington,True,0,Jackson,True,1,False,False
 2026-10-23,Webster Groves,True,1,John Burroughs,True,0,False,False
 2026-10-23,Hazelwood East,False,0,McCluer North,True,3,False,False
+2026-10-23,Missouri Military Academy,True,4,Mexico,True,1,False,False
 2026-10-23,Seckman,True,0,Northwest (Cedar Hill),True,2,False,False
 2026-10-23,Rock Bridge,True,2,Park Hill South,True,1,False,False
 2026-10-23,Iberia,True,2,Smithton,True,8,False,False
+2026-10-23,Gateway with Soldan International Studies,True,3,STEAM Academy,True,0,False,False
 2026-10-23,Jefferson City,True,1,Sullivan,True,4,False,False
 2026-10-23,MICDS,True,6,Whitfield,True,1,False,False
 2026-10-23,Metro,True,,Brentwood,True,,False,False
 2026-10-23,Guadalupe Centers Charter,True,,Ewing Marion Kauffman with University Academy Charter,True,,False,False
-2026-10-23,Kirkwood,True,,Hickman,True,,False,False
-2026-10-23,Farmington,True,,Jackson,True,,False,False
 2026-10-23,University City,True,,Jennings,True,,False,False
-2026-10-23,Missouri Military Academy,True,,Mexico,True,,False,False
-2026-10-23,Gateway with Soldan International Studies,True,,STEAM Academy,True,,False,False
+2026-10-24,Hillsboro,True,3,DeSoto,True,0,False,False
+2026-10-24,Park Hill South,True,3,Hickman,True,0,False,False
+2026-10-24,Rock Bridge,True,0,Kirkwood,True,3,False,False
+2026-10-24,Parkway West,True,0,Ladue Horton Watkins,True,1,False,False
+2026-10-24,Central (Springfield),True,2,Laquey with Richland,True,0,False,False
+2026-10-24,Truman,True,1,Lee's Summit,True,9,False,False
+2026-10-24,Paseo Academy,True,0,Marshall,True,6,False,False
+2026-10-24,Father Tolton,True,5,Moberly,True,0,False,False
+2026-10-24,Harrisonville,True,1,Oak Grove,True,2,False,False
+2026-10-24,Chaminade College Prep,True,2,Priory,True,0,False,False
 2026-10-24,Greenwood,True,,Barstow,True,,False,False
-2026-10-24,Hillsboro,True,,DeSoto,True,,False,False
-2026-10-24,Park Hill South,True,,Hickman,True,,False,False
-2026-10-24,Rock Bridge,True,,Kirkwood,True,,False,False
-2026-10-24,Parkway West,True,,Ladue Horton Watkins,True,,False,False
-2026-10-24,Central (Springfield),True,,Laquey with Richland,True,,False,False
-2026-10-24,Truman,True,,Lee's Summit,True,,False,False
-2026-10-24,Paseo Academy,True,,Marshall,True,,False,False
-2026-10-24,Father Tolton,True,,Moberly,True,,False,False
-2026-10-24,Harrisonville,True,,Oak Grove,True,,False,False
-2026-10-24,Chaminade College Prep,True,,Priory,True,,False,False
 2026-10-24,St. Dominic,True,,Timberland,True,,False,False
 2026-10-26,Bolivar,True,,Aurora,True,,False,False
 2026-10-26,Fox,True,,Bayless,True,,False,False
@@ -2329,6 +2329,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-29,Cristo Rey,True,,Faith Christian Academy,True,,False,False
 2026-10-29,Holt,True,,Hannibal,True,,False,False
 2026-10-29,Pembroke Hill,True,,Harrisonville,True,,False,False
+2026-10-29,University City,True,,Jennings,True,,False,False
 2026-10-29,Ozark,True,,Joplin,True,,False,False
 2026-10-29,East (Kansas City),True,,Kearney,True,,False,False
 2026-10-29,Westminster Christian Academy,True,,Ladue Horton Watkins,True,,False,False
@@ -2351,6 +2352,9 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-31,Principia,True,,STEAM Academy,True,,False,False
 2026-10-31,Priory,True,,Jennings,True,,False,False
 2026-10-31,MICDS,True,,Cardinal Ritter,True,,False,False
+2026-10-31,Duchesne,True,,Winfield,True,,False,False
+2026-10-31,Veritas Christian Academy,True,,Wright City,True,,False,False
+2026-10-31,Lutheran St. Charles,True,,St. Charles West,True,,False,False
 2026-10-31,Fulton,True,,Missouri Military Academy,True,,False,False
 2026-10-31,Moberly,True,,Mexico,True,,False,False
 2026-10-31,Boonville,True,,Christian Fellowship Sr. with Hallsville,True,,False,False
@@ -2364,6 +2368,14 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-31,DeSoto,True,,Windsor (Imperial),True,,False,False
 2026-10-31,Sikeston,True,,Hillsboro,True,,False,False
 2026-10-31,West Plains,True,,Central (Cape Girardeau),True,,False,False
+2026-10-31,Chaminade College Prep,True,,Gateway with Soldan International Studies,True,,False,False
+2026-10-31,Parkway Central,True,,Westminster Christian Academy,True,,False,False
+2026-10-31,Parkway West,True,,University City,True,,False,False
+2026-10-31,Clayton,True,,Parkway North,True,,False,False
+2026-10-31,SLUH,True,,Parkway South,True,,False,False
+2026-10-31,Lafayette (Wildwood),True,,Vianney,True,,False,False
+2026-10-31,Marquette,True,,Eureka,True,,False,False
+2026-10-31,Ladue Horton Watkins,True,,Kirkwood,True,,False,False
 2026-10-31,Glendale,True,,Waynesville,True,,False,False
 2026-10-31,Branson,True,,Neosho,True,,False,False
 2026-10-31,Nixa,True,,Kickapoo,True,,False,False
@@ -2415,6 +2427,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-03,TBD,False,,Faith Christian Academy,True,,False,False
 2026-11-03,Northland Christian,True,,Cameron,True,,False,False
 2026-11-03,TBD,False,,John Burroughs,True,,False,False
+2026-11-03,TBD,False,,Orchard Farm,True,,False,False
 2026-11-03,TBD,False,,Southern Boone,True,,False,False
 2026-11-03,Central (Kansas City),True,,Odessa,True,,False,False
 2026-11-03,Oak Grove,True,,Ewing Marion Kauffman with University Academy Charter,True,,False,False

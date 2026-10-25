@@ -1841,6 +1841,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-22,Nixa,8,Waynesville,0,False,False
 2026-10-22,Willard,2,Webb City,3,False,False
 2026-10-22,Springfield Catholic,8,West Plains,2,False,False
+2026-10-22,Central (St. Joseph),4,Winnetonka,2,False,False
 2026-10-22,St. Charles,5,Wright City,0,False,False
 2026-10-22,Westminster Christian Academy,,Bishop DuBourg,,False,False
 2026-10-22,Lincoln College Prep,,Grandview,,False,False
@@ -1848,34 +1849,33 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-22,Chillicothe,,Kirksville,,False,False
 2026-10-22,Pleasant Hill,,La Monte,,False,False
 2026-10-22,Elsberry,,Winfield,,False,False
-2026-10-22,Central (St. Joseph),,Winnetonka,,False,False
 2026-10-23,Sacred Heart,3,Dixon,2,False,False
 2026-10-23,New Covenant Academy,2,Fair Grove,2,False,False
 2026-10-23,Southern Boone,1,Green Ridge with Cole Camp,3,False,False
+2026-10-23,Kirkwood,1,Hickman,1,False,False
+2026-10-23,Farmington,0,Jackson,1,False,False
 2026-10-23,Webster Groves,1,John Burroughs,0,False,False
+2026-10-23,Missouri Military Academy,4,Mexico,1,False,False
 2026-10-23,Seckman,0,Northwest (Cedar Hill),2,False,False
 2026-10-23,Rock Bridge,2,Park Hill South,1,False,False
 2026-10-23,Iberia,2,Smithton,8,False,False
+2026-10-23,Gateway with Soldan International Studies,3,STEAM Academy,0,False,False
 2026-10-23,Jefferson City,1,Sullivan,4,False,False
 2026-10-23,MICDS,6,Whitfield,1,False,False
 2026-10-23,Metro,,Brentwood,,False,False
 2026-10-23,Guadalupe Centers Charter,,Ewing Marion Kauffman with University Academy Charter,,False,False
-2026-10-23,Kirkwood,,Hickman,,False,False
-2026-10-23,Farmington,,Jackson,,False,False
 2026-10-23,University City,,Jennings,,False,False
-2026-10-23,Missouri Military Academy,,Mexico,,False,False
-2026-10-23,Gateway with Soldan International Studies,,STEAM Academy,,False,False
+2026-10-24,Hillsboro,3,DeSoto,0,False,False
+2026-10-24,Park Hill South,3,Hickman,0,False,False
+2026-10-24,Rock Bridge,0,Kirkwood,3,False,False
+2026-10-24,Parkway West,0,Ladue Horton Watkins,1,False,False
+2026-10-24,Central (Springfield),2,Laquey with Richland,0,False,False
+2026-10-24,Truman,1,Lee's Summit,9,False,False
+2026-10-24,Paseo Academy,0,Marshall,6,False,False
+2026-10-24,Father Tolton,5,Moberly,0,False,False
+2026-10-24,Harrisonville,1,Oak Grove,2,False,False
+2026-10-24,Chaminade College Prep,2,Priory,0,False,False
 2026-10-24,Greenwood,,Barstow,,False,False
-2026-10-24,Hillsboro,,DeSoto,,False,False
-2026-10-24,Park Hill South,,Hickman,,False,False
-2026-10-24,Rock Bridge,,Kirkwood,,False,False
-2026-10-24,Parkway West,,Ladue Horton Watkins,,False,False
-2026-10-24,Central (Springfield),,Laquey with Richland,,False,False
-2026-10-24,Truman,,Lee's Summit,,False,False
-2026-10-24,Paseo Academy,,Marshall,,False,False
-2026-10-24,Father Tolton,,Moberly,,False,False
-2026-10-24,Harrisonville,,Oak Grove,,False,False
-2026-10-24,Chaminade College Prep,,Priory,,False,False
 2026-10-24,St. Dominic,,Timberland,,False,False
 2026-10-26,Bolivar,,Aurora,,False,False
 2026-10-26,Fox,,Bayless,,False,False
@@ -2022,6 +2022,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-29,Cristo Rey,,Faith Christian Academy,,False,False
 2026-10-29,Holt,,Hannibal,,False,False
 2026-10-29,Pembroke Hill,,Harrisonville,,False,False
+2026-10-29,University City,,Jennings,,False,False
 2026-10-29,Ozark,,Joplin,,False,False
 2026-10-29,East (Kansas City),,Kearney,,False,False
 2026-10-29,Westminster Christian Academy,,Ladue Horton Watkins,,False,False
@@ -2043,6 +2044,9 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-31,Principia,,STEAM Academy,,False,False
 2026-10-31,Priory,,Jennings,,False,False
 2026-10-31,MICDS,,Cardinal Ritter,,False,False
+2026-10-31,Duchesne,,Winfield,,False,False
+2026-10-31,Veritas Christian Academy,,Wright City,,False,False
+2026-10-31,Lutheran St. Charles,,St. Charles West,,False,False
 2026-10-31,Fulton,,Missouri Military Academy,,False,False
 2026-10-31,Moberly,,Mexico,,False,False
 2026-10-31,Boonville,,Christian Fellowship Sr. with Hallsville,,False,False
@@ -2056,6 +2060,14 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-31,DeSoto,,Windsor (Imperial),,False,False
 2026-10-31,Sikeston,,Hillsboro,,False,False
 2026-10-31,West Plains,,Central (Cape Girardeau),,False,False
+2026-10-31,Chaminade College Prep,,Gateway with Soldan International Studies,,False,False
+2026-10-31,Parkway Central,,Westminster Christian Academy,,False,False
+2026-10-31,Parkway West,,University City,,False,False
+2026-10-31,Clayton,,Parkway North,,False,False
+2026-10-31,SLUH,,Parkway South,,False,False
+2026-10-31,Lafayette (Wildwood),,Vianney,,False,False
+2026-10-31,Marquette,,Eureka,,False,False
+2026-10-31,Ladue Horton Watkins,,Kirkwood,,False,False
 2026-10-31,Glendale,,Waynesville,,False,False
 2026-10-31,Branson,,Neosho,,False,False
 2026-10-31,Nixa,,Kickapoo,,False,False

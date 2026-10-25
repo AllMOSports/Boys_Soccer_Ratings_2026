@@ -16579,6 +16579,15 @@
   },
   {
     "date": "2026-10-22",
+    "team1": "Central (St. Joseph)",
+    "score1": 4,
+    "team2": "Winnetonka",
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-22",
     "team1": "St. Charles",
     "score1": 5,
     "team2": "Wright City",
@@ -16641,15 +16650,6 @@
     "overtime": false
   },
   {
-    "date": "2026-10-22",
-    "team1": "Central (St. Joseph)",
-    "score1": null,
-    "team2": "Winnetonka",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
     "date": "2026-10-23",
     "team1": "Sacred Heart",
     "score1": 3,
@@ -16678,10 +16678,37 @@
   },
   {
     "date": "2026-10-23",
+    "team1": "Kirkwood",
+    "score1": 1,
+    "team2": "Hickman",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-23",
+    "team1": "Farmington",
+    "score1": 0,
+    "team2": "Jackson",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-23",
     "team1": "Webster Groves",
     "score1": 1,
     "team2": "John Burroughs",
     "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-23",
+    "team1": "Missouri Military Academy",
+    "score1": 4,
+    "team2": "Mexico",
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
@@ -16709,6 +16736,15 @@
     "score1": 2,
     "team2": "Smithton",
     "score2": 8,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-23",
+    "team1": "Gateway with Soldan International Studies",
+    "score1": 3,
+    "team2": "STEAM Academy",
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
@@ -16750,24 +16786,6 @@
   },
   {
     "date": "2026-10-23",
-    "team1": "Kirkwood",
-    "score1": null,
-    "team2": "Hickman",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-23",
-    "team1": "Farmington",
-    "score1": null,
-    "team2": "Jackson",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-23",
     "team1": "University City",
     "score1": null,
     "team2": "Jennings",
@@ -16776,20 +16794,92 @@
     "overtime": false
   },
   {
-    "date": "2026-10-23",
-    "team1": "Missouri Military Academy",
-    "score1": null,
-    "team2": "Mexico",
-    "score2": null,
+    "date": "2026-10-24",
+    "team1": "Hillsboro",
+    "score1": 3,
+    "team2": "DeSoto",
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
-    "date": "2026-10-23",
-    "team1": "Gateway with Soldan International Studies",
-    "score1": null,
-    "team2": "STEAM Academy",
-    "score2": null,
+    "date": "2026-10-24",
+    "team1": "Park Hill South",
+    "score1": 3,
+    "team2": "Hickman",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Rock Bridge",
+    "score1": 0,
+    "team2": "Kirkwood",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Parkway West",
+    "score1": 0,
+    "team2": "Ladue Horton Watkins",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Central (Springfield)",
+    "score1": 2,
+    "team2": "Laquey with Richland",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Truman",
+    "score1": 1,
+    "team2": "Lee's Summit",
+    "score2": 9,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Paseo Academy",
+    "score1": 0,
+    "team2": "Marshall",
+    "score2": 6,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Father Tolton",
+    "score1": 5,
+    "team2": "Moberly",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Harrisonville",
+    "score1": 1,
+    "team2": "Oak Grove",
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Chaminade College Prep",
+    "score1": 2,
+    "team2": "Priory",
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
@@ -16798,96 +16888,6 @@
     "team1": "Greenwood",
     "score1": null,
     "team2": "Barstow",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-24",
-    "team1": "Hillsboro",
-    "score1": null,
-    "team2": "DeSoto",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-24",
-    "team1": "Park Hill South",
-    "score1": null,
-    "team2": "Hickman",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-24",
-    "team1": "Rock Bridge",
-    "score1": null,
-    "team2": "Kirkwood",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-24",
-    "team1": "Parkway West",
-    "score1": null,
-    "team2": "Ladue Horton Watkins",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-24",
-    "team1": "Central (Springfield)",
-    "score1": null,
-    "team2": "Laquey with Richland",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-24",
-    "team1": "Truman",
-    "score1": null,
-    "team2": "Lee's Summit",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-24",
-    "team1": "Paseo Academy",
-    "score1": null,
-    "team2": "Marshall",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-24",
-    "team1": "Father Tolton",
-    "score1": null,
-    "team2": "Moberly",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-24",
-    "team1": "Harrisonville",
-    "score1": null,
-    "team2": "Oak Grove",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-24",
-    "team1": "Chaminade College Prep",
-    "score1": null,
-    "team2": "Priory",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -18208,6 +18208,15 @@
   },
   {
     "date": "2026-10-29",
+    "team1": "University City",
+    "score1": null,
+    "team2": "Jennings",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-29",
     "team1": "Ozark",
     "score1": null,
     "team2": "Joplin",
@@ -18397,6 +18406,33 @@
   },
   {
     "date": "2026-10-31",
+    "team1": "Duchesne",
+    "score1": null,
+    "team2": "Winfield",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-31",
+    "team1": "Veritas Christian Academy",
+    "score1": null,
+    "team2": "Wright City",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-31",
+    "team1": "Lutheran St. Charles",
+    "score1": null,
+    "team2": "St. Charles West",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-31",
     "team1": "Fulton",
     "score1": null,
     "team2": "Missouri Military Academy",
@@ -18508,6 +18544,78 @@
     "team1": "West Plains",
     "score1": null,
     "team2": "Central (Cape Girardeau)",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-31",
+    "team1": "Chaminade College Prep",
+    "score1": null,
+    "team2": "Gateway with Soldan International Studies",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-31",
+    "team1": "Parkway Central",
+    "score1": null,
+    "team2": "Westminster Christian Academy",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-31",
+    "team1": "Parkway West",
+    "score1": null,
+    "team2": "University City",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-31",
+    "team1": "Clayton",
+    "score1": null,
+    "team2": "Parkway North",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-31",
+    "team1": "SLUH",
+    "score1": null,
+    "team2": "Parkway South",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-31",
+    "team1": "Lafayette (Wildwood)",
+    "score1": null,
+    "team2": "Vianney",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-31",
+    "team1": "Marquette",
+    "score1": null,
+    "team2": "Eureka",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-31",
+    "team1": "Ladue Horton Watkins",
+    "score1": null,
+    "team2": "Kirkwood",
     "score2": null,
     "forfeit": false,
     "overtime": false
