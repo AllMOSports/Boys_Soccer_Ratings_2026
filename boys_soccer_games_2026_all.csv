@@ -2108,6 +2108,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-22,Park Hill,True,0,Lee's Summit North,True,3,False,False
 2026-10-22,Blue Springs,True,0,Lee's Summit West,True,1,False,False
 2026-10-22,Platte County,True,2,Liberty,True,8,False,False
+2026-10-22,Grandview,True,0,Lincoln College Prep,True,6,False,False
 2026-10-22,Parkview,True,0,Logan-Rogersville,True,2,False,False
 2026-10-22,"Bishop Seabury(Lawrence, KS)",False,1,Lutheran (Kansas City),True,2,False,False
 2026-10-22,St. Pius X (Festus),True,0,Lutheran South,True,3,False,False
@@ -2142,12 +2143,12 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-22,Central (St. Joseph),True,4,Winnetonka,True,2,False,False
 2026-10-22,St. Charles,True,5,Wright City,True,0,False,False
 2026-10-22,Westminster Christian Academy,True,,Bishop DuBourg,True,,False,False
-2026-10-22,Lincoln College Prep,True,,Grandview,True,,False,False
 2026-10-22,Northland Christian,True,,"Kansas City Christian(Kansas City, KS)",False,,False,False
 2026-10-22,Poplar Bluff,True,,Kennett,True,,False,False
 2026-10-22,Chillicothe,True,,Kirksville,True,,False,False
 2026-10-22,Pleasant Hill,True,,La Monte,True,,False,False
 2026-10-22,Elsberry,True,,Winfield,True,,False,False
+2026-10-23,Metro,True,6,Brentwood,True,0,False,False
 2026-10-23,Sacred Heart,True,3,Dixon,True,2,False,False
 2026-10-23,New Covenant Academy,True,2,Fair Grove,True,2,False,False
 2026-10-23,Southern Boone,True,1,Green Ridge with Cole Camp,True,3,False,False
@@ -2162,7 +2163,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-23,Gateway with Soldan International Studies,True,3,STEAM Academy,True,0,False,False
 2026-10-23,Jefferson City,True,1,Sullivan,True,4,False,False
 2026-10-23,MICDS,True,6,Whitfield,True,1,False,False
-2026-10-23,Metro,True,,Brentwood,True,,False,False
 2026-10-23,Guadalupe Centers Charter,True,,Ewing Marion Kauffman with University Academy Charter,True,,False,False
 2026-10-23,University City,True,,Jennings,True,,False,False
 2026-10-24,Hillsboro,True,3,DeSoto,True,0,False,False

@@ -16318,6 +16318,15 @@
   },
   {
     "date": "2026-10-22",
+    "team1": "Grandview",
+    "score1": 0,
+    "team2": "Lincoln College Prep",
+    "score2": 6,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-22",
     "team1": "Parkview",
     "score1": 0,
     "team2": "Logan-Rogersville",
@@ -16606,15 +16615,6 @@
   },
   {
     "date": "2026-10-22",
-    "team1": "Lincoln College Prep",
-    "score1": null,
-    "team2": "Grandview",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-22",
     "team1": "Poplar Bluff",
     "score1": null,
     "team2": "Kennett",
@@ -16646,6 +16646,15 @@
     "score1": null,
     "team2": "Winfield",
     "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-23",
+    "team1": "Metro",
+    "score1": 6,
+    "team2": "Brentwood",
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
@@ -16763,15 +16772,6 @@
     "score1": 6,
     "team2": "Whitfield",
     "score2": 1,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-23",
-    "team1": "Metro",
-    "score1": null,
-    "team2": "Brentwood",
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },

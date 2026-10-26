@@ -23200,6 +23200,17 @@
   },
   {
     "date": "2026-10-22",
+    "team1": "Grandview",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Lincoln College Prep",
+    "team2_classified": true,
+    "score2": 6,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-22",
     "team1": "Parkview",
     "team1_classified": true,
     "score1": 0,
@@ -23574,17 +23585,6 @@
   },
   {
     "date": "2026-10-22",
-    "team1": "Lincoln College Prep",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Grandview",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-22",
     "team1": "Northland Christian",
     "team1_classified": true,
     "score1": null,
@@ -23635,6 +23635,17 @@
     "team2": "Winfield",
     "team2_classified": true,
     "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-23",
+    "team1": "Metro",
+    "team1_classified": true,
+    "score1": 6,
+    "team2": "Brentwood",
+    "team2_classified": true,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
@@ -23789,17 +23800,6 @@
     "team2": "Whitfield",
     "team2_classified": true,
     "score2": 1,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-23",
-    "team1": "Metro",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Brentwood",
-    "team2_classified": true,
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },
