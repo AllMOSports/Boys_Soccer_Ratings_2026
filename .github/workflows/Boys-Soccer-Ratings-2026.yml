@@ -102,6 +102,14 @@ jobs:
         continue-on-error: true
         run: python Boys_Soccer_Graphics_2026.py
  
+      # Matchup Previews data (matchup_previews_boys_soccer_2026.json) from the fresh
+      # ratings and games. Reads public All_MO_Sports-Data files from GitHub raw.
+      # continue-on-error means a problem here never blocks the ratings/games
+      # data from pushing.
+      - name: Build matchup previews
+        continue-on-error: true
+        run: python build_matchup_previews_boys_soccer_2026.py
+ 
       - name: Commit and push outputs
         run: |
           git config user.name  "github-actions[bot]"
@@ -117,6 +125,8 @@ jobs:
                   boys_soccer_missing_scores_2026.csv
           # Size-adjusted rankings (skipped quietly if that step failed)
           git add per_capita_boys_soccer_2026.json per_capita_boys_soccer_2026.csv 2>/dev/null || true
+          # Matchup previews (skipped quietly if that step failed)
+          git add matchup_previews_boys_soccer_2026.json 2>/dev/null || true
           # Rankings graphics (+ fonts, in case they were downloaded this run)
           git add graphics/*.png 2>/dev/null || true
           git add fonts/*.ttf 2>/dev/null || true
@@ -124,6 +134,6 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "Update Boys Soccer 2026 games, schedule, ratings, per capita, graphics ($(date -u +'%Y-%m-%d'))"
+          git commit -m "Update Boys Soccer 2026 games, schedule, ratings, per capita, graphics, matchup previews ($(date -u +'%Y-%m-%d'))"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
