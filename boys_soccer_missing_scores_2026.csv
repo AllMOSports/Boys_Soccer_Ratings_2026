@@ -11,7 +11,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-19,no score,Gateway Science Charter,,Bishop DuBourg,,True
 2026-10-19,no score,Festus,,North County,,True
 2026-10-19,no score,Warrenton,,St. Louis United,,False
-2026-10-22,no score,Westminster Christian Academy,,Bishop DuBourg,,True
 2026-10-22,no score,Northland Christian,,"Kansas City Christian(Kansas City, KS)",,False
 2026-10-22,no score,Elsberry,,Winfield,,True
 2026-10-23,no score,University City,,Jennings,,True
@@ -19,4 +18,9 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-25,no score,Greenwood,,Barstow,,True
 2026-10-26,no score,Clinton,,Cassville,,True
 2026-10-26,no score,New Heights Christian with McAuley Catholic,,Fair Grove,,True
-2026-10-26,no score,Pattonville,,Parkway West,,True
+2026-10-27,no score,La Monte,,Ewing Marion Kauffman with University Academy Charter,,True
+2026-10-27,no score,Gateway Science Charter,,Gateway with Soldan International Studies,,True
+2026-10-27,no score,Thomas Jefferson Independent Day,,McDonald County,,True
+2026-10-27,no score,Priory,,Principia,,True
+2026-10-27,no score,Brentwood,,St. Louis United,,False
+2026-10-27,no score,Smithville,,Winnetonka,,True

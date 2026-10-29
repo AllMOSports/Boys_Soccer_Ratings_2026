@@ -1783,6 +1783,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-21,Winnetonka,1,William Chrisman,2,False,False
 2026-10-22,Missouri Military Academy,2,Battle with Columbia Independent,4,False,False
 2026-10-22,St. Pius X (Kansas City),5,Benton,1,False,False
+2026-10-22,Westminster Christian Academy,8,Bishop DuBourg,2,False,False
 2026-10-22,Liberty North,2,Blue Springs South,3,False,False
 2026-10-22,Eugene,7,Calvary Lutheran,1,False,False
 2026-10-22,Warrensburg,1,Capital City,7,False,False
@@ -1846,7 +1847,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-22,Springfield Catholic,8,West Plains,2,False,False
 2026-10-22,Central (St. Joseph),4,Winnetonka,2,False,False
 2026-10-22,St. Charles,5,Wright City,0,False,False
-2026-10-22,Westminster Christian Academy,,Bishop DuBourg,,False,False
 2026-10-22,Elsberry,,Winfield,,False,False
 2026-10-23,Metro,6,Brentwood,0,False,False
 2026-10-23,Sacred Heart,3,Dixon,2,False,False
@@ -1915,7 +1915,8 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-26,Belton,2,North Kansas City,1,False,False
 2026-10-26,Seckman,0,Oakville,2,False,False
 2026-10-26,Gateway with Soldan International Studies,1,Pacific,2,False,False
-2026-10-26,Odessa,5,Raytown South,4,False,False
+2026-10-26,Pattonville,2,Parkway West,3,False,False
+2026-10-26,Odessa,4,Raytown South,3,False,False
 2026-10-26,Southern Boone,3,Sacred Heart,0,False,False
 2026-10-26,Northland Christian,1,Savannah,5,False,False
 2026-10-26,Fredericktown,0,Sikeston,8,False,False
@@ -1930,8 +1931,8 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-26,Hannibal,2,Winfield,4,False,False
 2026-10-26,Clinton,,Cassville,,False,False
 2026-10-26,New Heights Christian with McAuley Catholic,,Fair Grove,,False,False
-2026-10-26,Pattonville,,Parkway West,,False,False
 2026-10-27,Lutheran (Kansas City),8,Bishop LeBlond,0,False,False
+2026-10-27,Eugene,0,Boonville,6,False,False
 2026-10-27,Hillcrest,1,Branson,4,False,False
 2026-10-27,Bolivar,0,Camdenton,4,False,False
 2026-10-27,Francis Howell Central,6,Capital City,2,False,False
@@ -1939,11 +1940,21 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-27,Smith-Cotton,2,Center,0,False,False
 2026-10-27,Affton,2,Collegiate School of Med-Bio Science with McKinley Classical Leadership,1,False,False
 2026-10-27,Sullivan,3,Festus,1,False,False
+2026-10-27,Mehlville,3,Fox,0,False,False
 2026-10-27,North Point,4,Francis Howell North,1,False,False
 2026-10-27,Christian Brothers College,4,Ft. Zumwalt South,0,False,False
+2026-10-27,Cardinal Ritter,0,Hancock,7,False,False
+2026-10-27,Excelsior Springs,2,Harrisonville,1,False,False
 2026-10-27,Moberly,0,Helias Catholic,5,False,False
+2026-10-27,Notre Dame (Cape Girardeau),2,Jackson,1,False,False
+2026-10-27,Neosho,3,Joplin,1,False,False
+2026-10-27,Lebanon,1,Kickapoo,9,False,False
+2026-10-27,Green Ridge with Cole Camp,5,Knob Noster,1,False,False
+2026-10-27,Kearney,1,Liberty,5,False,False
 2026-10-27,Platte County,0,Liberty North,7,False,False
+2026-10-27,Marshfield,0,Logan-Rogersville,8,False,False
 2026-10-27,Frontier STEM,3,Lone Jack,0,False,False
+2026-10-27,Roosevelt,1,Metro,9,False,False
 2026-10-27,Parkview,0,Monett,1,False,False
 2026-10-27,Aurora,0,New Heights Christian with McAuley Catholic,3,False,False
 2026-10-27,Ozark,1,Nixa,5,False,False
@@ -1952,64 +1963,55 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-27,Oak Park,0,Park Hill South,2,False,False
 2026-10-27,Parkway South,2,Parkway Central,3,False,False
 2026-10-27,St. Charles West,3,Parkway North,0,False,False
+2026-10-27,Summit Christian Academy,0,Pembroke Hill,8,False,False
 2026-10-27,Kennett,0,Perryville,8,False,False
+2026-10-27,Saxony Lutheran with St. Vincent,0,Poplar Bluff,7,False,False
 2026-10-27,Webb City,1,Republic,4,False,False
 2026-10-27,Paseo Academy,3,Ruskin,1,False,False
+2026-10-27,Fatima,0,Sacred Heart,3,False,False
+2026-10-27,Southern Boone,2,Smithton,0,False,False
 2026-10-27,New Covenant Academy,0,Springfield Catholic,8,False,False
 2026-10-27,Seckman,1,St. Mary's South Side,5,False,False
+2026-10-27,St. Pius X (Kansas City),0,St. Michael the Archangel,2,False,False
 2026-10-27,Clinton,0,St. Paul Lutheran (Concordia),3,False,False
 2026-10-27,Fredericktown,1,St. Pius X (Festus),4,False,False
+2026-10-27,Park Hill,1,Staley,0,False,False
 2026-10-27,Holt,0,Troy Buchanan,3,False,False
+2026-10-27,Raytown,1,Van Horn,9,False,False
+2026-10-27,Marquette,0,Vianney,0,False,False
 2026-10-27,Elsberry,0,Washington,8,False,False
 2026-10-27,Glendale,6,Waynesville,0,False,False
-2026-10-27,Eugene,,Boonville,,False,False
+2026-10-27,Valley Park,2,Wright City,0,False,False
 2026-10-27,La Monte,,Ewing Marion Kauffman with University Academy Charter,,False,False
-2026-10-27,Mehlville,,Fox,,False,False
 2026-10-27,Gateway Science Charter,,Gateway with Soldan International Studies,,False,False
-2026-10-27,Excelsior Springs,,Harrisonville,,False,False
-2026-10-27,Notre Dame (Cape Girardeau),,Jackson,,False,False
-2026-10-27,Neosho,,Joplin,,False,False
-2026-10-27,Lebanon,,Kickapoo,,False,False
-2026-10-27,Green Ridge with Cole Camp,,Knob Noster,,False,False
-2026-10-27,Kearney,,Liberty,,False,False
-2026-10-27,Marshfield,,Logan-Rogersville,,False,False
 2026-10-27,Thomas Jefferson Independent Day,,McDonald County,,False,False
-2026-10-27,Roosevelt,,Metro,,False,False
-2026-10-27,Summit Christian Academy,,Pembroke Hill,,False,False
-2026-10-27,Saxony Lutheran with St. Vincent,,Poplar Bluff,,False,False
 2026-10-27,Priory,,Principia,,False,False
-2026-10-27,Fatima,,Sacred Heart,,False,False
-2026-10-27,Southern Boone,,Smithton,,False,False
-2026-10-27,St. Pius X (Kansas City),,St. Michael the Archangel,,False,False
-2026-10-27,Park Hill,,Staley,,False,False
-2026-10-27,Raytown,,Van Horn,,False,False
-2026-10-27,Marquette,,Vianney,,False,False
 2026-10-27,Smithville,,Winnetonka,,False,False
-2026-10-27,Valley Park,,Wright City,,False,False
-2026-10-28,Benton,,Cameron,,False,False
-2026-10-28,John Burroughs,,Clayton,,False,False
-2026-10-28,Winfield,,Duchesne,,False,False
+2026-10-28,Benton,3,Cameron,1,False,False
+2026-10-28,John Burroughs,1,Clayton,0,False,False
+2026-10-28,Winfield,6,Duchesne,2,False,False
+2026-10-28,Jefferson City,1,Father Tolton,6,False,False
+2026-10-28,Central (Cape Girardeau),2,Fredericktown,3,False,False
+2026-10-28,Parkway South,0,Kirkwood,2,False,False
+2026-10-28,Parkway Central,0,Ladue Horton Watkins,2,False,False
+2026-10-28,Blue Springs,1,Liberty North,3,False,False
+2026-10-28,De Smet Jesuit,3,Lindbergh,4,False,False
+2026-10-28,MICDS,8,Lutheran North,0,False,False
+2026-10-28,St. Francis Borgia,0,Lutheran St. Charles,3,False,False
+2026-10-28,La Monte,0,Oak Grove,4,False,False
+2026-10-28,Northwest (Cedar Hill),0,Pattonville,1,False,False
+2026-10-28,Ft. Zumwalt West,4,Rockwood Summit,2,False,False
+2026-10-28,Neosho,0,Springfield Catholic,5,False,False
+2026-10-28,Warrenton,3,Sullivan,2,False,False
+2026-10-28,Whitfield,0,Veritas Christian Academy,6,False,False
+2026-10-28,St. Charles,3,Washington,0,False,False
+2026-10-28,Festus,2,Wright City,3,False,False
 2026-10-28,Farmington,,Eureka,,False,False
-2026-10-28,Jefferson City,,Father Tolton,,False,False
-2026-10-28,Central (Cape Girardeau),,Fredericktown,,False,False
 2026-10-28,Lafayette (Wildwood),,Ft. Zumwalt East,,False,False
-2026-10-28,Parkway South,,Kirkwood,,False,False
-2026-10-28,Parkway Central,,Ladue Horton Watkins,,False,False
 2026-10-28,Oakville,,Liberty (Wentzville),,False,False
-2026-10-28,De Smet Jesuit,,Lindbergh,,False,False
-2026-10-28,MICDS,,Lutheran North,,False,False
-2026-10-28,St. Francis Borgia,,Lutheran St. Charles,,False,False
 2026-10-28,Laquey with Richland,,Marshfield,,False,False
 2026-10-28,Windsor (Imperial),,North County,,False,False
-2026-10-28,La Monte,,Oak Grove,,False,False
-2026-10-28,Northwest (Cedar Hill),,Pattonville,,False,False
-2026-10-28,Ft. Zumwalt West,,Rockwood Summit,,False,False
 2026-10-28,Chillicothe,,Savannah,,False,False
-2026-10-28,Neosho,,Springfield Catholic,,False,False
-2026-10-28,Warrenton,,Sullivan,,False,False
-2026-10-28,Whitfield,,Veritas Christian Academy,,False,False
-2026-10-28,St. Charles,,Washington,,False,False
-2026-10-28,Festus,,Wright City,,False,False
 2026-10-29,Seckman,,Affton,,False,False
 2026-10-29,Whitfield,,Bayless,,False,False
 2026-10-29,Moberly,,Boonville,,False,False
