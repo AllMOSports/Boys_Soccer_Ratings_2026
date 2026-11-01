@@ -1107,6 +1107,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-01,Kirkwood,1,Lindbergh,2
 2026-10-01,Crossroads College Preparatory,3,Lutheran North,4
 2026-10-01,Ladue Horton Watkins,0,Marquette,1
+2026-10-01,Laquey with Richland,0,Marshfield,1
 2026-10-01,Branson,2,Neosho,1
 2026-10-01,Cassville,0,New Heights Christian with McAuley Catholic,1
 2026-10-01,Lee's Summit North,6,Oak Park,0
@@ -1845,6 +1846,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-23,Southern Boone,1,Green Ridge with Cole Camp,3
 2026-10-23,Kirkwood,1,Hickman,1
 2026-10-23,Farmington,0,Jackson,1
+2026-10-23,University City,8,Jennings,0
 2026-10-23,Webster Groves,1,John Burroughs,0
 2026-10-23,Missouri Military Academy,4,Mexico,1
 2026-10-23,Seckman,0,Northwest (Cedar Hill),2
@@ -1972,6 +1974,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-28,Benton,3,Cameron,1
 2026-10-28,John Burroughs,1,Clayton,0
 2026-10-28,Winfield,6,Duchesne,2
+2026-10-28,Farmington,2,Eureka,1
 2026-10-28,Jefferson City,1,Father Tolton,6
 2026-10-28,Central (Cape Girardeau),2,Fredericktown,3
 2026-10-28,Lafayette (Wildwood),3,Ft. Zumwalt East,0
@@ -1993,19 +1996,72 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-28,Whitfield,0,Veritas Christian Academy,6
 2026-10-28,St. Charles,3,Washington,0
 2026-10-28,Festus,2,Wright City,3
+2026-10-29,Seckman,1,Affton,0
+2026-10-29,Whitfield,2,Bayless,1
 2026-10-29,Moberly,0,Boonville,1
 2026-10-29,Roosevelt,0,Brentwood,6
+2026-10-29,Paseo Academy,1,Central (Kansas City),12
 2026-10-29,Kickapoo,0,Central (Springfield),1
 2026-10-29,Smithton,1,Clinton,2
 2026-10-29,St. Charles West,1,Collegiate School of Med-Bio Science with McKinley Classical Leadership,2
+2026-10-29,Iberia,1,Crocker,5
+2026-10-29,Center,1,Excelsior Springs,2
+2026-10-29,Cristo Rey,0,Faith Christian Academy,8
 2026-10-29,Holt,1,Hannibal,3
-2026-10-29,Crocker,5,Iberia,1
+2026-10-29,Pembroke Hill,7,Harrisonville,1
 2026-10-29,University City,8,Jennings,0
+2026-10-29,Ozark,2,Joplin,0
+2026-10-29,East (Kansas City),2,Kearney,3
+2026-10-29,Westminster Christian Academy,5,Ladue Horton Watkins,1
 2026-10-29,La Monte,1,Lutheran (Kansas City),6
 2026-10-29,Saxony Lutheran with St. Vincent,1,Lutheran St. Charles,2
+2026-10-29,Winnetonka,1,North Kansas City,2
 2026-10-29,Eugene,0,Osage,6
+2026-10-29,Waynesville,2,Parkview,3
 2026-10-29,Marshall,0,Smith-Cotton,4
 2026-10-29,Green Ridge with Cole Camp,0,St. Paul Lutheran (Concordia),1
 2026-10-29,Lone Jack,1,Stover,0
 2026-10-29,Battle with Columbia Independent,2,Warrenton,1
 2026-10-29,Carl Junction,0,West Plains,1
+2026-10-30,Republic,0,Central (Springfield),4
+2026-10-31,Elsberry,0,Lutheran North,2
+2026-10-31,Canton,7,Crossroads College Preparatory,1
+2026-10-31,Principia,8,STEAM Academy,0
+2026-10-31,Priory,13,Jennings,0
+2026-10-31,MICDS,8,Cardinal Ritter,0
+2026-10-31,Duchesne,6,Winfield,1
+2026-10-31,Veritas Christian Academy,1,Wright City,0
+2026-10-31,Lutheran St. Charles,7,St. Charles West,0
+2026-10-31,Fulton,1,Missouri Military Academy,3
+2026-10-31,Moberly,2,Mexico,0
+2026-10-31,Boonville,0,Christian Fellowship Sr. with Hallsville,1
+2026-10-31,Cassville,3,Clinton,2
+2026-10-31,Monett,8,Aurora,0
+2026-10-31,Bolivar,2,Osage,0
+2026-10-31,Savannah,3,Chillicothe,1
+2026-10-31,Excelsior Springs,2,Maryville,0
+2026-10-31,St. Pius X (Kansas City),3,Guadalupe Centers Charter,1
+2026-10-31,Farmington,5,Festus,0
+2026-10-31,DeSoto,4,Windsor (Imperial),3
+2026-10-31,Sikeston,5,Hillsboro,0
+2026-10-31,West Plains,3,Central (Cape Girardeau),2
+2026-10-31,Chaminade College Prep,8,Gateway with Soldan International Studies,0
+2026-10-31,Parkway Central,1,Westminster Christian Academy,0
+2026-10-31,Parkway West,8,University City,0
+2026-10-31,Clayton,6,Parkway North,0
+2026-10-31,SLUH,7,Parkway South,0
+2026-10-31,Lafayette (Wildwood),3,Vianney,2
+2026-10-31,Marquette,5,Eureka,0
+2026-10-31,Ladue Horton Watkins,0,Kirkwood,2
+2026-10-31,Glendale,8,Waynesville,0
+2026-10-31,Branson,1,Neosho,0
+2026-10-31,Nixa,8,Kickapoo,0
+2026-10-31,Ozark,1,Republic,0
+2026-10-31,Lee's Summit,8,Webb City,0
+2026-10-31,Carthage,1,Lee's Summit North,2
+2026-10-31,Lee's Summit West,5,Joplin,0
+2026-10-31,Raymore-Peculiar,0,Smith-Cotton,1
+2026-10-31,Rockhurst,8,Ruskin,0
+2026-10-31,Fort Osage,4,Grain Valley,1
+2026-10-31,Blue Springs,8,William Chrisman,0
+2026-10-31,Blue Springs South,3,Truman,0
