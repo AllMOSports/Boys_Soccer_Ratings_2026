@@ -2175,7 +2175,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-24,Chaminade College Prep,True,2,Priory,True,0,False,False
 2026-10-24,St. Dominic,True,2,Timberland,True,0,False,False
 2026-10-24,Greenwood,True,,Barstow,True,,False,False
-2026-10-25,Greenwood,True,,Barstow,True,,False,False
 2026-10-26,Bolivar,True,5,Aurora,True,0,False,False
 2026-10-26,Fox,True,0,Bayless,True,5,False,False
 2026-10-26,St. Francis Borgia,True,1,Bishop DuBourg,True,2,False,False
@@ -2272,6 +2271,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-27,Saxony Lutheran with St. Vincent,True,0,Poplar Bluff,True,7,False,False
 2026-10-27,Priory,True,4,Principia,True,2,False,False
 2026-10-27,Webb City,True,1,Republic,True,4,False,False
+2026-10-27,Iberia,True,1,Rolla Sr. High Home Sch,False,4,False,False
 2026-10-27,Paseo Academy,True,3,Ruskin,True,1,False,False
 2026-10-27,Fatima,True,0,Sacred Heart,True,3,False,False
 2026-10-27,Southern Boone,True,2,Smithton,True,0,False,False

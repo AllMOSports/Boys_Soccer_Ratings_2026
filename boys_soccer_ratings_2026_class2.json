@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 01, 2026 at 08:19 AM",
+  "last_updated": "November 02, 2026 at 08:19 AM",
   "league_average": 2.28,
   "classification": 2,
   "teams": [
@@ -291,17 +291,6 @@
     },
     {
       "ovr_rank": 27,
-      "school": "Boonville",
-      "classification": 2,
-      "district": 5,
-      "ovr_rating": -1.59,
-      "off_rating": -1.31,
-      "off_rank": 34,
-      "def_rating": -0.28,
-      "def_rank": 21
-    },
-    {
-      "ovr_rank": 28,
       "school": "Duchesne",
       "classification": 2,
       "district": 4,
@@ -310,6 +299,17 @@
       "off_rank": 25,
       "def_rating": -0.72,
       "def_rank": 26
+    },
+    {
+      "ovr_rank": 28,
+      "school": "Boonville",
+      "classification": 2,
+      "district": 5,
+      "ovr_rating": -1.59,
+      "off_rating": -1.31,
+      "off_rank": 34,
+      "def_rating": -0.28,
+      "def_rank": 21
     },
     {
       "ovr_rank": 29,

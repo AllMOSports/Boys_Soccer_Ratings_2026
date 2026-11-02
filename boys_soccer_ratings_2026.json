@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 01, 2026 at 08:19 AM",
+  "last_updated": "November 02, 2026 at 08:19 AM",
   "league_average": 2.28,
   "teams": [
     {
@@ -92,17 +92,6 @@
     },
     {
       "ovr_rank": 9,
-      "school": "Francis Howell Central",
-      "classification": 4,
-      "district": 3,
-      "ovr_rating": 5.57,
-      "off_rating": 2.55,
-      "off_rank": 12,
-      "def_rating": 3.02,
-      "def_rank": 12
-    },
-    {
-      "ovr_rank": 10,
       "school": "St. Dominic",
       "classification": 3,
       "district": 4,
@@ -111,6 +100,17 @@
       "off_rank": 20,
       "def_rating": 3.25,
       "def_rank": 7
+    },
+    {
+      "ovr_rank": 10,
+      "school": "Francis Howell Central",
+      "classification": 4,
+      "district": 3,
+      "ovr_rating": 5.57,
+      "off_rating": 2.55,
+      "off_rank": 12,
+      "def_rating": 3.02,
+      "def_rank": 12
     },
     {
       "ovr_rank": 11,
@@ -1170,17 +1170,6 @@
     },
     {
       "ovr_rank": 107,
-      "school": "Warrenton",
-      "classification": 3,
-      "district": 4,
-      "ovr_rating": 0.02,
-      "off_rating": 0.17,
-      "off_rank": 95,
-      "def_rating": -0.15,
-      "def_rank": 116
-    },
-    {
-      "ovr_rank": 108,
       "school": "Southern Boone",
       "classification": 2,
       "district": 5,
@@ -1189,6 +1178,17 @@
       "off_rank": 90,
       "def_rating": -0.17,
       "def_rank": 120
+    },
+    {
+      "ovr_rank": 108,
+      "school": "Warrenton",
+      "classification": 3,
+      "district": 4,
+      "ovr_rating": 0.02,
+      "off_rating": 0.17,
+      "off_rank": 95,
+      "def_rating": -0.15,
+      "def_rank": 116
     },
     {
       "ovr_rank": 109,
@@ -1324,17 +1324,6 @@
     },
     {
       "ovr_rank": 121,
-      "school": "Bolivar",
-      "classification": 2,
-      "district": 6,
-      "ovr_rating": -0.71,
-      "off_rating": -0.74,
-      "off_rank": 130,
-      "def_rating": 0.02,
-      "def_rank": 108
-    },
-    {
-      "ovr_rank": 122,
       "school": "West Plains",
       "classification": 3,
       "district": 1,
@@ -1343,6 +1332,17 @@
       "off_rank": 109,
       "def_rating": -0.57,
       "def_rank": 135
+    },
+    {
+      "ovr_rank": 122,
+      "school": "Bolivar",
+      "classification": 2,
+      "district": 6,
+      "ovr_rating": -0.71,
+      "off_rating": -0.74,
+      "off_rank": 130,
+      "def_rating": 0.02,
+      "def_rank": 108
     },
     {
       "ovr_rank": 123,
@@ -1544,17 +1544,6 @@
     },
     {
       "ovr_rank": 141,
-      "school": "Boonville",
-      "classification": 2,
-      "district": 5,
-      "ovr_rating": -1.59,
-      "off_rating": -1.31,
-      "off_rank": 156,
-      "def_rating": -0.28,
-      "def_rank": 124
-    },
-    {
-      "ovr_rank": 142,
       "school": "Duchesne",
       "classification": 2,
       "district": 4,
@@ -1563,6 +1552,17 @@
       "off_rank": 139,
       "def_rating": -0.72,
       "def_rank": 142
+    },
+    {
+      "ovr_rank": 142,
+      "school": "Boonville",
+      "classification": 2,
+      "district": 5,
+      "ovr_rating": -1.59,
+      "off_rating": -1.31,
+      "off_rank": 156,
+      "def_rating": -0.28,
+      "def_rank": 124
     },
     {
       "ovr_rank": 143,

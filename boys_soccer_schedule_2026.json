@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated": "2026-11-01T08:19:45.897403+00:00",
+  "generated": "2026-11-02T08:19:37.962107+00:00",
   "teams": {
     "Osage": [
       {
@@ -25958,21 +25958,6 @@
       },
       {
         "date": "2026-10-24",
-        "opponent": "Greenwood",
-        "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
-        "predicted_team_score": 2.7,
-        "predicted_opp_score": 0.52,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-10-25",
         "opponent": "Greenwood",
         "home_away": null,
         "team_score": null,
@@ -67421,21 +67406,6 @@
         "overtime": false
       },
       {
-        "date": "2026-10-25",
-        "opponent": "Barstow",
-        "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
-        "predicted_team_score": 0.52,
-        "predicted_opp_score": 2.7,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
         "date": "2026-11-03",
         "opponent": "TBD",
         "home_away": null,
@@ -69430,6 +69400,21 @@
         "off_delta": 0.49,
         "def_delta": -0.69,
         "ovr_delta": -0.19,
+        "forfeit": false,
+        "overtime": false
+      },
+      {
+        "date": "2026-10-27",
+        "opponent": "Rolla Sr. High Home Sch",
+        "home_away": null,
+        "team_score": 1,
+        "opp_score": 4,
+        "result": "L",
+        "predicted_team_score": null,
+        "predicted_opp_score": null,
+        "off_delta": null,
+        "def_delta": null,
+        "ovr_delta": null,
         "forfeit": false,
         "overtime": false
       },
@@ -74368,6 +74353,21 @@
         "team_score": 1,
         "opp_score": 3,
         "result": "L",
+        "predicted_team_score": null,
+        "predicted_opp_score": null,
+        "off_delta": null,
+        "def_delta": null,
+        "ovr_delta": null,
+        "forfeit": false,
+        "overtime": false
+      },
+      {
+        "date": "2026-10-27",
+        "opponent": "Iberia",
+        "home_away": null,
+        "team_score": 4,
+        "opp_score": 1,
+        "result": "W",
         "predicted_team_score": null,
         "predicted_opp_score": null,
         "off_delta": null,

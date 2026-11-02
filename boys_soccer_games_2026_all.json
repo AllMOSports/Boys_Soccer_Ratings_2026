@@ -23936,17 +23936,6 @@
     "overtime": false
   },
   {
-    "date": "2026-10-25",
-    "team1": "Greenwood",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Barstow",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
     "date": "2026-10-26",
     "team1": "Bolivar",
     "team1_classified": true,
@@ -24998,6 +24987,17 @@
     "score1": 1,
     "team2": "Republic",
     "team2_classified": true,
+    "score2": 4,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-27",
+    "team1": "Iberia",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Rolla Sr. High Home Sch",
+    "team2_classified": false,
     "score2": 4,
     "forfeit": false,
     "overtime": false
