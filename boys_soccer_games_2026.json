@@ -18307,6 +18307,15 @@
   },
   {
     "date": "2026-10-29",
+    "team1": "North Point",
+    "score1": 6,
+    "team2": "Parkway North",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-29",
     "team1": "Marshall",
     "score1": 0,
     "team2": "Smith-Cotton",
@@ -18352,27 +18361,18 @@
   },
   {
     "date": "2026-10-29",
+    "team1": "Perryville",
+    "score1": 8,
+    "team2": "Windsor (Imperial)",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-29",
     "team1": "Logan-Rogersville",
     "score1": null,
     "team2": "New Heights Christian with McAuley Catholic",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-29",
-    "team1": "North Point",
-    "score1": null,
-    "team2": "Parkway North",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-29",
-    "team1": "Perryville",
-    "score1": null,
-    "team2": "Windsor (Imperial)",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -18758,63 +18758,45 @@
   {
     "date": "2026-11-02",
     "team1": "Brentwood",
-    "score1": null,
+    "score1": 1,
     "team2": "Valley Park",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "St. Pius X (Festus)",
-    "score1": null,
+    "score1": 7,
     "team2": "Hancock",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Eugene",
-    "score1": null,
+    "score1": 7,
     "team2": "Calvary Lutheran",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Green Ridge with Cole Camp",
-    "score1": null,
+    "score1": 1,
     "team2": "La Monte",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "New Heights Christian with McAuley Catholic",
-    "score1": null,
+    "score1": 2,
     "team2": "Thomas Jefferson Independent Day",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-02",
-    "team1": "Lutheran (Kansas City)",
-    "score1": null,
-    "team2": "Cristo Rey",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-02",
-    "team1": "Frontier STEM",
-    "score1": null,
-    "team2": "Bishop LeBlond",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
@@ -18848,189 +18830,189 @@
   {
     "date": "2026-11-02",
     "team1": "Collegiate School of Med-Bio Science with McKinley Classical Leadership",
-    "score1": null,
+    "score1": 1,
     "team2": "Gateway Science Charter",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Sullivan",
-    "score1": null,
+    "score1": 7,
     "team2": "Roosevelt",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "St. Mary's South Side",
-    "score1": null,
+    "score1": 6,
     "team2": "Bishop DuBourg",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Helias Catholic",
-    "score1": null,
+    "score1": 5,
     "team2": "Cassville",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Monett",
-    "score1": null,
+    "score1": 0,
     "team2": "Bolivar",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Rockwood Summit",
-    "score1": null,
+    "score1": 8,
     "team2": "St. Francis Borgia",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Affton",
-    "score1": null,
+    "score1": 2,
     "team2": "Rolla",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Webster Groves",
-    "score1": null,
+    "score1": 6,
     "team2": "Pacific",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Washington",
-    "score1": null,
+    "score1": 2,
     "team2": "Union",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "St. Dominic",
-    "score1": null,
+    "score1": 8,
     "team2": "McCluer North",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Ft. Zumwalt East",
-    "score1": null,
+    "score1": 0,
     "team2": "Warrenton",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Ft. Zumwalt South",
-    "score1": null,
+    "score1": 8,
     "team2": "Hannibal",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "St. Charles",
-    "score1": null,
+    "score1": 8,
     "team2": "Holt",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Northeast (Kansas City)",
-    "score1": null,
+    "score1": 8,
     "team2": "Winnetonka",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Smithville",
-    "score1": null,
+    "score1": 1,
     "team2": "Kearney",
-    "score2": null,
+    "score2": 4,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Lincoln College Prep",
-    "score1": null,
+    "score1": 8,
     "team2": "Benton",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Platte County",
-    "score1": null,
+    "score1": 0,
     "team2": "East (Kansas City)",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Christian Brothers College",
-    "score1": null,
+    "score1": 5,
     "team2": "Ritenour",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "De Smet Jesuit",
-    "score1": null,
+    "score1": 1,
     "team2": "Francis Howell North",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Francis Howell Central",
-    "score1": null,
+    "score1": 5,
     "team2": "Ft. Zumwalt North",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-02",
     "team1": "Francis Howell",
-    "score1": null,
+    "score1": 4,
     "team2": "Pattonville",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
@@ -19048,6 +19030,15 @@
     "team1": "Whitfield",
     "score1": null,
     "team2": "Canton",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-03",
+    "team1": "Father Tolton",
+    "score1": null,
+    "team2": "Eugene",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -19072,9 +19063,27 @@
   },
   {
     "date": "2026-11-03",
+    "team1": "St. Paul Lutheran (Concordia)",
+    "score1": null,
+    "team2": "La Monte",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-03",
     "team1": "Lone Jack",
     "score1": null,
     "team2": "Sacred Heart",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-03",
+    "team1": "Greenwood",
+    "score1": null,
+    "team2": "New Heights Christian with McAuley Catholic",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -19090,9 +19099,18 @@
   },
   {
     "date": "2026-11-03",
-    "team1": "Northland Christian",
+    "team1": "Lutheran (Kansas City)",
     "score1": null,
-    "team2": "Cameron",
+    "team2": "Cristo Rey",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-03",
+    "team1": "Frontier STEM",
+    "score1": null,
+    "team2": "Bishop LeBlond",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -19183,15 +19201,6 @@
     "team1": "Sikeston",
     "score1": null,
     "team2": "West Plains",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-03",
-    "team1": "Chaminade College Prep",
-    "score1": null,
-    "team2": "Parkway Central",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -19450,9 +19459,54 @@
   },
   {
     "date": "2026-11-04",
+    "team1": "Maplewood-Richmond Hts.",
+    "score1": null,
+    "team2": "Brentwood",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-04",
+    "team1": "Saxony Lutheran with St. Vincent",
+    "score1": null,
+    "team2": "St. Pius X (Festus)",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-04",
     "team1": "Barstow",
     "score1": null,
     "team2": "Frontier School of Excellence Charter",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-04",
+    "team1": "Northland Christian",
+    "score1": null,
+    "team2": "Cameron",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-04",
+    "team1": "Lutheran South",
+    "score1": null,
+    "team2": "Collegiate School of Med-Bio Science with McKinley Classical Leadership",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-04",
+    "team1": "Sullivan",
+    "score1": null,
+    "team2": "St. Mary's South Side",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -19468,9 +19522,45 @@
   },
   {
     "date": "2026-11-04",
-    "team1": "Parkway West",
+    "team1": "Helias Catholic",
     "score1": null,
-    "team2": "Clayton",
+    "team2": "Bolivar",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-04",
+    "team1": "Rockwood Summit",
+    "score1": null,
+    "team2": "Affton",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-04",
+    "team1": "Webster Groves",
+    "score1": null,
+    "team2": "Washington",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-04",
+    "team1": "Christian Brothers College",
+    "score1": null,
+    "team2": "De Smet Jesuit",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-04",
+    "team1": "Francis Howell Central",
+    "score1": null,
+    "team2": "Francis Howell",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -19522,6 +19612,42 @@
   },
   {
     "date": "2026-11-05",
+    "team1": "St. Dominic",
+    "score1": null,
+    "team2": "Warrenton",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-05",
+    "team1": "Ft. Zumwalt South",
+    "score1": null,
+    "team2": "St. Charles",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-05",
+    "team1": "Northeast (Kansas City)",
+    "score1": null,
+    "team2": "Kearney",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-05",
+    "team1": "Lincoln College Prep",
+    "score1": null,
+    "team2": "East (Kansas City)",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-05",
     "team1": "SLUH",
     "score1": null,
     "team2": "Lafayette (Wildwood)",
@@ -19534,6 +19660,24 @@
     "team1": "Marquette",
     "score1": null,
     "team2": "Kirkwood",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-07",
+    "team1": "Chaminade College Prep",
+    "score1": null,
+    "team2": "Parkway Central",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-07",
+    "team1": "Parkway West",
+    "score1": null,
+    "team2": "Clayton",
     "score2": null,
     "forfeit": false,
     "overtime": false
