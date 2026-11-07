@@ -2491,15 +2491,15 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-05,Maplewood-Richmond Hts.,True,2,Brentwood,True,1,False,False
 2026-11-05,Metro,True,1,Whitfield,True,2,False,False
 2026-11-05,Father Tolton,True,8,Smithton,True,0,False,False
-2026-11-05,Laquey with Richland,True,,Fatima,True,,False,False
-2026-11-05,Crocker,True,,Dixon,True,,False,False
-2026-11-05,St. Paul Lutheran (Concordia),True,5,Lone Jack,True,2,False,False
+2026-11-05,Laquey with Richland,True,5,Fatima,True,1,False,False
+2026-11-05,Crocker,True,7,Dixon,True,1,False,False
+2026-11-05,St. Paul Lutheran (Concordia),True,6,Lone Jack,True,2,False,False
 2026-11-05,Faith Christian Academy,True,7,Cameron,True,1,False,False
 2026-11-05,Priory,True,2,MICDS,True,0,False,False
-2026-11-05,Veritas Christian Academy,True,,Duchesne,True,,False,False
+2026-11-05,Veritas Christian Academy,True,2,Duchesne,True,1,False,False
 2026-11-05,Southern Boone,True,4,Moberly,True,0,False,False
-2026-11-05,Center,True,,Central (Kansas City),True,,False,False
-2026-11-05,Oak Grove,True,,Paseo Academy,True,,False,False
+2026-11-05,Center,True,1,Central (Kansas City),True,4,False,False
+2026-11-05,Oak Grove,True,3,Paseo Academy,True,1,False,False
 2026-11-05,Kirksville,True,7,Savannah,True,1,False,False
 2026-11-05,Excelsior Springs,True,1,St. Pius X (Kansas City),True,2,False,False
 2026-11-05,St. Dominic,True,5,Warrenton,True,1,False,False
@@ -2517,14 +2517,15 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-05,SLUH,True,6,Lafayette (Wildwood),True,0,False,False
 2026-11-05,Marquette,True,2,Kirkwood,True,3,False,False
 2026-11-05,Rock Bridge,True,1,Troy Buchanan,True,2,False,False
-2026-11-05,Ft. Zumwalt West,True,,Timberland,True,,False,False
+2026-11-05,Ft. Zumwalt West,True,1,Timberland,True,0,False,False
 2026-11-05,Lee's Summit,True,0,Lee's Summit West,True,1,False,False
 2026-11-05,Rockhurst,True,5,Blue Springs,True,0,False,False
 2026-11-05,Liberty North,True,1,Park Hill,True,0,False,False
 2026-11-05,Park Hill South,True,0,Liberty,True,4,False,False
-2026-11-06,Maplewood-Richmond Hts.,True,,Saxony Lutheran with St. Vincent,True,,False,False
-2026-11-06,Pembroke Hill,True,,Barstow,True,,False,False
-2026-11-06,Lutheran South,True,,St. Mary's South Side,True,,False,False
+2026-11-06,Maplewood-Richmond Hts.,True,4,Saxony Lutheran with St. Vincent,True,0,False,False
+2026-11-06,Pembroke Hill,True,1,Barstow,True,0,False,False
+2026-11-06,Lutheran South,True,0,St. Mary's South Side,True,5,False,False
+2026-11-07,Laquey with Richland,True,,Crocker,True,,False,False
 2026-11-07,Notre Dame (Cape Girardeau),True,,Bayless,True,,False,False
 2026-11-07,Kirksville,True,,St. Pius X (Kansas City),True,,False,False
 2026-11-07,Farmington,True,,Sikeston,True,,False,False
@@ -2539,15 +2540,18 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-09,St. Dominic,True,,Ft. Zumwalt South,True,,False,False
 2026-11-09,Van Horn,True,,Summit Christian Academy,True,,False,False
 2026-11-09,Northeast (Kansas City),True,,East (Kansas City),True,,False,False
-2026-11-09,TBD,False,,Troy Buchanan,True,,False,False
+2026-11-09,Ft. Zumwalt West,True,,Troy Buchanan,True,,False,False
 2026-11-09,Glendale,True,,Nixa,True,,False,False
 2026-11-09,Liberty North,True,,Liberty,True,,False,False
+2026-11-10,Oak Grove,True,,Central (Kansas City),True,,False,False
 2026-11-10,Springfield Catholic,True,,Logan-Rogersville,True,,False,False
 2026-11-10,Oakville,True,,Lindbergh,True,,False,False
-2026-11-14,Whitfield,True,,TBD,False,,False,False
-2026-11-14,Faith Christian Academy,True,,TBD,False,,False,False
+2026-11-14,Whitfield,True,,Maplewood-Richmond Hts.,True,,False,False
+2026-11-14,Faith Christian Academy,True,,Pembroke Hill,True,,False,False
 2026-11-14,TBD,False,,Father Tolton,True,,False,False
 2026-11-14,TBD,False,,St. Paul Lutheran (Concordia),True,,False,False
+2026-11-14,St. Mary's South Side,True,,TBD,False,,False,False
+2026-11-14,Veritas Christian Academy,True,,TBD,False,,False,False
 2026-11-14,Helias Catholic,True,,Southern Boone,True,,False,False
 2026-11-14,TBD,False,,Rockhurst,True,,False,False
 2026-11-14,Lee's Summit West,True,,TBD,False,,False,False

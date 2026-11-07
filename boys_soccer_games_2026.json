@@ -19631,25 +19631,25 @@
   {
     "date": "2026-11-05",
     "team1": "Laquey with Richland",
-    "score1": null,
+    "score1": 5,
     "team2": "Fatima",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-05",
     "team1": "Crocker",
-    "score1": null,
+    "score1": 7,
     "team2": "Dixon",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-05",
     "team1": "St. Paul Lutheran (Concordia)",
-    "score1": 5,
+    "score1": 6,
     "team2": "Lone Jack",
     "score2": 2,
     "forfeit": false,
@@ -19676,9 +19676,9 @@
   {
     "date": "2026-11-05",
     "team1": "Veritas Christian Academy",
-    "score1": null,
+    "score1": 2,
     "team2": "Duchesne",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
@@ -19694,18 +19694,18 @@
   {
     "date": "2026-11-05",
     "team1": "Center",
-    "score1": null,
+    "score1": 1,
     "team2": "Central (Kansas City)",
-    "score2": null,
+    "score2": 4,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-05",
     "team1": "Oak Grove",
-    "score1": null,
+    "score1": 3,
     "team2": "Paseo Academy",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
@@ -19865,9 +19865,9 @@
   {
     "date": "2026-11-05",
     "team1": "Ft. Zumwalt West",
-    "score1": null,
+    "score1": 1,
     "team2": "Timberland",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
@@ -19910,26 +19910,35 @@
   {
     "date": "2026-11-06",
     "team1": "Maplewood-Richmond Hts.",
-    "score1": null,
+    "score1": 4,
     "team2": "Saxony Lutheran with St. Vincent",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-06",
     "team1": "Pembroke Hill",
-    "score1": null,
+    "score1": 1,
     "team2": "Barstow",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-06",
     "team1": "Lutheran South",
-    "score1": null,
+    "score1": 0,
     "team2": "St. Mary's South Side",
+    "score2": 5,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-07",
+    "team1": "Laquey with Richland",
+    "score1": null,
+    "team2": "Crocker",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -20062,6 +20071,15 @@
   },
   {
     "date": "2026-11-09",
+    "team1": "Ft. Zumwalt West",
+    "score1": null,
+    "team2": "Troy Buchanan",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-09",
     "team1": "Glendale",
     "score1": null,
     "team2": "Nixa",
@@ -20080,6 +20098,15 @@
   },
   {
     "date": "2026-11-10",
+    "team1": "Oak Grove",
+    "score1": null,
+    "team2": "Central (Kansas City)",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-10",
     "team1": "Springfield Catholic",
     "score1": null,
     "team2": "Logan-Rogersville",
@@ -20092,6 +20119,24 @@
     "team1": "Oakville",
     "score1": null,
     "team2": "Lindbergh",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
+    "team1": "Whitfield",
+    "score1": null,
+    "team2": "Maplewood-Richmond Hts.",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
+    "team1": "Faith Christian Academy",
+    "score1": null,
+    "team2": "Pembroke Hill",
     "score2": null,
     "forfeit": false,
     "overtime": false
