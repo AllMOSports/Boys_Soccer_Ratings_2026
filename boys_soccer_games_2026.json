@@ -19937,36 +19937,36 @@
   {
     "date": "2026-11-07",
     "team1": "Laquey with Richland",
-    "score1": null,
+    "score1": 3,
     "team2": "Crocker",
-    "score2": null,
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-07",
     "team1": "Notre Dame (Cape Girardeau)",
-    "score1": null,
+    "score1": 8,
     "team2": "Bayless",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-07",
     "team1": "Kirksville",
-    "score1": null,
+    "score1": 1,
     "team2": "St. Pius X (Kansas City)",
-    "score2": null,
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-07",
     "team1": "Farmington",
-    "score1": null,
+    "score1": 4,
     "team2": "Sikeston",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
@@ -19982,45 +19982,45 @@
   {
     "date": "2026-11-07",
     "team1": "Chaminade College Prep",
-    "score1": null,
+    "score1": 3,
     "team2": "Parkway Central",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-07",
     "team1": "Parkway West",
-    "score1": null,
+    "score1": 0,
     "team2": "Clayton",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-07",
     "team1": "Camdenton",
-    "score1": null,
+    "score1": 4,
     "team2": "Capital City",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-07",
     "team1": "SLUH",
-    "score1": null,
+    "score1": 3,
     "team2": "Kirkwood",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-07",
     "team1": "Christian Brothers College",
-    "score1": null,
+    "score1": 0,
     "team2": "Francis Howell Central",
-    "score2": null,
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
@@ -20107,6 +20107,15 @@
   },
   {
     "date": "2026-11-10",
+    "team1": "Chaminade College Prep",
+    "score1": null,
+    "team2": "Clayton",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-10",
     "team1": "Springfield Catholic",
     "score1": null,
     "team2": "Logan-Rogersville",
@@ -20137,6 +20146,24 @@
     "team1": "Faith Christian Academy",
     "score1": null,
     "team2": "Pembroke Hill",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
+    "team1": "Laquey with Richland",
+    "score1": null,
+    "team2": "Father Tolton",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
+    "team1": "St. Mary's South Side",
+    "score1": null,
+    "team2": "Notre Dame (Cape Girardeau)",
     "score2": null,
     "forfeit": false,
     "overtime": false
