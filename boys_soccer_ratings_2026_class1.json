@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 08, 2026 at 08:19 AM",
+  "last_updated": "November 09, 2026 at 08:19 AM",
   "league_average": 2.29,
   "classification": 1,
   "teams": [
@@ -20,9 +20,9 @@
       "classification": 1,
       "district": 3,
       "ovr_rating": 2.92,
-      "off_rating": 1.88,
+      "off_rating": 1.89,
       "off_rank": 2,
-      "def_rating": 1.04,
+      "def_rating": 1.03,
       "def_rank": 2
     },
     {
@@ -52,7 +52,7 @@
       "school": "Barstow",
       "classification": 1,
       "district": 7,
-      "ovr_rating": 0.88,
+      "ovr_rating": 0.87,
       "off_rating": 0.3,
       "off_rank": 6,
       "def_rating": 0.57,
@@ -66,7 +66,7 @@
       "ovr_rating": 0.08,
       "off_rating": 0.84,
       "off_rank": 3,
-      "def_rating": -0.75,
+      "def_rating": -0.76,
       "def_rank": 15
     },
     {
@@ -86,7 +86,7 @@
       "classification": 1,
       "district": 2,
       "ovr_rating": -0.29,
-      "off_rating": 0.28,
+      "off_rating": 0.29,
       "off_rank": 7,
       "def_rating": -0.57,
       "def_rank": 13
@@ -129,10 +129,10 @@
       "school": "Greenwood",
       "classification": 1,
       "district": 6,
-      "ovr_rating": -1.53,
+      "ovr_rating": -1.54,
       "off_rating": -1.31,
       "off_rank": 13,
-      "def_rating": -0.22,
+      "def_rating": -0.23,
       "def_rank": 10
     },
     {
@@ -140,7 +140,7 @@
       "school": "New Heights Christian with McAuley Catholic",
       "classification": 1,
       "district": 6,
-      "ovr_rating": -1.54,
+      "ovr_rating": -1.55,
       "off_rating": -1.52,
       "off_rank": 16,
       "def_rating": -0.02,
@@ -174,7 +174,7 @@
       "classification": 1,
       "district": 1,
       "ovr_rating": -2.35,
-      "off_rating": -2.4,
+      "off_rating": -2.39,
       "off_rank": 24,
       "def_rating": 0.04,
       "def_rank": 7
@@ -198,7 +198,7 @@
       "ovr_rating": -2.94,
       "off_rating": -1.98,
       "off_rank": 19,
-      "def_rating": -0.95,
+      "def_rating": -0.96,
       "def_rank": 16
     },
     {
@@ -272,8 +272,8 @@
       "school": "Frontier STEM",
       "classification": 1,
       "district": 8,
-      "ovr_rating": -4.37,
-      "off_rating": -1.58,
+      "ovr_rating": -4.38,
+      "off_rating": -1.59,
       "off_rank": 17,
       "def_rating": -2.79,
       "def_rank": 27
@@ -284,7 +284,7 @@
       "classification": 1,
       "district": 4,
       "ovr_rating": -4.64,
-      "off_rating": -1.59,
+      "off_rating": -1.6,
       "off_rank": 18,
       "def_rating": -3.04,
       "def_rank": 31
@@ -297,7 +297,7 @@
       "ovr_rating": -4.77,
       "off_rating": -2.44,
       "off_rank": 25,
-      "def_rating": -2.32,
+      "def_rating": -2.33,
       "def_rank": 26
     },
     {
@@ -316,7 +316,7 @@
       "school": "Cameron",
       "classification": 1,
       "district": 8,
-      "ovr_rating": -5.4,
+      "ovr_rating": -5.41,
       "off_rating": -2.58,
       "off_rank": 28,
       "def_rating": -2.82,
@@ -363,7 +363,7 @@
       "ovr_rating": -6.2,
       "off_rating": -3.19,
       "off_rank": 35,
-      "def_rating": -3.0,
+      "def_rating": -3.01,
       "def_rank": 30
     },
     {
@@ -374,7 +374,7 @@
       "ovr_rating": -6.38,
       "off_rating": -3.21,
       "off_rank": 36,
-      "def_rating": -3.17,
+      "def_rating": -3.18,
       "def_rank": 32
     },
     {
@@ -396,7 +396,7 @@
       "ovr_rating": -6.9,
       "off_rating": -3.9,
       "off_rank": 39,
-      "def_rating": -3.0,
+      "def_rating": -3.01,
       "def_rank": 29
     },
     {
@@ -426,7 +426,7 @@
       "school": "Fatima",
       "classification": 1,
       "district": 4,
-      "ovr_rating": -8.54,
+      "ovr_rating": -8.55,
       "off_rating": -4.47,
       "off_rank": 41,
       "def_rating": -4.07,
@@ -451,7 +451,7 @@
       "ovr_rating": -10.69,
       "off_rating": -4.16,
       "off_rank": 40,
-      "def_rating": -6.53,
+      "def_rating": -6.54,
       "def_rank": 41
     },
     {

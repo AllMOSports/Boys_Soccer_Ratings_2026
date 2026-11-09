@@ -1,227 +1,227 @@
 School,OFF Rating,DEF Rating,OVR Rating,OFF Rank,DEF Rank,OVR Rank
 Rockhurst,4.75,3.63,8.38,1,2,1
-SLUH,3.21,3.84,7.05,3,1,2
-Liberty North,3.3,3.17,6.47,2,9,3
+SLUH,3.22,3.84,7.05,3,1,2
+Liberty North,3.3,3.16,6.46,2,9,3
 Blue Springs South,2.95,3.15,6.1,5,11,4
 Chaminade College Prep,2.42,3.55,5.97,15,3,5
 Christian Brothers College,2.57,3.29,5.86,10,5,6
-Oakville,2.47,3.27,5.75,14,6,7
-Francis Howell Central,2.57,3.16,5.73,11,10,8
+Francis Howell Central,2.57,3.16,5.73,11,10,7
+Oakville,2.46,3.27,5.73,14,6,8
 Marquette,2.54,3.17,5.71,13,8,9
 St. Dominic,2.35,3.22,5.57,18,7,10
-Liberty,3.18,2.34,5.53,4,30,11
-Nixa,2.81,2.63,5.44,7,19,12
-Lee's Summit,2.54,2.85,5.4,12,14,13
-Kirkwood,1.89,3.49,5.38,32,4,14
+Liberty,3.18,2.34,5.52,4,30,11
+Nixa,2.8,2.63,5.44,7,19,12
+Lee's Summit,2.54,2.85,5.39,12,14,13
+Kirkwood,1.9,3.48,5.38,32,4,14
 Van Horn,2.93,2.42,5.35,6,28,15
 Notre Dame (Cape Girardeau),2.68,2.54,5.23,8,22,16
 Lee's Summit West,1.88,3.13,5.0,35,12,17
-Blue Springs,2.1,2.82,4.92,27,16,18
-Vianney,1.81,2.99,4.8,38,13,19
-Northeast (Kansas City),2.38,2.35,4.74,16,29,20
-Glendale,2.15,2.52,4.68,24,23,21
-Lafayette (Wildwood),2.62,2.03,4.65,9,40,22
-Lindbergh,2.13,2.51,4.64,26,26,23
-John Burroughs,2.07,2.52,4.59,29,24,24
-Ladue Horton Watkins,2.2,2.33,4.53,23,31,25
-Rock Bridge,2.35,2.16,4.51,17,36,26
-Priory,1.81,2.69,4.5,37,18,27
-Park Hill South,1.8,2.63,4.44,39,20,28
-Clayton,1.66,2.75,4.42,46,17,29
-Ft. Zumwalt South,2.09,2.22,4.31,28,34,30
-De Smet Jesuit,1.78,2.51,4.29,43,25,31
+Blue Springs,2.1,2.82,4.92,26,16,18
+Vianney,1.83,2.98,4.81,37,13,19
+Northeast (Kansas City),2.38,2.35,4.73,16,29,20
+Glendale,2.15,2.52,4.67,23,24,21
+Lafayette (Wildwood),2.62,2.02,4.64,9,40,22
+Lindbergh,2.13,2.5,4.63,25,26,23
+John Burroughs,2.07,2.53,4.6,29,23,24
+Ladue Horton Watkins,2.21,2.32,4.53,21,32,25
+Priory,1.82,2.69,4.51,38,18,26
+Rock Bridge,2.35,2.16,4.51,17,36,27
+Clayton,1.67,2.76,4.43,46,17,28
+Park Hill South,1.8,2.63,4.43,39,20,29
+Ft. Zumwalt South,2.09,2.21,4.3,28,35,30
+De Smet Jesuit,1.78,2.51,4.28,43,25,31
 Pembroke Hill,2.34,1.91,4.25,19,43,32
 Parkway West,1.4,2.84,4.24,53,15,33
-Ft. Zumwalt West,1.53,2.58,4.1,51,21,34
-Eureka,2.15,1.93,4.08,25,42,35
-Webster Groves,1.68,2.21,3.89,44,35,36
-Rockwood Summit,2.2,1.66,3.86,22,51,37
-Lee's Summit North,1.86,1.89,3.75,36,44,38
-Northwest (Cedar Hill),1.88,1.86,3.74,34,46,39
-Francis Howell,1.61,2.12,3.73,47,38,40
-Jackson,1.55,2.14,3.7,50,37,41
-Helias Catholic,1.33,2.24,3.57,54,32,42
+Ft. Zumwalt West,1.52,2.57,4.09,51,21,34
+Eureka,2.15,1.93,4.08,24,42,35
+Webster Groves,1.71,2.32,4.03,44,31,36
+Lee's Summit North,1.86,1.89,3.75,36,44,37
+Northwest (Cedar Hill),1.88,1.86,3.74,34,46,38
+Rockwood Summit,2.09,1.62,3.72,27,51,39
+Francis Howell,1.6,2.11,3.71,47,38,40
+Jackson,1.55,2.13,3.68,50,37,41
+Helias Catholic,1.33,2.23,3.56,54,33,42
 St. Charles,2.29,1.27,3.56,20,66,43
-Lincoln College Prep,2.21,1.33,3.54,21,60,44
-Springfield Catholic,1.79,1.72,3.51,42,48,45
-Logan-Rogersville,1.9,1.49,3.4,31,54,46
-North Point,2.02,1.33,3.35,30,61,47
-Farmington,1.2,2.12,3.32,58,39,48
-Parkway South,1.4,1.87,3.27,52,45,49
-Park Hill,1.25,1.98,3.23,56,41,50
-Timberland,0.98,2.23,3.21,61,33,51
+Lincoln College Prep,2.2,1.33,3.54,22,60,44
+Springfield Catholic,1.79,1.71,3.51,40,49,45
+Logan-Rogersville,1.9,1.49,3.39,31,54,46
+North Point,2.02,1.33,3.35,30,62,47
+Farmington,1.19,2.11,3.3,58,39,48
+Parkway South,1.41,1.87,3.29,52,45,49
+Park Hill,1.25,1.97,3.22,56,41,50
+Timberland,0.97,2.23,3.2,61,34,51
 Troy Buchanan,0.68,2.44,3.12,76,27,52
-Hickman,1.59,1.46,3.05,48,55,53
-Father Tolton,1.88,1.04,2.92,33,68,54
-Francis Howell North,1.23,1.54,2.77,57,53,55
-Liberty (Wentzville),1.57,1.01,2.58,49,69,56
+Hickman,1.59,1.45,3.04,48,56,53
+Father Tolton,1.89,1.03,2.92,33,68,54
+Francis Howell North,1.23,1.54,2.76,57,53,55
+Liberty (Wentzville),1.57,0.99,2.55,49,69,56
 Pattonville,1.17,1.31,2.48,60,63,57
-Staley,0.61,1.85,2.47,78,47,58
-Sikeston,1.79,0.59,2.38,41,88,59
-MICDS,0.88,1.45,2.33,64,56,60
-Westminster Christian Academy,0.88,1.37,2.26,63,58,61
-Carthage,0.83,1.42,2.26,68,57,62
-Mehlville,0.85,1.35,2.19,66,59,63
-Ozark,1.19,0.99,2.18,59,70,64
-Principia,0.53,1.61,2.14,82,52,65
-Parkway Central,0.44,1.67,2.11,84,50,66
+Staley,0.61,1.85,2.46,78,47,58
+Sikeston,1.79,0.59,2.38,42,88,59
+MICDS,0.88,1.46,2.34,64,55,60
+Carthage,0.84,1.42,2.26,68,57,61
+Westminster Christian Academy,0.89,1.37,2.26,63,58,62
+Mehlville,0.85,1.36,2.21,66,59,63
+Ozark,1.19,0.98,2.17,59,70,64
+Principia,0.53,1.62,2.14,81,52,65
+Parkway Central,0.45,1.67,2.12,84,50,66
 Fort Osage,1.25,0.84,2.09,55,75,67
-St. Mary's South Side,1.67,0.31,1.98,45,100,68
-St. Michael the Archangel,0.68,1.27,1.96,77,65,69
-Raymore-Peculiar,0.16,1.71,1.87,91,49,70
-East (Kansas City),0.87,0.6,1.47,65,87,71
-Poplar Bluff,1.79,-0.32,1.47,40,123,72
+St. Mary's South Side,1.68,0.32,1.99,45,100,68
+St. Michael the Archangel,0.68,1.27,1.95,77,65,69
+Raymore-Peculiar,0.16,1.71,1.87,91,48,70
+Poplar Bluff,1.79,-0.32,1.47,41,123,71
+East (Kansas City),0.87,0.6,1.47,65,87,72
 Smith-Cotton,0.81,0.64,1.45,69,86,73
 Seckman,0.15,1.28,1.43,93,64,74
-Metro,0.75,0.67,1.42,72,84,75
-Veritas Christian Academy,0.07,1.33,1.39,99,62,76
+Metro,0.75,0.67,1.42,71,84,75
+Veritas Christian Academy,0.07,1.33,1.4,99,61,76
 Grain Valley,0.54,0.66,1.2,80,85,77
-Camdenton,0.77,0.36,1.13,71,97,78
-Lutheran South,0.73,0.36,1.08,73,98,79
+Camdenton,0.72,0.41,1.13,74,96,78
+Lutheran South,0.73,0.36,1.09,72,99,79
 Lutheran St. Charles,0.11,0.92,1.03,95,72,80
 Monett,0.1,0.93,1.03,96,71,81
-Belton,0.59,0.39,0.98,79,96,82
+Belton,0.59,0.39,0.97,79,97,82
 Maplewood-Richmond Hts.,0.39,0.57,0.96,86,91,83
-Oak Park,0.4,0.52,0.92,85,93,84
-Barstow,0.3,0.57,0.88,87,90,85
-Summit Christian Academy,0.29,0.58,0.88,88,89,86
-Central (St. Joseph),0.08,0.79,0.86,98,80,87
-Capital City,0.53,0.32,0.85,81,99,88
-North Kansas City,0.16,0.68,0.84,92,83,89
+Oak Park,0.4,0.52,0.91,85,93,84
+Summit Christian Academy,0.29,0.58,0.88,88,89,85
+Barstow,0.3,0.57,0.87,87,90,86
+Central (St. Joseph),0.07,0.78,0.86,98,80,87
+Capital City,0.48,0.38,0.85,83,98,88
+North Kansas City,0.15,0.68,0.83,92,83,89
 Orchard Farm,-0.02,0.83,0.81,105,77,90
-Ft. Zumwalt East,-0.39,1.2,0.81,118,67,91
-Branson,-0.15,0.87,0.72,107,73,92
-Ft. Zumwalt North,-0.08,0.79,0.71,106,79,93
-Marshall,-0.16,0.84,0.68,108,76,94
-Battle with Columbia Independent,-0.23,0.84,0.62,113,74,95
-Joplin,0.05,0.55,0.59,101,92,96
-Affton,0.91,-0.34,0.57,62,126,97
-St. Pius X (Kansas City),0.5,0.05,0.55,83,108,98
-Kirksville,-0.23,0.73,0.5,112,82,99
+Ft. Zumwalt East,-0.39,1.2,0.8,118,67,91
+Ft. Zumwalt North,-0.08,0.79,0.71,106,79,92
+Branson,-0.15,0.86,0.71,107,73,93
+Marshall,-0.15,0.83,0.68,109,76,94
+Battle with Columbia Independent,-0.22,0.84,0.61,112,74,95
+Joplin,0.05,0.54,0.59,101,92,96
+Affton,0.91,-0.35,0.57,62,126,97
+St. Pius X (Kansas City),0.5,0.05,0.54,82,108,98
+Kirksville,-0.23,0.73,0.5,113,82,99
 Central (Springfield),-0.33,0.78,0.45,117,81,100
-Neosho,-0.2,0.52,0.31,111,95,101
-Excelsior Springs,0.06,0.18,0.23,100,104,102
-Bayless,-0.01,0.22,0.22,102,102,103
+Neosho,-0.21,0.51,0.31,111,94,101
+Excelsior Springs,0.06,0.17,0.23,100,104,102
+Bayless,-0.01,0.22,0.22,102,101,103
 Southern Boone,0.18,-0.02,0.17,90,112,104
-Warrenton,0.14,0.0,0.14,94,111,105
+Warrenton,0.14,-0.0,0.14,94,111,105
 Republic,-0.7,0.83,0.13,131,78,106
-Fair Grove,0.84,-0.75,0.08,67,144,107
+Fair Grove,0.84,-0.76,0.08,67,144,107
 Saxony Lutheran with St. Vincent,-0.24,0.14,-0.1,115,105,108
-Washington,-0.24,0.11,-0.13,114,106,109
+Washington,-0.23,0.11,-0.12,114,106,109
 Kickapoo,0.08,-0.25,-0.17,97,119,110
-Central (Kansas City),0.73,-0.92,-0.19,74,148,111
+Central (Kansas City),0.72,-0.92,-0.19,73,148,111
 Raytown,0.7,-0.93,-0.24,75,149,112
-Whitfield,0.28,-0.57,-0.29,89,136,113
-Parkview,-0.52,0.23,-0.3,119,101,114
-Perryville,-0.01,-0.3,-0.31,103,122,115
-Rolla,-0.86,0.52,-0.34,138,94,116
+Whitfield,0.29,-0.57,-0.29,89,136,113
+Parkview,-0.52,0.22,-0.3,119,102,114
+Perryville,-0.02,-0.3,-0.31,104,122,115
+Rolla,-0.86,0.51,-0.35,138,95,116
 Platte County,-0.53,0.08,-0.44,120,107,117
 Bolivar,-0.67,0.18,-0.49,129,103,118
-McDonald County,0.79,-1.28,-0.49,70,170,119
+McDonald County,0.79,-1.29,-0.5,70,170,119
 Pleasant Hill,-0.28,-0.32,-0.6,116,124,120
 Smithville,-0.66,0.03,-0.63,127,110,121
-West Plains,-0.16,-0.53,-0.68,109,132,122
+West Plains,-0.15,-0.53,-0.69,108,132,122
 St. Pius X (Festus),-0.61,-0.14,-0.74,122,116,123
 Harrisonville,-0.67,-0.24,-0.91,128,118,124
 St. Paul Lutheran (Concordia),-0.63,-0.28,-0.91,124,120,125
 Faith Christian Academy,-0.62,-0.34,-0.97,123,125,126
 Waynesville,-0.99,-0.03,-1.02,144,114,127
-Center,-0.78,-0.35,-1.13,135,127,128
-Jefferson City,-0.68,-0.45,-1.13,130,130,129
-Duchesne,-0.74,-0.55,-1.29,133,134,130
-Cassville,-1.23,-0.07,-1.29,149,115,131
-Carl Junction,-0.94,-0.37,-1.32,143,128,132
+Jefferson City,-0.68,-0.45,-1.13,130,130,128
+Center,-0.78,-0.35,-1.13,135,127,129
+Duchesne,-0.74,-0.55,-1.29,133,133,130
+Cassville,-1.23,-0.07,-1.3,149,115,131
+Carl Junction,-0.95,-0.38,-1.32,143,128,132
 Clinton,-0.64,-0.75,-1.39,125,143,133
 Willard,-0.76,-0.64,-1.4,134,139,134
 Oak Grove,-0.99,-0.44,-1.43,145,129,135
-Savannah,-0.01,-1.43,-1.44,104,175,136
+Savannah,-0.02,-1.43,-1.45,103,175,136
 Truman,-0.93,-0.56,-1.48,142,135,137
 Kearney,-0.18,-1.33,-1.51,110,171,138
-Greenwood,-1.31,-0.22,-1.53,153,117,139
-New Heights Christian with McAuley Catholic,-1.52,-0.02,-1.54,164,113,140
+Greenwood,-1.31,-0.23,-1.54,153,117,139
+New Heights Christian with McAuley Catholic,-1.52,-0.02,-1.55,164,113,140
 Fox,-0.6,-0.96,-1.56,121,151,141
-Boonville,-1.34,-0.29,-1.62,157,121,142
-Grandview,-0.9,-0.72,-1.62,139,142,143
-Moberly,-1.19,-0.47,-1.66,148,131,144
+Grandview,-0.9,-0.72,-1.62,139,142,142
+Boonville,-1.34,-0.29,-1.63,157,121,143
+Moberly,-1.2,-0.47,-1.66,148,131,144
 Hannibal,-0.73,-1.11,-1.84,132,160,145
 Lebanon,-0.81,-1.04,-1.86,137,157,146
 Winnetonka,-1.27,-0.59,-1.86,151,137,147
-Webb City,-1.36,-0.55,-1.91,158,133,148
+Webb City,-1.36,-0.55,-1.91,158,134,148
 Sullivan,-0.92,-0.99,-1.92,141,153,149
 New Covenant Academy,-1.33,-0.6,-1.93,155,138,150
-Missouri Military Academy,-0.79,-1.18,-1.96,136,162,151
+Missouri Military Academy,-0.79,-1.18,-1.97,136,162,151
 Union,-1.47,-0.68,-2.15,161,140,152
 Brentwood,-1.29,-1.01,-2.3,152,154,153
-DeSoto,-0.65,-1.68,-2.33,126,182,154
-St. Charles West,-1.56,-0.79,-2.35,167,145,155
-Valley Park,-2.4,0.04,-2.35,191,109,156
+DeSoto,-0.65,-1.68,-2.33,126,183,154
+Valley Park,-2.39,0.04,-2.35,191,109,155
+St. Charles West,-1.56,-0.79,-2.35,167,145,156
 Holt,-1.37,-1.07,-2.44,159,158,157
-Winfield,-0.9,-1.55,-2.45,140,177,158
-Guadalupe Centers Charter,-1.26,-1.2,-2.46,150,163,159
-St. Francis Borgia,-1.32,-1.27,-2.59,154,167,160
+Winfield,-0.9,-1.56,-2.45,140,177,158
+Guadalupe Centers Charter,-1.26,-1.2,-2.47,150,163,159
+St. Francis Borgia,-1.32,-1.28,-2.6,154,167,160
 Ritenour,-1.84,-0.8,-2.64,176,146,161
 Pacific,-1.95,-0.71,-2.66,178,141,162
-Parkway North,-1.66,-1.03,-2.69,171,156,163
-Benton,-1.17,-1.56,-2.72,146,178,164
-Collegiate School of Med-Bio Science with McKinley Classical Leadership,-1.84,-0.91,-2.75,175,147,165
+Parkway North,-1.65,-1.03,-2.69,171,156,163
+Benton,-1.17,-1.56,-2.72,147,178,164
+Collegiate School of Med-Bio Science with McKinley Classical Leadership,-1.84,-0.91,-2.74,175,147,165
 Thomas Jefferson Independent Day,-1.48,-1.28,-2.76,162,169,166
-Osage,-1.17,-1.61,-2.77,147,180,167
+Osage,-1.17,-1.61,-2.78,146,180,167
 Bishop DuBourg,-1.55,-1.26,-2.81,166,166,168
-Frontier School of Excellence Charter,-1.98,-0.95,-2.94,179,150,169
+Frontier School of Excellence Charter,-1.98,-0.96,-2.94,179,150,169
 William Chrisman,-1.63,-1.34,-2.97,170,172,170
 Windsor (Imperial),-2.0,-1.02,-3.02,181,155,171
-Hillcrest,-1.33,-1.77,-3.1,156,187,172
+Hillcrest,-1.33,-1.77,-3.11,156,187,172
 Gateway with Soldan International Studies,-1.41,-1.74,-3.15,160,185,173
 Laquey with Richland,-2.18,-0.98,-3.16,186,152,174
 Marshfield,-2.06,-1.11,-3.17,185,159,175
-Hillsboro,-1.55,-1.68,-3.22,165,183,176
+Hillsboro,-1.55,-1.68,-3.23,165,182,176
 Chillicothe,-1.99,-1.25,-3.24,180,165,177
 Stover,-2.02,-1.28,-3.3,182,168,178
 Lutheran (Kansas City),-2.21,-1.16,-3.38,187,161,179
-Christian Fellowship Sr. with Hallsville,-1.91,-1.56,-3.47,177,179,180
-Lone Jack,-2.05,-1.43,-3.48,183,174,181
-Central (Cape Girardeau),-2.26,-1.21,-3.48,189,164,182
+Christian Fellowship Sr. with Hallsville,-1.91,-1.56,-3.48,177,179,180
+Central (Cape Girardeau),-2.27,-1.21,-3.48,189,164,181
+Lone Jack,-2.05,-1.43,-3.48,183,174,182
 Fredericktown,-1.49,-2.15,-3.64,163,190,183
-Maryville,-1.79,-1.86,-3.65,174,188,184
-Wright City,-2.06,-1.73,-3.79,184,184,185
-University City,-1.77,-2.01,-3.79,173,189,186
+Maryville,-1.79,-1.86,-3.66,174,188,184
+University City,-1.77,-2.01,-3.78,173,189,185
+Wright City,-2.06,-1.73,-3.79,184,184,186
 Hancock,-2.47,-1.35,-3.82,195,173,187
-Fulton,-2.54,-1.52,-4.05,198,176,188
+Fulton,-2.54,-1.52,-4.06,198,176,188
 Gateway Science Charter,-1.72,-2.52,-4.24,172,194,189
 Smithton,-2.6,-1.74,-4.35,200,186,190
-Frontier STEM,-1.58,-2.79,-4.37,168,200,191
-Festus,-2.91,-1.65,-4.55,207,181,192
-Crocker,-1.59,-3.04,-4.64,169,207,193
-Northland Christian,-2.44,-2.32,-4.77,193,193,194
-Aurora,-2.63,-2.27,-4.91,202,192,195
-Odessa,-2.24,-2.74,-4.98,188,199,196
-Warrensburg,-2.36,-2.74,-5.09,190,198,197
-Paseo Academy,-2.53,-2.62,-5.16,197,196,198
-Ewing Marion Kauffman with University Academy Charter,-2.53,-2.7,-5.23,196,197,199
+Frontier STEM,-1.59,-2.79,-4.38,168,200,191
+Festus,-2.91,-1.65,-4.56,207,181,192
+Crocker,-1.6,-3.04,-4.64,169,207,193
+Northland Christian,-2.44,-2.33,-4.77,193,193,194
+Aurora,-2.63,-2.28,-4.91,202,192,195
+Odessa,-2.24,-2.74,-4.98,188,198,196
+Warrensburg,-2.35,-2.74,-5.09,190,199,197
+Paseo Academy,-2.53,-2.63,-5.16,197,196,198
+Ewing Marion Kauffman with University Academy Charter,-2.53,-2.7,-5.24,196,197,199
 Ruskin,-2.41,-2.87,-5.28,192,202,200
 Sacred Heart,-3.14,-2.19,-5.33,209,191,201
-Cameron,-2.58,-2.82,-5.4,199,201,202
-STEAM Academy,-2.85,-2.6,-5.46,205,195,203
+Cameron,-2.58,-2.82,-5.41,199,201,202
+STEAM Academy,-2.85,-2.6,-5.45,205,195,203
 Cristo Rey,-2.45,-3.37,-5.82,194,209,204
 Roosevelt,-3.16,-2.94,-6.1,210,204,205
 Lutheran North,-2.61,-3.55,-6.16,201,213,206
 Canton,-2.75,-3.42,-6.17,204,211,207
-Green Ridge with Cole Camp,-3.19,-3.0,-6.2,211,206,208
-North County,-3.32,-2.9,-6.22,215,203,209
-La Monte,-3.21,-3.17,-6.38,212,208,210
+Green Ridge with Cole Camp,-3.19,-3.01,-6.2,211,206,208
+North County,-3.32,-2.91,-6.22,215,203,209
+La Monte,-3.21,-3.18,-6.38,212,208,210
 Raytown South,-3.02,-3.38,-6.39,208,210,211
 Dixon,-2.87,-3.74,-6.61,206,215,212
 Mexico,-3.25,-3.47,-6.72,213,212,213
-Elsberry,-3.9,-3.0,-6.9,219,205,214
+Elsberry,-3.9,-3.01,-6.9,219,205,214
 Eugene,-3.41,-3.73,-7.13,216,214,215
 Crossroads College Preparatory,-2.65,-4.92,-7.57,203,219,216
-Fatima,-4.47,-4.07,-8.54,223,216,217
+Fatima,-4.47,-4.07,-8.55,223,216,217
 Dexter,-4.17,-4.41,-8.58,222,217,218
 Kennett,-3.29,-5.57,-8.86,214,220,219
 Knob Noster,-4.16,-4.74,-8.9,221,218,220
 Cardinal Ritter,-3.78,-6.22,-10.01,218,223,221
 Bishop LeBlond,-3.45,-6.89,-10.34,217,225,222
-Calvary Lutheran,-4.16,-6.53,-10.69,220,224,223
+Calvary Lutheran,-4.16,-6.54,-10.69,220,224,223
 Iberia,-5.26,-6.13,-11.39,224,221,224
 McCluer North,-5.47,-6.17,-11.64,225,222,225
 Jennings,-6.84,-7.96,-14.8,226,226,226

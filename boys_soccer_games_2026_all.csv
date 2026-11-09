@@ -2529,10 +2529,10 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-07,Notre Dame (Cape Girardeau),True,8,Bayless,True,0,False,False
 2026-11-07,Kirksville,True,1,St. Pius X (Kansas City),True,2,False,False
 2026-11-07,Farmington,True,4,Sikeston,True,0,False,False
-2026-11-07,Rockwood Summit,True,,Webster Groves,True,,False,False
+2026-11-07,Rockwood Summit,True,0,Webster Groves,True,3,False,False
 2026-11-07,Chaminade College Prep,True,3,Parkway Central,True,0,False,False
 2026-11-07,Parkway West,True,0,Clayton,True,1,False,False
-2026-11-07,Camdenton,True,4,Capital City,True,3,False,False
+2026-11-07,Camdenton,True,3,Capital City,True,2,False,False
 2026-11-07,SLUH,True,3,Kirkwood,True,0,False,False
 2026-11-07,Christian Brothers College,True,0,Francis Howell Central,True,2,False,False
 2026-11-09,Fair Grove,True,,New Heights Christian with McAuley Catholic,True,,False,False
@@ -2555,7 +2555,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-14,St. Pius X (Kansas City),True,,TBD,False,,False,False
 2026-11-14,Veritas Christian Academy,True,,TBD,False,,False,False
 2026-11-14,Helias Catholic,True,,Southern Boone,True,,False,False
-2026-11-14,TBD,False,,Farmington,True,,False,False
+2026-11-14,Webster Groves,True,,Farmington,True,,False,False
 2026-11-14,TBD,False,,Camdenton,True,,False,False
 2026-11-14,SLUH,True,,TBD,False,,False,False
 2026-11-14,TBD,False,,Rockhurst,True,,False,False

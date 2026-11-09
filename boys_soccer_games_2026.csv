@@ -2218,10 +2218,10 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-11-07,Notre Dame (Cape Girardeau),8,Bayless,0,False,False
 2026-11-07,Kirksville,1,St. Pius X (Kansas City),2,False,False
 2026-11-07,Farmington,4,Sikeston,0,False,False
-2026-11-07,Rockwood Summit,,Webster Groves,,False,False
+2026-11-07,Rockwood Summit,0,Webster Groves,3,False,False
 2026-11-07,Chaminade College Prep,3,Parkway Central,0,False,False
 2026-11-07,Parkway West,0,Clayton,1,False,False
-2026-11-07,Camdenton,4,Capital City,3,False,False
+2026-11-07,Camdenton,3,Capital City,2,False,False
 2026-11-07,SLUH,3,Kirkwood,0,False,False
 2026-11-07,Christian Brothers College,0,Francis Howell Central,2,False,False
 2026-11-09,Fair Grove,,New Heights Christian with McAuley Catholic,,False,False
@@ -2241,3 +2241,4 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-11-14,Laquey with Richland,,Father Tolton,,False,False
 2026-11-14,St. Mary's South Side,,Notre Dame (Cape Girardeau),,False,False
 2026-11-14,Helias Catholic,,Southern Boone,,False,False
+2026-11-14,Webster Groves,,Farmington,,False,False
