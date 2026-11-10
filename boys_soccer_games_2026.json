@@ -17370,15 +17370,6 @@
     "overtime": false
   },
   {
-    "date": "2026-10-26",
-    "team1": "Clinton",
-    "score1": null,
-    "team2": "Cassville",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
     "date": "2026-10-27",
     "team1": "Lutheran (Kansas City)",
     "score1": 8,
@@ -17861,15 +17852,6 @@
     "score1": 2,
     "team2": "Wright City",
     "score2": 0,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-27",
-    "team1": "La Monte",
-    "score1": null,
-    "team2": "Ewing Marion Kauffman with University Academy Charter",
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },
@@ -20027,72 +20009,72 @@
   {
     "date": "2026-11-09",
     "team1": "Fair Grove",
-    "score1": null,
+    "score1": 2,
     "team2": "New Heights Christian with McAuley Catholic",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-09",
     "team1": "John Burroughs",
-    "score1": null,
+    "score1": 1,
     "team2": "Priory",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-09",
     "team1": "St. Dominic",
-    "score1": null,
+    "score1": 1,
     "team2": "Ft. Zumwalt South",
-    "score2": null,
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-09",
     "team1": "Van Horn",
-    "score1": null,
+    "score1": 5,
     "team2": "Summit Christian Academy",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-09",
     "team1": "Northeast (Kansas City)",
-    "score1": null,
+    "score1": 3,
     "team2": "East (Kansas City)",
-    "score2": null,
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-09",
     "team1": "Ft. Zumwalt West",
-    "score1": null,
+    "score1": 3,
     "team2": "Troy Buchanan",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-09",
     "team1": "Glendale",
-    "score1": null,
+    "score1": 0,
     "team2": "Nixa",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-09",
     "team1": "Liberty North",
-    "score1": null,
+    "score1": 2,
     "team2": "Liberty",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
@@ -20133,6 +20115,114 @@
     "overtime": false
   },
   {
+    "date": "2026-11-11",
+    "team1": "Oak Grove",
+    "score1": null,
+    "team2": "Central (Kansas City)",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-11",
+    "team1": "Chaminade College Prep",
+    "score1": null,
+    "team2": "Clayton",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-11",
+    "team1": "Springfield Catholic",
+    "score1": null,
+    "team2": "Logan-Rogersville",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-11",
+    "team1": "Oakville",
+    "score1": null,
+    "team2": "Lindbergh",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-12",
+    "team1": "Oak Grove",
+    "score1": null,
+    "team2": "Central (Kansas City)",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-12",
+    "team1": "Chaminade College Prep",
+    "score1": null,
+    "team2": "Clayton",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-12",
+    "team1": "Springfield Catholic",
+    "score1": null,
+    "team2": "Logan-Rogersville",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-12",
+    "team1": "Oakville",
+    "score1": null,
+    "team2": "Lindbergh",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-13",
+    "team1": "Oak Grove",
+    "score1": null,
+    "team2": "Central (Kansas City)",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-13",
+    "team1": "Chaminade College Prep",
+    "score1": null,
+    "team2": "Clayton",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-13",
+    "team1": "Springfield Catholic",
+    "score1": null,
+    "team2": "Logan-Rogersville",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-13",
+    "team1": "Oakville",
+    "score1": null,
+    "team2": "Lindbergh",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
     "date": "2026-11-14",
     "team1": "Whitfield",
     "score1": null,
@@ -20161,9 +20251,27 @@
   },
   {
     "date": "2026-11-14",
+    "team1": "Fair Grove",
+    "score1": null,
+    "team2": "St. Paul Lutheran (Concordia)",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
     "team1": "St. Mary's South Side",
     "score1": null,
     "team2": "Notre Dame (Cape Girardeau)",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
+    "team1": "Veritas Christian Academy",
+    "score1": null,
+    "team2": "John Burroughs",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -20182,6 +20290,42 @@
     "team1": "Webster Groves",
     "score1": null,
     "team2": "Farmington",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
+    "team1": "Northeast (Kansas City)",
+    "score1": null,
+    "team2": "Van Horn",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
+    "team1": "Liberty North",
+    "score1": null,
+    "team2": "Rockhurst",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
+    "team1": "Ft. Zumwalt West",
+    "score1": null,
+    "team2": "Francis Howell Central",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
+    "team1": "Lee's Summit West",
+    "score1": null,
+    "team2": "Nixa",
     "score2": null,
     "forfeit": false,
     "overtime": false
