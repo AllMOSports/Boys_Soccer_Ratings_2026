@@ -2230,31 +2230,23 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-11-09,Ft. Zumwalt West,3,Troy Buchanan,0,False,False
 2026-11-09,Glendale,0,Nixa,1,False,False
 2026-11-09,Liberty North,2,Liberty,1,False,False
-2026-11-10,Oak Grove,,Central (Kansas City),,False,False
-2026-11-10,Chaminade College Prep,,Clayton,,False,False
-2026-11-10,Springfield Catholic,,Logan-Rogersville,,False,False
-2026-11-10,Oakville,,Lindbergh,,False,False
-2026-11-11,Oak Grove,,Central (Kansas City),,False,False
-2026-11-11,Chaminade College Prep,,Clayton,,False,False
-2026-11-11,Springfield Catholic,,Logan-Rogersville,,False,False
-2026-11-11,Oakville,,Lindbergh,,False,False
-2026-11-12,Oak Grove,,Central (Kansas City),,False,False
-2026-11-12,Chaminade College Prep,,Clayton,,False,False
-2026-11-12,Springfield Catholic,,Logan-Rogersville,,False,False
-2026-11-12,Oakville,,Lindbergh,,False,False
-2026-11-13,Oak Grove,,Central (Kansas City),,False,False
-2026-11-13,Chaminade College Prep,,Clayton,,False,False
-2026-11-13,Springfield Catholic,,Logan-Rogersville,,False,False
-2026-11-13,Oakville,,Lindbergh,,False,False
+2026-11-10,Oak Grove,2,Central (Kansas City),3,False,False
+2026-11-10,Chaminade College Prep,3,Clayton,0,False,False
+2026-11-10,Springfield Catholic,1,Logan-Rogersville,2,False,False
+2026-11-10,Oakville,3,Lindbergh,1,False,False
 2026-11-14,Whitfield,,Maplewood-Richmond Hts.,,False,False
 2026-11-14,Faith Christian Academy,,Pembroke Hill,,False,False
 2026-11-14,Laquey with Richland,,Father Tolton,,False,False
 2026-11-14,Fair Grove,,St. Paul Lutheran (Concordia),,False,False
 2026-11-14,St. Mary's South Side,,Notre Dame (Cape Girardeau),,False,False
+2026-11-14,St. Pius X (Kansas City),,Central (Kansas City),,False,False
 2026-11-14,Veritas Christian Academy,,John Burroughs,,False,False
 2026-11-14,Helias Catholic,,Southern Boone,,False,False
 2026-11-14,Webster Groves,,Farmington,,False,False
 2026-11-14,Northeast (Kansas City),,Van Horn,,False,False
+2026-11-14,Ft. Zumwalt South,,Chaminade College Prep,,False,False
+2026-11-14,Logan-Rogersville,,Camdenton,,False,False
+2026-11-14,SLUH,,Oakville,,False,False
 2026-11-14,Liberty North,,Rockhurst,,False,False
 2026-11-14,Ft. Zumwalt West,,Francis Howell Central,,False,False
 2026-11-14,Lee's Summit West,,Nixa,,False,False

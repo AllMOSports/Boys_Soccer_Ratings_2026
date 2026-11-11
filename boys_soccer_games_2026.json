@@ -20081,144 +20081,36 @@
   {
     "date": "2026-11-10",
     "team1": "Oak Grove",
-    "score1": null,
+    "score1": 2,
     "team2": "Central (Kansas City)",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-10",
     "team1": "Chaminade College Prep",
-    "score1": null,
+    "score1": 3,
     "team2": "Clayton",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-10",
     "team1": "Springfield Catholic",
-    "score1": null,
+    "score1": 1,
     "team2": "Logan-Rogersville",
-    "score2": null,
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-10",
     "team1": "Oakville",
-    "score1": null,
+    "score1": 3,
     "team2": "Lindbergh",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-11",
-    "team1": "Oak Grove",
-    "score1": null,
-    "team2": "Central (Kansas City)",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-11",
-    "team1": "Chaminade College Prep",
-    "score1": null,
-    "team2": "Clayton",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-11",
-    "team1": "Springfield Catholic",
-    "score1": null,
-    "team2": "Logan-Rogersville",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-11",
-    "team1": "Oakville",
-    "score1": null,
-    "team2": "Lindbergh",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-12",
-    "team1": "Oak Grove",
-    "score1": null,
-    "team2": "Central (Kansas City)",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-12",
-    "team1": "Chaminade College Prep",
-    "score1": null,
-    "team2": "Clayton",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-12",
-    "team1": "Springfield Catholic",
-    "score1": null,
-    "team2": "Logan-Rogersville",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-12",
-    "team1": "Oakville",
-    "score1": null,
-    "team2": "Lindbergh",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-13",
-    "team1": "Oak Grove",
-    "score1": null,
-    "team2": "Central (Kansas City)",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-13",
-    "team1": "Chaminade College Prep",
-    "score1": null,
-    "team2": "Clayton",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-13",
-    "team1": "Springfield Catholic",
-    "score1": null,
-    "team2": "Logan-Rogersville",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-13",
-    "team1": "Oakville",
-    "score1": null,
-    "team2": "Lindbergh",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
@@ -20269,6 +20161,15 @@
   },
   {
     "date": "2026-11-14",
+    "team1": "St. Pius X (Kansas City)",
+    "score1": null,
+    "team2": "Central (Kansas City)",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
     "team1": "Veritas Christian Academy",
     "score1": null,
     "team2": "John Burroughs",
@@ -20299,6 +20200,33 @@
     "team1": "Northeast (Kansas City)",
     "score1": null,
     "team2": "Van Horn",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
+    "team1": "Ft. Zumwalt South",
+    "score1": null,
+    "team2": "Chaminade College Prep",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
+    "team1": "Logan-Rogersville",
+    "score1": null,
+    "team2": "Camdenton",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-14",
+    "team1": "SLUH",
+    "score1": null,
+    "team2": "Oakville",
     "score2": null,
     "forfeit": false,
     "overtime": false
