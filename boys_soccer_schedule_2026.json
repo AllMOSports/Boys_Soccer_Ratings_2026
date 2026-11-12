@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated": "2026-11-11T08:19:32.077754+00:00",
+  "generated": "2026-11-12T08:19:31.615565+00:00",
   "teams": {
     "Osage": [
       {
@@ -17193,21 +17193,6 @@
         "off_delta": -0.02,
         "def_delta": -0.38,
         "ovr_delta": -0.4,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-10-29",
-        "opponent": "Logan-Rogersville",
-        "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
-        "predicted_team_score": -0.88,
-        "predicted_opp_score": 4.11,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
         "forfeit": false,
         "overtime": false
       },
@@ -45444,21 +45429,6 @@
         "off_delta": 2.74,
         "def_delta": -1.39,
         "ovr_delta": 1.35,
-        "forfeit": false,
-        "overtime": false
-      },
-      {
-        "date": "2026-10-29",
-        "opponent": "New Heights Christian with McAuley Catholic",
-        "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
-        "predicted_team_score": 4.11,
-        "predicted_opp_score": -0.88,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
         "forfeit": false,
         "overtime": false
       },
