@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 12, 2026 at 08:19 AM",
+  "last_updated": "November 13, 2026 at 08:19 AM",
   "league_average": 2.29,
   "teams": [
     {
@@ -411,17 +411,6 @@
     },
     {
       "ovr_rank": 38,
-      "school": "Northwest (Cedar Hill)",
-      "classification": 4,
-      "district": 1,
-      "ovr_rating": 3.71,
-      "off_rating": 1.87,
-      "off_rank": 34,
-      "def_rating": 1.84,
-      "def_rank": 47
-    },
-    {
-      "ovr_rank": 39,
       "school": "Rockwood Summit",
       "classification": 3,
       "district": 2,
@@ -430,6 +419,17 @@
       "off_rank": 27,
       "def_rating": 1.62,
       "def_rank": 51
+    },
+    {
+      "ovr_rank": 39,
+      "school": "Northwest (Cedar Hill)",
+      "classification": 4,
+      "district": 1,
+      "ovr_rating": 3.71,
+      "off_rating": 1.87,
+      "off_rank": 34,
+      "def_rating": 1.84,
+      "def_rank": 47
     },
     {
       "ovr_rank": 40,
@@ -620,17 +620,6 @@
     },
     {
       "ovr_rank": 57,
-      "school": "Pattonville",
-      "classification": 4,
-      "district": 3,
-      "ovr_rating": 2.45,
-      "off_rating": 1.15,
-      "off_rank": 60,
-      "def_rating": 1.3,
-      "def_rank": 63
-    },
-    {
-      "ovr_rank": 58,
       "school": "Staley",
       "classification": 4,
       "district": 8,
@@ -639,6 +628,17 @@
       "off_rank": 78,
       "def_rating": 1.84,
       "def_rank": 46
+    },
+    {
+      "ovr_rank": 58,
+      "school": "Pattonville",
+      "classification": 4,
+      "district": 3,
+      "ovr_rating": 2.45,
+      "off_rating": 1.15,
+      "off_rank": 60,
+      "def_rating": 1.3,
+      "def_rank": 63
     },
     {
       "ovr_rank": 59,
@@ -1148,17 +1148,6 @@
     },
     {
       "ovr_rank": 105,
-      "school": "Republic",
-      "classification": 4,
-      "district": 5,
-      "ovr_rating": 0.11,
-      "off_rating": -0.7,
-      "off_rank": 131,
-      "def_rating": 0.82,
-      "def_rank": 78
-    },
-    {
-      "ovr_rank": 106,
       "school": "Warrenton",
       "classification": 3,
       "district": 4,
@@ -1167,6 +1156,17 @@
       "off_rank": 94,
       "def_rating": -0.02,
       "def_rank": 112
+    },
+    {
+      "ovr_rank": 106,
+      "school": "Republic",
+      "classification": 4,
+      "district": 5,
+      "ovr_rating": 0.11,
+      "off_rating": -0.7,
+      "off_rank": 131,
+      "def_rating": 0.82,
+      "def_rank": 78
     },
     {
       "ovr_rank": 107,
@@ -1236,17 +1236,6 @@
     },
     {
       "ovr_rank": 113,
-      "school": "Parkview",
-      "classification": 3,
-      "district": 6,
-      "ovr_rating": -0.31,
-      "off_rating": -0.52,
-      "off_rank": 119,
-      "def_rating": 0.21,
-      "def_rank": 101
-    },
-    {
-      "ovr_rank": 114,
       "school": "Whitfield",
       "classification": 1,
       "district": 2,
@@ -1255,6 +1244,17 @@
       "off_rank": 89,
       "def_rating": -0.59,
       "def_rank": 136
+    },
+    {
+      "ovr_rank": 114,
+      "school": "Parkview",
+      "classification": 3,
+      "district": 6,
+      "ovr_rating": -0.31,
+      "off_rating": -0.52,
+      "off_rank": 119,
+      "def_rating": 0.21,
+      "def_rank": 101
     },
     {
       "ovr_rank": 115,
@@ -1291,17 +1291,6 @@
     },
     {
       "ovr_rank": 118,
-      "school": "Bolivar",
-      "classification": 2,
-      "district": 6,
-      "ovr_rating": -0.5,
-      "off_rating": -0.67,
-      "off_rank": 128,
-      "def_rating": 0.17,
-      "def_rank": 103
-    },
-    {
-      "ovr_rank": 119,
       "school": "McDonald County",
       "classification": 3,
       "district": 6,
@@ -1310,6 +1299,17 @@
       "off_rank": 69,
       "def_rating": -1.3,
       "def_rank": 169
+    },
+    {
+      "ovr_rank": 119,
+      "school": "Bolivar",
+      "classification": 2,
+      "district": 6,
+      "ovr_rating": -0.5,
+      "off_rating": -0.67,
+      "off_rank": 128,
+      "def_rating": 0.17,
+      "def_rank": 103
     },
     {
       "ovr_rank": 120,
@@ -1401,17 +1401,6 @@
     },
     {
       "ovr_rank": 128,
-      "school": "Center",
-      "classification": 2,
-      "district": 7,
-      "ovr_rating": -1.15,
-      "off_rating": -0.78,
-      "off_rank": 135,
-      "def_rating": -0.37,
-      "def_rank": 127
-    },
-    {
-      "ovr_rank": 129,
       "school": "Jefferson City",
       "classification": 3,
       "district": 5,
@@ -1420,6 +1409,17 @@
       "off_rank": 130,
       "def_rating": -0.46,
       "def_rank": 130
+    },
+    {
+      "ovr_rank": 129,
+      "school": "Center",
+      "classification": 2,
+      "district": 7,
+      "ovr_rating": -1.15,
+      "off_rating": -0.78,
+      "off_rank": 135,
+      "def_rating": -0.37,
+      "def_rank": 127
     },
     {
       "ovr_rank": 130,
@@ -1896,14 +1896,14 @@
     },
     {
       "ovr_rank": 173,
-      "school": "Marshfield",
-      "classification": 3,
-      "district": 5,
+      "school": "Laquey with Richland",
+      "classification": 1,
+      "district": 4,
       "ovr_rating": -3.18,
-      "off_rating": -2.06,
-      "off_rank": 184,
-      "def_rating": -1.12,
-      "def_rank": 159
+      "off_rating": -2.18,
+      "off_rank": 186,
+      "def_rating": -0.99,
+      "def_rank": 152
     },
     {
       "ovr_rank": 174,
@@ -1918,28 +1918,17 @@
     },
     {
       "ovr_rank": 175,
-      "school": "Laquey with Richland",
-      "classification": 1,
-      "district": 4,
+      "school": "Marshfield",
+      "classification": 3,
+      "district": 5,
       "ovr_rating": -3.18,
-      "off_rating": -2.18,
-      "off_rank": 186,
-      "def_rating": -0.99,
-      "def_rank": 152
+      "off_rating": -2.06,
+      "off_rank": 184,
+      "def_rating": -1.12,
+      "def_rank": 159
     },
     {
       "ovr_rank": 176,
-      "school": "Chillicothe",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": -3.25,
-      "off_rating": -2.0,
-      "off_rank": 180,
-      "def_rating": -1.26,
-      "def_rank": 165
-    },
-    {
-      "ovr_rank": 177,
       "school": "Hillsboro",
       "classification": 3,
       "district": 1,
@@ -1948,6 +1937,17 @@
       "off_rank": 165,
       "def_rating": -1.69,
       "def_rank": 182
+    },
+    {
+      "ovr_rank": 177,
+      "school": "Chillicothe",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": -3.25,
+      "off_rating": -2.0,
+      "off_rank": 180,
+      "def_rating": -1.26,
+      "def_rank": 165
     },
     {
       "ovr_rank": 178,
@@ -2006,17 +2006,6 @@
     },
     {
       "ovr_rank": 183,
-      "school": "Maryville",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": -3.67,
-      "off_rating": -1.8,
-      "off_rank": 174,
-      "def_rating": -1.87,
-      "def_rank": 188
-    },
-    {
-      "ovr_rank": 184,
       "school": "Fredericktown",
       "classification": 2,
       "district": 1,
@@ -2027,18 +2016,18 @@
       "def_rank": 190
     },
     {
-      "ovr_rank": 185,
-      "school": "University City",
-      "classification": 3,
-      "district": 3,
-      "ovr_rating": -3.81,
-      "off_rating": -1.78,
-      "off_rank": 173,
-      "def_rating": -2.03,
-      "def_rank": 189
+      "ovr_rank": 184,
+      "school": "Maryville",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": -3.67,
+      "off_rating": -1.8,
+      "off_rank": 174,
+      "def_rating": -1.87,
+      "def_rank": 188
     },
     {
-      "ovr_rank": 186,
+      "ovr_rank": 185,
       "school": "Wright City",
       "classification": 2,
       "district": 4,
@@ -2047,6 +2036,17 @@
       "off_rank": 185,
       "def_rating": -1.74,
       "def_rank": 184
+    },
+    {
+      "ovr_rank": 186,
+      "school": "University City",
+      "classification": 3,
+      "district": 3,
+      "ovr_rating": -3.81,
+      "off_rating": -1.78,
+      "off_rank": 173,
+      "def_rating": -2.03,
+      "def_rank": 189
     },
     {
       "ovr_rank": 187,
@@ -2303,17 +2303,6 @@
     },
     {
       "ovr_rank": 210,
-      "school": "Raytown South",
-      "classification": 3,
-      "district": 7,
-      "ovr_rating": -6.4,
-      "off_rating": -3.02,
-      "off_rank": 208,
-      "def_rating": -3.38,
-      "def_rank": 210
-    },
-    {
-      "ovr_rank": 211,
       "school": "La Monte",
       "classification": 1,
       "district": 5,
@@ -2322,6 +2311,17 @@
       "off_rank": 212,
       "def_rating": -3.18,
       "def_rank": 208
+    },
+    {
+      "ovr_rank": 211,
+      "school": "Raytown South",
+      "classification": 3,
+      "district": 7,
+      "ovr_rating": -6.4,
+      "off_rating": -3.02,
+      "off_rank": 208,
+      "def_rating": -3.38,
+      "def_rank": 210
     },
     {
       "ovr_rank": 212,
