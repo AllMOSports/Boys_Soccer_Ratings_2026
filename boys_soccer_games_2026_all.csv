@@ -2334,7 +2334,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-29,University City,True,8,Jennings,True,0,False,False
 2026-10-29,Ozark,True,2,Joplin,True,0,False,False
 2026-10-29,East (Kansas City),True,2,Kearney,True,3,False,False
-2026-10-29,Westminster Christian Academy,True,5,Ladue Horton Watkins,True,1,False,False
+2026-10-29,Westminster Christian Academy,True,1,Ladue Horton Watkins,True,5,False,False
 2026-10-29,La Monte,True,1,Lutheran (Kansas City),True,6,False,False
 2026-10-29,Saxony Lutheran with St. Vincent,True,1,Lutheran St. Charles,True,2,False,False
 2026-10-29,Winnetonka,True,1,North Kansas City,True,2,False,False
@@ -2544,19 +2544,27 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-10,Chaminade College Prep,True,3,Clayton,True,0,False,False
 2026-11-10,Springfield Catholic,True,1,Logan-Rogersville,True,2,False,False
 2026-11-10,Oakville,True,3,Lindbergh,True,1,False,False
-2026-11-14,Whitfield,True,,Maplewood-Richmond Hts.,True,,False,False
-2026-11-14,Faith Christian Academy,True,,Pembroke Hill,True,,False,False
-2026-11-14,Laquey with Richland,True,,Father Tolton,True,,False,False
-2026-11-14,Fair Grove,True,,St. Paul Lutheran (Concordia),True,,False,False
-2026-11-14,St. Mary's South Side,True,,Notre Dame (Cape Girardeau),True,,False,False
-2026-11-14,St. Pius X (Kansas City),True,,Central (Kansas City),True,,False,False
-2026-11-14,Veritas Christian Academy,True,,John Burroughs,True,,False,False
-2026-11-14,Helias Catholic,True,,Southern Boone,True,,False,False
-2026-11-14,Webster Groves,True,,Farmington,True,,False,False
-2026-11-14,Northeast (Kansas City),True,,Van Horn,True,,False,False
-2026-11-14,Ft. Zumwalt South,True,,Chaminade College Prep,True,,False,False
-2026-11-14,Logan-Rogersville,True,,Camdenton,True,,False,False
-2026-11-14,SLUH,True,,Oakville,True,,False,False
-2026-11-14,Liberty North,True,,Rockhurst,True,,False,False
-2026-11-14,Ft. Zumwalt West,True,,Francis Howell Central,True,,False,False
-2026-11-14,Lee's Summit West,True,,Nixa,True,,False,False
+2026-11-14,Whitfield,True,5,Maplewood-Richmond Hts.,True,1,False,False
+2026-11-14,Faith Christian Academy,True,2,Pembroke Hill,True,5,False,False
+2026-11-14,Laquey with Richland,True,0,Father Tolton,True,8,False,False
+2026-11-14,Fair Grove,True,3,St. Paul Lutheran (Concordia),True,1,False,False
+2026-11-14,St. Mary's South Side,True,1,Notre Dame (Cape Girardeau),True,2,False,False
+2026-11-14,St. Pius X (Kansas City),True,6,Central (Kansas City),True,1,False,False
+2026-11-14,Veritas Christian Academy,True,0,John Burroughs,True,2,False,False
+2026-11-14,Helias Catholic,True,3,Southern Boone,True,1,False,False
+2026-11-14,Webster Groves,True,3,Farmington,True,1,False,False
+2026-11-14,Northeast (Kansas City),True,2,Van Horn,True,0,False,False
+2026-11-14,Ft. Zumwalt South,True,0,Chaminade College Prep,True,1,False,False
+2026-11-14,Logan-Rogersville,True,1,Camdenton,True,0,False,False
+2026-11-14,SLUH,True,3,Oakville,True,1,False,False
+2026-11-14,Liberty North,True,2,Rockhurst,True,0,False,False
+2026-11-14,Ft. Zumwalt West,True,1,Francis Howell Central,True,3,False,False
+2026-11-14,Lee's Summit West,True,3,Nixa,True,2,False,False
+2026-11-20,Pembroke Hill,True,,Whitfield,True,,False,False
+2026-11-20,Fair Grove,True,,Father Tolton,True,,False,False
+2026-11-20,St. Pius X (Kansas City),True,,Notre Dame (Cape Girardeau),True,,False,False
+2026-11-20,Helias Catholic,True,,John Burroughs,True,,False,False
+2026-11-20,Northeast (Kansas City),True,,Webster Groves,True,,False,False
+2026-11-20,Logan-Rogersville,True,,Chaminade College Prep,True,,False,False
+2026-11-20,Liberty North,True,,SLUH,True,,False,False
+2026-11-20,Lee's Summit West,True,,Francis Howell Central,True,,False,False
