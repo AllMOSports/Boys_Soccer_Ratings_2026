@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 15, 2026 at 08:19 AM",
+  "last_updated": "November 16, 2026 at 08:19 AM",
   "league_average": 2.28,
   "classification": 4,
   "teams": [
@@ -555,17 +555,6 @@
     },
     {
       "ovr_rank": 51,
-      "school": "Ft. Zumwalt North",
-      "classification": 4,
-      "district": 3,
-      "ovr_rating": 0.68,
-      "off_rating": -0.09,
-      "off_rank": 53,
-      "def_rating": 0.78,
-      "def_rank": 49
-    },
-    {
-      "ovr_rank": 52,
       "school": "Branson",
       "classification": 4,
       "district": 5,
@@ -574,6 +563,17 @@
       "off_rank": 54,
       "def_rating": 0.84,
       "def_rank": 44
+    },
+    {
+      "ovr_rank": 52,
+      "school": "Ft. Zumwalt North",
+      "classification": 4,
+      "district": 3,
+      "ovr_rating": 0.68,
+      "off_rating": -0.09,
+      "off_rank": 53,
+      "def_rating": 0.78,
+      "def_rank": 49
     },
     {
       "ovr_rank": 53,
