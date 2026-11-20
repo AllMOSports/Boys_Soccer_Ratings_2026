@@ -40,8 +40,8 @@ Rockwood Summit,2.1,1.64,3.74,26,52,38
 Francis Howell,1.61,2.11,3.72,48,37,39
 Northwest (Cedar Hill),1.87,1.83,3.7,34,46,40
 Jackson,1.53,2.09,3.62,51,38,41
-St. Charles,2.29,1.25,3.53,20,65,42
-Lincoln College Prep,2.26,1.28,3.53,21,62,43
+Lincoln College Prep,2.26,1.28,3.53,21,62,42
+St. Charles,2.29,1.25,3.53,20,65,43
 Helias Catholic,1.32,2.19,3.51,54,35,44
 Springfield Catholic,1.72,1.69,3.41,42,49,45
 Logan-Rogersville,1.71,1.67,3.38,44,50,46
@@ -83,8 +83,8 @@ Lutheran St. Charles,0.08,0.9,0.98,97,71,81
 Belton,0.58,0.37,0.96,79,97,82
 Oak Park,0.42,0.51,0.93,86,92,83
 Central (St. Joseph),0.08,0.78,0.86,96,79,84
-Barstow,0.28,0.57,0.85,87,88,85
-North Kansas City,0.16,0.69,0.85,91,83,86
+North Kansas City,0.16,0.69,0.85,91,83,85
+Barstow,0.28,0.57,0.85,87,88,86
 Summit Christian Academy,0.28,0.55,0.83,88,89,87
 Capital City,0.46,0.36,0.82,83,98,88
 Ft. Zumwalt East,-0.41,1.18,0.77,118,67,89
@@ -173,13 +173,13 @@ Windsor (Imperial),-2.04,-1.07,-3.12,182,155,171
 Hillcrest,-1.34,-1.79,-3.13,154,187,172
 Marshfield,-2.07,-1.13,-3.2,184,158,173
 Laquey with Richland,-2.17,-1.05,-3.22,186,152,174
-Gateway with Soldan International Studies,-1.47,-1.79,-3.26,161,186,175
-Chillicothe,-2.0,-1.26,-3.26,179,165,176
+Chillicothe,-2.0,-1.26,-3.26,179,165,175
+Gateway with Soldan International Studies,-1.47,-1.79,-3.26,161,186,176
 Hillsboro,-1.59,-1.72,-3.31,166,182,177
 Stover,-2.04,-1.31,-3.35,180,169,178
 Lutheran (Kansas City),-2.23,-1.19,-3.43,187,161,179
-Christian Fellowship Sr. with Hallsville,-1.93,-1.59,-3.52,177,178,180
-Lone Jack,-2.06,-1.46,-3.52,183,175,181
+Lone Jack,-2.06,-1.46,-3.52,183,175,180
+Christian Fellowship Sr. with Hallsville,-1.93,-1.59,-3.52,177,178,181
 Central (Cape Girardeau),-2.31,-1.26,-3.57,189,164,182
 Maryville,-1.8,-1.88,-3.68,173,188,183
 Fredericktown,-1.54,-2.21,-3.75,163,190,184
@@ -217,8 +217,8 @@ Eugene,-3.43,-3.75,-7.18,216,214,215
 Crossroads College Preparatory,-2.7,-4.98,-7.69,203,219,216
 Fatima,-4.5,-4.09,-8.59,223,216,217
 Dexter,-4.22,-4.47,-8.69,222,217,218
-Kennett,-3.34,-5.62,-8.96,214,220,219
-Knob Noster,-4.19,-4.77,-8.96,221,218,220
+Knob Noster,-4.19,-4.77,-8.96,221,218,219
+Kennett,-3.34,-5.62,-8.96,214,220,220
 Cardinal Ritter,-3.84,-6.28,-10.12,218,223,221
 Bishop LeBlond,-3.46,-6.91,-10.37,217,225,222
 Calvary Lutheran,-4.18,-6.56,-10.74,220,224,223
