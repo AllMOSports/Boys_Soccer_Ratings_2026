@@ -2560,11 +2560,19 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-14,Liberty North,True,2,Rockhurst,True,0,False,False
 2026-11-14,Ft. Zumwalt West,True,1,Francis Howell Central,True,3,False,False
 2026-11-14,Lee's Summit West,True,3,Nixa,True,2,False,False
-2026-11-20,Pembroke Hill,True,,Whitfield,True,,False,False
-2026-11-20,Fair Grove,True,,Father Tolton,True,,False,False
-2026-11-20,St. Pius X (Kansas City),True,,Notre Dame (Cape Girardeau),True,,False,False
-2026-11-20,Helias Catholic,True,,John Burroughs,True,,False,False
-2026-11-20,Northeast (Kansas City),True,,Webster Groves,True,,False,False
-2026-11-20,Logan-Rogersville,True,,Chaminade College Prep,True,,False,False
-2026-11-20,Liberty North,True,,SLUH,True,,False,False
-2026-11-20,Lee's Summit West,True,,Francis Howell Central,True,,False,False
+2026-11-20,Pembroke Hill,True,6,Whitfield,True,0,False,False
+2026-11-20,Fair Grove,True,0,Father Tolton,True,8,False,False
+2026-11-20,St. Pius X (Kansas City),True,0,Notre Dame (Cape Girardeau),True,4,False,False
+2026-11-20,Helias Catholic,True,0,John Burroughs,True,3,False,False
+2026-11-20,Northeast (Kansas City),True,4,Webster Groves,True,3,False,False
+2026-11-20,Logan-Rogersville,True,0,Chaminade College Prep,True,1,False,False
+2026-11-20,Liberty North,True,1,SLUH,True,4,False,False
+2026-11-20,Lee's Summit West,True,3,Francis Howell Central,True,5,False,False
+2026-11-21,Father Tolton,True,,Pembroke Hill,True,,False,False
+2026-11-21,Fair Grove,True,,Whitfield,True,,False,False
+2026-11-21,John Burroughs,True,,Notre Dame (Cape Girardeau),True,,False,False
+2026-11-21,Helias Catholic,True,,St. Pius X (Kansas City),True,,False,False
+2026-11-21,Chaminade College Prep,True,,Northeast (Kansas City),True,,False,False
+2026-11-21,Logan-Rogersville,True,,Webster Groves,True,,False,False
+2026-11-21,Francis Howell Central,True,,SLUH,True,,False,False
+2026-11-21,Lee's Summit West,True,,Liberty North,True,,False,False

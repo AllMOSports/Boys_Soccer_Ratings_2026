@@ -20252,6 +20252,87 @@
   {
     "date": "2026-11-20",
     "team1": "Pembroke Hill",
+    "score1": 6,
+    "team2": "Whitfield",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
+    "team1": "Fair Grove",
+    "score1": 0,
+    "team2": "Father Tolton",
+    "score2": 8,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
+    "team1": "St. Pius X (Kansas City)",
+    "score1": 0,
+    "team2": "Notre Dame (Cape Girardeau)",
+    "score2": 4,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
+    "team1": "Helias Catholic",
+    "score1": 0,
+    "team2": "John Burroughs",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
+    "team1": "Northeast (Kansas City)",
+    "score1": 4,
+    "team2": "Webster Groves",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
+    "team1": "Logan-Rogersville",
+    "score1": 0,
+    "team2": "Chaminade College Prep",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
+    "team1": "Liberty North",
+    "score1": 1,
+    "team2": "SLUH",
+    "score2": 4,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
+    "team1": "Lee's Summit West",
+    "score1": 3,
+    "team2": "Francis Howell Central",
+    "score2": 5,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-21",
+    "team1": "Father Tolton",
+    "score1": null,
+    "team2": "Pembroke Hill",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-21",
+    "team1": "Fair Grove",
     "score1": null,
     "team2": "Whitfield",
     "score2": null,
@@ -20259,17 +20340,8 @@
     "overtime": false
   },
   {
-    "date": "2026-11-20",
-    "team1": "Fair Grove",
-    "score1": null,
-    "team2": "Father Tolton",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-20",
-    "team1": "St. Pius X (Kansas City)",
+    "date": "2026-11-21",
+    "team1": "John Burroughs",
     "score1": null,
     "team2": "Notre Dame (Cape Girardeau)",
     "score2": null,
@@ -20277,17 +20349,26 @@
     "overtime": false
   },
   {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "team1": "Helias Catholic",
     "score1": null,
-    "team2": "John Burroughs",
+    "team2": "St. Pius X (Kansas City)",
     "score2": null,
     "forfeit": false,
     "overtime": false
   },
   {
-    "date": "2026-11-20",
-    "team1": "Northeast (Kansas City)",
+    "date": "2026-11-21",
+    "team1": "Chaminade College Prep",
+    "score1": null,
+    "team2": "Northeast (Kansas City)",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-21",
+    "team1": "Logan-Rogersville",
     "score1": null,
     "team2": "Webster Groves",
     "score2": null,
@@ -20295,17 +20376,8 @@
     "overtime": false
   },
   {
-    "date": "2026-11-20",
-    "team1": "Logan-Rogersville",
-    "score1": null,
-    "team2": "Chaminade College Prep",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-20",
-    "team1": "Liberty North",
+    "date": "2026-11-21",
+    "team1": "Francis Howell Central",
     "score1": null,
     "team2": "SLUH",
     "score2": null,
@@ -20313,10 +20385,10 @@
     "overtime": false
   },
   {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "team1": "Lee's Summit West",
     "score1": null,
-    "team2": "Francis Howell Central",
+    "team2": "Liberty North",
     "score2": null,
     "forfeit": false,
     "overtime": false

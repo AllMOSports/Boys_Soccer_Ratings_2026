@@ -2249,11 +2249,19 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-11-14,Liberty North,2,Rockhurst,0,False,False
 2026-11-14,Ft. Zumwalt West,1,Francis Howell Central,3,False,False
 2026-11-14,Lee's Summit West,3,Nixa,2,False,False
-2026-11-20,Pembroke Hill,,Whitfield,,False,False
-2026-11-20,Fair Grove,,Father Tolton,,False,False
-2026-11-20,St. Pius X (Kansas City),,Notre Dame (Cape Girardeau),,False,False
-2026-11-20,Helias Catholic,,John Burroughs,,False,False
-2026-11-20,Northeast (Kansas City),,Webster Groves,,False,False
-2026-11-20,Logan-Rogersville,,Chaminade College Prep,,False,False
-2026-11-20,Liberty North,,SLUH,,False,False
-2026-11-20,Lee's Summit West,,Francis Howell Central,,False,False
+2026-11-20,Pembroke Hill,6,Whitfield,0,False,False
+2026-11-20,Fair Grove,0,Father Tolton,8,False,False
+2026-11-20,St. Pius X (Kansas City),0,Notre Dame (Cape Girardeau),4,False,False
+2026-11-20,Helias Catholic,0,John Burroughs,3,False,False
+2026-11-20,Northeast (Kansas City),4,Webster Groves,3,False,False
+2026-11-20,Logan-Rogersville,0,Chaminade College Prep,1,False,False
+2026-11-20,Liberty North,1,SLUH,4,False,False
+2026-11-20,Lee's Summit West,3,Francis Howell Central,5,False,False
+2026-11-21,Father Tolton,,Pembroke Hill,,False,False
+2026-11-21,Fair Grove,,Whitfield,,False,False
+2026-11-21,John Burroughs,,Notre Dame (Cape Girardeau),,False,False
+2026-11-21,Helias Catholic,,St. Pius X (Kansas City),,False,False
+2026-11-21,Chaminade College Prep,,Northeast (Kansas City),,False,False
+2026-11-21,Logan-Rogersville,,Webster Groves,,False,False
+2026-11-21,Francis Howell Central,,SLUH,,False,False
+2026-11-21,Lee's Summit West,,Liberty North,,False,False
